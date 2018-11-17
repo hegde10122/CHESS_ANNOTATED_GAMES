@@ -7,7 +7,7 @@
 [Result "1-0"]
 [WhiteElo "2785"]
 [BlackElo "2690"]
-[ECO "B31"]
+[ECO "D59"]
 [EventDate ""]
 [WhiteTitle "GM"]
 [BlackTitle "GM"]
@@ -18,6 +18,44 @@
 [WhiteFideId ""]
 [BlackFideId ""]
 
-1.c4 e6 2.Nf3 d5 3.d4 Nf6 4.Nc3 Be7 5.Bg5 0-0 6.e3 h6 7.Bh4 b6 8.cxd5 Nxd5 9.Bxe7 Qxe7 10.Nxd5 exd5 11.Rc1 Be6 12.Qa4 c5 13.Qa3 Rc8 14.Bb5 a6 15.dxc5 bxc5 16.0-0 Ra7 17.Be2 Nd7 18.Nd4 Qf8 19.Nxe6 fxe6 20.e4 (diagram) d4 21.f4 Qe7 22.e5 Rb8 23.Bc4 Kh8 24.Qh3 Nf8 25.b3 a5 26.f5 exf5 27.Rxf5 Nh7 28.Rcf1 Qd8 29.Qg3 Re7 30.h4 Rbb7 31.e6 Rbc7 32.Qe5 Qe8 33.a4 Qd8 34.R1f2 Qe8 35.R2f3 Qd8 36.Bd3 Qe8 37.Qe4 Nf6 38.Rxf6 gxf6 39.Rxf6 Kg8 40.Bc4 Kh8 41.Qf4
+1.c4 
+{The English opening. Fischer loved to open with 1.e4 and this opening move surprised chess enthusiasts.
+This opening is a flank opening in which White takes control of the central d5 square. Many times this opening transposes to one of the mainstream 
+Queen pawn openings that begin with 1.d4. In order to exert more pressure on the d5 square White can adopt a strategy of playing 
+moves like, Nc3,g3,Bg2 which control the d5 square.}
+
+1...e6{This move controls the d5 square and Black will bring out the pawn on d7 to d5 later.If Black can play ...d5 then he can control the important e4 square in White's camp
+1...e5 is another great option which allows Black to develop his pieces to active squares.} 
+
+2.Nf3  {White develops a piece and controls the d4-square and the e5-square.White has not committed his central pawns and waits for Black to make a move}
+
+2...d5 {Black follows up with his idea of occupying the d5 square. The reader needs to observe that Black has made two pawn moves and both of them occupy the light squares. 
+This denies the Bishop on c8 the healthy looking f5 or g4 squares. The activation of the c8-Bishop is a problem that Black has to deal with. This move has lead us to the 
+Agincourt variation of the English opening}
+
+3.d4  {White develops the central Queen pawn to control the e5 and c5 squares.The Bishop on c1 is also activated. }
+
+3...Nf6 {Black develops a piece and wants to castle early.There is something that I have not mentioned so far. Looking at the board again, we can see that the pawn on c4 is hanging and Black has not 
+accepted it. This is known as a gambit and Black has declined to accept the sacrificial pawn gambit. To be more precise, this is called the Queen's gambit which usually arises with moves 1.d4 d5 2.c4 
+Here Black has many choices on move 2. One option is to play 2...c6 which is called Slav defense. 2...e6 is called the Queen's Gambit declined or QGD
+2...dxc4 is called Queen's gambit accepted or QGA. 
+This gambit actually does not lead to a loss of pawn if Black decides to play ...dxc4 because White can then play Qa4+ followed by Qxc4
+In the game,Black refused to play ...dxc4 because then White can reply with e4! and have a nice central pawn duo. Again after playing e4, White would have the option of playing Bxc4 on the 
+next move developing a piece.}
+
+4.Nc3 {White develops  a piece and exerts more control over the central e4 and d5 squares.The d5 Black pawn is now attacked twice
+Here White and Black have both demonstrated the classical chess principles of opening play - centre control and development of pieces
+The opening has now transposed into the Queen's Gambit declined.In the QGD, Black aims to have control over the d5 square}
+
+4...Be7 {Black wants to castle and protect his King behind a wall of pawns.4...Bd6 is not a good move in this position because 5.c5 will kick the Bishop back. More importantly,
+White has the option of playing 5.Bg5 which will pin the Knight on f6, a key defender of the pawn on d5.By placing the dark-squared Bishop on e7, Black has already thrown out the option of the annoying pin of the Knight on f6 }
+
+5.Bg5 {White develops the Bishop and exerts pressure on the Knight.White's main idea is to exert more pressure on the d5 pawn.The pawn on d5 is currently defended by three pieces and is not in danger of being captured soon.}
+
+5...0-0 {A primary prescription of chess opening theory is castling that safeguards the King.Black has completed the development of his Kingside pieces and the Rook is now on f8.Black's next worry is to 
+complete the development of his Queenside pieces and control the centre.}
+ 
+
+6.e3 h6 7.Bh4 b6 8.cxd5 Nxd5 9.Bxe7 Qxe7 10.Nxd5 exd5 11.Rc1 Be6 12.Qa4 c5 13.Qa3 Rc8 14.Bb5 a6 15.dxc5 bxc5 16.0-0 Ra7 17.Be2 Nd7 18.Nd4 Qf8 19.Nxe6 fxe6 20.e4 (diagram) d4 21.f4 Qe7 22.e5 Rb8 23.Bc4 Kh8 24.Qh3 Nf8 25.b3 a5 26.f5 exf5 27.Rxf5 Nh7 28.Rcf1 Qd8 29.Qg3 Re7 30.h4 Rbb7 31.e6 Rbc7 32.Qe5 Qe8 33.a4 Qd8 34.R1f2 Qe8 35.R2f3 Qd8 36.Bd3 Qe8 37.Qe4 Nf6 38.Rxf6 gxf6 39.Rxf6 Kg8 40.Bc4 Kh8 41.Qf4
 
 
