@@ -822,8 +822,8 @@ who are close to uniting with each other.}
 52...Rh7 {Black Rook keeps its flexible and waits}
 53.Ne2 {Improving the position of the Knight} 
 53...Rh1 {The Rook stays put on the h-file waiting for White to play}
-54.Nec1* {The Knight blocka access to the a1 square}
-
+54.Nec1 {The Knight blocka access to the a1 square}
+54...Rh6* {Controlling the sixth rank and protecting the pawn on a6 indirectly}
 
 [Event "Russia25/pr29 (RUS)"] 
 [Site "ICCF"] 
