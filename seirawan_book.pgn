@@ -122,4 +122,128 @@ bxc5
 
 16.0-0 Ra7 17.Be2 Nd7 18.Nd4 Qf8 19.Nxe6 fxe6 20.e4 (diagram) d4 21.f4 Qe7 22.e5 Rb8 23.Bc4 Kh8 24.Qh3 Nf8 25.b3 a5 26.f5 exf5 27.Rxf5 Nh7 28.Rcf1 Qd8 29.Qg3 Re7 30.h4 Rbb7 31.e6 Rbc7 32.Qe5 Qe8 33.a4 Qd8 34.R1f2 Qe8 35.R2f3 Qd8 36.Bd3 Qe8 37.Qe4 Nf6 38.Rxf6 gxf6 39.Rxf6 Kg8 40.Bc4 Kh8 41.Qf4 {1-0}
 
+[Event "Karpov - Kasparov World Championship Match"]
+[Site "Moscow URS"]
+[Date "1985.10.15"]
+[EventDate "?"]
+[Round "16"]
+[Result "0-1"]
+[White "Anatoly Karpov"]
+[Black "Garry Kasparov"]
+[ECO "B44"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5 d6 6.c4 Nf6 7.N1c3
+a6 8.Na3 d5 9.cxd5 exd5 10.exd5 Nb4 11.Be2 Bc5 12.O-O O-O
+13.Bf3 Bf5 14.Bg5 Re8 15.Qd2 b5 16.Rad1 Nd3 17.Nab1 h6 18.Bh4
+b4 19.Na4 Bd6 20.Bg3 Rc8 21.b3 g5 22.Bxd6 Qxd6 23.g3 Nd7
+24.Bg2 Qf6 25.a3 a5 26.axb4 axb4 27.Qa2 Bg6 28.d6 g4 29.Qd2
+Kg7 30.f3 Qxd6 31.fxg4 Qd4+ 32.Kh1 Nf6 33.Rf4 Ne4 34.Qxd3 Nf2+
+35.Rxf2 Bxd3 36.Rfd2 Qe3 37.Rxd3 Rc1 38.Nb2 Qf2 39.Nd2 Rxd1+
+40.Nxd1 Re1+ 0-1
+
+[Event "?"]
+[Site "Russia"]
+[Date "?"]
+[EventDate "?"]
+[Round "?"]
+[Result "*"]
+[White "Alexander Khalifman (GM)"]
+[Black "Evgeny Sveshnikov (GM)"]
+[ECO "D30"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+1. d4 {The Queen's pawn opening which is one of the two most common opening moves in chess along with 1.e4}
+1...d5 {Black replies in a symmetrical manner.1...Nf6 is also equally popular and leads to the Indian defence.}
+2.c4 {The characteristic move of the Queen's Gambit. White intends to exchange the flank c-pawn for Black's central 
+pawn on d5. If this is achieved then White will have two central pawns to Black's one which allows him to exert more 
+control over the centre. This is one of the objectives of opening play.}
+2...e6{Black declines the gambit pawn and this move characterizes the Queen's Gambit Declined or QGD as it is known.
+Black playing 2...cxd4 is also  popular and is known as Queen's Gambit Accepted or QGA. If White were to capture the 
+pawn by playing 3.cxd5 then Black can play 3...exd5 and replenish the centre with another pawn on d5. Also 2...c6 is played 
+regularly leading to the Slav defence.}
+3.Nf3 {A developing move that exerts control over the d4 and e5 squares.}
+3...c6 {This pawn structure is found in the Semi-Slav defence.
+This pawn structure is a mixture of the Queen's Gambit and the Slav.
+Perhaps the name Semi-Slav is derived from this mixture. This is a solid system for Black because he has fortified the 
+central d5 square with both the pawns on e6 and c6. He can develop his pieces by playing ...Nf6,...Nbd7,...Bd6,...O-O.
+The only problematic piece is the light-squared bishop on c8 that can be developed by playing ...b6 later or even ...b5 after 
+eventually capturing ...dxc4}
+4.g3 {4.Nc3 leads to the main lines of the Semi-Slav. Here White is intending to develop the light-squared bishop on f1 to g2
+and patrol the h1-a8 diagonal. In the Semi-Slav Black intends to play ...dxc4 in the near future and hence the Bishop 
+on g2 will be in a position to exploit the weakening of the light squares.Since White is half-committed to play Bg2 soon, Black 
+now has the opportunity to play 4...dxc4 5.Bg2 b5 and protect the extra pawn.}
+4...Nf6{Black develops a piece instead.}
+5.Bg2 {The c4 pawn could have been protected by 5.Nbd2 or 5.Qc2 but White is determined to gambit the pawn on c4}
+5...dxc4{Black now takes up the sacrifice.}
+6.O-O {White completes the development of his king-side as he now has to play actively to justify the loss of a pawn.}
+6...b5 {Black had to play this immediately as 6...Nbd7 would be followed by 7.a4 where White will make it harder for 
+Black to keep his extra pawn.If Black cannot keep the extra pawn then the opening moves ...c6 and ...e6 are not justified 
+because the whole point of playing those moves was to strengthen the d5 square. Giving up the d5 square without the 
+compensation of the extra pawn seems inconsistent and would allow White to take a firm grip on the centre.}
+7.a4 {White attacks the pawn formation and threatens axb5 to weaken the h1-a8 diagonal.The bishop on g2 will be alive and kicking 
+in that case.}
+7...Bxb7 {Black develops the dormant Bishop and also counters the aforementioned threat by reinforcing the vigil on the 
+h1-a8 diagonal. To reassess the position now, we can see that White has both the central pawns and also a lead in development.
+Black has an extra pawn to hide his lag in development.The position is fairly equal and White needs to work harder to 
+justify his choice of plan.Black's king-side is still under-developed and he needs two moves more to castle on the 
+king-side and develop his pieces.Since the Black king is still stuck in the centre White needs to open up lines that will 
+keep Black occupied and deny his King any semblance of safety on e8.}
+8.Ne5{White takes the above ideas into consideration and decides to keep Black pre-occupied with other headaches.
+This move attacks the weak pawn on c6 and White is threatening to play 9.axb5 to pile up pressure on the c6 pawn as the 
+Bishop on g2 will be a force to reckon with.If Black plays 8...Nd5 to shield the c6 pawn then 9.e4! will kick the knight allowing 
+White to have a firm grip on the centre.}
+8...Qb6{Black defends the bishop on b7 as 9.axb5 cxb5 will deny White's bishop on g2 from having free lunch on b7.
+Another possible move for Black would have been 8...a6 to add more support to the b5 pawn.Then 9.axb5 axb5 10.Rxa8 Bxa8 11.Nc3 
+will allow White to attack the b5 pawn and not allow Black to develop his pieces easily on the king-side.}
+9.b3!? {White attacks the pawn on c4 and threatens to win the extra pawn after 10.bxc4 bxc4 11.Nxc4. It is instructive to 
+note that GM Khalifman is keeping Black occupied with threats and does not allow more important things like the development of the 
+pieces.}
+9...cxb3 {This is forced or else White regains the extra pawn with more activity.}
+10.Qxb3 {White not only exchanges the pawn but also exerts more pressure on the b5 pawn.
+Now 11.Na3 will allow White to attack the b5 pawn further.White is relentless in his execution.}
+10...Nbd7? *{Black makes an error and is looking to swap the knight on e5. It would have been wiser to prepare for 
+short castling by playing 10...Be7 11.Na3 O-O 12. Nac4 Qxd4 13.Bb2 with a great initiative for White.10...Qxd4 }
+
+[Event "EUCup Gr3"]
+[Site "Slough ENG"]
+[Date "1997.09.23"]
+[EventDate "1997.09.22"]
+[Round "2"]
+[Result "1-0"]
+[White "Alexander Chernin"]
+[Black "John van der Wiel"]
+[ECO "A04"]
+[WhiteElo "2640"]
+[BlackElo "2525"]
+[PlyCount "49"]
+
+1. Nf3 {The Reti Opening.A flexible move that does not commit the pawn structure to adopt. White can play 
+2.d4 or 2.e4 or even 2.c4 depending up Black's response} 1...d6 {White's first move prevented Black from playing 1...e5
+So Black prepares to play ...e5 later by this pawn move.}
+2. g3 {White decides to fianchetto his light-squared bishop to g2 and control the h1-a8 diagonal.The downside of this move is that 
+if White were to play O-O later and the bishop on g2 were to get exchanged then the light squares f3,g2 and h3 in front of the 
+king would become weak.}
+2...e5 {Black plays according to the plan on move 1 and controls the dark square in the centre d4}
+3. Bg2 {White's bishop will exert pressure on the light squares e4 and d5 in the centre and White is using pieces to stake equal claim in the centre}
+3...f5 {Another pawn move by Black, this time controlling the e4 square.Black is trying to combat the light square control by White}
+4. c4 {White is now controlling the d5 square.White has not only developed his kingside pieces but also staking claim on the central light squares}
+4...Nf6 {Black no only develops a piece but also counters White's aim to control the d5 square}
+5. b4 !? {An interesting move that declares White's intention to expand on the queenside.This move also allows White to 
+fianchetto the dark-squared bishop to b2. This saves White future tempi of playing a3 or c3 to play b4.Another good response would have been 5.Nc3}  
+5...e4 ?! {Black expands further in the centre and nullifies White's influence on the h1-a8 diagonal.
+This move was not necessary as Black played the first two moves to occupy e5 and now has given up that achievement to give White's knight 
+a kick}
+6. Nd4 {White keeps his knight on the central square}
+6...d5 {Black now solidifies his hold on the light square e4 but has made too many pawn moves}
+7. cxd5 {White is ahead in development and now exchanges the flank c-pawn for the central pawn on d5}
+7...Nxd5 {Black captured with the intention of attacking the b4 pawn twice. Also possible was 7...Qxd5
+}
+8. b5 Nf4 9. gxf4 Qxd4 10. Nc3 Bc5 11. e3 Qc4
+12. Bb2 O-O 13. Rg1 Rf7 14. Rc1 Qb4 15. Qc2 Bd6 16. Nd5 Qxb5
+17. Nf6+ Kh8 18. Bf1 Qxb2 19. Qxb2 Rxf6 20. Qxf6 gxf6 21. Bc4
+Be6 22. Bxe6 Na6 23. Ke2 Nc5 24. Bxf5 Rd8 25. Rg3 1-0
 
