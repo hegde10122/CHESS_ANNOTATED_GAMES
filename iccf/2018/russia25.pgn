@@ -823,7 +823,8 @@ who are close to uniting with each other.}
 53.Ne2 {Improving the position of the Knight} 
 53...Rh1 {The Rook stays put on the h-file waiting for White to play}
 54.Nec1 {The Knight blocka access to the a1 square}
-54...Rh6* {Controlling the sixth rank and protecting the pawn on a6 indirectly}
+54...Rh6 {Controlling the sixth rank and protecting the pawn on a6 indirectly}
+55.Kb6* {The King will try to gobble the Black pawn on a6 and help the b4 pawn to the b8 square}
 
 [Event "Russia25/pr29 (RUS)"] 
 [Site "ICCF"] 
