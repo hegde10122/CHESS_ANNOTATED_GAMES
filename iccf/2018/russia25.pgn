@@ -566,7 +566,8 @@ It is better for Black to play with more freedom at the cost of a pawn}
 78.Kd4 {The e3 square is vacated and the King is ready for action}
 78...Nd7 {Controlling the crucial e5 square.Any other Knight move will allow White a firm grip on the e5 square and allow White to strangle Black}
 79.hxg5+ Kxg5 {A pair of pawns go off the board}
-80.Kd5* {The King will try to sabotage the Black fawns via e6-f7 route}
+80.Kd5 {The King will try to sabotage the Black fawns via e6-f7 route}
+80...Nf8* {The only good move that halts Ke6. 80...Kf6? allows 81.Nf4 and the h5 pawn comes under pressure}
 
 [Event "Russia25/pr29 (RUS)"] 
 [Site "ICCF"] 
