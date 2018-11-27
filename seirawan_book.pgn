@@ -11,10 +11,10 @@
 [EventDate ""]
 [WhiteTitle "GM"]
 [BlackTitle "GM"]
-[Opening ""]
-[Variation ""]
-[WhiteTeam ""]
-[BlackTeam ""]
+[Opening "Queen's Gambit Declined (QGD)"]
+[Variation "Tartakower system"]
+[WhiteTeam "USA"]
+[BlackTeam "USSR"]
 [WhiteFideId ""]
 [BlackFideId ""]
 
@@ -55,7 +55,71 @@ White has the option of playing 5.Bg5 which will pin the Knight on f6, a key def
 5...0-0 {A primary prescription of chess opening theory is castling that safeguards the King.Black has completed the development of his Kingside pieces and the Rook is now on f8.Black's next worry is to 
 complete the development of his Queenside pieces and control the centre.}
  
+6.e3  {White fortifies the pawn on d4 and opens up the f1-c4 diagonal for the light-squared Bishop on f1.White has to continue developing his army.It is important to note here that 
+White developed the c1 Bishop first and then played e3 which does not lock in the Bishop on c1}
 
-6.e3 h6 7.Bh4 b6 8.cxd5 Nxd5 9.Bxe7 Qxe7 10.Nxd5 exd5 11.Rc1 Be6 12.Qa4 c5 13.Qa3 Rc8 14.Bb5 a6 15.dxc5 bxc5 16.0-0 Ra7 17.Be2 Nd7 18.Nd4 Qf8 19.Nxe6 fxe6 20.e4 (diagram) d4 21.f4 Qe7 22.e5 Rb8 23.Bc4 Kh8 24.Qh3 Nf8 25.b3 a5 26.f5 exf5 27.Rxf5 Nh7 28.Rcf1 Qd8 29.Qg3 Re7 30.h4 Rbb7 31.e6 Rbc7 32.Qe5 Qe8 33.a4 Qd8 34.R1f2 Qe8 35.R2f3 Qd8 36.Bd3 Qe8 37.Qe4 Nf6 38.Rxf6 gxf6 39.Rxf6 Kg8 40.Bc4 Kh8 41.Qf4
+6...h6 {This move is called putting the question to the Bishop.Black wants White to take an immediate decision 
+vis-à-vis the Bishop on g5. }
+
+7.Bh4 {Masters love the Bishop pair and Fischer is no different. The Bishop goes back and the pressure on the f6-Knight is maintained.}
+
+7...b6 {An important committment from Black. He decides to fianchetto the Bishop on c8 to b7 and increase the pressure on the a8-h1 diagonal
+This move transposes the game into the Tartakower system of the QGD. This system is also called the Makagonov-Bondarevsky system of the QGD} 
+
+8.cxd5 {White releases the tension in the centre and opens up the c-file}
+
+8...Nxd5  {8...exd5 is also possible.But then after ...Bb7 the Bishop on b7 will be hemmed in by its own pawn on d5.Now after ...Bb7 the Bishop 
+will be much more active and control both the d5 and the e4 squares.Black is also following another important strategy - Trade pieces whe you are cramped for space
+This Knight recapture allows Black to threaten the capture ...Bxh4 on the next move and eliminate White's active Bishop.
+It is important to note another subtle point. The Black Knight is now much more active on the fifth rank wherein it controls four squares b4,c3,e3 and f4}
+
+9.Bxe7 {White could have played Bg3 but from here the Bishop would not serve anything great except to eye the c7 pawn}
+
+9...Qxe7 {9...Nxe7 would have been incorrect because then the Knight would have lost its bite on e7.This capture allows the Queen to control the b4,a3 and the h4 squares in White's 
+territory} 
+
+10.Nxd5 {White captures Black's active piece and vacates the c-file to be occupied by the Rook}
+
+10...exd5 {Forced recapture and White has simplified well}
+
+11.Rc1 {White follows up with the strategy of occupying the semi-open c-file with the Rook.After the change in pawn structure on move 8 we can observe the following - 
+
+(1) Black has a 3-2 pawn majority on the Queenside while White has a 4-3 pawn majority on the Kingside. 
+(2) White's Rook is now eyeing the backward c7 pawn while the Black Queen is eyeing the White pawn on e3. 
+(3) The e3 pawn is under no imminent danger as the f2 pawn acts as an excellent defender while the c7 pawn is backward because 
+its adjacent friend pawns are on b6 and d5. In order to remove this weakness Black will be looking to push ...c5.Another important strategy goes like this - Whenever you have a Queenside majority try and push the pawns to gain a space advantage.Likewise, if you have Kingside pawn majority try and 
+push the pawns on that flank to gain space and squeeze your oppponent. Since White's King is still stuck in the centre, the pawn push on the Kingside would be dangerous while Black can take advantage of the fact that his King is safe on the g8 square and start pushing his Queenside pawns}
+
+11...Be6 {Wait a second. Weren't we expecting ...Bb7 now after Black had moved ...b6 on move move 7? This move makes perfect sense as the Bishop is now guarding the pawn on d5.Also the g4 and f5 squares are under vigil
+Also Black realises that the d5 pawn will need adequate support in allowing him to carry out the strategy of pushing ...c5 followed by ...c4 and  gain space on the Queenside as 
+11...c5? 12.dxc5 bxc5 13.Qxd5 will win a pawn for White. Hence the preparatory ...Be6 to support the pawn on d5 before Black starts his ...c5 idea.
+It is important for the reader to note that ideas are flexible and plans are changed to suit the position. Here Spassky has just taught us another subtle insight in chess opening}
+
+12.Qa4 {It is difficult to spot White's idea here. White perhaps wants to push b4 and counter Black's ...c5 pawn push}
+
+12...c5 {Black does not allow White to build any further pressure and wants to remove the weakness from his position.12...a5 in order to prevent 13.b4 was also perfectly playable.Not only has Black struck in the centre but also tamed the White's Rook influence on c1 as it has no longer any influence on the c6 and the c7 squares}
+
+13.Qa3 {Now it is clear that White played Qa4 earlier to execute this move. The pawn on c5 is attacked and more importantly it is pinned against the Queen on e7.White is aiming to tame Black's Queenside majority and nullify his advantage there}
+
+13...Rc8 {Adding further protection to the pawn on c5 as it was attacked thrice. 13...Nd7?! looks unsound because 14.Bb5 will allow White to increase the pressure on the key defender of the c5 pawn.
+14...Rfc8 15.O-O will force Black to play 15...Nf6. White can then double the Rooks on the c-file. 
+The isolated pawn on a7 will also need constant protection and Black's defence will become difficult as the pawn on c5 will become a target. 
+Perhaps an engine will be able to defend such positions but Spassky is no engine and he was playing to retain his world title.}
+
+14.Bb5 {White plays a prophylactic move to prevent Black from playing ...Nd7. 14.Be2 was also alright followed by O-O. 
+White realises that the Bishop on b5 can be traded for the Knight if Black were to play ...Nd7. If Black succeeds in pushing ...c4 then the White's Bishop on f1 will 
+become a limited piece.Hence White's brings the Bishop on an active square}
+
+14...a6 {Black attacks the Bishop but cannot play ...axb5 as the Rook on a8 is without support.
+In my opinion, Black has made a weak move. 
+But having said that, the a7 square is vacated and Black can play ...Ra7 that also protects the Queen on e7.
+In that case, Black's threat of capturing the Bishop by playing ...axb5 will become real and with ...c4 to follow soon Black would have solved all of his problems. 
+A slightly better option, in my humble view, was to play 14...Kf8 that would give protection to the Queen without altering the pawn structure. 
+The pawn on a6 is now on a light square and can become the White Bishop's target}
+
+15.dxc5 {White does not allow the ...c4 idea}
+bxc5 
+
+16.0-0 Ra7 17.Be2 Nd7 18.Nd4 Qf8 19.Nxe6 fxe6 20.e4 (diagram) d4 21.f4 Qe7 22.e5 Rb8 23.Bc4 Kh8 24.Qh3 Nf8 25.b3 a5 26.f5 exf5 27.Rxf5 Nh7 28.Rcf1 Qd8 29.Qg3 Re7 30.h4 Rbb7 31.e6 Rbc7 32.Qe5 Qe8 33.a4 Qd8 34.R1f2 Qe8 35.R2f3 Qd8 36.Bd3 Qe8 37.Qe4 Nf6 38.Rxf6 gxf6 39.Rxf6 Kg8 40.Bc4 Kh8 41.Qf4 {1-0}
 
 

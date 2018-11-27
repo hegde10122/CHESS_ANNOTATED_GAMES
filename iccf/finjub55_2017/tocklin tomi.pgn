@@ -1,0 +1,82 @@
+[Event "FINJUB55"]
+[Site "ICCF"]
+[Date "2017.11.01"]
+[Round "Preliminaries group 23"]
+[White "CCE Tocklin, Tomi"]
+[Black "Hegde,Ganesh"]
+[Result "*"]
+[ECO "B12"]
+[WhiteElo "2292"]
+[BlackElo "1800P"]
+	
+1.e4 {The most popular opening move - the king's pawn opening}
+1...c6 {The beginning of the Caro-Kann defence. It is a solid semi-open game like the 
+French defence or the Sicilian defence that is considered to have better end games 
+for Black due to the pawn structure}
+2.d4 d5 {
+White immediately seizes the opportunity to occupy the centre with both the central 
+pawns and Black challenges White's centre-control with his own pawn push to d5.
+}
+3.e5 {The Advance variation where White expands in the centre and gains space}
+3...c5!? {An important opening novelty that goes against the most popular move 3...Bf5
+In the Caro-kann, Black brings out his light-squared bishop early and looks to dominate the 
+light squares. But in the variation played in the game 
+which is also called Botvinnik–Carls Defense,
+Black is trying to attack the base of the White's pawn chain. Here Black has already 
+moved his c-pawn twice and is a tempo down when we compare these moves with the 
+Advanced variation of the French defence.}
+4.dxc5 {The best move for White according to modern-day analysis.White not only captures the 
+pawn but will also try hard to disallow Black from getting back the extra pawn.
+The downside of this move is that White has broken his own pawn chain and the 
+pawn on e5 has become weak. Black will now try to exploit these pawn weaknesses to 
+attain equality.}
+4...Nc6 {A developing move that adds pressure on the e5 pawn.}
+5.Nf3 {White too develops and adds support to the e5 pawn.}
+5...Bg4 {This moves pins the White knight and threatens the pawn again on e5.}
+6.Bb5 {White is aiming to inflicit structural damage to the Black's pawn structure and 
+also neutralises the pressure on the e5 pawn.}
+6...Qa5+ {Black threatens to capture the light-sqaured bishop with this important check.
+The battle for the centre-control has gathered steam.}
+7.Nc3 {Forced. Development that blocks the check and supports the light-squared bishop.}
+7...e6 {A logical move that threatens the development of the dark-squared bishop by 8...Bxc5}
+8.Be3 {White not only develops a piece but also makes it harder for Black to 
+complete his king-side development.Black's knight on g8 also cannot develop to the 
+most natural square on f6 on account of the White pawn wedge on e5}
+8...Nge7 {An  important developing move that disallows White from inflicting damage to the 
+pawn structure after 9.Bxc6.This knight can also jump to g6 and add more pressure on the 
+e5 pawn.}
+9.a3 {White is now building up a chain of moves that are aiming for a pawn expansion on the 
+queen-side.} 
+9...O-O-O {Black neglects White's move 10.b4 and instead aims to complete his development.
+The position is equal and White's extra pawn on c5 is still not useful to give him
+any decent advantage.}
+10.b4 {White not only adds more protection to the c5 pawn but also aims for a 
+queen-side expansion. White also aims to pen lines against an attack on the Black king-side
+although this is easier said than done. Black has a solid position and his development
+has been pretty good so far.}
+10...Bxf3 {Black captures the knight and removes the defender of the e5 pawn.}
+11.gxf3 {Only move. Not 11.Qxf3? 11...Nxb4! 12.O-O Nxc2 13. Rc1 Qxc3 14. Ba4 and Black has the advantage}
+11...Qc7 {Black protects the Queen and also eyes the white pawn on e5}
+12.Bxc6 {White exchanges the light-squared bishop as it has little scope on the light squares that are in Black's firm grip. }
+12...Nxc6{Black brings the other knight to keep up the pressure on the e5 pawn}
+13.Bf4 {White supports the e5 pawn}
+13...a6{This pawn push guards the b5 square and ends White's hopes of getting the knight on b5 followed by Nd6
+where Black's defence will become difficult.}
+14.Bg3 {Here White vacates the f4 square for an f2-f4 push}
+14...g5 {Black prevents f4 and vacates the g7 square for the dark-squared bishop on f8}
+15.h4 {White immediately challenges the black pawn and asks a question}
+15...Bg7 {Black carries out his plan of adding another attacker to the White pawn on e5}
+16.hxg5 {White grabs the pawn on g5 and maintains a slight edge}
+16...Bxe5 {Black at last succeeds in his plan of grabbing the e5 pawn. This was the positional struggle which Black had 
+carried out since White had played 4.dxc5.
+At this point it is important to note that although White has an extra pawn, his 
+pawn structure is not too great and the position is fairly equal. }
+17.Ne2 {White adds more support to the dark-squared bishop by re-directing his knight.This knight has very little to do on the 
+c3.Here Black cannot capture 17...Bxa1?? 18.Bxc7 wins the game for White}
+17...f6 {Black's intention is to keep exchanging White's advanced pawn.This position is too drawish now as both sides have 
+played with too much caution.}
+18.gxf6 {}
+18...h5
+19.Rb1 h4 20.Bxe5 Qxe5 {Exchange of the bishops}
+21.f4 Qxf6 {Black regains one of the pawns back}
+22.a4 e5 *{The game is extremely drawish in nature}

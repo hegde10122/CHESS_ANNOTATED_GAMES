@@ -1,0 +1,77 @@
+[Event "WS/O/1007"]
+[Site "ICCF"]
+[Date "2017.08.12"]
+[Round "-"]
+[White "Hegde, Ganesh"]
+[Black "Koutsomichalis, Marinos"]
+[Result "*"]
+
+1.e4 c5 
+{White's king-pawn opening is challenged by the hyper-modern and dynamic Sicilian defence. Here Black is 
+controlling the centre with the flank pawn on c5.}
+
+2.Nc3 {
+}
+2...e6 {}
+ 3.f4 a6 4.Nf3 d5 5.g3 Nc6 
+6.d3 Nf6 7.e5 Nd7 8.Bg2 b5 9.O-O Be7 10.a3 Bb7 
+11.Ne2 a5 12.Qe1 O-O 13.g4 a4 14.Qg3 Qb6 15.h4 b4 
+16.Be3 d4 17.Bf2 f6 18.exf6 Nxf6 19.Ng5 Bd6 20.Nxe6 Rfe8 
+21.Nxg7 Kxg7 22.g5 Nd7 23.Qg4 Qc7 24.h5 Kh8 25.g6 Rg8 
+26.Bh4 Raf8 27.Bg5 Ne7 28.Bxb7 Qxb7 29.Ng3 Nxg6 30.hxg6 Rxg6 
+31.Ne4 bxa3 32.bxa3 Be7 33.Rae1 Nb6 34.Rf3 Nd5 35.Kh2 Qb8 36.Kh1 Nxf4*
+
+[Event "WS/O/1007"]
+[Site "ICCF"]
+[Date "2017.08.12"]
+[Round "-"]
+[White "Hegde, Ganesh"]
+[Black "Richard C. Moran"]
+[Result "1-0"]
+[ECO "C02"]
+
+1.e4 e6 {White opens with the King pawn opening while Black answers with the French defence.
+} 
+2.d4 {White grabs his opportunity to occupy the centre with both the central pawns}2...d5{Black counters White's motif
+with a central pawn thrust of his own. Here Black's intention is to play on the light squares} 
+3.e5 c5 {White thrusts his e-pawn further leading to the Advance Variation. Black counters the strategy by attacking the base of the 
+pawn chain d4. Here Black aims to play ...Qb6,...Nc6,...Ng8-h6-f5 which adds more pressure on the d4 pawn
+}
+4.c3 {White supports the central pawn.Here White's dark-squared bishop and Black's light-squared bishop become problem pieces}
+4...Nc6 {Black not only develops a piece but adds more pressure on the d4 pawn}
+5.Nf3 {White neutralises Black's idea and also develops a piece on the most natural square.}
+5...Bd7 {Black's problem piece will aim to go to the b5 square when Black decides on a queenside expansion with ...Qb6.
+This is the Euwe variation}
+6.Be2 {The best move for White that aims to complete kingside development after 7.O-O}
+6...f6!? {Black immediately asks a question for the advanced pawn on e5. This is an aggressive strategy by Black.The white pawn on e5
+is a thorn for Black and hence this move is logical.If 7.exf6 then 7...Nxf6 makes it easier for Black}
+7.O-O {White neglects the Black's thrust and instead completes the kingside development and activates the Rook}
+...7.fxe5 {Black smashes the White's centre}
+8.Nxe5 {This Knight capture is logical as dxe5 will leave the pawn on e5 vulnerable for further attack}
+8...Nxe5 {Black eases the cramp in his position with a nice exchange
+}
+9.dxe5 Qc7 {Black immediately eyes the e5 pawn} 
+10.f4 {This move solves the problem of the support for the e5 pawn temporarily but at the same time loosens the defence of the White king.
+I feel that White should have played 10.Bf4}
+10...Nh6 {Black aims to play ...Nf5 to exert pressure on the d4 square.}
+11.g4?! {This is a move that puts White in a spot of bother in the next few moves. This over-aggression leaves the king vulnerable}
+11...O-O-O {Black grabs his opportunity and will now aim for an attack on the Black king.}
+12.Be3 {This Bishop move is also with an idea of playing Bf2 later to support the White king's defence.Perhaps 12.a4 was better }
+12...Be7 {Black is now eyeing the g5 and h4 squares that are weak}
+13.Nd2 {This developed knight can go to b3 or to f1 and is a flexible move}
+13...Rdg8 {Black smells an opportunity to put pressure on the g-file.}
+14.Nb3 {White keeps up the pressure on the c5 pawn.Opposite side castling means that White needs to go for a queenside 
+initiative before Black tries his expansion on the kingside.}
+14...Nf7 {Black vacates the h-file for a pawn push h5-h4 and also aims to exploit the weak and advanced pawns on the e and f-files}
+15.h4 {White puts more steel on the g square and aims to nullify Black's intentions}
+15...h6 {Black begins his advance}
+16.h5 {White stops the pawn advance}
+16...g6 {Black is aiming to rupture White's pawn structure.Black is aggressive here }
+17.hxg6 Rxg6 {The exchange of pawns and Black is going for the kill}
+18.Rf2 {An important move that puts the rook on the second rank and will counter Black's rooks}
+18...h5 {Black is looking to open up the h-file. The pawn on g4 is pinned}
+19.g5 {White has got an ugly pawn structure here} 
+19...Rgg8?! {A slight inaccuracy that allows White to consolidate} 
+20.Rg2 {White's rook is a handy piece now}
+20...h4 21.Rg4 h3 22.Kh1 b6 23.Nd2 Bc6 24.Kh2 Bxg5 25.fxg5 Nxe5 26.Rg3 Rh4 27.Rc1 Bb5 28.Nf1 Bc6 29.b4 c4 30.a4 Nf7 31.b5 Bb7 32.Qd2 Kb8 33.a5 bxa5 34.Rb1 d4 35.cxd4 c3 36.Qc1 Bd5 37.Ra1 e5 38.dxe5 Nxe5 39.Ra3 Bf3 40.Bxf3 Nxf3+ 41.Kh1 Qb7 42.Rxc3 Ne5+ 43.Kg1
+
