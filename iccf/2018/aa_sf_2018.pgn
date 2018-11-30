@@ -1,64 +1,92 @@
-[Event "AA/C18/SF/A"] 
-[Site "ICCF"] 
-[Date "2018.11.30"] 
-[Round "-"] 
-[White "Hegde, Ganesh"] 
-[Black "Mai, Wolfgang"] 
-[Result "*"] 
-[WhiteElo "2251"] 
-[BlackElo "1899"] 
+[Event "AA/C18/SF/A"]
+[Site "ICCF"]
+[Date "2018.11.30"]
+[Round "-"]
+[White "Hegde, Ganesh"]
+[Black "Mai, Wolfgang"]
+[Result "*"]
+[WhiteElo "2251"]
+[BlackElo "1899"]
 [ECO "*"]
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "India"]
 [BlackTeam "Ghana"]
 
-1.d4 Nf6* {The Queen's pawn opening is answered by the flexible Knight move controlling the e4 square. Here Black does not commit his pawn structure and has a 
-variety of options to choose from}
+1.d4 Nf6 {The Queen's pawn opening is answered by the flexible Knight move controlling the e4 square. Here Black does not commit his pawn structure and has a
+variety of options to choose from. }
 
-[Event "AA/C18/SF/A"] 
-[Site "ICCF"] 
-[Date "2018.11.30"] 
-[Round "-"] 
-[White "Ramos, Francis"] 
-[Black "Hegde, Ganesh"] 
-[Result "*"] 
-[WhiteElo "2143"] 
-[BlackElo "2251"] 
+2.c4 {The best move as White controls the d5 square and gains space. The Knight on b1 can now go to c3 and control the e4 and d5 squares}
+
+2...e6 {The move controls the d5 square and opens up the a3-f8 diagonal for the dark-squared Bishop on f8.Black can also play ...d5 and stake a claim to the central
+e4 and c4 squares}
+
+3.Nc3 {White develops the Queen's Knight to the best square and adds more control over the e4 and d5 squares. White wants to push e4 soon and have a massive centre.}
+
+3...Bb4 {The Nimzo-Indian defence named after its creator Aron Nimzowitsch, a leading Danish-Russian chess master who was a pioneer of the hypermodern chess theory.
+The Knight on c3 is pinned and has no control over the e4 and d5 squares. Here Black develops a piece and is looking to castle on the next move. In most cases, the Bishop
+on b4 will be exchanged for the Knight after ...Bxc3. Black hopes to strike at the centre later owing to his much more active development.}
+
+4.e3* {The Rubinstein variation named after Akiba Rubinstein a well-known Polish Grandmaster. Rubinstein encyclopedic knowledge of chess endgames is legendary.
+Here White neglects the threat of ...Bxc3+ and proceeds to activate the Bishop on f1. White wants to
+develop soon and later on carry on a positional struggle in the centre. The downside of this move is that the
+Bishop on c1 gets locked-in and White will have to do extra to activate it.}
+
+
+
+[Event "AA/C18/SF/A"]
+[Site "ICCF"]
+[Date "2018.11.30"]
+[Round "-"]
+[White "Ramos, Francis"]
+[Black "Hegde, Ganesh"]
+[Result "*"]
+[WhiteElo "2143"]
+[BlackElo "2251"]
 [ECO "*"]
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "Philippines"]
 [BlackTeam "India"]
 
 1.e4 {White's pawn opening is considered to be the best and has been the oldest opening move in recorded chess history}
-1...e6  {The French defence where Black will challenge the centre with ...d5}
-2.d4 d5* {White occupies the central squares while Black hits back with the control of the c4 and e4 squares.Black has created a light-square pawn complex but the 
-downside is that the Bishop on c8 may take time to activate} 
 
-[Event "AA/C18/SF/A"] 
-[Site "ICCF"] 
-[Date "2018.11.30"] 
-[Round "-"] 
-[White "Robinson, Johan"] 
-[Black "Hegde, Ganesh"] 
-[Result "*"] 
-[WhiteElo "2146"] 
-[BlackElo "2251"] 
+1...e6  {The French defence where Black will challenge the centre with ...d5}
+
+2.d4 d5* {White occupies the central squares while Black hits back with the control of the c4 and e4 squares.Black has created a light-square pawn complex but the
+downside is that the Bishop on c8 may take time to activate}
+
+3.Nc3 {The classical variation in which White reinforces his support to the e4 pawn by developing the Queen's Knight. 3.e5 leads to the advanced variation while
+3.Nd2 is called the Tarassch variation}
+
+3...Bb4* {The Winawer variation where the Bishop on b4 pins the Knight and threatens to capture ...dxe4 and win a central pawn}
+
+
+[Event "AA/C18/SF/A"]
+[Site "ICCF"]
+[Date "2018.11.30"]
+[Round "-"]
+[White "Robinson, Johan"]
+[Black "Hegde, Ganesh"]
+[Result "*"]
+[WhiteElo "2146"]
+[BlackElo "2251"]
 [ECO "*"]
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "South Africa"]
 [BlackTeam "India"]
 
-1.d4 Nf6 * {The Indian defence}
+1.d4 Nf6  {The Indian defence}
 
-[Event "AA/C18/SF/A"] 
-[Site "ICCF"] 
-[Date "2018.11.30"] 
-[Round "-"] 
-[White "Hegde, Ganesh"] 
-[Black "Dlugolecki, Grzegorz"] 
-[Result "*"] 
-[WhiteElo "2251"] 
-[BlackElo "2063"] 
+2.
+
+[Event "AA/C18/SF/A"]
+[Site "ICCF"]
+[Date "2018.11.30"]
+[Round "-"]
+[White "Hegde, Ganesh"]
+[Black "Dlugolecki, Grzegorz"]
+[Result "*"]
+[WhiteElo "2251"]
+[BlackElo "2063"]
 [ECO "*"]
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "India"]
@@ -66,15 +94,15 @@ downside is that the Bishop on c8 may take time to activate}
 
 1.d4* {The Queen pawn opening}
 
-[Event "AA/C18/SF/A"] 
-[Site "ICCF"] 
-[Date "2018.11.30"] 
-[Round "-"] 
-[White "Hegde, Ganesh"] 
-[Black "Matthew Paul Santhosh"] 
-[Result "*"] 
-[WhiteElo "2251"] 
-[BlackElo "2282"] 
+[Event "AA/C18/SF/A"]
+[Site "ICCF"]
+[Date "2018.11.30"]
+[Round "-"]
+[White "Hegde, Ganesh"]
+[Black "Matthew Paul Santhosh"]
+[Result "*"]
+[WhiteElo "2251"]
+[BlackElo "2282"]
 [ECO "*"]
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "India"]
@@ -82,15 +110,15 @@ downside is that the Bishop on c8 may take time to activate}
 
 1.d4* {The Queen pawn opening}
 
-[Event "AA/C18/SF/A"] 
-[Site "ICCF"] 
-[Date "2018.11.30"] 
-[Round "-"] 
-[White "Odeeva, Kristina"] 
-[Black "Hegde, Ganesh"] 
-[Result "*"] 
-[WhiteElo "2188"] 
-[BlackElo "2251"] 
+[Event "AA/C18/SF/A"]
+[Site "ICCF"]
+[Date "2018.11.30"]
+[Round "-"]
+[White "Odeeva, Kristina"]
+[Black "Hegde, Ganesh"]
+[Result "*"]
+[WhiteElo "2188"]
+[BlackElo "2251"]
 [ECO "*"]
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "Turkmenistan"]
@@ -98,15 +126,15 @@ downside is that the Bishop on c8 may take time to activate}
 
 1.e4 e6* {The French defence is on the board}
 
-[Event "AA/C18/SF/A"] 
-[Site "ICCF"] 
-[Date "2018.11.30"] 
-[Round "-"] 
-[White "Hegde, Ganesh"] 
-[Black "Muhammad Idrees"] 
-[Result "*"] 
-[WhiteElo "2251"] 
-[BlackElo "2381"] 
+[Event "AA/C18/SF/A"]
+[Site "ICCF"]
+[Date "2018.11.30"]
+[Round "-"]
+[White "Hegde, Ganesh"]
+[Black "Muhammad Idrees"]
+[Result "*"]
+[WhiteElo "2251"]
+[BlackElo "2381"]
 [ECO "*"]
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "India"]
@@ -114,15 +142,15 @@ downside is that the Bishop on c8 may take time to activate}
 
 1.d4* {The Queen pawn opening}
 
-[Event "AA/C18/SF/A"] 
-[Site "ICCF"] 
-[Date "2018.11.30"] 
-[Round "-"] 
-[White "Hegde, Ganesh"] 
-[Black "Glatthaar, Michael"] 
-[Result "*"] 
-[WhiteElo "2251"] 
-[BlackElo "2448"] 
+[Event "AA/C18/SF/A"]
+[Site "ICCF"]
+[Date "2018.11.30"]
+[Round "-"]
+[White "Hegde, Ganesh"]
+[Black "Glatthaar, Michael"]
+[Result "*"]
+[WhiteElo "2251"]
+[BlackElo "2448"]
 [WhiteTeam "India"]
 [BlackTeam "South Africa"]
 [ECO "*"]
@@ -130,19 +158,18 @@ downside is that the Bishop on c8 may take time to activate}
 
 1.d4* {The Queen pawn opening is equally popular like 1.e4}
 
-[Event "AA/C18/SF/A"] 
-[Site "ICCF"] 
-[Date "2018.11.30"] 
-[Round "-"] 
-[White "Hegde, Ganesh"] 
-[Black "Mosrati, Nabil"] 
-[Result "*"] 
-[WhiteElo "2251"] 
-[BlackElo "2308"] 
+[Event "AA/C18/SF/A"]
+[Site "ICCF"]
+[Date "2018.11.30"]
+[Round "-"]
+[White "Hegde, Ganesh"]
+[Black "Mosrati, Nabil"]
+[Result "*"]
+[WhiteElo "2251"]
+[BlackElo "2308"]
 [ECO "*"]
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "India"]
 [BlackTeam "Tunisia"]
 
 1.d4* {The Queen pawn opening is equally popular like 1.e4}
-
