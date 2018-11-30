@@ -76,7 +76,28 @@ downside is that the Bishop on c8 may take time to activate}
 
 1.d4 Nf6  {The Indian defence}
 
-2.
+2.Bg5 {The Trompowsky attack. Here White wants to damage Black's pawn structure after Bxf6 and carry out a blistering attack on the weakened Kingside}
+
+2...c5 {A theoretical move. Black hits back in the centre and challenges the pawn on d4. Black is not afraid of the Knight capture and the damage to the pawn structure}
+
+3.Bxf6 {White gives up the Bishop pair and goes ahead with the plan. 3.d5 or 3.Nc3 is also considered playable for White}
+
+3...exf6 {Capturing away from the centre opens the e7 square for the Bishop and Black can still O-O activating the Rook on h8. 3...gxf6 is also playable. In that case
+the g-file will be available for the Rook on g8 for active counterplay. But the downside is that Black's King might remain stuck in the centre or will have to O-O-O in order to be safe}
+
+4.Nc3 {As White has already made his intentions clear to carry out an offensive against Black, quick development is necessary. }
+
+4...d5 {Black occupies the central d5 square with his pawn and does not allow White to gain space by pushing the pawn on d4 to d5.The move also allows the Bishop on c8 to develop.
+It is important for Black to proceed for active development of his pieces. Active development is always the best defence}
+
+5. e3 {The pawn on d4 is reinforced and the Bishop on f1 is now ready to fly! Way to go White!}
+
+5...Be6* {The Queen's Bishop is developed. A fair question would be why on the e6 square and not the f5 square where the Bishop controls more squares? It is because 
+if 5...Bf5 then White can play 6.dxc5 Bxc5 7.Qxd5 and win a pawn.The Bishop on e6 is now guarding the pawn on d5.Remember a natural looking move like ...Bf5 will allow White
+to carry out his attack as Black cannot afford to loose a central pawn and open files for the White pieces.}
+
+
+
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
