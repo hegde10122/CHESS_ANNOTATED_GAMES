@@ -390,8 +390,9 @@ Black intends to play ...f5 on the next move and kick the Knight away}
 29...Rf6 {The White Rook must not be allowed on the f-file}
 30.Kg2 Kd6 {Bothg sides take the first step towards King activation}
 31.Rf1 {Offering to exchange Rooks}
-31...Rxf1* {Important to exchange Rooks and keep the White King at bay. White has an extra pawn and Black cannot allow
+31...Rxf1 {Important to exchange Rooks and keep the White King at bay. White has an extra pawn and Black cannot allow
 White's King from occupying the central squares.31...Bg5? allows 32.Rxf6 Bxf6 33.Kf3 and with moves like h4,g3,g4 on the cards White will probably win}
+32.Kxf1 Kd5* {The King will sneak in via the c4 route and try to grab the pawns}
 
 
 [Event "Russia25/pr29 (RUS)"]
