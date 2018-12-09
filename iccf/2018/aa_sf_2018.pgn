@@ -31,8 +31,11 @@ Here White neglects the threat of ...Bxc3+ and proceeds to activate the Bishop o
 develop soon and later on carry on a positional struggle in the centre. The downside of this move is that the
 Bishop on c1 gets locked-in and White will have to do extra to activate it.}
 
-4...b6* {A great choice from Black where he is looking to fianchetto the light-squared bishop to b7. Another annoying move is to play ...Ba6 and attack the pawn on c4 if White were to slip up
+4...b6 {A great choice from Black where he is looking to fianchetto the light-squared bishop to b7. Another annoying move is to play ...Ba6 and attack the pawn on c4 if White were to slip up
 4...c5 or 4...d5 are the other common choices.This move introduces the Fischer variation in the Nimzo-indian}
+
+5.Bd3* {White gets on with the development of the Kingside - a key motif in this variation of the Nimzo-Indian}
+
 
 
 [Event "AA/C18/SF/A"]
@@ -60,6 +63,11 @@ downside is that the Bishop on c8 may take time to activate}
 3.Nd2 is called the Tarassch variation}
 
 3...Bb4* {The Winawer variation where the Bishop on b4 pins the Knight and threatens to capture ...dxe4 and win a central pawn}
+
+4.e5 {The most popular response in accordance with standard theory. White fixes the dark-pawn chain complex in the centre and grabs more space}
+
+4...c5* {Black too aims to have his share of pawns in the centre. Black attacks White central d-pawn with his flank pawn push ...c5}
+
 
 
 [Event "AA/C18/SF/A"]
@@ -94,10 +102,14 @@ It is important for Black to proceed for active development of his pieces. Activ
 
 5. e3 {The pawn on d4 is reinforced and the Bishop on f1 is now ready to fly! Way to go White!}
 
-5...Be6* {The Queen's Bishop is developed. A fair question would be why on the e6 square and not the f5 square where the Bishop controls more squares? It is because
+5...Be6 {The Queen's Bishop is developed. A fair question would be why on the e6 square and not the f5 square where the Bishop controls more squares? It is because
 if 5...Bf5 then White can play 6.dxc5 Bxc5 7.Qxd5 and win a pawn.The Bishop on e6 is now guarding the pawn on d5.Remember a natural looking move like ...Bf5 will allow White
 to carry out his attack as Black cannot afford to loose a central pawn and open files for the White pieces.}
 
+6.Nge2 {White develops the Knight but blocks the light-squared Bishop on f1. A much better alternative in my opinion was 6.Nf3
+White needs to develop rapidly without losing too many tempi to justify giving up the Bishop pair}
+
+6...Nc6* {More development for Black}
 
 
 
@@ -115,8 +127,25 @@ to carry out his attack as Black cannot afford to loose a central pawn and open 
 [WhiteTeam "India"]
 [BlackTeam "South Africa"]
 
-1.d4* {The Queen pawn opening.A popular choice that ranks along with 1.e4 called the King pawn opening}
+1.d4 {The Queen pawn opening.A popular choice that ranks along with 1.e4 called the King pawn opening}
 
+1...Nf6 {A flexible opening move to combat White's opening move. This move is extremely flexible and controls the e4 square}
+
+2.c4 {The best possible move controlling the d5 square}
+
+2...e6 {This move frees the dark-squared Bishop's development and adds more control over the d5 square}
+
+3.Nc3 {The most natural response.White is now ready to push e4 and grab the centre}
+
+3...d5 {Black gets the pawn rolling on the central square and adds more control over the e4 square.The game has transposed into the Queen's gambit declined or the QGD}
+
+4.cxd5 exd5 {The exchange variation of the QGD}
+
+5.Bg5 {Putting pressure on the d5 pawn. This is the Carlsbad variation or the positional variation}
+
+5...c6 {A solid move protecting the pawn on d5. White's main idea here is to make the development of Black's light-squared Bishop difficult and keep pressurising the pawn on d5}
+
+6.Qc2* {Making ...Bf5 difficult for the moment}
 
 
 [Event "AA/C18/SF/A"]
@@ -128,15 +157,18 @@ to carry out his attack as Black cannot afford to loose a central pawn and open 
 [Result "*"]
 [WhiteElo "2251"]
 [BlackElo "2282"]
-[ECO "*"]
+[ECO "D70"]
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "India"]
 [BlackTeam "India"]
 
+
 1.d4 {The Queen pawn opening.}
+
 1...Nf6 {A hypermodern approach where Black controls the e4 and d5 squares with a piece. The pawn choices remain flexible depending on White's response}
 
 2.c4 {The best move where White gains more space in the centre by exerting more control over the d5 square}
+
 2...g6 {The King's Indian defence or the Grunfeld defence looks to be Black's choice of countering White's approach. Here Black will bring out the dark-squared
 Bishop on f8 and control the a1-h8 diagonal.Black's emphasis is to develop activelyu and then counter-attack White's central control}
 
@@ -146,6 +178,14 @@ defence giving Black great fighting chances. Although White has a great number o
 (b) The pawn on f3 eliminates the move ...Ng4 or ...Bg4 as of now limiting squares for Black's pieces.White can also prepare moves like g4 followed by h4 to get a pawn storm going and attack the Black Kingside
 (c) White delays the move Nc3. The Queen's Knight on b1 can go to a3 or d2 depending upon Black's choices. White's idea will be to play O-O-O in an ideal situation followed by a King side attack.
 Moves like Be3,Qd2,Nd2 and O-O-O are on the cards.}
+
+3...d5 {Black sticks with the direct attempt to control the central e4 square with the Queen pawn. The Neo-Grunfeld move}
+
+4.cxd5 Nxd5 {White captures the central pawn with the flank c-pawn and forces Black to recapture}
+
+5.e4* {White grabs the centre with his central pawn duo.}
+
+
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -160,7 +200,7 @@ Moves like Be3,Qd2,Nd2 and O-O-O are on the cards.}
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "Turkmenistan"]
 [BlackTeam "India"]
-
+[WhiteTitle "LIM"]
 
 1.e4 e6* {The French defence is on the board. The move ...e6 is a preparatory move to play ...d5 and challenge White's central control.}
 
@@ -184,6 +224,9 @@ This however, allows White a great counter-advantage as White can exert great pr
 4.e5 {White's usual response. Now White has altered the pawn structure and created a dark-squared pawn chain on the d4 and e5 squares. Black's main ideas now revolve
 around by developing pieces and pawns to attack this pawn chain's base on the d4 square followed by ...f6 later to attack the pawn spearhead on the e5 square.}
 
+4...c5* {Black gets his own stake in the centre}
+
+
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -200,8 +243,11 @@ around by developing pieces and pawns to attack this pawn chain's base on the d4
 [BlackTeam "Pakistan"]
 
 1.d4 {The Queen pawn opening}
+
 1...Nf6{Another popular response is 1...d5.}
+
 2.c4* {Gaining space and also controlling the d5 square. The Knight on b1 can now come to c3 depending on Black's choice of moves.}
+
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -265,8 +311,16 @@ There is nothing much to choose between the two sides and the position is equal.
 [BlackTeam "Tunisia"]
 
 1.d4 {The Queen pawn opening is equally popular like 1.e4}
+
 1...d5 {Identical response from Black}
-2.c4* {The Queen's Gambit}
+
+2.c4 {The Queen's Gambit}
+
+2...e6 {The Queen's Gambit Declined or QGD is on the board}
+
+3.Nc3* {Developing a piece and putting more pressure on the d5 pawn.}
+
+
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -283,3 +337,38 @@ There is nothing much to choose between the two sides and the position is equal.
 [BlackTeam "India"]
 
 1.d4 Nf6* {The most popular response to the Queen's pawn opening where Black keeps his pawn options open.}
+
+[Event "AA/C18/SF/A"]
+[Site "ICCF"]
+[Date "2018.11.30"]
+[Round "-"]
+[White "Mike C. Gross"]
+[Black "Hegde, Ganesh"]
+[Result "*"]
+[WhiteElo "2268"]
+[BlackElo "2251"]
+[ECO "*"]
+[Annotator "Ganesh R Hegde"]
+[WhiteTeam "Australia"]
+[BlackTeam "India"]
+[WhiteTitle "CCE"]
+
+1.e4 e6* {The French defense}
+
+[Event "AA/C18/SF/A"]
+[Site "ICCF"]
+[Date "2018.11.30"]
+[Round "-"]
+[White "Marius J. Fourie"]
+[Black "Hegde, Ganesh"]
+[Result "*"]
+[WhiteElo "2369"]
+[BlackElo "2251"]
+[ECO "*"]
+[Annotator "Ganesh R Hegde"]
+[WhiteTeam "Australia"]
+[BlackTeam "India"]
+[WhiteTitle "IM"]
+[BlackTitle "*"]
+
+1. d4 e6* {1...Nf6 and 1...d5 are more common but the text move is a subtle move-order change avoiding lines of the Trompowsky attack after 1.d4 Nf6 2.Bg5}
