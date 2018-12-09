@@ -500,7 +500,7 @@ If Black decides to exchange Queens with ...Qxd2 then the intermediate move Nxe7
 19...d5 {Black expands in the centre and wants to ease the cramp}
 20.cxd5 Bxd5 {Another pair of pawns go off the board}
 21.Rhd1* {The Rook on h1 was attacked by the Bishop on d5.White is now willing to play moves like Ke1,Rc7 and create more pressure}
-
+21...Rac8* {Preventing White from playing Rc7 which would be annoying.}
 
 
 [Event "3rd IZIT Pr K"]
