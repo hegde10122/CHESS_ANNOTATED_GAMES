@@ -245,8 +245,11 @@ and the f7 pawn is under attack with too much Kingside initiative}
 32.Rh7 {Putting pressure on the f7 pawn and keeping the Queen on g6 on a tight leash}
 32...Qf5 {Offering a trade of Queens}
 33.Qxf5 exf5 {The Queen exchange is favourable for White as the Black Rooks are tied up}
-34.g6* {White threatens Rxf7+ and forces Black to open up the seventh rank. The White Rook on h7 is dangerous and will gobble up all Black pawns}
-
+34.g6 {White threatens Rxf7+ and forces Black to open up the seventh rank. The White Rook on h7 is dangerous and will gobble up all Black pawns}
+34...fxg6 {White's Rook on the seventh rank is now ready to gobble up all the pawns on the seventh rank}
+35.Rxc7 {Pawns or lambs for slaughter! The threat is Rh8# on the next move}
+35...Kg8 {Preventing mate on h8}
+36.Rxb7* {Another one goes!}
 
 [Event "Russia25/pr29 (RUS)"]
 [Site "ICCF"]
@@ -826,7 +829,10 @@ who are close to uniting with each other.}
 54.Nec1 {The Knight blocka access to the a1 square}
 54...Rh6 {Controlling the sixth rank and protecting the pawn on a6 indirectly}
 55.Kb6 {The King will try to gobble the Black pawn on a6 and help the b4 pawn to the b8 square}
-55...Kg5+* {The King remains closer to the pawns and the Rook gives a check}
+55...Kg5+ {The King remains closer to the pawns and the Rook gives a check}
+56.Ka5 {The pressure on the a6 pawn is intact}
+56...Rc6*
+
 
 [Event "Russia25/pr29 (RUS)"]
 [Site "ICCF"]

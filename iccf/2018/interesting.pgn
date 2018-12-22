@@ -40,6 +40,12 @@ White can double Black's pawns with Bxh6 gxh6}
 16.Be3 {Preventive measure to prevent the attack on the Bishop as ...e5 cannot be stopped}
 16...axb4 {Black goes for a couple of liquidating moves before grabbing the central e5 square}
 17.axb4 Rxa1 18.Qxa1 e5* {Black gets more space in the centre}
+19.Nf3 {White puts his Knight on an active square}
+19...Bg4 {Developing the last piece before re-maneouvring}
+20.Be2 {White avoids the damage to his pawn structure}
+20...Bh5 {The Bishop has nothing to do on g4 now and will return back to f7}
+21.Rd1 {Exerting pressure on the semi-open file. The best place for the White Rook}
+21...Bh7* {The Bishop comes back to protect the central pawn on d5}
 
 
 [Event "*"]
@@ -100,7 +106,14 @@ It is unclear as to how Black will do the same.
 23.f4 {Attacking the Queen and most importantly gaining control of the e5 square}
 23...Qe7?! {Better was 23...Qb8 adding protection to the a7 pawn}
 24.Nb5* {Attacking the undefended a7 pawn}
-
+24...g6 {Black attacks the Bishop}
+25.Bh3 {Maintaining pressure on the h3-c8 diagonal. Bd3 would block the Rook's pressure on the d5 pawn}
+25...Qe4 {Black wants to trade Queens}
+26.Nxa7 {An easy pawn up for grabs and now White is two pawns ahead}
+26...Qf3 {The Queen will come to g4 or h5 and look to create an attack on the King with the help of the Knight.But White's pieces are ready}
+27.Bg2 {The Bishop gets into a safe zone}
+27...Qg4 {The Queen pins the Bishop}
+28.Nb5* {The Knight will now go back as it has nothing to do on a7}
 
 [Event "*"]
 [Site "Chess.com"]
@@ -145,9 +158,16 @@ It is unclear as to how Black will do the same.
 20...Nd7 {The threat is neutralised}
 21.f4 {The e5 pawn is attacked again}
 21...Bg7* {The Bishop goes back and protects the pawn on e5}
-22.a3? {A waiting move gone wrong.White's dark squares on the g1-f2-e3-d4 squares have been weakened by the move f4 earlier. The next Black move
+22.a3? {A waiting move gone wrong. White's dark squares on the g1-f2-e3-d4 squares have been weakened by the move f4 earlier. The next Black move
 exploits this loophole. A better waiting move was 22.h3 preventing ...Bg4. 22.Bf3 was also good enough to prevent ...Bg4 that would pin the Knight on e2}
-22...Qc5+!* {A nice check allowing Black's Queen to dominate the dark squares around the White King. Black is now threatening to play ...Qe3 and ...Bg4 to attack the Knight on e2 twice}
+22...Qc5+! {A nice check allowing Black's Queen to dominate the dark squares around the White King. Black is now threatening to play ...Qe3 and ...Bg4 to attack the Knight on e2 twice}
+23.Kf1 {23.Kh1? is bad on account of ...Qe3 followed by ...Bg4 and White's pieces are tied up}
+23...Bg4 {Pinning the Knight}
+24.Qd2 {Unpinning}
+24...exf4 {Black goes for some simplification}
+25.gxf4? {This pawn on f4 will now be a target. Better was 25.Bxg7}
+25...Bxb2 26.Qxb2 {Black diverts White's Queen from the crucial e3 square}
+26...Qe3!* {The pawn on f4 is attacked.Also White's Queen has to protect the Knight as both the Bishop and Black Queen are now attacking it}
 
 
 [Event "*"]

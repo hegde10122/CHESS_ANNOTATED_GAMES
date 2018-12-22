@@ -56,13 +56,13 @@ Bishop on c1 gets locked-in and White will have to do extra to activate it.}
 
 1...e6  {The French defence where Black will challenge the centre with ...d5}
 
-2.d4 d5* {White occupies the central squares while Black hits back with the control of the c4 and e4 squares.Black has created a light-square pawn complex but the
+2.d4 d5 {White occupies the central squares while Black hits back with the control of the c4 and e4 squares.Black has created a light-square pawn complex but the
 downside is that the Bishop on c8 may take time to activate}
 
 3.Nc3 {The classical variation in which White reinforces his support to the e4 pawn by developing the Queen's Knight. 3.e5 leads to the advanced variation while
 3.Nd2 is called the Tarassch variation}
 
-3...Bb4* {The Winawer variation where the Bishop on b4 pins the Knight and threatens to capture ...dxe4 and win a central pawn}
+3...Bb4 {The Winawer variation where the Bishop on b4 pins the Knight and threatens to capture ...dxe4 and win a central pawn}
 
 4.e5 {The most popular response in accordance with standard theory. White fixes the dark-pawn chain complex in the centre and grabs more space}
 
@@ -353,7 +353,8 @@ There is nothing much to choose between the two sides and the position is equal.
 [BlackTeam "India"]
 [WhiteTitle "CCE"]
 
-1.e4 e6* {The French defense}
+1.e4 e6* {The French defense.}
+
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]

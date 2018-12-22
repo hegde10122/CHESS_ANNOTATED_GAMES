@@ -50,7 +50,10 @@ Black's light-squared Bishop has problems occupying a good square in this variat
 18...Bxf6 {18...gxf6 damages Black's pawn structure and hence is a poor choice}
 19.Ne4 {Attacking the c5 pawn taking advantage of the pin of the d5 pawn}
 19...Be7 {Black parries the potential damage to the pawn structure after Nxf6 and supports the c5 pawn}
-20.Bxe6* {Removing a key defender of the c5 pawn}
+20.Bxe6 {Removing a key defender of the c5 pawn}
+20...Qxe6 {...fxe6 will compromise the pawn structure.So the move played is a better option}
+21.Nxc5* {White captures the pawn and threatens Nxb7 on the next move}
+
 
 
 [Event "3rd IZIT Pr K"]
@@ -360,8 +363,12 @@ White also cannot push h4 to halt Black's pawn march because after 14.h4 Ng6 Bla
 17.Nf2 {The Knight comes back into the game.}
 17...Nd6 {The Knight goes to the d6 square and will now aid Black to push ...f5 and expand on the Kingside.Also more protection is offered to the pawn on c4}
 18.Ng4 {The Knight wants to go e5. Ne3 is also a possibility trying to win back the pawn on c4}
-18...h3* {Looking to rip aprt White's Kingside pawn structure}
-
+18...h3 {Looking to rip apart White's Kingside pawn structure}
+19.g3 {19.gxh3? will open up lines for White and is dangerous}
+19...Qe8 {The Queen will now join the attack. Moves like ...f5 are on the cards}
+20.a4 {White aims to use the pawn on b6 as a hook to open up lines against the Black King. White is planning to push a5 followed by axb6}
+20...f5* {Black is consistent with his aim of opening lines against the White King.The Knight on g4 is attacked and White
+cannot push a5 soon}
 
 [Event "3rd IZIT Pr K"]
 [Site "ICCF"]
@@ -500,7 +507,10 @@ If Black decides to exchange Queens with ...Qxd2 then the intermediate move Nxe7
 19...d5 {Black expands in the centre and wants to ease the cramp}
 20.cxd5 Bxd5 {Another pair of pawns go off the board}
 21.Rhd1 {The Rook on h1 was attacked by the Bishop on d5.White is now willing to play moves like Ke1,Rc7 and create more pressure}
-21...Rac8* {Preventing White from playing Rc7 which would be annoying.}
+21...Rac8 {Preventing White from playing Rc7 which would be annoying.}
+22.Ke1 {Attacking the Bishop on e6}
+22...e6* {Protecting the Bishop. It is not an easy choice. 22...Rxc8 23.Rxc1 is too commital as Rc7 on the next move
+will allow White to penetrate the seventh rank.}
 
 
 [Event "3rd IZIT Pr K"]
@@ -593,4 +603,10 @@ get some activity in the centre and the Queenside}
 30.Nd2 {White supports the b3 pawn one more time}
 30...Kg8 {A waiting move}
 31.Rc1 {White moves the Rook and looks to push c4 at some point. Since the Knight is defending the b3 pawn,Black's battery of heavy pieces cannot capture the pawn on b3 as this would lead to the loss of an exchange}
-31...Qa6* { X-raying the Knight on d3.Black attempts to create counterplay}
+31...Qa6 { X-raying the Knight on d3.Black attempts to create counterplay}
+32.Qf1 {Protecting the Knight in advance}
+32...R5b7 {The Queen is now eyeing the Knight}
+33.g3 {With no threats from Black, White prepares to push f4 and open up the Kingside}
+33...Rf8 (The Rook comes back to the Kingside for a potential skirmish)
+34.Kg2 {White waits and does not commit f2-f4 pawn break}
+34...Rbb8* {Black too does not commit anything. Another waiting move}
