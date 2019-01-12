@@ -329,7 +329,7 @@ neutralise the influence of the Catalan Bishop on g2}
 [Round "-"]
 [White "Burmeister, Ferdinand"]
 [Black "Hegde, Ganesh"]
-[Result "*"]
+[Result "1/2-1/2"]
 [WhiteElo "2209"]
 [BlackElo "2276"]
 [ECO "D01"]
@@ -395,7 +395,7 @@ Black intends to play ...f5 on the next move and kick the Knight away}
 31.Rf1 {Offering to exchange Rooks}
 31...Rxf1 {Important to exchange Rooks and keep the White King at bay. White has an extra pawn and Black cannot allow
 White's King from occupying the central squares.31...Bg5? allows 32.Rxf6 Bxf6 33.Kf3 and with moves like h4,g3,g4 on the cards White will probably win}
-32.Kxf1 Kd5* {The King will sneak in via the c4 route and try to grab the pawns}
+32.Kxf1 Kd5 {The King will sneak in via the c4 route and try to grab the pawns.Draw agreed}1/2-1/2
 
 
 [Event "Russia25/pr29 (RUS)"]
@@ -571,8 +571,8 @@ It is better for Black to play with more freedom at the cost of a pawn}
 78...Nd7 {Controlling the crucial e5 square.Any other Knight move will allow White a firm grip on the e5 square and allow White to strangle Black}
 79.hxg5+ Kxg5 {A pair of pawns go off the board}
 80.Kd5 {The King will try to sabotage the Black fawns via e6-f7 route}
-80...Nf8* {The only good move that halts Ke6. 80...Kf6? allows 81.Nf4 and the h5 pawn comes under pressure}
-
+80...Nf8 {The only good move that halts Ke6. 80...Kf6? allows 81.Nf4 and the h5 pawn comes under pressure}
+81.e3* {A waiting move that is excellent under the circumstances}
 
 [Event "Russia25/pr29 (RUS)"]
 [Site "ICCF"]
@@ -831,8 +831,9 @@ who are close to uniting with each other.}
 55.Kb6 {The King will try to gobble the Black pawn on a6 and help the b4 pawn to the b8 square}
 55...Kg5+ {The King remains closer to the pawns and the Rook gives a check}
 56.Ka5 {The pressure on the a6 pawn is intact}
-56...Rc6*
-
+56...Rc6 {Black keeps the pressure on the Knight duo}
+57.Nc5 {The Knight blocks and Black's defence is tight here}
+57...f4* {Black decides to exchange pawns and prolong the defence}
 
 [Event "Russia25/pr29 (RUS)"]
 [Site "ICCF"]

@@ -45,8 +45,15 @@ White can double Black's pawns with Bxh6 gxh6}
 20.Be2 {White avoids the damage to his pawn structure}
 20...Bh5 {The Bishop has nothing to do on g4 now and will return back to f7}
 21.Rd1 {Exerting pressure on the semi-open file. The best place for the White Rook}
-21...Bh7* {The Bishop comes back to protect the central pawn on d5}
-
+21...Bf7 {The Bishop comes back to protect the central pawn on d5}
+22.g3 {White is looking forward to the f2-f4 pawn break after moves like Ne2 soon}
+22...g5 {Black wants to bolster his Kingside expansion with moves like ...Nd8 followed by ...Ne6 later}
+23.b5 {White expands on the Queenside by attacking the Knight}
+23...Nd8 {The Knight goes back and Black is cramped even further}
+24.b6? {Attacking the Queen but White has overstreteched. Pawn on c5 is now weakened}
+24...Qc8 {The Queen maintains the pressure on the c5 pawn and also maintains her grasp over the h3-c8 diagonal}
+25.h4 {White challenges on the Kingside now}
+25...h6* {Black is in no hurry to capture the pawn on c5}
 
 [Event "*"]
 [Site "Chess.com"]
