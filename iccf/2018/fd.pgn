@@ -1,0 +1,145 @@
+[Event "*"]
+[Site "Lichess.org"]
+[Date "2018.10.17"]
+[Round "-"]
+[White "SJMVL73"]
+[Black "Ganesh Rama Hegde"]
+[Result "*"]
+[BlackElo "2000"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "Advance, 5.Nf3 Qb6 6.a3"]
+[WhiteElo "2000"]
+[Termination "unterminated"]
+[PlyCount "44"]
+[WhiteType "program"]
+[BlackType "program"]
+
+1. e4 e6 {The French defence} 2. d4 d5 {White grabs the centre with his
+pawns and Black counters it with the pawn on d5.Black's Bishop on c8 is a
+problem piece in this setup} 3. e5 {Grabbing more space and willing to
+attack on the Kingside later} c5 {Thematic move in this setup as Black
+pressurises the pawn on d4. Black will do everything possible to break the
+central pawn complex} 4. c3 {The pawn on d4 is offered more support} Nc6
+{Developing a piece and maintaining the pressure on the d4 pawn} 5. Nf3 Qb6
+{Both players are doing their bit to attack and defend the d4 square} 6.
+a3!? {A nice move that aims to push b4 and gain space on the Queenside}
+Nge7 {A flexible move that aims to play ...Nf5 and put even more pressure
+on the d4 square.Another move is ...Nh6 but White can double Black's pawns
+with Bxh6 gxh6} 7. dxc5 {White gives up the centre and attacks the Queen.
+7.b4 cxd4 8.cxd4 Nf5 and Black is alright} Qc7 {Black targets the pawn on
+e5 now} 8. Be3 {White could have played 8.b4 too and expanded on the
+Queenside} Nxe5 {Grabbing the central pawn} 9. Nxe5 Qxe5 {A pair of Knights
+go off the board} 10. Bb5+ {Nice developing move} Nc6 {The best response
+from Black.} 11. O-O {Development is important.} Be7 {Black too prepares
+castling} 12. Re1 {White prepares to harass the Queen on e5} O-O {Castling
+is safe here} 13. b4 {Gains more space on the Queenside} a5!? {Black too
+plans to counter White's aggression on the Queenside. The threat is ...axb4
+axb4 followed by ...Nxb4! and the pawn on c3 is pinned whereby cxb4 is not
+possible} 14. Bd4 {Attacking the Queen} Qc7 {Safe square} 15. Nd2 {Nice
+developing move as all pieces need to join the party} f6 {Preparing e5 for
+a nice central control} 16. Be3 {Preventive measure to prevent the attack
+on the Bishop as ...e5 cannot be stopped} axb4 {Black goes for a couple of
+liquidating moves before grabbing the central e5 square} 17. axb4 Rxa1 18.
+Qxa1 e5 {Black gets more space in the centre} 19. Nf3 {White puts his
+Knight on an active square} Bg4 {Developing the last piece before
+re-maneouvring} 20. Be2 {White avoids the damage to his pawn structure} Bh5
+{The Bishop has nothing to do on g4 now and will return back to f7} 21. Rd1
+{Exerting pressure on the semi-open file. The best place for the White
+Rook} Bf7 {The Bishop comes back to protect the central pawn on d5} 22. g3
+{1-0 Arena Adjudication. Illegal move!} (22. g3 {(22.g2-g3 Rf8-c8 23.Nf3-h4
+Bf7-e6 24.Qa1-b2) +0.03/19 13} 22. .. Rc8 {(22. ... Rf8-c8 23.Qa1-b2 Qc7-d8
+24.Nf3-h4 Qd8-d7 25.Be2-d3) 0.00/21 24} (22. .. Qc8 {(22. ... Qc7-c8
+23.Qa1-b2 Rf8-e8 24.Rd1-a1 h7-h6 25.Be2-f1 g7-g5 26.Bf1-g2 Be7-f8 27.h2-h4
+e5-e4 28.Nf3-d4 g5xh4 29.g3xh4 Nc6xd4 30.c3xd4 Qc8-g4 31.Qb2-d2 Kg8-h7
+32.Be3-f4 Bf7-h5 33.Ra1-e1 f6-f5 34.Bf4-g3 Bf8-g7 35.b4-b5 f5-f4 36.Qd2xf4
+Bg7xd4 37.Qf4xg4 Bh5xg4) +0.68/29 250}) (22. .. g5 23. b5 {(23.b4-b5 Nc6-d8
+24.Qa1-a7 Nd8-e6 25.c5-c6 b7xc6 26.b5-b6 Qc7-d8 27.Nf3-d2 Be7-d6 28.Be2-g4
+Ne6-g7 29.b6-b7 f6-f5 30.Bg4-e2 Ng7-e6 31.Qa7-a6 c6-c5 32.Nd2-b3 d5-d4
+33.Be3-d2 Qd8-e7 34.Be2-c4 Rf8-b8 35.Nb3-a5 f5-f4 36.c3xd4 Ne6xd4) +0.74/24
+48} (23. Qa3 {(23.Qa1-a3 Qc7-c8 24.b4-b5 Nc6-d8 25.Qa3-a7 Rf8-e8 26.h2-h4
+g5xh4 27.Nf3xh4 f6-f5 28.Nh4-g2 Nd8-e6 29.c5-c6 b7xc6 30.b5-b6 Be7-d6
+31.b6-b7 Qc8-b8 32.Rd1-a1 f5-f4 33.g3xf4 e5xf4) +0.68/18 3}) 23. .. Nd8
+{(23. ... Nc6-d8 24.Qa1-a7 Nd8-e6 25.c5-c6 b7xc6 26.b5-b6 Qc7-d8 27.Nf3-d2
+Be7-d6 28.Qa7-a4 Qd8-a8 29.Qa4xa8 Rf8xa8 30.Be2-g4 Bd6-b8 31.Bg4-f5 Ra8-a3
+32.Nd2-b1 Ra3-a4 33.b6-b7 Bb8-d6 34.Bf5xe6 Bf7xe6 35.Nb1-d2) +0.13/22 5}
+24. Qa7 {(24.Qa1-a7 Nd8-e6 25.c5-c6 b7xc6 26.b5-b6 Qc7-d8 27.h2-h4 h7-h6
+28.b6-b7 Be7-d6 29.Rd1-b1 c6-c5 30.Qa7-a6 Bd6-b8 31.h4xg5 h6xg5 32.Qa6-c6
+Qd8-e7 33.Rb1-b5 e5-e4 34.Nf3-h2 d5-d4 35.c3xd4 c5xd4) +0.33/20 2} Qc8
+{(24. ... Qc7-c8 25.Nf3-e1) +0.28/19 1} 25. Rd2 {(25.Rd1-d2 Rf8-e8)
++0.48/17 0} Re8 {(25. ... Rf8-e8 26.Qa7-b6 Qc8-e6 27.Qb6-a7 h7-h6 28.c5-c6
+Qe6-c8 29.Rd2-b2 Be7-d6 30.Be3-b6 b7xc6 31.Bb6xd8 Qc8xd8 32.b5xc6 Re8-e7
+33.Qa7-a4 Qd8-e8 34.Rb2-b6 Re7-c7 35.h2-h4 Kg8-g7 36.h4xg5 h6xg5) +0.73/19
+3} 26. Rb2 {(26.Rd2-b2 Be7-f8) +0.07/17 1} Bf8 {(26. ... Be7-f8 27.Qa7-b6)
++0.67/17 1} 27. Bf1 {(27.Be2-f1 h7-h6 28.h2-h4 f6-f5 29.h4xg5 f5-f4
+30.g3xf4 e5xf4 31.Be3-d4 h6xg5 32.Nf3-h2 Bf7-h5 33.Qa7-a2 Qc8-f5 34.Qa2-b1
+Qf5xb1 35.Rb2xb1 g5-g4 36.Rb1-a1 Nd8-e6 37.c5-c6 b7xc6 38.b5xc6) 0.00/18 1}
+h6 {(27. ... h7-h6 28.h2-h3 Re8-e7 29.Qa7-a4 f6-f5 30.c5-c6 Bf7-h5
+31.Nf3-e1 b7xc6 32.Qa4-a6 Qc8-d7 33.Be3-c5 Re7-e8 34.b5xc6 Qd7xc6 35.Bc5xf8
+Qc6xa6 36.Bf1xa6 Kg8xf8 37.Rb2-b6) +0.90/18 1} 28. Qb6 {(28.Qa7-b6 f6-f5
+29.c5-c6 b7xc6 30.Qb6-a6 Qc8-d7 31.b5xc6 Qd7xc6 32.Qa6xc6 Nd8xc6 33.Rb2-b6
+Re8-e6 34.Bf1-b5 f5-f4 35.g3xf4 g5xf4 36.Rb6xc6 f4xe3 37.Rc6xe6 Bf7xe6
+38.f2xe3 Bf8-g7 39.Kg1-f2) -0.09/17 1} Bg7 {(28. ... Bf8-g7 29.h2-h4)
++0.90/17 0} 29. h4 {(29.h2-h4 d5-d4 30.c3xd4 Qc8-f5 31.Nf3-h2 Bf7-d5
+32.Rb2-e2 Nd8-f7 33.d4xe5 Nf7xe5 34.Be3-d4 g5xh4 35.Bd4xe5 f6xe5 36.g3xh4
+Qf5-b1 37.Re2-d2) +0.19/18 1} Qf5 {(29. ... Qc8-f5 30.Bf1-g2 d5-d4
+31.Be3-d2 Bf7-h5 32.Nf3-h2 g5xh4 33.g3xh4 d4xc3 34.Bd2xc3 Bh5-f7 35.Nh2-f1
+Nd8-e6 36.Rb2-d2 Qf5-g6 37.h4-h5 Qg6-g5 38.Qb6xb7 Ne6xc5 39.Qb7-c6 Nc5-e6)
++0.65/17 0} 30. Bg2 {(30.Bf1-g2 d5-d4 31.Be3-d2 Bf7-d5 32.Nf3-e1 Bd5xg2
+33.Ne1xg2 Qf5-e4 34.h4-h5 Nd8-e6 35.Ng2-e1 f6-f5 36.c5-c6 b7xc6 37.Qb6xc6
+Qe4xc6 38.b5xc6 Re8-c8 39.c3xd4 Rc8xc6 40.Rb2-b8+ Kg8-h7) +0.54/18 1} d4
+{(30. ... d5-d4 31.c3xd4 Bf7-d5 32.Nf3-e1 e5xd4 33.Bg2xd5+ Qf5xd5 34.Be3-d2
+Bg7-f8 35.Bd2-a5 Bf8xc5 36.Qb6xf6 Re8-e6 37.Qf6xd8+ Qd5xd8 38.Ba5xd8
+Re6xe1+ 39.Kg1-g2) +0.62/17 0} 31. Bd2 {(31.Be3-d2 Bf7-d5 32.Nf3-e1 Bd5xg2
+33.Ne1xg2 Qf5-g4 34.Qb6-a7 Qg4-d1+ 35.Ng2-e1 g5xh4 36.c5-c6 b7xc6 37.Qa7-d7
+Qd1-h5 38.c3xd4 h4xg3 39.f2xg3 c6xb5) +0.59/18 1} Bh5 {(31. ... Bf7-h5
+32.Nf3-e1) +0.30/17 1} 32. Nh2 {(32.Nf3-h2 g5xh4 33.c3xd4 h4xg3 34.f2xg3
+Qf5-d3 35.c5-c6 b7xc6 36.b5xc6 Nd8-e6 37.Qb6-b3 Qd3xb3 38.Rb2xb3 Ne6xd4
+39.Rb3-b7 Re8-c8 40.c6-c7 Bg7-f8 41.Rb7-b8 Rc8xc7 42.Bd2xh6) +0.89/17 0}
+gxh4 {(32. ... g5xh4 33.g3xh4 Qf5-d3 34.c3xd4 Qd3xd4 35.Rb2-a2 Bh5-f7
+36.Nh2-f3 Qd4-d5 37.Ra2-a4 Nd8-e6 38.c5-c6 b7xc6 39.Qb6xc6 Qd5xc6 40.b5xc6
+f6-f5 41.Bg2-f1 Bf7-g6 42.Bf1-g2 e5-e4 43.Nf3-h2 Ne6-d4) +0.39/17 1} 33. c6
+{(33.c5-c6 b7xc6 34.b5xc6 d4xc3 35.Bd2xc3 h4xg3 36.f2xg3 Qf5-c8 37.Nh2-f1
+Bh5-f7 38.Nf1-e3 e5-e4 39.c6-c7 Nd8-e6 40.Ne3-d5 f6-f5) +1.63/18 0} hxg3
+{(33. ... h4xg3 34.f2xg3 b7xc6 35.b5xc6 Qf5-c8 36.c3xd4 e5xd4 37.c6-c7
+Nd8-e6 38.Bg2-d5 Bh5-f7 39.Bd5xe6 Bf7xe6 40.Qb6-c6 Be6-d7 41.Qc6-c4+
+Bd7-e6) 0.00/19 0} 34. fxg3 {(34.f2xg3 d4xc3 35.Bd2xc3 b7xc6 36.b5xc6
+Qf5-c8 37.Rb2-d2 Bh5-f7 38.Rd2-d7 Nd8-e6 39.Nh2-g4 h6-h5 40.Ng4-e3 Bg7-f8
+41.Qb6-a5 Bf8-c5) +0.74/17 0} dxc3 {(34. ... d4xc3 35.Bd2xc3 Qf5-c8
+36.c6-c7 Nd8-e6 37.Bg2xb7 Qc8xc7 38.Qb6xc7 Ne6xc7 39.b5-b6 Nc7-e6 40.Bb7-d5
+Bh5-f7 41.b6-b7 Re8-b8 42.Rb2-b6 Ne6-c5 43.Bd5-c6 Kg8-h7) -0.17/17 0} 35.
+Bxc3 {(35.Bd2xc3 b7xc6 36.b5xc6 Qf5-c8 37.Nh2-f1 Nd8-e6 38.Nf1-e3 Bh5-f7
+39.Qb6-b7 Ne6-c5 40.Qb7xc8 Re8xc8 41.Ne3-d5 Kg8-h8 42.Nd5-e7 Rc8-c7
+43.Ne7-f5 e5-e4) +0.80/17 0} bxc6 {(35. ... b7xc6 36.b5xc6 Qf5-c8 37.Nh2-f1
+Nd8-e6 38.Nf1-e3 Bh5-f7 39.Qb6-b7 Ne6-g5 40.Qb7xc8 Re8xc8 41.Ne3-d5 Bf7xd5
+42.Bg2xd5+ Kg8-h7 43.Rb2-b7 Kh7-g6 44.Rb7-d7 Bg7-f8 45.Kg1-f2) -0.58/18 1}
+36. bxc6 {(36.b5xc6 Qf5-c8 37.Nh2-f1 e5-e4 38.c6-c7 Nd8-e6 39.Bg2-h3 Bh5-f7
+40.Qb6-a5 Qc8xc7 41.Bh3xe6 Qc7xa5 42.Be6xf7+ Kg8xf7 43.Bc3xa5 f6-f5
+44.Rb2-b7+ Re8-e7 45.Rb7xe7+ Kf7xe7 46.Kg1-f2) +1.14/17 1} Qc8 {(36. ...
+Qf5-c8 37.Nh2-f1 Bh5-f7 38.Nf1-e3 Nd8-e6 39.Qb6-b7 Ne6-g5 40.c6-c7 Kg8-h7
+41.Qb7xc8 Re8xc8 42.Bc3-a5 e5-e4 43.Rb2-b8 Bf7-e6 44.Ne3-d5 f6-f5 45.Nd5-e7
+Rc8-f8 46.Ba5-b6) -0.81/18 0} 37. Nf1 {(37.Nh2-f1 e5-e4 38.c6-c7 Nd8-e6
+39.Bg2-h3 Bh5-f7 40.Qb6-a5 Qc8xc7 41.Bh3xe6 Qc7xa5 42.Be6xf7+ Kg8xf7
+43.Bc3xa5 f6-f5 44.Rb2-b7+ Re8-e7 45.Rb7xe7+ Kf7xe7 46.Ba5-b6 h6-h5
+47.Kg1-g2 Bg7-e5 48.Bb6-e3 Ke7-e6 49.Kg2-f2 Ke6-d5) +1.30/17 1} Ne6 {(37.
+... Nd8-e6 38.Nf1-e3) -0.80/18 1} 38. Ne3 {(38.Nf1-e3 Bh5-f7 39.Kg1-h1
+Ne6-d4 40.c6-c7 Qc8-d7 41.Qb6-b7 Re8-c8 42.Ne3-d5 Bf7-e6 43.Bc3xd4 e5xd4
+44.Nd5-b6 Qd7xc7 45.Nb6xc8) +1.57/18 1} Bf7 {(38. ... Bh5-f7) -0.95/17 1}
+39. Kh2 {(39.Kg1-h2 h6-h5) +1.68/17 0} h5 {(39. ... h6-h5 40.Bg2-h3 Qc8-d8
+41.Qb6xd8 Re8xd8 42.Bc3-a5 Rd8-a8 43.c6-c7 Bg7-f8 44.Ne3-f5 Ne6xc7
+45.Ba5xc7 Ra8-a2 46.Rb2xa2 Bf7xa2 47.Nf5-d6 Bf8xd6 48.Bc7xd6 Ba2-d5)
+-1.08/17 1} 40. Qb7 {(40.Qb6-b7 Ne6-c5 41.Qb7-a7 Bg7-f8 42.Rb2-f2 Qc8-d8
+43.c6-c7 Qd8-d6 44.Rf2-d2 Qd6-a6 45.Qa7-b8 Bf8-d6 46.Qb8-b4 Nc5-d3
+47.Qb4-b7 Qa6xb7 48.Bg2xb7 Bd6xc7 49.Ne3-d5 Bc7-d8 50.Rd2xd3 Bf7-g6
+51.Rd3-e3 Kg8-g7 52.Bb7-c6) +2.24/18 1} Nc7 {(40. ... Ne6-c7 41.Bg2-e4
+h5-h4 42.Bc3-a5 Nc7-e6 43.Ne3-d5 h4xg3+ 44.Kh2xg3 Qc8xb7 45.c6xb7 Ne6-c5
+46.Nd5-e7+ Kg8-f8 47.Be4-c6 Re8-b8 48.Ba5-c7 Bf7-e6 49.Bc7-d6 Nc5-d7
+50.Ne7-d5+ Kf8-f7 51.Bd6xb8) -1.62/18 0} 41. Bh3 {(41.Bg2-h3 Qc8xb7
+42.Rb2xb7 Nc7-a6 43.Bh3-d7 Re8-a8 44.c6-c7 Na6xc7 45.Rb7xc7 Bg7-h6
+46.Ne3-f5 Bh6-f8 47.Nf5-h4 Ra8-b8 48.Rc7-c6 Rb8-b3 49.Rc6-c8 Kg8-g7
+50.Nh4-f5+ Kg7-g6 51.Bc3xe5 f6xe5 52.Rc8xf8 Rb3-b7 53.Bd7-c6 Rb7-b2+
+54.Kh2-h3 Kg6xf5) +2.33/18 0} ) (22. .. Qc8 {(22. ... Qc7-c8) +0.65/34 739}
+) ) (22. Qb1 {(22.Qa1-b1 Bf7-e6 23.g2-g3 Rf8-a8 24.Nf3-e1 Be7-f8 25.f2-f4
+e5xf4 26.Be3xf4 Qc7-f7 27.Ne1-d3 g7-g5 28.Bf4-c1 Be6-f5 29.Qb1-b2 Qf7-e6
+30.Nd3-f2 Nc6-e7 31.Be2-f3 Bf5-e4 32.Bf3xe4) +0.55/22 16} ) 22. .. f5 *
+

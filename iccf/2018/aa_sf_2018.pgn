@@ -1,148 +1,439 @@
-[Event "AA/C18/SF/A"] 
-[Site "ICCF"] 
-[Date "2018.11.30"] 
-[Round "-"] 
-[White "Hegde, Ganesh"] 
-[Black "Mai, Wolfgang"] 
-[Result "*"] 
-[WhiteElo "2251"] 
-[BlackElo "1899"] 
-[ECO "*"]
+[Event "AA/C18/SF/A"]
+[Site "ICCF"]
+[Date "2018.11.30"]
+[Round "-"]
+[White "Hegde, Ganesh"]
+[Black "Mai, Wolfgang"]
+[Result "*"]
+[WhiteElo "2251"]
+[BlackElo "1899"]
+[ECO "E45"]
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "India"]
 [BlackTeam "Ghana"]
 
-1.d4 Nf6* {The Queen's pawn opening is answered by the flexible Knight move controlling the e4 square. Here Black does not commit his pawn structure and has a 
-variety of options to choose from}
+1.d4 Nf6 {The Queen's pawn opening is answered by the flexible Knight move controlling the e4 square. Here Black does not commit his pawn structure and has a
+variety of options to choose from. }
 
-[Event "AA/C18/SF/A"] 
-[Site "ICCF"] 
-[Date "2018.11.30"] 
-[Round "-"] 
-[White "Ramos, Francis"] 
-[Black "Hegde, Ganesh"] 
-[Result "*"] 
-[WhiteElo "2143"] 
-[BlackElo "2251"] 
+2.c4 {The best move as White controls the d5 square and gains space. The Knight on b1 can now go to c3 and control the e4 and d5 squares}
+
+2...e6 {The move controls the d5 square and opens up the a3-f8 diagonal for the dark-squared Bishop on f8.Black can also play ...d5 and stake a claim to the central
+e4 and c4 squares}
+
+3.Nc3 {White develops the Queen's Knight to the best square and adds more control over the e4 and d5 squares. White wants to push e4 soon and have a massive centre.}
+
+3...Bb4 {The Nimzo-Indian defence named after its creator Aron Nimzowitsch, a leading Danish-Russian chess master who was a pioneer of the hypermodern chess theory.
+The Knight on c3 is pinned and has no control over the e4 and d5 squares. Here Black develops a piece and is looking to castle on the next move. In most cases, the Bishop
+on b4 will be exchanged for the Knight after ...Bxc3. Black hopes to strike at the centre later owing to his much more active development.}
+
+4.e3 {The Rubinstein variation named after Akiba Rubinstein a well-known Polish Grandmaster. Rubinstein encyclopedic knowledge of chess endgames is legendary.
+Here White neglects the threat of ...Bxc3+ and proceeds to activate the Bishop on f1. White wants to
+develop soon and later on carry on a positional struggle in the centre. The downside of this move is that the
+Bishop on c1 gets locked-in and White will have to do extra to activate it.}
+
+4...b6 {A great choice from Black where he is looking to fianchetto the light-squared bishop to b7. Another annoying move is to play ...Ba6 and attack the pawn on c4 if White were to slip up
+4...c5 or 4...d5 are the other common choices.This move introduces the Fischer variation in the Nimzo-indian}
+
+5.Bd3* {White gets on with the development of the Kingside - a key motif in this variation of the Nimzo-Indian}
+
+
+
+[Event "AA/C18/SF/A"]
+[Site "ICCF"]
+[Date "2018.11.30"]
+[Round "-"]
+[White "Ramos, Francis"]
+[Black "Hegde, Ganesh"]
+[Result "*"]
+[WhiteElo "2143"]
+[BlackElo "2251"]
 [ECO "*"]
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "Philippines"]
 [BlackTeam "India"]
 
 1.e4 {White's pawn opening is considered to be the best and has been the oldest opening move in recorded chess history}
-1...e6  {The French defence where Black will challenge the centre with ...d5}
-2.d4 d5* {White occupies the central squares while Black hits back with the control of the c4 and e4 squares.Black has created a light-square pawn complex but the 
-downside is that the Bishop on c8 may take time to activate} 
 
-[Event "AA/C18/SF/A"] 
-[Site "ICCF"] 
-[Date "2018.11.30"] 
-[Round "-"] 
-[White "Robinson, Johan"] 
-[Black "Hegde, Ganesh"] 
-[Result "*"] 
-[WhiteElo "2146"] 
-[BlackElo "2251"] 
-[ECO "*"]
+1...e6  {The French defence where Black will challenge the centre with ...d5}
+
+2.d4 d5 {White occupies the central squares while Black hits back with the control of the c4 and e4 squares.Black has created a light-square pawn complex but the
+downside is that the Bishop on c8 may take time to activate}
+
+3.Nc3 {The classical variation in which White reinforces his support to the e4 pawn by developing the Queen's Knight. 3.e5 leads to the advanced variation while
+3.Nd2 is called the Tarassch variation}
+
+3...Bb4 {The Winawer variation where the Bishop on b4 pins the Knight and threatens to capture ...dxe4 and win a central pawn}
+
+4.e5 {The most popular response in accordance with standard theory. White fixes the dark-pawn chain complex in the centre and grabs more space}
+
+4...c5* {Black too aims to have his share of pawns in the centre. Black attacks White central d-pawn with his flank pawn push ...c5}
+
+
+
+[Event "AA/C18/SF/A"]
+[Site "ICCF"]
+[Date "2018.11.30"]
+[Round "-"]
+[White "Robinson, Johan"]
+[Black "Hegde, Ganesh"]
+[Result "*"]
+[WhiteElo "2146"]
+[BlackElo "2251"]
+[ECO "A45"]
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "South Africa"]
 [BlackTeam "India"]
 
-1.d4 Nf6 * {The Indian defence}
+1.d4 Nf6  {The Indian defence}
 
-[Event "AA/C18/SF/A"] 
-[Site "ICCF"] 
-[Date "2018.11.30"] 
-[Round "-"] 
-[White "Hegde, Ganesh"] 
-[Black "Dlugolecki, Grzegorz"] 
-[Result "*"] 
-[WhiteElo "2251"] 
-[BlackElo "2063"] 
-[ECO "*"]
+2.Bg5 {The Trompowsky attack. Here White wants to damage Black's pawn structure after Bxf6 and carry out a blistering attack on the weakened Kingside}
+
+2...c5 {A theoretical move. Black hits back in the centre and challenges the pawn on d4. Black is not afraid of the Knight capture and the damage to the pawn structure}
+
+3.Bxf6 {White gives up the Bishop pair and goes ahead with the plan. 3.d5 or 3.Nc3 is also considered playable for White}
+
+3...exf6 {Capturing away from the centre opens the e7 square for the Bishop and Black can still O-O activating the Rook on h8. 3...gxf6 is also playable. In that case
+the g-file will be available for the Rook on g8 for active counterplay. But the downside is that Black's King might remain stuck in the centre or will have to O-O-O in order to be safe}
+
+4.Nc3 {As White has already made his intentions clear to carry out an offensive against Black, quick development is necessary. }
+
+4...d5 {Black occupies the central d5 square with his pawn and does not allow White to gain space by pushing the pawn on d4 to d5.The move also allows the Bishop on c8 to develop.
+It is important for Black to proceed for active development of his pieces. Active development is always the best defence}
+
+5. e3 {The pawn on d4 is reinforced and the Bishop on f1 is now ready to fly! Way to go White!}
+
+5...Be6 {The Queen's Bishop is developed. A fair question would be why on the e6 square and not the f5 square where the Bishop controls more squares? It is because
+if 5...Bf5 then White can play 6.dxc5 Bxc5 7.Qxd5 and win a pawn.The Bishop on e6 is now guarding the pawn on d5.Remember a natural looking move like ...Bf5 will allow White
+to carry out his attack as Black cannot afford to loose a central pawn and open files for the White pieces.}
+
+6.Nge2 {White develops the Knight but blocks the light-squared Bishop on f1. A much better alternative in my opinion was 6.Nf3
+White needs to develop rapidly without losing too many tempi to justify giving up the Bishop pair}
+
+6...Nc6 {More development for Black}
+
+7.g3 {White also wants to develop the Bishop and castle soon.White could have also played 7.Qd2 followed by O-O-O}
+
+7...cxd4 {Black alters the pawn structure and clears the c-file for the Rook on a8}
+
+8.exd4 {8.Nxd4 is also possible}
+8...Bd6 {More active development}
+
+
+
+[Event "AA/C18/SF/A"]
+[Site "ICCF"]
+[Date "2018.11.30"]
+[Round "-"]
+[White "Hegde, Ganesh"]
+[Black "Dlugolecki, Grzegorz"]
+[Result "*"]
+[WhiteElo "2251"]
+[BlackElo "2063"]
+[ECO "D36"]
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "India"]
 [BlackTeam "South Africa"]
 
-1.d4* {The Queen pawn opening}
+1.d4 {The Queen pawn opening.A popular choice that ranks along with 1.e4 called the King pawn opening}
 
-[Event "AA/C18/SF/A"] 
-[Site "ICCF"] 
-[Date "2018.11.30"] 
-[Round "-"] 
-[White "Hegde, Ganesh"] 
-[Black "Matthew Paul Santhosh"] 
-[Result "*"] 
-[WhiteElo "2251"] 
-[BlackElo "2282"] 
-[ECO "*"]
+1...Nf6 {A flexible opening move to combat White's opening move. This move is extremely flexible and controls the e4 square}
+
+2.c4 {The best possible move controlling the d5 square}
+
+2...e6 {This move frees the dark-squared Bishop's development and adds more control over the d5 square}
+
+3.Nc3 {The most natural response. White is now ready to push e4 and grab the centre}
+
+3...d5 {Black gets the pawn rolling on the central square and adds more control over the e4 square.The game has transposed into the Queen's gambit declined or the QGD}
+
+4.cxd5 exd5 {The exchange variation of the QGD}
+
+5.Bg5 {Putting pressure on the d5 pawn. This is the Carlsbad variation or the positional variation}
+
+5...c6 {A solid move protecting the pawn on d5. White's main idea here is to make the development of Black's light-squared Bishop difficult and keep pressurising the pawn on d5}
+
+6.Qc2 {Making ...Bf5 difficult for the moment. This is the Reshevsky variation of the QGD}
+
+6...h6 {Putting the question to the Bishop}
+
+7.Bh4 {The Pin on the Knight is maintained}
+
+7...Be7 {Developing the Kingside and also unpinning the Knight}
+
+8.e3 {White begins his Kingside development}
+
+8...O-O {Black has nicely played so far}
+
+9.Bd3 {Creating the Bishop-Queen battery on the b1-h7 diagonal}
+
+9...Re8 {The Rook is on a semi-open file. Good chess}
+
+10.Nge2 {White does not want ...Bg4 and also keeps the options of playing f4 or Nf4 later in the game}
+
+10...b6 {The light-squared Bishop will probably come to a6 or b7}
+
+11.O-O {White too completes his Kingside development and the position is equal}
+
+11...Ba6!? {A nice idea to exchange the light-squared Bishops. White has been playing so far with an attempt to make the life of the Bishop on c8 hard but
+Black wants to terminate this problem for good}
+
+12.Bf5 {White does not want to trade the Bishops to be consistent with his plan so far}
+
+12...Nh5 {Black looks to trade the dark-squared Bishops.But I feel Black could have played 12...Bc8 and tried to exchange the Bishops of
+lighter colours. Black's pawns are currently fixed on light squares and trading the dark-squared Bishops seems to be a positional error
+12...Nbd7 was also playable with an intention of playing ...Nf8 and strengthening the Kingside. Also the Knight on h5 does not have anything concrete to do later and will have to retreat back to f6 wasting another tempo}
+
+13.Bxe7* {White happily trades the inactive Bishop for his active counterpart}
+
+[Event "AA/C18/SF/A"]
+[Site "ICCF"]
+[Date "2018.11.30"]
+[Round "-"]
+[White "Hegde, Ganesh"]
+[Black "Matthew Paul Santhosh"]
+[Result "*"]
+[WhiteElo "2251"]
+[BlackElo "2282"]
+[ECO "D70"]
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "India"]
 [BlackTeam "India"]
 
-1.d4* {The Queen pawn opening}
 
-[Event "AA/C18/SF/A"] 
-[Site "ICCF"] 
-[Date "2018.11.30"] 
-[Round "-"] 
-[White "Odeeva, Kristina"] 
-[Black "Hegde, Ganesh"] 
-[Result "*"] 
-[WhiteElo "2188"] 
-[BlackElo "2251"] 
+1.d4 {The Queen pawn opening.}
+
+1...Nf6 {A hypermodern approach where Black controls the e4 and d5 squares with a piece. The pawn choices remain flexible depending on White's response}
+
+2.c4 {The best move where White gains more space in the centre by exerting more control over the d5 square}
+
+2...g6 {The King's Indian defence or the Grunfeld defence looks to be Black's choice of countering White's approach. Here Black will bring out the dark-squared
+Bishop on f8 and control the a1-h8 diagonal.Black's emphasis is to develop activelyu and then counter-attack White's central control}
+
+3.f3!?* {A nice move. This moves serves three purposes. (a) Black could have responded with 3...d5 if White had played 3.Nc3 and challenged the centre immediately. This is the aggressive Grunfeld
+defence giving Black great fighting chances. Although White has a great number of choices to counter this defence and obtain an advantage. By playing the text move White has killed 3...d5 as the Grunfeld reply lacks punch after
+4.cxd5 Nxd5 5.e4!. Here White gains a  lot of space and the pawn on e4 is ably supported by his comrade on f3.
+(b) The pawn on f3 eliminates the move ...Ng4 or ...Bg4 as of now limiting squares for Black's pieces.White can also prepare moves like g4 followed by h4 to get a pawn storm going and attack the Black Kingside
+(c) White delays the move Nc3. The Queen's Knight on b1 can go to a3 or d2 depending upon Black's choices. White's idea will be to play O-O-O in an ideal situation followed by a King side attack.
+Moves like Be3,Qd2,Nd2 and O-O-O are on the cards.}
+
+3...d5 {Black sticks with the direct attempt to control the central e4 square with the Queen pawn. The Neo-Grunfeld move}
+
+4.cxd5 Nxd5 {White captures the central pawn with the flank c-pawn and forces Black to recapture}
+
+5.e4 {White grabs the centre with his central pawn duo.}
+
+5...Nb6
+
+6.Nc3 Bg7 {Attacking the pawn on d4}
+
+7.Be3* {Developing the Queenside and also protecting the pawn}
+
+
+[Event "AA/C18/SF/A"]
+[Site "ICCF"]
+[Date "2018.11.30"]
+[Round "-"]
+[White "Odeeva, Kristina"]
+[Black "Hegde, Ganesh"]
+[Result "*"]
+[WhiteElo "2188"]
+[BlackElo "2251"]
 [ECO "*"]
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "Turkmenistan"]
 [BlackTeam "India"]
+[WhiteTitle "LIM"]
 
-1.e4 e6* {The French defence is on the board}
+1.e4 e6 {The French defence is on the board. The move ...e6 is a preparatory move to play ...d5 and challenge White's central control.}
 
-[Event "AA/C18/SF/A"] 
-[Site "ICCF"] 
-[Date "2018.11.30"] 
-[Round "-"] 
-[White "Hegde, Ganesh"] 
-[Black "Muhammad Idrees"] 
-[Result "*"] 
-[WhiteElo "2251"] 
-[BlackElo "2381"] 
+2.d4 {White's natural response. When presented with an opportunity to gain advantage over the central squares go for it! White plants both his pawns on central squares
+and controls c5,d5,e5 and f5 squares in Black's camp.}
+
+2...d5 {Black thrusts his pawn in the centre and challenges White's central control. As we can see Black has created a light-squared pawn
+chain on the d5 and e6 squares. Black's deep idea is based on the fact that White will have to alter
+the pawn structure in the centre.By playing ...d5 Black is also attacking the pawn on e4 and threatening ...dxe4. White will have to react to this threat. }
+
+3.Nc3 {A good response considered to be the "best" choice for White. White not only develops a piece but also is ready to respond with 4.Nxe4 if Black were to play 3...dxe4
+3.Nd2 is called the Tarrasch variation while 3.e5 is the advanced variation both leading to slow positional struggles}
+
+3...Bb4 {The Winawer variation. Black's response is radical because Black by playing ...e6 and ...d5 has rendered the Bishop on c8 weak.
+The move played pins the White Knight on c3 and renews the  threat of ...dxe4. Black is also ready to exchange the Bishop for the Knight
+by playing ...Bxc3+ and give White doubled pawns on the c-file after
+White replies with bxc3.
+Black also wants to play ...b6 followed by ...Ba6 to exchange his problem Bishop or Black can also play ...Bd7-e8-g6 in some lines.
+This however, allows White a great counter-advantage as White can exert great pressure on the Kingside by playing Qg4 and attacking the pawn on g7}
+
+4.e5 {White's usual response. Now White has altered the pawn structure and created a dark-squared pawn chain on the d4 and e5 squares. Black's main ideas now revolve
+around by developing pieces and pawns to attack this pawn chain's base on the d4 square followed by ...f6 later to attack the pawn spearhead on the e5 square.}
+
+4...c5 {Black gets his own stake in the centre}
+
+5.a3 Bxc3+ 6.bxc3 Qa5 7.Bd2 Qa4*
+
+[Event "AA/C18/SF/A"]
+[Site "ICCF"]
+[Date "2018.11.30"]
+[Round "-"]
+[White "Hegde, Ganesh"]
+[Black "Muhammad Idrees"]
+[Result "*"]
+[WhiteElo "2251"]
+[BlackElo "2381"]
 [ECO "*"]
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "India"]
 [BlackTeam "Pakistan"]
 
-1.d4* {The Queen pawn opening}
+1.d4 {The Queen pawn opening}
 
-[Event "AA/C18/SF/A"] 
-[Site "ICCF"] 
-[Date "2018.11.30"] 
-[Round "-"] 
-[White "Hegde, Ganesh"] 
-[Black "Glatthaar, Michael"] 
-[Result "*"] 
-[WhiteElo "2251"] 
-[BlackElo "2448"] 
+1...Nf6{Another popular response is 1...d5.}
+
+2.c4 {Gaining space and also controlling the d5 square. The Knight on b1 can now come to c3 depending on Black's choice of moves.}
+
+2...e6
+
+3.Nc3*
+
+[Event "AA/C18/SF/A"]
+[Site "ICCF"]
+[Date "2018.11.30"]
+[Round "-"]
+[White "Hegde, Ganesh"]
+[Black "Glatthaar, Michael"]
+[Result "*"]
+[WhiteElo "2251"]
+[BlackElo "2448"]
 [WhiteTeam "India"]
 [BlackTeam "South Africa"]
-[ECO "*"]
+[ECO "D45"]
 [Annotator "Ganesh R Hegde"]
 
-1.d4* {The Queen pawn opening is equally popular like 1.e4}
+1.d4 {The Queen pawn opening is equally popular like 1.e4}
 
-[Event "AA/C18/SF/A"] 
-[Site "ICCF"] 
-[Date "2018.11.30"] 
-[Round "-"] 
-[White "Hegde, Ganesh"] 
-[Black "Mosrati, Nabil"] 
-[Result "*"] 
-[WhiteElo "2251"] 
-[BlackElo "2308"] 
+1...d5 {Identical pawn opening from Black}
+
+2.c4 {The Queen's gambit. Here White challenges Black's central pawn and threatens to capture cxd5 and eliminate one of Black's central pawns. Also White can
+attain a semi-open c-file for the White Rooks. On the other hand, White is also allowing Black to capture ...dxc4. This gambit is not a true pawn sacrifice White can then
+play Qa4+ followed by Qxc4 regaining the pawn}
+
+2...e6 {The QGD or the Queen's gambit declined. Black reinforces the pawn on d5 and will reply cxd5 with exd5}
+
+3.Nc3 {A popular reply where White develops the Knight and adds more pressure on the d5 pawn. Akso, White is now ready to play the move e4 at some point soon}
+3...c6 {The Semi-slav. The Slav occurs after the move order 1.d4 d5 2.c4 c6. Black is now emphasising the fact that ...dxc4 is possible followed by ...b5 where Black will be a pawn up}
+
+4.e3 {White is ready to play Bxc4 id Black plays ...dxc4 gaining a slight advantage}
+4...Nf6 {Black develops a piece and continues development}
+
+5.Nf3 {White can also develop now as the capture ...dxc4 has been averted}
+5...Nbd7 {A nice move where Black will most likely played ...Bd6 followed by ...e5. Also ...c5 is an idea in this setup.At this stage we can see Identical pawns structures f2-e3-d4 for White
+and f7-e6-d5 for Black. The only difference is that Black's Knight on d7 is less active than its counterpart on c3. Aldo White's pawn on c4 is more active than the pawn on c6.
+There is nothing much to choose between the two sides and the position is equal.}
+
+6.b3 {A subtle anti-Meran move order. Here 6.Qc2 is also playable signalling the beginning of the anti-Meran. The Meran variation occurs after White plays
+6.Bd3. Then Black continues with the thematic capture of the Semi-Slav 6...dxc4 7.Bxc4 b5 8.Be2 Bb7.
+ Now Black will look to push ...c5 and gain nice control in the centre. By playing 6.b3 the capture ...dxc4 can then be answered with bxc4 and the light-squared Bishop
+ is protected from harassment. Also the f2-e3-d4 pawn structure has ensured that White's Bishop on c1 will remain a bad piece. The move b3 clears the b2 square where the Bishop on c1
+ can find a new square and become more effective on a1-h8 diagonal in the future.}
+
+6...Bb4 {An aggressive move by Black. The Bishop attacks the undefended Knight on c3 and forces White to make a decision.}
+
+7.Bd2 {The Bishop is forced to unpin the Knight. 7.Bb2? is bad because Black will win a pawn after 7...Qa5! 8.Qc2 Ne4! attacking the pinned Knight again. 9.Rc1 is forced and then Black can
+ play 9...Qxa2 taking advantage of the pin on c3}
+
+7...O-O {Black completes the Kingside development}
+
+8.Be2* {8.Bd3 looks the more natural square but it allowss Black to play 8...dxc4 9.bxc4 e5 and Black threatens to play ...Bxc3 followed by ...e4 forking the Knight and the Bishop.
+To avoid this fork White will have to retract the Bishop by playing Be2 in any case. The variation will run something like this:
+8.Bxd3?! dxc4 9.bxc4 e5 10.O-O? Bxc3 11.Bxc3 e4 winning a piece. Look how castling a "normal" developing move on move 10 runs into trouble.}
+
+[Event "AA/C18/SF/A"]
+[Site "ICCF"]
+[Date "2018.11.30"]
+[Round "-"]
+[White "Hegde, Ganesh"]
+[Black "Mosrati, Nabil"]
+[Result "*"]
+[WhiteElo "2251"]
+[BlackElo "2308"]
 [ECO "*"]
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "India"]
 [BlackTeam "Tunisia"]
 
-1.d4* {The Queen pawn opening is equally popular like 1.e4}
+1.d4 {The Queen pawn opening is equally popular like 1.e4}
 
+1...d5 {Identical response from Black}
+
+2.c4 {The Queen's Gambit}
+
+2...e6 {The Queen's Gambit Declined or QGD is on the board}
+
+3.Nc3 {Developing a piece and putting more pressure on the d5 pawn.}
+
+3...Nf6 {Black protects the d5 pawn further}
+
+4.cxd5* {The exchange variation}
+
+[Event "AA/C18/SF/A"]
+[Site "ICCF"]
+[Date "2018.11.30"]
+[Round "-"]
+[White "Gray, Garvin"]
+[Black "Hegde, Ganesh"]
+[Result "*"]
+[WhiteElo "2303"]
+[BlackElo "2251"]
+[ECO "*"]
+[Annotator "Ganesh R Hegde"]
+[WhiteTeam "Australia"]
+[BlackTeam "India"]
+
+1.d4 Nf6 {The most popular response to the Queen's pawn opening where Black keeps his pawn options open.}
+2.c4 e6
+3.Nc4 Bb4 {The Nimzo-Indian defence}
+4.Qc2 {The classical variation wherein White Queen controls the e4 square. More importantly, the Queen is also protecting the Knight
+and will capture Qxc3 after Black trades the dark-squared Bishop for the Knight}
+4...Nc6* {The Zurich variation where the Knight attacks the d4 pawn immediately}
+
+
+[Event "AA/C18/SF/A"]
+[Site "ICCF"]
+[Date "2018.11.30"]
+[Round "-"]
+[White "Mike C. Gross"]
+[Black "Hegde, Ganesh"]
+[Result "*"]
+[WhiteElo "2268"]
+[BlackElo "2251"]
+[ECO "*"]
+[Annotator "Ganesh R Hegde"]
+[WhiteTeam "Australia"]
+[BlackTeam "India"]
+[WhiteTitle "CCE"]
+
+1.e4 e6 {The French defense.}
+2.d4 d5
+3.Nc3 Bb4*
+
+[Event "AA/C18/SF/A"]
+[Site "ICCF"]
+[Date "2018.11.30"]
+[Round "-"]
+[White "Marius J. Fourie"]
+[Black "Hegde, Ganesh"]
+[Result "*"]
+[WhiteElo "2369"]
+[BlackElo "2251"]
+[ECO "*"]
+[Annotator "Ganesh R Hegde"]
+[WhiteTeam "Australia"]
+[BlackTeam "India"]
+[WhiteTitle "IM"]
+[BlackTitle "*"]
+
+1. d4 e6* {1...Nf6 and 1...d5 are more common but the text move is a subtle move-order change avoiding lines of the Trompowsky attack after 1.d4 Nf6 2.Bg5}
+2.c4 Nf6
+3.Nf3 {Avoiding the Nimzo-Indian}
+3...Bb4+ {The Bogo-Indian defence}
+4.Nbd2 {A passive option that aims to win retain the Bishop pair}
+4...b6* {Black will fianchetto the other Bishop}
