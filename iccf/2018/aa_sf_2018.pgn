@@ -34,8 +34,23 @@ Bishop on c1 gets locked-in and White will have to do extra to activate it.}
 4...b6 {A great choice from Black where he is looking to fianchetto the light-squared bishop to b7. Another annoying move is to play ...Ba6 and attack the pawn on c4 if White were to slip up
 4...c5 or 4...d5 are the other common choices.This move introduces the Fischer variation in the Nimzo-indian}
 
-5.Bd3* {White gets on with the development of the Kingside - a key motif in this variation of the Nimzo-Indian}
+5.Bd3 {White gets on with the development of the Kingside - a key motif in this variation of the Nimzo-Indian}
 
+5...Bb7 {5...O-O is also an alternative for Black}
+
+6.Nf3 O-O {Development for both the parties}
+
+7.O-O c5 {All standard theory in this variation so far. Black is now challenging White's central control.Black stops White from pushing e4 as of now}
+
+8.Na4 {White now aims to get Black's Bishop to move to a5 where it's value will be decreased.White wants to play 9.dxc5 and get the Bishop after Black recaptures ...Bxc5}
+
+8...cxd4 {Black clears the diagonal for the dark-squared Bishop as he anticipates White's pawn push a3 anytime soon}
+
+9.a3 {White does not recapture the pawn but attacks the Bishop}
+
+9...Bd6 {9...Be7 is the move preferred by many masters which I feel is better than the move played by Black in the game. The Bishop on d6 blocks the pawn advance d7-d6 or d7-d5 which will be Black's aim to get hold in the centre}
+
+10.exd4* {10.Nxd4 is a passive recapture that allows Black to play 10...Nc6 11.b4 Ne5 12.Be2 Re8 and Black has more pressure on the c4 pawn}
 
 
 [Event "AA/C18/SF/A"]
@@ -115,8 +130,8 @@ White needs to develop rapidly without losing too many tempi to justify giving u
 
 7...cxd4 {Black alters the pawn structure and clears the c-file for the Rook on a8}
 
-8.exd4 {8.Nxd4 is also possible}
-8...Bd6 {More active development}
+8.exd4 {8.Nxd4 is also possible.}
+8...Bb4* {More active development for Black}
 
 
 
@@ -183,7 +198,10 @@ Black wants to terminate this problem for good}
 lighter colours. Black's pawns are currently fixed on light squares and trading the dark-squared Bishops seems to be a positional error
 12...Nbd7 was also playable with an intention of playing ...Nf8 and strengthening the Kingside. Also the Knight on h5 does not have anything concrete to do later and will have to retreat back to f6 wasting another tempo}
 
-13.Bxe7* {White happily trades the inactive Bishop for his active counterpart}
+13.Bxe7 {White happily trades the inactive Bishop for his active counterpart}
+
+13...Qxe7* {Correct recapture. 13...Rxe7 blocks the Queen on d8 and Black will have to waste another tempo to activate the Queen}
+
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -342,9 +360,15 @@ There is nothing much to choose between the two sides and the position is equal.
 
 7...O-O {Black completes the Kingside development}
 
-8.Be2* {8.Bd3 looks the more natural square but it allowss Black to play 8...dxc4 9.bxc4 e5 and Black threatens to play ...Bxc3 followed by ...e4 forking the Knight and the Bishop.
+8.Be2 {8.Bd3 looks the more natural square but it allowss Black to play 8...dxc4 9.bxc4 e5 and Black threatens to play ...Bxc3 followed by ...e4 forking the Knight and the Bishop.
 To avoid this fork White will have to retract the Bishop by playing Be2 in any case. The variation will run something like this:
 8.Bxd3?! dxc4 9.bxc4 e5 10.O-O? Bxc3 11.Bxc3 e4 winning a piece. Look how castling a "normal" developing move on move 10 runs into trouble.}
+
+8...Qe7 {Black usually pepares the control of the centre with ...c5 or ...e5 as the Queen  protects both these squares. Black main ideas here are ...b6,
+...Bb7,...Re8 and play ...c5 or ...e5}
+
+9.O-O* {White completes the Kingside development}
+
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
