@@ -97,8 +97,12 @@ White is following the old chess principle - Look for opportunities in the centr
 
 22...Bb7 {The c6 pawn is protected but the Bishop on b7 resembles a tall pawn}
 
-23.Bf5* {Improving the Bishop's activity.
+23.Bf5 {Improving the Bishop's activity.
 The Bishop adds more pressure on the d7 Knight and threatens hxg4. ...Nxg4 cannot happen in that case because Bxd7 will win White a piece}
+
+23...Qc7 {Attacking the pawn on g3}
+
+24.Kh2* {The King gets into the firing line of the Black Queen to protect the pawn.But the King is safe}
 
 [Event "IND-JPN 2018"]
 [Site "ICCF"]
@@ -208,4 +212,8 @@ Black is also willing to sacrifice the exchange if Black accepts the challenge 1
 
 24.Rac1 {White develops the last piece on to a meaningful square controlling the c-file}
 
-24...Bxf5* {The pawn is grabbed and now it is going to be a battle between the Bishop pair and White's Rook soon}
+24...Bxf5 {The pawn is grabbed and now it is going to be a battle between the Bishop pair and White's Rook soon}
+
+25.Ng5+ {White's Knight advances further}
+
+25...Ke7* {25...Kf6 26.Ne4+ Ke7 and Black's King will have to go back to e7 in any case. Look how the rush to attack White's Knight actually ends up wasting a tempo for Black}
