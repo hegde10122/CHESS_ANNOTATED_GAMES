@@ -200,7 +200,10 @@ lighter colours. Black's pawns are currently fixed on light squares and trading 
 
 13.Bxe7 {White happily trades the inactive Bishop for his active counterpart}
 
-13...Qxe7* {Correct recapture. 13...Rxe7 blocks the Queen on d8 and Black will have to waste another tempo to activate the Queen}
+13...Qxe7 {Correct recapture. 13...Rxe7 blocks the Queen on d8 and Black will have to waste another tempo to activate the Queen}
+
+14.Rfe1* {The Knight on e2 is unpinned now and White exerts control of his own on the e-file. White is now aiming to play Ng3 followed by e4 with a sound game.}
+
 
 
 [Event "AA/C18/SF/A"]
