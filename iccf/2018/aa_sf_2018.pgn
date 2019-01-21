@@ -62,7 +62,7 @@ Bishop on c1 gets locked-in and White will have to do extra to activate it.}
 [Result "*"]
 [WhiteElo "2143"]
 [BlackElo "2251"]
-[ECO "*"]
+[ECO "C18"]
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "Philippines"]
 [BlackTeam "India"]
@@ -81,9 +81,18 @@ downside is that the Bishop on c8 may take time to activate}
 
 4.e5 {The most popular response in accordance with standard theory. White fixes the dark-pawn chain complex in the centre and grabs more space}
 
-4...c5* {Black too aims to have his share of pawns in the centre. Black attacks White central d-pawn with his flank pawn push ...c5}
+4...c5 {Black too aims to have his share of pawns in the centre. Black attacks White central d-pawn with his flank pawn push ...c5}
 
+5.a3 Bxc3+ {Black gives up the Bishop pair} 
 
+6.bxc3 Qa5!?  {The Portisch-Hook variation as it is called.Black's Queen attacks the pawn on c3 and prevents White from developing quickly}
+
+7.Bd2 Qa4 {The Queen now attacks the pawn on d4. More importantly, the Queen keeps an eye on the c2 pawn. White's Qg4 is a common idea in these Winawer variations. The Black Queen can afford to make another move as these nuances will make White think hard.}
+
+8.Qg4!? {The White Queen also plays along and attacks the pawn on g7. The pawn on c2 is kept hanging.}
+
+8...g6 {The dark-squares f6 and h6 are weakened by this move but Black aims to stop White's counterplay.
+8...Kf8!? is also a modern-day idea wherein the Black King protects the dark squares! Whith ...g6 Black has kept his options of playing O-O-O later intact.}
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -132,8 +141,6 @@ White needs to develop rapidly without losing too many tempi to justify giving u
 
 8.exd4 {8.Nxd4 is also possible.}
 8...Bb4* {More active development for Black}
-
-
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -202,9 +209,10 @@ lighter colours. Black's pawns are currently fixed on light squares and trading 
 
 13...Qxe7 {Correct recapture. 13...Rxe7 blocks the Queen on d8 and Black will have to waste another tempo to activate the Queen}
 
-14.Rfe1* {The Knight on e2 is unpinned now and White exerts control of his own on the e-file. White is now aiming to play Ng3 followed by e4 with a sound game.}
+14.Rfe1 {The Knight on e2 is unpinned now and White exerts control of his own on the e-file. White is now aiming to play Ng3 followed by e4 with a sound game.}
 
-
+14...Bb7*  {A strange move. The Bishop goes to the worst possible square where the pawns on c6 and d5 obstruct its activity. Perhaps 
+Black wants to play ...Na6. 14...Nd7 looks much better.}
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -220,7 +228,6 @@ lighter colours. Black's pawns are currently fixed on light squares and trading 
 [WhiteTeam "India"]
 [BlackTeam "India"]
 
-
 1.d4 {The Queen pawn opening.}
 
 1...Nf6 {A hypermodern approach where Black controls the e4 and d5 squares with a piece. The pawn choices remain flexible depending on White's response}
@@ -230,7 +237,7 @@ lighter colours. Black's pawns are currently fixed on light squares and trading 
 2...g6 {The King's Indian defence or the Grunfeld defence looks to be Black's choice of countering White's approach. Here Black will bring out the dark-squared
 Bishop on f8 and control the a1-h8 diagonal.Black's emphasis is to develop activelyu and then counter-attack White's central control}
 
-3.f3!?* {A nice move. This moves serves three purposes. (a) Black could have responded with 3...d5 if White had played 3.Nc3 and challenged the centre immediately. This is the aggressive Grunfeld
+3.f3!? {A nice move. This moves serves three purposes. (a) Black could have responded with 3...d5 if White had played 3.Nc3 and challenged the centre immediately. This is the aggressive Grunfeld
 defence giving Black great fighting chances. Although White has a great number of choices to counter this defence and obtain an advantage. By playing the text move White has killed 3...d5 as the Grunfeld reply lacks punch after
 4.cxd5 Nxd5 5.e4!. Here White gains a  lot of space and the pawn on e4 is ably supported by his comrade on f3.
 (b) The pawn on f3 eliminates the move ...Ng4 or ...Bg4 as of now limiting squares for Black's pieces.White can also prepare moves like g4 followed by h4 to get a pawn storm going and attack the Black Kingside
@@ -247,7 +254,15 @@ Moves like Be3,Qd2,Nd2 and O-O-O are on the cards.}
 
 6.Nc3 Bg7 {Attacking the pawn on d4}
 
-7.Be3* {Developing the Queenside and also protecting the pawn}
+7.Be3 {Developing the Queenside and also protecting the pawn}
+
+7...O-O {Black castles and commits the King to g8}
+
+8.Qd2 {Looking to plant the dark-squared Bishop on h6 later. O-O-O is now possible as White still lags in development}
+
+8...Nc6 {Adding more pressure on the d4 pawn.8...e5 has also been played here in the spirit of the King's Indian defence}
+
+9.O-O-O* {White is now ready to work on the Kingside with a possible assault on the Black King. The d4 pawn is also defended thrice as the Rook on d1 joins the battle}
 
 
 [Event "AA/C18/SF/A"]
@@ -311,9 +326,10 @@ around by developing pieces and pawns to attack this pawn chain's base on the d4
 
 2.c4 {Gaining space and also controlling the d5 square. The Knight on b1 can now come to c3 depending on Black's choice of moves.}
 
-2...e6
+2...e6 {Black opens the a3-f8 diagonal for the dark-squared Bishop}
 
-3.Nc3*
+3.Nc3 Bb4* {The Nimzo-Indian defence}
+
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -370,7 +386,12 @@ To avoid this fork White will have to retract the Bishop by playing Be2 in any c
 8...Qe7 {Black usually pepares the control of the centre with ...c5 or ...e5 as the Queen  protects both these squares. Black main ideas here are ...b6,
 ...Bb7,...Re8 and play ...c5 or ...e5}
 
-9.O-O* {White completes the Kingside development}
+9.O-O {White completes the Kingside development}
+
+9...Rd8 {Hard to understand the logic behind this move. 9...Re8 was perhaps much better with Black keeping the option of playing 
+...e5 later}
+
+10.Qc2* {COntrolling the e4 square and connecting the Rooks}
 
 
 [Event "AA/C18/SF/A"]

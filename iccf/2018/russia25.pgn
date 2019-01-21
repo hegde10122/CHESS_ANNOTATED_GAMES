@@ -833,7 +833,12 @@ who are close to uniting with each other.}
 56.Ka5 {The pressure on the a6 pawn is intact}
 56...Rc6 {Black keeps the pressure on the Knight duo}
 57.Nc5 {The Knight blocks and Black's defence is tight here}
-57...f4* {Black decides to exchange pawns and prolong the defence}
+57...f4 {Black decides to exchange pawns and prolong the defence}
+58.Ne2 {Supporting the g3 pawn}
+58...fxg3 59.fxg3 Kf6 {Improving the position of the King}
+60.Nd4 Rc8 {The attacked Rook is defended}
+61.Kxa6* {Black's last pawn hope is also gone}
+
 
 [Event "Russia25/pr29 (RUS)"]
 [Site "ICCF"]

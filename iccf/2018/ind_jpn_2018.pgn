@@ -102,7 +102,12 @@ The Bishop adds more pressure on the d7 Knight and threatens hxg4. ...Nxg4 canno
 
 23...Qc7 {Attacking the pawn on g3}
 
-24.Kh2* {The King gets into the firing line of the Black Queen to protect the pawn.But the King is safe}
+24.Kh2 {The King gets into the firing line of the Black Queen to protect the pawn.But the King is safe}
+
+24...Nh5 {Piling up more pressure on the g3 pawn}
+
+25.Nf1* {The Knight comes back to shore up the defence of the attacked pawn}
+
 
 [Event "IND-JPN 2018"]
 [Site "ICCF"]
@@ -216,4 +221,12 @@ Black is also willing to sacrifice the exchange if Black accepts the challenge 1
 
 25.Ng5+ {White's Knight advances further}
 
-25...Ke7* {25...Kf6 26.Ne4+ Ke7 and Black's King will have to go back to e7 in any case. Look how the rush to attack White's Knight actually ends up wasting a tempo for Black}
+25...Ke7 {25...Kf6 26.Ne4+ Ke7 and Black's King will have to go back to e7 in any case. Look how the rush to attack White's Knight actually ends up wasting a tempo for Black}
+
+26.h4 {White waits}
+
+26...h6 {Kicking the Knight back}
+
+27.Ne4* {White posts the Knight on the central e4 square}
+
+ 
