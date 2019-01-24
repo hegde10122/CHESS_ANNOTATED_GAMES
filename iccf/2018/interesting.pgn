@@ -53,7 +53,9 @@ White can double Black's pawns with Bxh6 gxh6}
 24.b6? {Attacking the Queen but White has overstreteched. Pawn on c5 is now weakened}
 24...Qc8 {The Queen maintains the pressure on the c5 pawn and also maintains her grasp over the h3-c8 diagonal}
 25.h4 {White challenges on the Kingside now}
-25...h6* {Black is in no hurry to capture the pawn on c5}
+25...h6 {Black is in no hurry to capture the pawn on c5}
+26.Qa5 {Defending the pawn on c5}
+26...Ne6* {Adding a third attacker to the pawn}
 
 [Event "*"]
 [Site "Chess.com"]
