@@ -54,9 +54,9 @@ Bishop on c1 gets locked-in and White will have to do extra to activate it.}
 
 10...Bxf3 {Black gives up the Bishop pair and aims to play in the centre}
 
-11.Qxf3 Nc6* {The Rook on a8 was attacked and this move not only attacks the pawn on d4 but also blocks the Queen's vigil from f3}
+11.Qxf3 Nc6 {The Rook on a8 was attacked and this move not only attacks the pawn on d4 but also blocks the Queen's vigil from f3}
 
-
+12.Be3* {Protecting the pawn on d4.The position is equal}
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -99,8 +99,11 @@ downside is that the Bishop on c8 may take time to activate}
 8...g6 {The dark-squares f6 and h6 are weakened by this move but Black aims to stop White's counterplay.
 8...Kf8!? is also a modern-day idea wherein the Black King protects the dark squares! Whith ...g6 Black has kept his options of playing O-O-O later intact.}
 
-9.Nf3* {White persists with the gambit pawn on c2 and hopes to play Ng5,Qf4 and attack the pawn on f7. This makes sense as the Bishop on c8 
+9.Nf3 {White persists with the gambit pawn on c2 and hopes to play Ng5,Qf4 and attack the pawn on f7. This makes sense as the Bishop on c8 
 is hindered and the Black Queen is sitting on a4}
+
+9...h6* {9...Nc6 is the recommended move according to theory and practice. The idea here is to meet 10.Ng5 with 10...Nd8. White's goal is to infiltrate the Kingside with the Queen and the Knight.
+Black deviates from theory and has snuffed out the Ng5 option. In the process Black is lagging behind in development.}
 
 
 [Event "AA/C18/SF/A"]
@@ -226,8 +229,10 @@ lighter colours. Black's pawns are currently fixed on light squares and trading 
 
 14.Rfe1 {The Knight on e2 is unpinned now and White exerts control of his own on the e-file. White is now aiming to play Ng3 followed by e4 with a sound game.}
 
-14...Bb7*  {A strange move. The Bishop goes to the worst possible square where the pawns on c6 and d5 obstruct its activity. Perhaps 
+14...Bb7  {A strange move. The Bishop goes to the worst possible square where the pawns on c6 and d5 obstruct its activity. Perhaps 
 Black wants to play ...Na6. 14...Nd7 looks much better.}
+
+15.a3* {White prepares the Queen-side expansion with b4 to follow}
 
 
 [Event "AA/C18/SF/A"]
@@ -278,7 +283,10 @@ Moves like Be3,Qd2,Nd2 and O-O-O are on the cards.}
 
 8...Nc6 {Adding more pressure on the d4 pawn.8...e5 has also been played here in the spirit of the King's Indian defence}
 
-9.O-O-O* {White is now ready to work on the Kingside with a possible assault on the Black King. The d4 pawn is also defended thrice as the Rook on d1 joins the battle}
+9.O-O-O {White is now ready to work on the Kingside with a possible assault on the Black King. The d4 pawn is also defended thrice as the Rook on d1 joins the battle}
+
+9...f5!?* {Attacking the centre. Since WHite's Kingside development has yet not started, Black takes his opportunity to start his counterplay.}
+
 
 
 [Event "AA/C18/SF/A"]
@@ -290,7 +298,7 @@ Moves like Be3,Qd2,Nd2 and O-O-O are on the cards.}
 [Result "*"]
 [WhiteElo "2188"]
 [BlackElo "2251"]
-[ECO "*"]
+[ECO "C18"]
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "Turkmenistan"]
 [BlackTeam "India"]
@@ -332,7 +340,13 @@ around by developing pieces and pawns to attack this pawn chain's base on the d4
 
 8.Qg4!? {An ambitious move where the pawn on d4 is protected but the pawn on c2 is left as a gambit. White Queen is willing to damage Black's Kingside with Qxg7}
 
-8...Kf8!?* {The Black King protects the dark squares!. This idea though makes castling impossible.Now ...Qxc2 is in the air}
+8...Kf8!? {The Black King protects the dark squares!. This idea though makes castling impossible.Now ...Qxc2 is in the air}
+
+9.h4?! {Not a good move. White believes that the Black King can simply be checkmated soon.9.Nf3 was more accurate.}
+
+9...Ne7* {Black's idea is to play ...Qxc2 followed by ...Qg6 to neutralise White's attacking chances. The Knight on e7 also prepares to capture ...Nxg6 if White trades Queens with Qxg6}
+
+
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -343,7 +357,7 @@ around by developing pieces and pawns to attack this pawn chain's base on the d4
 [Result "*"]
 [WhiteElo "2251"]
 [BlackElo "2381"]
-[ECO "*"]
+[ECO "E56"]
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "India"]
 [BlackTeam "Pakistan"]
@@ -373,10 +387,11 @@ is on quick development. This move opens the diagonal for the Bishop on f1}
 
 6...c5 {The threat is ...cxd4 and hence White cannot push e4 again. In this main line Black has an equal stake in the centre}
 
-7.O-O Nc6* {Adding more pressure on the pawn on d4 and preventing e2-e4. This is the standard opening theory}
+7.O-O Nc6 {Adding more pressure on the pawn on d4 and preventing e2-e4. This is the standard opening theory}
 
-
-
+8.a3* {White can also decide to exchange pawns in the centre with cxd5 and leave Black with a possible isolated pawn that can be targeted later
+The well-trodden path is to win the Bishop pair with 8.a3 Bxc3 9.bxc3.
+However, White's Bishop pair is offset with the damaged pawn structure}
 
 
 [Event "AA/C18/SF/A"]
@@ -443,7 +458,11 @@ To avoid this fork White will have to retract the Bishop by playing Be2 in any c
 
 10...dxc4 {Black gives up the centre.In my opinion this is an odd way of playing the anti-Meran }
 
-11.bxc4* {11.Bxc4 allows 11...b5 kicking the Bishop again.}
+11.bxc4 {11.Bxc4 allows 11...b5 kicking the Bishop again.}
+
+11...b6 {Looking for ...c5 and ...Bb7}
+
+12.Ne4* {White wants the Bishops to be exchanged}
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]

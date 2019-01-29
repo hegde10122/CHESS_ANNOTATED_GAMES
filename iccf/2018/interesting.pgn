@@ -55,7 +55,9 @@ White can double Black's pawns with Bxh6 gxh6}
 25.h4 {White challenges on the Kingside now}
 25...h6 {Black is in no hurry to capture the pawn on c5}
 26.Qa5 {Defending the pawn on c5}
-26...Ne6* {Adding a third attacker to the pawn}
+26...Ne6 {Adding a third attacker to the pawn}
+27.hxg5 hxg5* {Simplification}
+
 
 [Event "*"]
 [Site "Chess.com"]
