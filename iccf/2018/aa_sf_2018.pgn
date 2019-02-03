@@ -379,7 +379,7 @@ around by developing pieces and pawns to attack this pawn chain's base on the d4
 [Result "*"]
 [WhiteElo "2251"]
 [BlackElo "2381"]
-[ECO "E56"]
+[ECO "E58"]
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "India"]
 [BlackTeam "Pakistan"]
@@ -415,7 +415,12 @@ is on quick development. This move opens the diagonal for the Bishop on f1}
 The well-trodden path is to win the Bishop pair with 8.a3 Bxc3 9.bxc3.
 However, White's Bishop pair is offset with the damaged pawn structure}
 
-8...Bxc3 9.bxc3* {White eliminates Black's Bishop pair}
+8...Bxc3 9.bxc3 {White eliminates Black's Bishop pair}
+
+9...Qc7 {The most common continuation Black does not commit to any pawn breaks in the centre}
+
+10.Bb2* {White places the Bishop on the a1-h8 diagonal and wants to play cxd5 followed by c4 to activate the dark-squared Bishop}
+
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
