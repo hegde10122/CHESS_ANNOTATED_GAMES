@@ -252,7 +252,9 @@ Black wants to play ...Na6. 14...Nd7 looks much better.}
 
 15.a3 {White prepares the Queen-side expansion with b4 to follow}
 
-15...Nf6* {The Knight comes back to control the e4 square}
+15...Nf6 {The Knight comes back to control the e4 square}
+
+16.b4* {White pushes the pawn in a quest to expand on the Queenside}
 
 
 [Event "AA/C18/SF/A"]
