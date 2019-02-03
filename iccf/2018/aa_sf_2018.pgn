@@ -486,7 +486,8 @@ To avoid this fork White will have to retract the Bishop by playing Be2 in any c
 11...b6 {Looking for ...c5 and ...Bb7}
 
 12.Ne4 {White wants the Bishops to be exchanged}
-12...Bxd2 13.Nexd2 Bb7* {Black's now left with both options of pushing ...c5 or ...e5}
+12...Bxd2 13.Nexd2 Bb7 {Black's now left with both options of pushing ...c5 or ...e5}
+14.Rfe1* {White's plan is to play Bd3 and push e4 to gain space in the centre.} 
 
 
 [Event "AA/C18/SF/A"]
@@ -534,7 +535,6 @@ To avoid this fork White will have to retract the Bishop by playing Be2 in any c
 8.e3* {Prepares Bd3 and Kingside development}
 
 
-
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
 [Date "2018.11.30"]
@@ -575,6 +575,7 @@ The whole idea behind 4.Qc2 was to avoid doubled pawns. Hence 5.Bd2 is the more 
 This is playable for Black but the position is cramped. But now if White decides to pursue a massive centre with 9.e4 then 9...e5 10.d5 allows Black to 
 play 10...Ne7 since the e7 square is vacant. This Knight can then jump to g6 or f5 later. Hence I feel that the move 8...Re8 is better than 8...Qe7.Now Black is ready to push ...e5 on the next move}
 
+
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
 [Date "2018.11.30"]
@@ -608,8 +609,13 @@ play 10...Ne7 since the e7 square is vacant. This Knight can then jump to g6 or 
 
 7.Bd2 {The best defense}
 
-7...Qa4!?* {The Queen move that pressurises the pawn on c2 as well as the pawn on d4. White's main plan is to attack the dark-squared pawn on g7 by playing Qg4 in the advanced Winawer.
+7...Qa4!? {The Queen move that pressurises the pawn on c2 as well as the pawn on d4. White's main plan is to attack the dark-squared pawn on g7 by playing Qg4 in the advanced Winawer.
 But now the c2 pawn will loose support if White wishes to pursue his main idea of controlling the dark-squares.}
+
+8.Qb1 {White threatens Bb5+ winning the Queen on the next move}
+
+8...c4* {Black closes the centre and ensures that White's Bishops are impaired for the time being}
+
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -646,6 +652,6 @@ But now the c2 pawn will loose support if White wishes to pursue his main idea o
 
 6...Bb7 {Controlling the a8-h1 diagonal}
 
-7.e3* {White wants to develop his Kingside now}
+7.e3 {White wants to develop his Kingside now}
 
-7...O-O {Black completes the Kingside development and also brings the Rook into the game} 
+7...O-O* {Black completes the Kingside development and also brings the Rook into the game} 
