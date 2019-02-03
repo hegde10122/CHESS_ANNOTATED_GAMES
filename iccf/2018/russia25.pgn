@@ -764,7 +764,9 @@ who are close to uniting with each other.}
 61...Ke5 {Attacking the Knight}
 62.Nb5 {All pieces are now converging on the golden b8 square which will ensure White's win}
 62...Rh8 {Delaying the inevitable}
-63.Nc3* {White prepares b5}
+63.Nc3 {White prepares b5}
+63...Rh6+* {Pushing the White King back}
+
 
 [Event "Russia25/pr29 (RUS)"]
 [Site "ICCF"]
