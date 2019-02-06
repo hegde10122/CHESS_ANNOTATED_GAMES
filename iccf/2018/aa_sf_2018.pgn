@@ -61,7 +61,13 @@ Bishop on c1 gets locked-in and White will have to do extra to activate it.}
 12...e5 {This pawn push was the idea behind 9...Bd6. The d4 pawn is attacked again6gb  leaqding to sharp play}
 
 13.dxe5 Nxe5 {Attacking the Queen}
-14.Qd1* {The Queen goes back to the starting square}
+14.Qd1 {The Queen goes back to the starting square}
+
+14...Nxd3 {Black snatches the Bishop and goes for simplification}
+
+15.Qxd3 {Attacking the Bishop on d6}
+
+15...Qc7* {The Queen-Bishop battery is now eyeing the pawn on h2 and threatening ...Bxh2+}
 
 
 
@@ -115,7 +121,6 @@ Black deviates from theory and has snuffed out the Ng5 option. In the process Bl
 10.Bd3 {White perhaps should have tried 10.Be2 as the Bishop on d3 will have to go back as we shall see}
 
 10...c4* {Black closes the centre and kicks the Bishop}
-
 
 
 [Event "AA/C18/SF/A"]
@@ -173,9 +178,16 @@ White needs to develop rapidly without losing too many tempi to justify giving u
 
 11.a3 {White wants to win the Bishop pair by putting the question to the Bishop}
 
-11...Ba5* {Black retreats back with the Bishop and keeps the Bishop pair.
+11...Ba5 {Black retreats back with the Bishop and keeps the Bishop pair.
 11...Bxc3 is not attractive as 12.Nxc3 does give Black any good compensation for the relinquished 
 Bishop pair}
+
+12.Nf4 {Attacking the pawn on d5 with the third piece}
+
+12...Bxc3 {Eliminating one of the attackers and damaging the pawn structure in the process}
+
+13.bxc3 Na5* {Looking to play ...Nc4 and land the Knight on an outpost}
+
 
 
 [Event "AA/C18/SF/A"]
@@ -315,7 +327,11 @@ Moves like Be3,Qd2,Nd2 and O-O-O are on the cards.}
 10...Nb4 {The Knight will go back to d5 square which cannot be attacked by White pawns. Black is also looking at a possible plan of a Queenside 
 initiative with moves like ...a5,...Be6 and ...Na2+. }
 
-11.Nh3* {The King's Knight is developed controlling the f4 square. It is important that 11.a3 should not be played as it unnecessarily weakens the pawn cover of the White King.}
+11.Nh3 {The King's Knight is developed controlling the f4 square. It is important that 11.a3 should not be played as it unnecessarily weakens the pawn cover of the White King.}
+
+11...Be6 {Attacking the pawn on a2 with this Bishop development.}
+
+12.Kb1* {The King defends the pawn.12.a3 Na2+ is not desirable for White.}
 
 
 [Event "AA/C18/SF/A"]
@@ -373,7 +389,15 @@ around by developing pieces and pawns to attack this pawn chain's base on the d4
 
 9.h4?! {Not a good move. White believes that the Black King can simply be checkmated soon.9.Nf3 was more accurate.}
 
-9...Ne7* {Black's idea is to play ...Qxc2 followed by ...Qg6 to neutralise White's attacking chances. The Knight on e7 also prepares to capture ...Nxg6 if White trades Queens with Qxg6}
+9...Ne7 {Black's idea is to play ...Qxc2 followed by ...Qg6 to neutralise White's attacking chances. The Knight on e7 also prepares to capture ...Nxg6 if White trades Queens with Qxg6}
+
+10.h5?! {White pushes the pawn forward with possible ideas like Rh1-h3-g3.}
+
+10...h6* {It is necessary to halt the pawn march. 10...Nbc6?! is a bad choice as it allows White to play 11.h6! 
+Now Black cannot play 11...g6? as this leaves the f6-g7 squares as glaring holes for White to
+exploit. 12.Qf4 and with moves like Ng1-f3-g5 threatening Qf7# Black will be in a bad shape.
+Also 10...Nbc6?! 11.h6! gxh6 12.Nf3 Qxc2 with the idea of retreating to g6 also does not give Black a comfortable game.
+13.Rc1 Qg6 14.Bxh6+! Ke8 15.Qf4 and Black is playing a tough game to survive}
 
 
 
@@ -499,7 +523,11 @@ To avoid this fork White will have to retract the Bishop by playing Be2 in any c
 
 12.Ne4 {White wants the Bishops to be exchanged}
 12...Bxd2 13.Nexd2 Bb7 {Black's now left with both options of pushing ...c5 or ...e5}
-14.Rfe1* {White's plan is to play Bd3 and push e4 to gain space in the centre.} 
+14.Rfe1 {White's plan is to play Bd3 and push e4 to gain space in the centre.} 
+
+14...c5* {Black plays the freeing move and the Bishop on b7 now breathes fire along the a8-h1 diagonal.The e4 pawn push needs more hard work from White}
+
+
 
 
 [Event "AA/C18/SF/A"]
@@ -544,7 +572,14 @@ To avoid this fork White will have to retract the Bishop by playing Be2 in any c
 
 7...Bd6 {Black wants to castle soon}
 
-8.e3* {Prepares Bd3 and Kingside development}
+8.e3 {Prepares Bd3 and Kingside development}
+
+8...O-O 9.Bd3 {White develops the Bishop and adds more steel to the b1-h7 diagonal}
+9...Re8 {The Rook is developed on the semi-open file considering the fact that White's King is still on the e1 square}
+
+10.Nge2* {White's Knight does not come to the natural f3 square as this allows Black to play ...Bg4. White's main idea here 
+is to restrict the development of the Bishop on c8 as much as he can.}
+
 
 
 [Event "AA/C18/SF/A"]
@@ -626,7 +661,13 @@ But now the c2 pawn will loose support if White wishes to pursue his main idea o
 
 8.Qb1 {White threatens Bb5+ winning the Queen on the next move}
 
-8...c4* {Black closes the centre and ensures that White's Bishops are impaired for the time being}
+8...c4 {Black closes the centre and ensures that White's Bishops are impaired for the time being}
+
+9.Nh3!? {Nice move. Although it looks weird but White's idea is to play Nf4-h5 and then attack the g7 pawn. White wants Black to push g7-g6 
+and weaken the dark squares around the King}
+
+9...Nc6* {Black develops the Queen's Knight and prepares ...Bd7 followed by O-O-O.This is the standard plan in this variation for Black}
+
 
 
 [Event "AA/C18/SF/A"]

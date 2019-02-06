@@ -109,8 +109,9 @@ The Bishop adds more pressure on the d7 Knight and threatens hxg4. ...Nxg4 canno
 25.Nf1 {The Knight comes back to shore up the defence of the attacked pawn}
 
 25...gxh3 {The hanging pawn is exchanged} 26.gxh3 Qd6 {A waiting move}
-27.Nb4* {The Knight's position is improved and a third piece attacks the backward pawn on c6}
-
+27.Nb4 {The Knight's position is improved and a third piece attacks the backward pawn on c6}
+27...Nb6?!* {Hard to understand the idea behind this move.27...Nhf6 was much better as the Knight on h5 is not fulfilling any meaningful objective}
+28.Nxc6 {The pawn on c6 was ready to be munched.}  
 
 
 [Event "IND-JPN 2018"]
