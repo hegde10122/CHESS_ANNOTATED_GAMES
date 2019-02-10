@@ -535,11 +535,14 @@ To avoid this fork White will have to retract the Bishop by playing Be2 in any c
 
 14...c5 {Black plays the freeing move and the Bishop on b7 now breathes fire along the a8-h1 diagonal.The e4 pawn push needs more hard work from White}
 
-15. a4* {White has to change his plan as 15.Bd3 to push e4 looks unattractive at the moment.
+15. a4 {White has to change his plan as 15.Bd3 to push e4 looks unattractive at the moment.
 The idea of pushing ...Rd8 on move 9 is much clearer now. 
 15.Bd3 with an idea of pushing allows Black to play 15...Rac8 16.Rac1 Nb8 clearing the Rook's control over the d4 square making e4 impossible.
 15.Bd3 Rac6 16.e4? is bad because 16...cxd4 17.Nxd4? Nc5! attacking the Knight and the Bishop on d3 indirectly. White will loose a piece.
 White plans to push a5 and then use Black's b6 pawn as a pivot to open up the Queenside files}
+
+15...a5 {Black nips White's plan in the bud}
+
 
 
 
