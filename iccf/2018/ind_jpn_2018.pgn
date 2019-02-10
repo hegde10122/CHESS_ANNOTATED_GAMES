@@ -110,8 +110,15 @@ The Bishop adds more pressure on the d7 Knight and threatens hxg4. ...Nxg4 canno
 
 25...gxh3 {The hanging pawn is exchanged} 26.gxh3 Qd6 {A waiting move}
 27.Nb4 {The Knight's position is improved and a third piece attacks the backward pawn on c6}
-27...Nb6?!* {Hard to understand the idea behind this move.27...Nhf6 was much better as the Knight on h5 is not fulfilling any meaningful objective}
+27...Nb6?! {Hard to understand the idea behind this move.27...Nhf6 was much better as the Knight on h5 is not fulfilling any meaningful objective}
 28.Nxc6 {The pawn on c6 was ready to be munched.}  
+28...Nc4 {Cutting off the Queen's support to the Knight on c6 and also attacking the White pawn on e3}
+29.Nb4 {The Knight is back as there is nothing else to be done from the c6 square}
+29...Nf6 {The Knight goes back and gets ready for a different plan.Black could have also attempted the tricky idea 
+and win back the pawn 29...Rxe3! 30.Rxe3  Nxe3 31.Qf2 Nxf5 32.Qxf5 where Black is okay. 31.Nxe3? is a mistake because of 31.Qxg3+ 
+32.Kh1 Qxe3 and Black is better}
+30.Qg2* {The Queen switches over to the Kingside with pressure on the isolated d5 pawn. White's main goal is to regroup his Bishop and the Knight on f1
+with moves like Nf1-d2-f3 and Bf5-d3 }
 
 
 [Event "IND-JPN 2018"]

@@ -268,7 +268,15 @@ Black wants to play ...Na6. 14...Nd7 looks much better.}
 
 16.b4 {White pushes the pawn in a quest to expand on the Queenside}
 
-16...Nbd7* {The Knight is developed connecting the Rooks}
+16...Nbd7 {The Knight is developed connecting the Rooks}
+
+17.Nf4*{
+Before White commits his a or b-pawn further, this Knight jump adds an attacker on the d5 pawn making Black's push of c5 harder.
+17.Qb3 is also another idea - As White cannot push a4 immediately because the pawn on b4 will be lost after ....Qxb4. 
+This Queen move supports the pawn on b4 and now White can push a4 and b5 according to plan of Queenside expansion. 
+The Queen on b3 also adds more pressure on the d5 pawn. White can also play Nf4 later bringing a thrd attacker to the d5 pawn disallowing Black from play ..c5 and improving 
+the position of the Bishop on b7 and gaining space in the centre}
+
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -525,8 +533,13 @@ To avoid this fork White will have to retract the Bishop by playing Be2 in any c
 12...Bxd2 13.Nexd2 Bb7 {Black's now left with both options of pushing ...c5 or ...e5}
 14.Rfe1 {White's plan is to play Bd3 and push e4 to gain space in the centre.} 
 
-14...c5* {Black plays the freeing move and the Bishop on b7 now breathes fire along the a8-h1 diagonal.The e4 pawn push needs more hard work from White}
+14...c5 {Black plays the freeing move and the Bishop on b7 now breathes fire along the a8-h1 diagonal.The e4 pawn push needs more hard work from White}
 
+15. a4* {White has to change his plan as 15.Bd3 to push e4 looks unattractive at the moment.
+The idea of pushing ...Rd8 on move 9 is much clearer now. 
+15.Bd3 with an idea of pushing allows Black to play 15...Rac8 16.Rac1 Nb8 clearing the Rook's control over the d4 square making e4 impossible.
+15.Bd3 Rac6 16.e4? is bad because 16...cxd4 17.Nxd4? Nc5! attacking the Knight and the Bishop on d3 indirectly. White will loose a piece.
+White plans to push a5 and then use Black's b6 pawn as a pivot to open up the Queenside files}
 
 
 
@@ -577,9 +590,10 @@ To avoid this fork White will have to retract the Bishop by playing Be2 in any c
 8...O-O 9.Bd3 {White develops the Bishop and adds more steel to the b1-h7 diagonal}
 9...Re8 {The Rook is developed on the semi-open file considering the fact that White's King is still on the e1 square}
 
-10.Nge2* {White's Knight does not come to the natural f3 square as this allows Black to play ...Bg4. White's main idea here 
+10.Nge2 {White's Knight does not come to the natural f3 square as this allows Black to play ...Bg4. White's main idea here 
 is to restrict the development of the Bishop on c8 as much as he can.}
 
+10...Na6* {Black wants to play ...Nb4 and eliminates White's light-squared Bishop}
 
 
 [Event "AA/C18/SF/A"]

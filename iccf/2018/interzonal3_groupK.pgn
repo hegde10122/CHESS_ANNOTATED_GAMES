@@ -86,8 +86,10 @@ Black's light-squared Bishop has problems occupying a good square in this variat
 
 22...Bxc5 {Black captures the pesky Knight}
 23.Qxb7 Rab8 {The b2 pawn is also indirectly attacked as the Queen has to move}
-24.Qxd5* {The Queen has got the central d5 pawn with a 4-3 pawn majority for White on the Kingside}
-
+24.Qxd5 {The Queen has got the central d5 pawn with a 4-3 pawn majority for White on the Kingside}
+24...Rxb2 {Black occupies the second rank }
+25.Qxe6 fxe6 {The Queen's go off the board and Black now has three pawn islands as compared to White's two}
+26.Rc1* {Pinning the Bishop on c5}
 
 
 [Event "3rd IZIT Pr K"]

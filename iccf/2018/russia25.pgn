@@ -494,9 +494,10 @@ It is better for Black to play with more freedom at the cost of a pawn}
 80...Nf8 {The only good move that halts Ke6. 80...Kf6? allows 81.Nf4 and the h5 pawn comes under pressure}
 81.e3 {A waiting move that is excellent under the circumstances}
 81...Nd7 82.Kd6 {The King marches forward}
-82...Nb6* {Black has a slim chance of holding on to the position}
+82...Nb6 {Black has a slim chance of holding on to the position}
 83.Ke7 {The King goes further up the board in a quest to attack the f5 pawn from behind}
 83...Na4* {The Knight goes away further and prepares to come back to c5}
+
 
 [Event "Russia25/pr29 (RUS)"]
 [Site "ICCF"]
@@ -766,7 +767,10 @@ who are close to uniting with each other.}
 62.Nb5 {All pieces are now converging on the golden b8 square which will ensure White's win}
 62...Rh8 {Delaying the inevitable}
 63.Nc3 {White prepares b5}
-63...Rh6+* {Pushing the White King back}
+63...Rh6+ {Pushing the White King back}
+64.Ka5 Kd6 {The Black King gets closer to the passed b-pawn}
+65.N3e4+ {Asking the King a question.}
+65...Kc7* {Going closer to the Queening square b8}
 
 
 [Event "Russia25/pr29 (RUS)"]
