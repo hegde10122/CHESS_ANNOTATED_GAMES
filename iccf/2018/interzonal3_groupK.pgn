@@ -89,7 +89,8 @@ Black's light-squared Bishop has problems occupying a good square in this variat
 24.Qxd5 {The Queen has got the central d5 pawn with a 4-3 pawn majority for White on the Kingside}
 24...Rxb2 {Black occupies the second rank }
 25.Qxe6 fxe6 {The Queen's go off the board and Black now has three pawn islands as compared to White's two}
-26.Rc1* {Pinning the Bishop on c5}
+26.Rc1* {Pinning the Bishop on c5 and not allowing Black to capture 26...Rxa2.}
+
 
 
 [Event "3rd IZIT Pr K"]
@@ -160,7 +161,11 @@ will allow White to penetrate the seventh rank.}
 27...Re8 {Protecting the Bishop and X-raying the White Bishop on e3}
 28.Bxb6 Bxh3 {Black gets the pawn back with an equal position}
 29.Kf2 {Preventing ...Bg4 that would have pinned the Bishop on e2}
-29...Bf8* {Attacking the Rook}
+29...Bf8 {Attacking the Rook}
+30.Rd5 {The Rook goes back}
+30...Re6 {Attacking the Bishop on b6}
+31.Bc5 {Offering to trade Bishops and simplify further}
+31...Bxc5+ 32.Rxc5 Rd6* {Covering the c8 square with the Bishop and disallowing the White Rook from penetrating the eight rank}
 
 
 [Event "3rd IZIT Pr K"]
@@ -316,7 +321,7 @@ Knight on c3 from the King's Indian Bishop on g7.}
 24...cxd4 25.Nf2 {Knight safety}
 25...Qxg2 26.Qxd4 {Both sides grab a pawn apiece} Qh2
 27.Bd5 {The Bishop is now safe with its pawns}
-27...Qe5* {Offering a Queen trade}
+27...Qe5 {Offering a Queen trade}
 28.Qxe5 dxe5 {The Queens go off the board with a drawish ending}
 29.Ng4 {Attacking the pawn on e5 which will soon fall}
 29...Kg7 {...Re8?? 30.Nf6+ winning the Rook and the game}
@@ -476,7 +481,11 @@ White also cannot push h4 to halt Black's pawn march because after 14.h4 Ng6 Bla
 20.a4 {White aims to use the pawn on b6 as a hook to open up lines against the Black King. White is planning to push a5 followed by axb6}
 20...f5 {Black is consistent with his aim of opening lines against the White King.The Knight on g4 is attacked and White
 cannot push a5 soon}
-21.Ne5* {Attacking the pawn on c4 now}
+21.Ne5 {Attacking the pawn on c4 now}
+21...Nc6 {Offering to trade the nemesis on e5}
+22.Bg5 {White is generating some counterplay by attacking the Rook}
+22...Rc8* {Safeguarding the Rook} 
+
 
 [Event "3rd IZIT Pr K"]
 [Site "ICCF"]

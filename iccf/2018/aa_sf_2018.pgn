@@ -67,8 +67,9 @@ Bishop on c1 gets locked-in and White will have to do extra to activate it.}
 
 15.Qxd3 {Attacking the Bishop on d6}
 
-15...Qc7* {The Queen-Bishop battery is now eyeing the pawn on h2 and threatening ...Bxh2+}
+15...Qc7 {The Queen-Bishop battery is now eyeing the pawn on h2 and threatening ...Bxh2+}
 
+16.h3* {16.g3 is also okay}
 
 
 [Event "AA/C18/SF/A"]
@@ -120,7 +121,11 @@ Black deviates from theory and has snuffed out the Ng5 option. In the process Bl
 
 10.Bd3 {White perhaps should have tried 10.Be2 as the Bishop on d3 will have to go back as we shall see}
 
-10...c4* {Black closes the centre and kicks the Bishop}
+10...c4 {Black closes the centre and kicks the Bishop}
+
+11.Be2 {11.Bxg6 fxg6 12.Qxg6+ Kf8 is okay for Black as White's Rooks are still on their home squares}
+
+11...Nc6* {No more pawn moves!}
 
 
 [Event "AA/C18/SF/A"]
@@ -186,9 +191,12 @@ Bishop pair}
 
 12...Bxc3 {Eliminating one of the attackers and damaging the pawn structure in the process}
 
-13.bxc3 Na5* {Looking to play ...Nc4 and land the Knight on an outpost}
+13.bxc3 Na5 {Looking to play ...Nc4 and land the Knight on an outpost}
 
+14.Nxe6 fxe6 {White eliminates the other Bishop too but this is slightly erroneous as the pawn-structure for Black has improved.
+14.Re1 was better that threatened to win the pawn on e6 after the exchange of the White Knight for the Black Bishop on e6}
 
+15.Qd3* {Bad choice to protect the pawn on c3.}
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -270,12 +278,15 @@ Black wants to play ...Na6. 14...Nd7 looks much better.}
 
 16...Nbd7 {The Knight is developed connecting the Rooks}
 
-17.Nf4*{
+17.Nf4{
 Before White commits his a or b-pawn further, this Knight jump adds an attacker on the d5 pawn making Black's push of c5 harder.
 17.Qb3 is also another idea - As White cannot push a4 immediately because the pawn on b4 will be lost after ....Qxb4. 
 This Queen move supports the pawn on b4 and now White can push a4 and b5 according to plan of Queenside expansion. 
 The Queen on b3 also adds more pressure on the d5 pawn. White can also play Nf4 later bringing a thrd attacker to the d5 pawn disallowing Black from play ..c5 and improving 
 the position of the Bishop on b7 and gaining space in the centre}
+
+17...Qd6* {The Queen adds more protection to the pawn on d5}
+
 
 
 [Event "AA/C18/SF/A"]
@@ -339,7 +350,9 @@ initiative with moves like ...a5,...Be6 and ...Na2+. }
 
 11...Be6 {Attacking the pawn on a2 with this Bishop development.}
 
-12.Kb1* {The King defends the pawn.12.a3 Na2+ is not desirable for White.}
+12.Kb1 {The King defends the pawn.12.a3 Na2+ is not desirable for White.}
+
+12...Qd7* {Connecting the Rooks. The Queen can swing over to a4 but currently the White Knight on c3 controls it.}
 
 
 [Event "AA/C18/SF/A"]
@@ -401,12 +414,15 @@ around by developing pieces and pawns to attack this pawn chain's base on the d4
 
 10.h5?! {White pushes the pawn forward with possible ideas like Rh1-h3-g3.}
 
-10...h6* {It is necessary to halt the pawn march. 10...Nbc6?! is a bad choice as it allows White to play 11.h6! 
+10...h6 {It is necessary to halt the pawn march. 10...Nbc6?! is a bad choice as it allows White to play 11.h6! 
 Now Black cannot play 11...g6? as this leaves the f6-g7 squares as glaring holes for White to
 exploit. 12.Qf4 and with moves like Ng1-f3-g5 threatening Qf7# Black will be in a bad shape.
 Also 10...Nbc6?! 11.h6! gxh6 12.Nf3 Qxc2 with the idea of retreating to g6 also does not give Black a comfortable game.
 13.Rc1 Qg6 14.Bxh6+! Ke8 15.Qf4 and Black is playing a tough game to survive}
 
+11.Rh3!? {White wants to attack with the Queen-Rook battery on the f7 or g7 square depending upon Black's response. White wants check-mate at any cost! }
+
+11...Nbc6* {Developing the Knight which can go to d8 and protect the f7 square if required}
 
 
 [Event "AA/C18/SF/A"]
@@ -458,7 +474,13 @@ However, White's Bishop pair is offset with the damaged pawn structure}
 
 9...Qc7 {The most common continuation Black does not commit to any pawn breaks in the centre}
 
-10.Bb2* {White places the Bishop on the a1-h8 diagonal and wants to play cxd5 followed by c4 to activate the dark-squared Bishop}
+10.Bb2 {White places the Bishop on the a1-h8 diagonal and wants to play cxd5 followed by c4 to activate the dark-squared Bishop}
+
+10...dxc4 {Black could also have played 10...Na5 forcing White to play 11.cxd5}
+
+11.Bxc4 {White now has the Bishop pair but Black is not too bad either}
+
+11...e5* {Putting more pressure on the d4 pawn and clearing the c8-g4 diagonal for the light-squared Bishop on c8}
 
 
 [Event "AA/C18/SF/A"]
@@ -541,7 +563,7 @@ The idea of pushing ...Rd8 on move 9 is much clearer now.
 15.Bd3 Rac6 16.e4? is bad because 16...cxd4 17.Nxd4? Nc5! attacking the Knight and the Bishop on d3 indirectly. White will loose a piece.
 White plans to push a5 and then use Black's b6 pawn as a pivot to open up the Queenside files}
 
-15...a5 {Black nips White's plan in the bud}
+15...a5* {Black nips White's plan in the bud}
 
 
 
@@ -596,7 +618,14 @@ White plans to push a5 and then use Black's b6 pawn as a pivot to open up the Qu
 10.Nge2 {White's Knight does not come to the natural f3 square as this allows Black to play ...Bg4. White's main idea here 
 is to restrict the development of the Bishop on c8 as much as he can.}
 
-10...Na6* {Black wants to play ...Nb4 and eliminates White's light-squared Bishop}
+10...Na6 {Black wants to play ...Nb4 and eliminates White's light-squared Bishop.But I feel that this is a hasty move. 10...b6 followed by ...Bb7 or ...Nbd7 was better}
+
+11.Bxa6 bxa6 {White damages the pawn structure and is looking to exploit the doubled a-pawns and the backward c6 pawn in the long run}
+
+12.Bg3 {White asks Black to trade off the dark-squared Bishops. Black would be better off not to do this as in the long run White's pair of Knights would be much better than Black's 
+moribund light-squared Bishop and the Knight on f6}
+
+12...Bxg3* {Is this a mistake to exchange the active Bishop for the inactive one? Only time will tell.}
 
 
 [Event "AA/C18/SF/A"]
@@ -635,10 +664,15 @@ The whole idea behind 4.Qc2 was to avoid doubled pawns. Hence 5.Bd2 is the more 
 
 7...Bxc3 8.Bxc3 {The e4 square needs Queen's protection so that White can play e2-e4 later. Hence the recapture with the Bishop}
 
-8...Re8* {8...Qe7 is also another good alternative but then 9.e4!? e5 10.d5 Nb8
+8...Re8 {8...Qe7 is also another good alternative but then 9.e4!? e5 10.d5 Nb8
 This is playable for Black but the position is cramped. But now if White decides to pursue a massive centre with 9.e4 then 9...e5 10.d5 allows Black to 
 play 10...Ne7 since the e7 square is vacant. This Knight can then jump to g6 or f5 later. Hence I feel that the move 8...Re8 is better than 8...Qe7.Now Black is ready to push ...e5 on the next move}
 
+9.Rd1 {X-raying the Queen and this means Black cannot push ...e5 now. 9...e5? 
+10.dxe5 wins a pawn as Black cannot recapture with the pinned pawn on d6.White could have also played 9.O-O-O and brought the 
+Rook to d1 but perhaps it is a tad riskier}
+
+9...Bd7* {Black is ready to push ...e5 again as the Bishop blocks the Queen on d8 }
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -683,8 +717,11 @@ But now the c2 pawn will loose support if White wishes to pursue his main idea o
 9.Nh3!? {Nice move. Although it looks weird but White's idea is to play Nf4-h5 and then attack the g7 pawn. White wants Black to push g7-g6 
 and weaken the dark squares around the King}
 
-9...Nc6* {Black develops the Queen's Knight and prepares ...Bd7 followed by O-O-O.This is the standard plan in this variation for Black}
+9...Nc6 {Black develops the Queen's Knight and prepares ...Bd7 followed by O-O-O.This is the standard plan in this variation for Black}
 
+10.Nf4 {A follow-up to the last move. Attacking the g7 pawn via Nh5 is the idea but Black is comfortable here}
+
+10...Bd7* {Black prepares O-O-O}
 
 
 [Event "AA/C18/SF/A"]
@@ -724,4 +761,17 @@ and weaken the dark squares around the King}
 
 7.e3 {White wants to develop his Kingside now}
 
-7...O-O* {Black completes the Kingside development and also brings the Rook into the game} 
+7...O-O {Black completes the Kingside development and also brings the Rook into the game} 
+
+8.Be2 {White too intends to O-O soon}
+
+8...a5 {White wants to O-O and play b4 gaining space on the Queenside. White will then follow up with Bb2.This move prevents White 
+from pushing b2-b4}
+
+9.b3 {White does not allow Black to push ...a4 which would make the pawn push b2-b3 impossible and throttle his Queenside development}
+
+9...d6 {Prepares ...Nbd7 followed by the pawn push ...e5 or ...c5}
+
+10.Bb2* {A natural follow-up to the last move where the dark-squared Bishop is fianchettoed}
+
+

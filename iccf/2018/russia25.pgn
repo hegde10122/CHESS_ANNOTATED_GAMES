@@ -496,7 +496,9 @@ It is better for Black to play with more freedom at the cost of a pawn}
 81...Nd7 82.Kd6 {The King marches forward}
 82...Nb6 {Black has a slim chance of holding on to the position}
 83.Ke7 {The King goes further up the board in a quest to attack the f5 pawn from behind}
-83...Na4* {The Knight goes away further and prepares to come back to c5}
+83...Na4 {The Knight goes away further and prepares to come back to c5}
+84.Nf4 {White is casting a web slowly}
+84...Nb6* {Black does not commit  anything and waits}
 
 
 [Event "Russia25/pr29 (RUS)"]
@@ -770,8 +772,11 @@ who are close to uniting with each other.}
 63...Rh6+ {Pushing the White King back}
 64.Ka5 Kd6 {The Black King gets closer to the passed b-pawn}
 65.N3e4+ {Asking the King a question.}
-65...Kc7* {Going closer to the Queening square b8}
-
+65...Kc7 {Going closer to the Queening square b8}
+66.b5 {The pawn inches closer to b8}
+66...Rh2 {Looking to check the White King from behind}
+67.Na6+ {The Knight wants the Black King to move away and allow the pawn to advance further to b6} 
+67...Kc8* {Delaying the inevitable}
 
 [Event "Russia25/pr29 (RUS)"]
 [Site "ICCF"]
