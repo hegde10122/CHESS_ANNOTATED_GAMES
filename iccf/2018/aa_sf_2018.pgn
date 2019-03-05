@@ -69,7 +69,10 @@ Bishop on c1 gets locked-in and White will have to do extra to activate it.}
 
 15...Qc7 {The Queen-Bishop battery is now eyeing the pawn on h2 and threatening ...Bxh2+}
 
-16.h3* {16.g3 is also okay}
+16.h3 {16.g3 is also okay}
+
+16...Rfe8* {Rook belongs to the semi-open file}
+
 
 
 [Event "AA/C18/SF/A"]
@@ -125,7 +128,12 @@ Black deviates from theory and has snuffed out the Ng5 option. In the process Bl
 
 11.Be2 {11.Bxg6 fxg6 12.Qxg6+ Kf8 is okay for Black as White's Rooks are still on their home squares}
 
-11...Nc6* {No more pawn moves!}
+11...Nc6 {No more pawn moves!}
+
+12.Ra2 {White could have continued his aggressive intentions by playing 12.O-O The Rook support to the pawn on c2 looks timid in 
+comparison.}
+
+12...Bd7* {Black wants to play O-O-O next and neutralise White's Kingside aggression}
 
 
 [Event "AA/C18/SF/A"]
@@ -285,8 +293,9 @@ This Queen move supports the pawn on b4 and now White can push a4 and b5 accordi
 The Queen on b3 also adds more pressure on the d5 pawn. White can also play Nf4 later bringing a thrd attacker to the d5 pawn disallowing Black from play ..c5 and improving 
 the position of the Bishop on b7 and gaining space in the centre}
 
-17...Qd6* {The Queen adds more protection to the pawn on d5}
+17...Qd6 {The Queen adds more protection to the pawn on d5}
 
+18.Qb3* {The Queen not only protects the b5 advance but also eyes the d5 square making it harder for Black to achieve the pawn push ...c5}
 
 
 [Event "AA/C18/SF/A"]
@@ -625,8 +634,10 @@ is to restrict the development of the Bishop on c8 as much as he can.}
 12.Bg3 {White asks Black to trade off the dark-squared Bishops. Black would be better off not to do this as in the long run White's pair of Knights would be much better than Black's 
 moribund light-squared Bishop and the Knight on f6}
 
-12...Bxg3* {Is this a mistake to exchange the active Bishop for the inactive one? Only time will tell.}
+12...Bxg3 {Is this a mistake to exchange the active Bishop for the inactive one? Only time will tell.}
 
+13.Nxg3* {13.hxg3 is the top engine recommendation.
+ But having an open h-file  after self-inflicted doubled g2 and g3 pawns is beyond comprehension}
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -672,7 +683,7 @@ play 10...Ne7 since the e7 square is vacant. This Knight can then jump to g6 or 
 10.dxe5 wins a pawn as Black cannot recapture with the pinned pawn on d6.White could have also played 9.O-O-O and brought the 
 Rook to d1 but perhaps it is a tad riskier}
 
-9...Bd7* {Black is ready to push ...e5 again as the Bishop blocks the Queen on d8 }
+9...Bd7* {Black is ready to push ...e5 again as the Bishop on d7 blocks the Queen on d8 from White's Rook }
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -773,5 +784,19 @@ from pushing b2-b4}
 9...d6 {Prepares ...Nbd7 followed by the pawn push ...e5 or ...c5}
 
 10.Bb2* {A natural follow-up to the last move where the dark-squared Bishop is fianchettoed}
+
+10...Ne4!? {Black occupies the e4 square with a tempo on the White Queen. Black plans to play ...Nbd7,...f5 and a possible ...c5 or ...e5.}
+
+11.Qc2 {The Queen now eyes the Knight and White threatens to cut off the Bishop-Knight combination on e4 with the pawn push d5}
+
+11...Nd7 {More control over the c5 and e5 squares}
+
+12.O-O {White completes his development and connects the Rooks}
+
+12...f5 {Black overprotects the e4 square as White threatens to push d5 soon}
+
+13.d5* {White gains space in the centre and creates a light-square pawn complex on the Queenside squares b3-c4-d5}
+
+
 
 

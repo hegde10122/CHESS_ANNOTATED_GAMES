@@ -498,7 +498,8 @@ It is better for Black to play with more freedom at the cost of a pawn}
 83.Ke7 {The King goes further up the board in a quest to attack the f5 pawn from behind}
 83...Na4 {The Knight goes away further and prepares to come back to c5}
 84.Nf4 {White is casting a web slowly}
-84...Nb6* {Black does not commit  anything and waits}
+84...Nb6 {Black does not commit  anything and waits}
+85.Ke6* {The King is ready to gobble the pawns}
 
 
 [Event "Russia25/pr29 (RUS)"]
