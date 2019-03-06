@@ -204,7 +204,11 @@ Bishop pair}
 14.Nxe6 fxe6 {White eliminates the other Bishop too but this is slightly erroneous as the pawn-structure for Black has improved.
 14.Re1 was better that threatened to win the pawn on e6 after the exchange of the White Knight for the Black Bishop on e6}
 
-15.Qd3* {Bad choice to protect the pawn on c3.}
+15.Qd3 {Bad choice to protect the pawn on c3.}
+
+15...f5* {Black wants to exert pressure on the c3 pawn. This prepartory move is to allow Black to play Nc4-d6-e4 and attack the pawn on c3.
+Another important point to note - This move vacates the f6 square for the Rook on f8. ...Rf6 can lend support to the backward pawn on e6,if required}
+
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -489,7 +493,9 @@ However, White's Bishop pair is offset with the damaged pawn structure}
 
 11.Bxc4 {White now has the Bishop pair but Black is not too bad either}
 
-11...e5* {Putting more pressure on the d4 pawn and clearing the c8-g4 diagonal for the light-squared Bishop on c8}
+11...e5 {Putting more pressure on the d4 pawn and clearing the c8-g4 diagonal for the light-squared Bishop on c8}
+
+12.h3* {...Bg4 is an annoying pin that White prevents}
 
 
 [Event "AA/C18/SF/A"]
@@ -572,9 +578,9 @@ The idea of pushing ...Rd8 on move 9 is much clearer now.
 15.Bd3 Rac6 16.e4? is bad because 16...cxd4 17.Nxd4? Nc5! attacking the Knight and the Bishop on d3 indirectly. White will loose a piece.
 White plans to push a5 and then use Black's b6 pawn as a pivot to open up the Queenside files}
 
-15...a5* {Black nips White's plan in the bud}
+15...a5 {Black nips White's plan in the bud}
 
-
+16.Bd3* {White waits as the Bishop's activity is improved}
 
 
 [Event "AA/C18/SF/A"]
@@ -795,8 +801,9 @@ from pushing b2-b4}
 
 12...f5 {Black overprotects the e4 square as White threatens to push d5 soon}
 
-13.d5* {White gains space in the centre and creates a light-square pawn complex on the Queenside squares b3-c4-d5}
+13.d5 {White gains space in the centre and creates a light-square pawn complex on the Queenside squares b3-c4-d5. I feel that this pawn advance is a little premature where White commits his pawn structure.
+13.Rad1 looks more flexible where White threatens d5 later.}
 
-
+13...e5* {Keeping the centre closed and gaining space.Black is now ready to play on the Kingside with moves like ...Rf6,...Rg6 or even ...Ng5}
 
 
