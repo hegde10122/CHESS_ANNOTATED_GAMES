@@ -778,7 +778,9 @@ who are close to uniting with each other.}
 66...Rh2 {Looking to check the White King from behind}
 67.Na6+ {The Knight wants the Black King to move away and allow the pawn to advance further to b6} 
 67...Kc8 {Delaying the inevitable}
-68.b6* {White pawn inches closer to Queening}
+68.b6 {White pawn inches closer to Queening}
+68...Rb2* {Attacking the pawn from behind as the Rook joins the King in a last-ditch attempt}
+
 
 
 [Event "Russia25/pr29 (RUS)"]
