@@ -47,7 +47,9 @@
 1.d4 d5 {The Queen pawn's game}
 2.c4 {The Queen's gambit} 
 2...c6 {Black responds with the Slav and declines the gambit} 
-3.Nf3 *
+3.Nf3 Nf6 {All moves according to standard theory}
+4.e3* {Black's main idea in the Slav is to play ...dxc4 followed by ...b5 creating an impregnable pawn mass on the light squares.This move protects the 
+pawn on c4 and paves the way for the development of the Bishop on f1}
 
 [Event "1517"]
 [Site "AICCF"]
@@ -140,7 +142,11 @@
 
 7...O-O {Black completes the Kingside development}
 
-8.Bd3* {The Bishop-Queen battery on the b1-h7 diagonal looks excellent}
+8.Bd3 {The Bishop-Queen battery on the b1-h7 diagonal looks excellent}
+
+8...h6 {Putting the question to the Bishop}
+
+9.Bh4* {The Bishop goes back with the pin intact}
 
 
 [Event "1517"]
@@ -198,9 +204,9 @@
 
 3...exd5 4.d4 {The French exchange variation has been reached after transposition}
 
-4...Nf6* {Piece development aiding the protection of the pawn on d5}
+4...Nf6 {Piece development aiding the protection of the pawn on d5}
 
-
+5.Nc3* {White too develops and pressurises the d5 pawn again}
 
 
 [Event "1517"]
