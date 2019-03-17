@@ -4,17 +4,50 @@
 [Black "Ray, Biswa Preet"]
 [EventDate "2019.03.19"]
 [Result "*"]
+[ECO "D36"]
+[Annotator "Ganesh R Hegde"]
 
-1. d4 d5 2. c4 e6 3. Nc3 *
+1. d4 d5 {The Queen's pawn game where both sides have planted their d-pawns on optimal squares and  control two squares in the enemy camps}
+
+2. c4 {The Queen's Gambit} 2...e6 {The Queen's Gambit declined or QGD}
+ 
+3. Nc3 {White develops the Knight and controls e4 and the d5 squares}
+
+3...Nf6 {More protection to the d5 square}
+
+4.cxd5 {The exchange variation of the QGD}
+
+4...exd5 5.Bg5 {The Carlsbad variation or the Positional variation}
+
+5...Bb4 {Black pins the Knight and removes White's control over the e4 square.
+5...c6 and 5...Be7 are also solid alternatives played} 
+
+6.e3 {It is imperative for WHite to start developing the Kingside. This move frees the King's Bishop's path}
+
+6...O-O {Black completes the Kingside development}
+
+7.Bd3 {Denying the f5 square for his Black counterpart on c8. 7.Be2 looks more timid in comparison}
+
+7...h6 {Putting the question to the Bishop}
+
+8.Bh4 {The Bishop retreats keeping the pin intact}
+
+8...c6* {Solidifying the central d5 square}
+
 
 [Event "1517"]
 [Site "AICCF"]
 [White "Hegde, Ganesh"]
 [Black "Mohan Turaga"]
 [EventDate "2019.03.19"]
+[ECO "D36"]
+[Annotator "Ganesh R Hegde"]
 [Result "*"]
 
-1.d4 d5 2.c4 c6 3.Nf3 *
+1.d4 d5 {The Queen pawn's game}
+2.c4 {The Queen's gambit} 
+2...c6 {Black responds with the Slav and declines the gambit} 
+3.Nf3 *
 
 [Event "1517"]
 [Site "AICCF"]
@@ -22,6 +55,8 @@
 [Black "R.K.Chauhan"]
 [EventDate "2019.03.19"]
 [Result "*"]
+[ECO "D36"]
+[Annotator "Ganesh R Hegde"]
 
 1.d4*
 
@@ -31,8 +66,14 @@
 [Black "Lalit Kapoor"]
 [EventDate "2019.03.19"]
 [Result "*"]
+[ECO "D36"]
+[Annotator "Ganesh R Hegde"]
 
-1.d4*
+1.d4 {The Queen pawn's opening}
+
+1...Nf6 {The Indian defence -a hypermodern approach to control the central d5 and e4 squares with a piece}
+
+2.c4* {White grabs more space and controls the d5 square}
 
 [Event "1517"]
 [Site "AICCF"]
@@ -40,8 +81,16 @@
 [Black "Ajith Jose"]
 [EventDate "2019.03.19"]
 [Result "*"]
+[ECO "D36"]
+[Annotator "Ganesh R Hegde"]
 
-1.d4*
+1.d4 d5 {The Queen's pawn game}
+
+2.c4 {The Queen's gambit}
+
+2...c6 {The Slav defence }
+
+3.Nf3 e6 {Overprotecting the d5 pawn and Black creates a pawn triangle c6-d5-e6.Black's main idea here is to play ...dxc4 and then play ...b5}*
 
 [Event "1517"]
 [Site "AICCF"]
@@ -49,6 +98,8 @@
 [Black "Vikrant Malvankar"]
 [EventDate "2019.03.19"]
 [Result "*"]
+[ECO "D36"]
+[Annotator "Ganesh R Hegde"]
 
 1.d4*
 
@@ -58,17 +109,39 @@
 [Black "B.Mohanakrishnan"]
 [EventDate "2019.03.19"]
 [Result "*"]
+[ECO "D36"]
+[Annotator "Ganesh R Hegde"]
 
-1.d4*
+1.d4 {The Queen pawn opening is equally popular like 1.e4}
 
-[Event "1517"]
-[Site "AICCF"]
-[White "Mohanty, Om Prakash"]
-[Black "Hegde, Ganesh"]
-[EventDate "2019.03.19"]
-[Result "*"]
+1...d5 {Identical response from Black}
 
-*
+2.c4 {The Queen's Gambit}
+
+2...e6 {The Queen's Gambit Declined or QGD is on the board}
+
+3.Nc3 {Developing a piece and putting more pressure on the d5 pawn.}
+
+3...Nf6 {Black protects the d5 pawn further}
+
+4.cxd5 {The exchange variation}
+
+4...exd5 {4...Nxd5 is also a playable option that does not allow the annoying pin on g5}
+
+5.Bg5 {The positional variation or the Carlsbad variation where the Knight is pinned and pressure applied on the d5 pawn}
+
+5...c6 {A solid response protecting the pawn on d5.}
+
+6.Qc2 {The Reshevsky variation where the main idea is to make life of the Bishop on c8 difficult. This move robs the f5 square}
+
+6...Bd6 {The Bishop comes out on a nice diagonal and O-O is now possible on the next move}
+
+7.e3 {Opening the diagonal for the King's Bishop}
+
+7...O-O {Black completes the Kingside development}
+
+8.Bd3* {The Bishop-Queen battery on the b1-h7 diagonal looks excellent}
+
 
 [Event "1517"]
 [Site "AICCF"]
@@ -76,6 +149,8 @@
 [Black "Hegde, Ganesh"]
 [EventDate "2019.03.19"]
 [Result "*"]
+[ECO "D36"]
+[Annotator "Ganesh R Hegde"]
 
 *
 
@@ -85,6 +160,8 @@
 [Black "Hegde, Ganesh"]
 [EventDate "2019.03.19"]
 [Result "*"]
+[ECO "D36"]
+[Annotator "Ganesh R Hegde"]
 
 *
 
@@ -94,8 +171,10 @@
 [Black "Hegde, Ganesh"]
 [EventDate "2019.03.19"]
 [Result "*"]
+[ECO "C00"]
+[Annotator "Ganesh R Hegde"]
 
-*
+1.e4 e6* {The French defence}
 
 [Event "1517"]
 [Site "AICCF"]
@@ -103,8 +182,26 @@
 [Black "Hegde, Ganesh"]
 [EventDate "2019.03.19"]
 [Result "*"]
+[ECO "C01"]
+[Annotator "Ganesh R Hegde"]
 
-*
+1.e4 {The King pawn opening}
+
+1...e6 {The French defence}
+
+2.c4 {A new move with White controlling the d5 square with an iron grip! This is known as the Steiner variation or the Anglo-French variation
+2.d3 is the beginning of the King's Indian attack while 2.d4 is more conventional move order where White controls the central squares}
+
+2...d5 {Black continues in the spirit of the French defense and occupies the d5 square. 2...c5 is also possible transposing to the Sicilian defense }
+
+3.exd5 {3.cxd5 is also playable}
+
+3...exd5 4.d4 {The French exchange variation has been reached after transposition}
+
+4...Nf6* {Piece development aiding the protection of the pawn on d5}
+
+
+
 
 [Event "1517"]
 [Site "AICCF"]
@@ -112,8 +209,37 @@
 [Black "Hegde, Ganesh"]
 [EventDate "2019.03.19"]
 [Result "*"]
+[ECO "D36"]
+[Annotator "Ganesh R Hegde"]
 
-*
+1.d4 {The Queen pawn opening}
+
+1...e6 {Horowitz defense. Black wants to avoid the Trompowsky attack after 1.d4 Nf6 2.Bg5 attacking the Knight and the game drifts to newer challenges}
+
+2.e4 {White is happy to transpose the game to the French defence}
+
+2...d5 {The thematic response for Black challenging White's central control}
+
+3.Nc3 {Kasparov considers this to be the correct response. This is the classical variation. 3.e5 is the advanced variation and 3.Nd2 is the Tarassch variation.
+This move protects the attacked e4 pawn}
+
+3...Bb4 {The Winawer variation which pins the Knight and again ...dxe4 is threatened on the next move}
+
+4.e5 {White captures space in the centre and fixes the pawn structure. This is the main idea in the French defence where Black provokes White to fix his pawns on the d4 and e5 squares. Later on this 
+pawn change will come under pressure.}
+
+4...c5 {Attacking the base of the pawn chain and gaining space on the Queenside}
+
+5.a3 {White puts the question to the Bishop and hopes to win it gaining more control over the dark squares}
+
+5...Bxc3+ {No retreating back in the Winawer}
+
+6.bxc3 Qa5 {The Portisch / Hook variation as it is known. The Queen attacks the c3 pawn}
+
+7.Bd2 Qa4* {This Queen move is the speciality of this variation where the Queen keeps an eye on the c2 pawn.Also the d4 pawn is attacked.White's main counter plan is to attack the g7 pawn by playing Qg4. The Black Queen's ...Qa4 move is 
+played with an intention to negate White's Qg4 idea.}
+
+
 
 [Event "1517"]
 [Site "AICCF"]
@@ -121,6 +247,41 @@
 [Black "Hegde, Ganesh"]
 [EventDate "2019.03.19"]
 [Result "*"]
+[ECO "D36"]
+[Annotator "Ganesh R Hegde"]
 
 *
+
+[Event "1517"]
+[Site "AICCF"]
+[White "Mohanty, Om Prakash"]
+[Black "Hegde, Ganesh"]
+[EventDate "2019.03.19"]
+[Result "*"]
+[ECO "B36"]
+[Annotator "Ganesh R Hegde"]
+
+1.c4  {The English opening. White makes a deceptive start controlling the d5 square. The Knight can come to c3 later without the c2 pawn being blocked.
+This opening can transpose to a variety of openings later depending on the move order}
+
+1...c5 {The Symmetrical variation}
+
+2.Nf3 {Considered the best continuatuon for White }
+
+2...g6 {Black is keen to fianchetto his dark-squared Bishop that will control the d4 square and limit White's options}
+
+3.e4 {The game transposes to the Hungarian variation of the Sicilian defence which arises after 1.e4 c5 2.Nf3 g6 3.c4. 
+The game is no more an English!}
+
+3...Nc6 {As White cannot play Bb5 as in the Sicilian Rossolimo, the Knight can come out on c6 and control the e5 square}
+
+4.d4 {Looks to be a forced choice as Black will play ...Bg7 later and get a great grip on the d4 square}
+
+4...cxd4 {Excahinging the central pawn for a flank pawn and opening up the c-file for activity later}
+
+5.Nxd4 {Forced recapture}
+
+5...Nf6 {Attacking the e4 pawn}
+
+6.Nc3 d6* {Now we are into the Sicilian Maroczy Bind}
 

@@ -61,7 +61,10 @@ White can double Black's pawns with Bxh6 gxh6}
 28...Qxc6 {Forced}
 29.Qxd5 Qxd5 {White grabs the pawn back but Black has a nice idea}
 30.Rxd5 Nf4! {The Bishop on e6 is also an attacker of the Rook on d5. Also ...Nxe2+ is threatened winning the Bishop}
-31.gxf4 Bxd5* {Black wins the exchange}
+31.gxf4 Bxd5 {Black wins the exchange}
+32.fxe5 Rc8 {The pawn on c3 will be grabbed as the Rook is positioned nicely on the semi-open c-file}
+33.exf6 Bxf6 {More material exchanged}
+34.Nxg5 Rxc3* {Threatening ...Rxe3 followed by Bxg5}
 
 [Event "*"]
 [Site "Chess.com"]
