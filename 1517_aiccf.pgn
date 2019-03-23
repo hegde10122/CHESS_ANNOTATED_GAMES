@@ -4,7 +4,7 @@
 [Black "Ray, Biswa Preet"]
 [EventDate "2019.03.19"]
 [Result "*"]
-[ECO "D36"]
+[ECO "D35"]
 [Annotator "Ganesh R Hegde"]
 
 1. d4 d5 {The Queen's pawn game where both sides have planted their d-pawns on optimal squares and  control two squares in the enemy camps}
@@ -32,7 +32,19 @@
 
 8.Bh4 {The Bishop retreats keeping the pin intact}
 
-8...c6* {Solidifying the central d5 square}
+8...c6 {Solidifying the central d5 square}
+
+9.Nge2 {White does not allow 9.Nf3 Bg4 with an annoying pin.Instead White develops the Knight onto a gentler square and keeps the options of playing f3,e4 or even f4 later gaining space on the Kingside
+Also ...Bxc3 can be met with Nxc3 with no weaknesses}
+
+9...Be7 {Black wastes a tempo and unpins the Knight. That is why 5...Be7 was better as the pin on the c3 Knight does not achieve anything concrete 
+in this positional variation of the QGD. 9...Nbd7 lending support was a playable alternative Also 9...Re8 would have brought the Rook on the semi-open e-file}
+
+10.O-O {White completes the development on the Kingside and activates the Rook}
+
+10...Bg4?! {Not a good square for the Bishop as it will get kicked again, the Knight on e2 being pinned not withstanding. 10...Nbd7 or 10...Re8 was better}
+
+11.f3* {Vacating the f2 square for the dark-squared Bishop to come back and also preparing e4 at a later stage. The Black Bishop is attacked and Black has to waste yet another move here}
 
 
 [Event "1517"]
@@ -40,16 +52,31 @@
 [White "Hegde, Ganesh"]
 [Black "Mohan Turaga"]
 [EventDate "2019.03.19"]
-[ECO "D36"]
+[ECO "D12"]
 [Annotator "Ganesh R Hegde"]
 [Result "*"]
 
 1.d4 d5 {The Queen pawn's game}
+
 2.c4 {The Queen's gambit} 
+
 2...c6 {Black responds with the Slav and declines the gambit} 
+
 3.Nf3 Nf6 {All moves according to standard theory}
-4.e3* {Black's main idea in the Slav is to play ...dxc4 followed by ...b5 creating an impregnable pawn mass on the light squares.This move protects the 
+
+4.e3 {Black's main idea in the Slav is to play ...dxc4 followed by ...b5 creating an impregnable pawn mass on the light squares.This move protects the 
 pawn on c4 and paves the way for the development of the Bishop on f1}
+
+4...Bf5 {Black opts to put the Bishop out of the pawn chain before playing ...e6 at some point}
+
+5.Nc3 {Simple development}
+
+5...a6!? {Interesting move that aims to play ...b5 at some point and go for a Queenside expansion. 5...e6 was perhaps junked because of 6.Nh4 Bg6 
+7.Nxg6 hxg6 where Black gets the half-open h-file as compensation for the loss of the Bishop pair and double pawns on the g-file. This is playable but Black 
+plays solidly looking for a grind.This move looks like a hybrid between ...a6 Slav and a normal Slav.}
+
+6.Qb3* {Attacking the pawn on b7. Taking advantage of the fact as the Bishop has left the c8 square}
+
 
 [Event "1517"]
 [Site "AICCF"]
@@ -75,7 +102,8 @@ pawn on c4 and paves the way for the development of the Bishop on f1}
 
 1...Nf6 {The Indian defence -a hypermodern approach to control the central d5 and e4 squares with a piece}
 
-2.c4* {White grabs more space and controls the d5 square}
+2.c4* {White grabs more space on the Queenside and controls the d5 square}
+
 
 [Event "1517"]
 [Site "AICCF"]
@@ -92,7 +120,15 @@ pawn on c4 and paves the way for the development of the Bishop on f1}
 
 2...c6 {The Slav defence }
 
-3.Nf3 e6 {Overprotecting the d5 pawn and Black creates a pawn triangle c6-d5-e6.Black's main idea here is to play ...dxc4 and then play ...b5}*
+3.Nf3 e6 {Overprotecting the d5 pawn and Black creates a pawn triangle c6-d5-e6.Black's main idea here is to play ...dxc4 and then play ...b5}
+
+4.e3 {Protects the c4 pawn and prevents Black from executing his main idea ...bxc4}
+
+4...Nf6 {Black plays conventional chess.Develops a piece}
+
+5.b3* {White plays a quiet move and protects the c4 pawn disallowing ...dxc4 from Black. 
+The dark-squared Bishop will be fianchettoed to b2 followed by Nbd2 which will overprotect the pawn on c4}
+
 
 [Event "1517"]
 [Site "AICCF"]
@@ -146,7 +182,16 @@ pawn on c4 and paves the way for the development of the Bishop on f1}
 
 8...h6 {Putting the question to the Bishop}
 
-9.Bh4* {The Bishop goes back with the pin intact}
+9.Bh4 {The Bishop goes back with the pin intact}
+
+9...Re8 {A solid move occupying the semi-open e-file} 
+
+10.Nge2 {White does not want to allow 10.Nf3 Bg4 with a nagging pin.White prepares to castle short}
+
+10...b6 {A nifty move that allows Black to play ...Ba6!? and look forward to an exchange of Bishops}
+
+11.a3* { White prepare b4 with a Queenside expansion.
+11.O-O?  would be a terrible mistake. 11...Bxh2+ 12.Kxh2 Ng4+ 13.Kg1 Qxh4 If 12.Kh1 then 12...Bd6 and White will be a pawn down for nothing}
 
 
 [Event "1517"]
@@ -155,10 +200,32 @@ pawn on c4 and paves the way for the development of the Bishop on f1}
 [Black "Hegde, Ganesh"]
 [EventDate "2019.03.19"]
 [Result "*"]
-[ECO "D36"]
+[ECO "C15"]
 [Annotator "Ganesh R Hegde"]
 
-*
+1.e4 e6 {The French defence is on the board}
+
+2.d4 d5 {White grabs the opportunity to grab both the central squares and control 4 squares in the Black camp. Black challenges White's response by having an eqwual stake in the 
+centre.}
+
+3.Nc3 {The classical variation considered to be the best response where White not only protects the e4 pawn but also develops a piece}
+
+3...Bb4 {The Winawer variation where Black's threat is to capture a pawn by ...dxe4 as the Knight on c3 is pinned}
+
+4.e5 {White pushes the attacked pawn and closes the centre.
+This is Black's intention in the French defence - to provoke White from establishing a pawn duo on the e5 and d4 squares  and then attack them.
+}
+
+4...c5 {Attacking the base of the d4-e5 pawn complex as Black gains space on the Queenside}
+
+5.a3 {Putting the question to the Bishop}
+
+5...Bxc3+ {5...Ba5 will keep the Bishop pair for Black but the game would be timid and passive. Here Black gives up the Bishop pair willingly in return for doubled c-pawns as a compensation. Black will also have to deal with dark-square 
+weaknesses as the best defender of the dark squares will be off the board}
+
+6.axb3 Qa5* {Attacking the c3 pawn immediately}
+
+
 
 [Event "1517"]
 [Site "AICCF"]
@@ -169,7 +236,12 @@ pawn on c4 and paves the way for the development of the Bishop on f1}
 [ECO "D36"]
 [Annotator "Ganesh R Hegde"]
 
-*
+1.d4 Nf6 {The Indian defence.A standard response to White's Queen pawn opening}
+
+2.c4 {White grabs more space on the Queenside and controls the d5 square}
+
+2...e6* {Opens the diagonal for the dark-squared Bishop and controls the d5 square}
+
 
 [Event "1517"]
 [Site "AICCF"]
@@ -180,7 +252,10 @@ pawn on c4 and paves the way for the development of the Bishop on f1}
 [ECO "C00"]
 [Annotator "Ganesh R Hegde"]
 
-1.e4 e6* {The French defence}
+1.e4 e6 {The French defence}
+
+2.d4 d5* {White grabs space with the central pawn duo while Black hits back to have his own share of the centre}
+
 
 [Event "1517"]
 [Site "AICCF"]
@@ -206,7 +281,17 @@ pawn on c4 and paves the way for the development of the Bishop on f1}
 
 4...Nf6 {Piece development aiding the protection of the pawn on d5}
 
-5.Nc3* {White too develops and pressurises the d5 pawn again}
+5.Nc3 {White too develops and pressurises the d5 pawn again}
+
+5...Bb4 {Pinning the Knight with the Bishop development and prepares O-O}
+
+6.Nf3 {White develops the King Knight}
+
+6...Bg4 {Pinning the other Knight}
+
+7.Be2 {Development and unpinning the Knight}
+
+7...dxc4* {Black captures the pawn and hopes to create an isolated Quen pawn or IQP on the d4 square which can be targeted}
 
 
 [Event "1517"]
@@ -215,7 +300,7 @@ pawn on c4 and paves the way for the development of the Bishop on f1}
 [Black "Hegde, Ganesh"]
 [EventDate "2019.03.19"]
 [Result "*"]
-[ECO "D36"]
+[ECO "C15"]
 [Annotator "Ganesh R Hegde"]
 
 1.d4 {The Queen pawn opening}
@@ -242,10 +327,28 @@ pawn change will come under pressure.}
 
 6.bxc3 Qa5 {The Portisch / Hook variation as it is known. The Queen attacks the c3 pawn}
 
-7.Bd2 Qa4* {This Queen move is the speciality of this variation where the Queen keeps an eye on the c2 pawn.Also the d4 pawn is attacked.White's main counter plan is to attack the g7 pawn by playing Qg4. The Black Queen's ...Qa4 move is 
+7.Bd2 Qa4 {This Queen move is the speciality of this variation where the Queen keeps an eye on the c2 pawn.Also the d4 pawn is attacked.White's main counter plan is to attack the g7 pawn by playing Qg4. The Black Queen's ...Qa4 move is 
 played with an intention to negate White's Qg4 idea.}
 
+8.h4!? {White opts for a provocative set-up and keeps the option of playing Rh3 later.
+White gains space on the Kingside as this is the area he is stronger thanks to the pawn on e5.
+8.Qg4 was perhaps the more aggressive response where White threatens Qxg7 and damage Black's pawn structure
+8.Qb1 is also another sedate option threatening 9.Bb5+ winning the Black Queen. 8...c4 is played as a usual response to stop 9.Bb5+}
 
+8...Nc6 {Another attack on the d4 pawn by developing a piece.}
+
+9.h5  {White expands further and is keen to push h6.9 Qg4 was more prudent in my opinion}
+
+9...h6 {Black halts the pawn march}
+
+10.Qg4 {At last, the Queen joins the party and also protects the d4 pawn for the second time. The bigger threat is Qxg7 winning the Rook on h8 on the next move}
+
+10...Kf8* {The Black King is the defender of the dark squares! 
+Now Black has three threats a) ...Nxe5 taking advantage of the pinned d4 pawn. b) ...Qxc2 and c)...cxd4
+10...Rh7 is also a playable move but then the success of the odd position of the Rook is based on 
+a tactical shot if White were to make a mistake.
+11.Bd3?! attacking the Rook on h7. 11...Nxe5! attacking the Queen and winning a pawn.
+12.Qf4 Nxd3+ 123.cxd3 b6 and Black's Rook on h7 looks stupid although Black is a pawn up in this case.}
 
 [Event "1517"]
 [Site "AICCF"]
@@ -257,7 +360,31 @@ played with an intention to negate White's Qg4 idea.}
 [Annotator "Ganesh R Hegde"]
 
 1.e4 e6 {The French defence}
-2.d4 d5* {The standard position where White occupies both the central squares while Black has managed to attack the e4 pawn}
+
+2.d4 d5 {The standard position where White occupies both the central squares while Black has managed to attack the e4 pawn}
+
+3.exd5 exd5 {The exchange variation}
+
+4.h3?! {White wastes a whole move preventing Black from occupying the g4 square}
+
+4...Nf6 {Black keeps developing}
+
+5.Bd3 {This should have come a move earlier}
+
+5...c5 {Gaining more space in the centre.}
+
+6.Nf3 {Development and protecting the pawn on d4}
+
+6...c4 {Black gains space on the Queenside and closes the centre. The Bishop on d3 is attacked}
+
+7.Be2 Be6 {White White's Bishop retreats to safety, Black puts the light-squared Bishop on the f7-a2 diagonal.7...Bf5 would have allowed White to gain a tempo with g4 although it does not look good 
+at the outset}
+
+8.Bf4 {Another piece developed as White wants to play a possible Nb1-c3-b5 and attack the c7 square. This journey is too slow as Black can counter such ideas easily}
+
+8...Bd6* {Challenging the "good" Bishop of White}
+
+
 
 [Event "1517"]
 [Site "AICCF"]
@@ -290,5 +417,31 @@ The game is no more an English!}
 
 5...Nf6 {Attacking the e4 pawn}
 
-6.Nc3 d6* {Now we are into the Sicilian Maroczy Bind}
+6.Nc3 d6 {Now we are into the Sicilian Maroczy Bind}
+
+7.Be2 {A quiet move but solid. White's idea is to create a complex of light-squared pawns on f3,b3. The Bishop assists in the defence of the light squares. The bind on the d5 square will later 
+be exploited by a possible Nd5.Also this move enables White to control the g4 square and prepares Be3}
+
+7...Nxd4 {Trading pieces when you have less space and forcing White's Queen to come on d4. White Queen will have to waste a tempo after 
+Black plays ...Bg7 threatening a discovered attack on the Queen}
+
+8.Qxd4 Bg7 {Black follows up with his plan on move 7 and prepares O-O}
+
+9.Be3 {White Queen will most probably come back to d2 and create a Bishop-Queen battery to play Bh6 later}
+
+9...O-O {Black threatens ...Ng4}
+
+10.Qd2 {The best move according to theory and practice where White has to waste a tempo to prevent ...Ng4}
+
+10...Be6 {Black is the first to complete development and now the Bishop on e6 attacks the pawn on c4.The d7 square is kept vacant for the Knight to 
+come to the Queenside}
+
+11.O-O {White completes his development with a slight space advantage}
+
+11...Qa5 {The idea is to play on the Queenside with moves like ...Rfc8,...a6 and ...b5 where the Queen assists the pawn advance.The move also deters White from moving his Knight to d5 as Black would then exchange Queens}
+
+12.Rfc1* {12.Rab1 was perhaps better where White can push b4 later and drive away the Black Queen}
+
+
+
 

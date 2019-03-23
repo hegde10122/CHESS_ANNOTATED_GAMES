@@ -500,8 +500,8 @@ It is better for Black to play with more freedom at the cost of a pawn}
 84.Nf4 {White is casting a web slowly}
 84...Nb6 {Black does not commit  anything and waits}
 85.Ke6 {The King is ready to gobble the pawns}
-85...Nc4* {Black Knight attacks the e3 pawn}
-
+85...Nc4 {Black Knight attacks the e3 pawn}
+86.Ng2* {Protecting the pawn}
 
 [Event "Russia25/pr29 (RUS)"]
 [Site "ICCF"]
@@ -781,9 +781,9 @@ who are close to uniting with each other.}
 67...Kc8 {Delaying the inevitable}
 68.b6 {White pawn inches closer to Queening square}
 68...Rb2 {Attacking the pawn from behind as the Rook joins the King in a last-ditch attempt}
-69.Nce5 {Protects the b7 square}
-69...Ra2+* {Black delays the inevitable by checking the White King}
-
+69.Nec5 {Protects the b7 square}
+69...Ra2+ {Black delays the inevitable by checking the White King}
+70.Kb5 * 
 
 [Event "Russia25/pr29 (RUS)"]
 [Site "ICCF"]

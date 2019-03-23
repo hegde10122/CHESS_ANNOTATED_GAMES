@@ -120,9 +120,16 @@ and win back the pawn 29...Rxe3! 30.Rxe3  Nxe3 31.Qf2 Nxf5 32.Qxf5 where Black i
 30.Qg2 {The Queen switches over to the Kingside with pressure on the isolated d5 pawn. White's main goal is to regroup his Bishop and the Knight on f1
 with moves like Nf1-d2-f3 and Bf5-d3 }
 30...Bc8 {Looking to exchange Bishops}
-31.Bd3* {The light-squared Bishop is retained as Black's conterpart on c8 remains short of good squares.31.Bxf8 Raxc8 would solve some problems for 
+31.Bd3 {The light-squared Bishop is retained as Black's conterpart on c8 remains short of good squares.31.Bxf8 Raxc8 would solve some problems for 
 Black}
 
+31...Ne4 {The Knight jumps in to block the White Bishop's vigil and also has an eye on the g3 pawn. 
+Another move worth playing was 31...Ra7 with an intention of playing ...Rae7 and doubling the Rooks on the e-file}
+
+32.Bxe4 {It is better to trade the Bishop for the Knight and create more space.}
+
+32...Rxe4* {The Rook now also becomes the second attacker of the White pawn on e3. Black will now most probably try ...Qe6 to add a third attacker to the pawn on e3}
+ 
 
 [Event "IND-JPN 2018"]
 [Site "ICCF"]
@@ -258,4 +265,9 @@ Black is also willing to sacrifice the exchange if Black accepts the challenge 1
 30...Nf5 {Attacking the pawn on h4}
 
 31.Kf2 {White wants Black to capture 31...Nxh4 allowing 32.Rh1 with some counterplay}
-31...g6* {Black is now ready to play ...Nxh4 next}
+31...g6 {Black is now ready to play ...Nxh4 next}
+
+32.Re4 {Protecting the h4 pawn. Perhaps White could have tried the alternative 32.f4 and attacked the pinned pawn}
+
+32...Kd6* {The King is centralised nicely and ...Ba7 followed by ...Bxc5 is an idea where Black can win a pawn on c5}
+

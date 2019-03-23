@@ -4,11 +4,12 @@
 [Round "-"]
 [White "Ganesh Rama Hegde"]
 [Black "Glenn Tripp"]
-[Result "*"]
+[Result "0-0"]
 [WhiteElo "2276"]
 [BlackElo "2258"]
 [ECO "D35"]
 [Annotator "Ganesh R Hegde"]
+[Termination "Cancelled"]
 
 1.d4 {The Queen pawn opening}
 1...d5 {Symmetrical response from Black}
@@ -89,7 +90,7 @@ Black's light-squared Bishop has problems occupying a good square in this variat
 24.Qxd5 {The Queen has got the central d5 pawn with a 4-3 pawn majority for White on the Kingside}
 24...Rxb2 {Black occupies the second rank }
 25.Qxe6 fxe6 {The Queen's go off the board and Black now has three pawn islands as compared to White's two}
-26.Rc1* {Pinning the Bishop on c5 and not allowing Black to capture 26...Rxa2.}
+26.Rc1 {Pinning the Bishop on c5 and not allowing Black to capture 26...Rxa2. The game is abandoned as a draw for reasons unknown}0-0
 
 
 
@@ -165,7 +166,8 @@ will allow White to penetrate the seventh rank.}
 30.Rd5 {The Rook goes back}
 30...Re6 {Attacking the Bishop on b6}
 31.Bc5 {Offering to trade Bishops and simplify further}
-31...Bxc5+ 32.Rxc5 Rd6* {Covering the c8 square with the Bishop and disallowing the White Rook from penetrating the eight rank}
+31...Bxc5+ 32.Rxc5 Rd6 {Covering the c8 square with the Bishop and disallowing the White Rook from penetrating the eight rank}
+33.a4* {Offering to exchange pawns}
 
 
 [Event "3rd IZIT Pr K"]
@@ -484,7 +486,8 @@ cannot push a5 soon}
 21.Ne5 {Attacking the pawn on c4 now}
 21...Nc6 {Offering to trade the nemesis on e5}
 22.Bg5 {White is generating some counterplay by attacking the Rook}
-22...Rc8* {Safeguarding the Rook} 
+22...Rc8 {Safeguarding the Rook} 
+23.exf5* {White opens up the e-file }
 
 
 [Event "3rd IZIT Pr K"]
