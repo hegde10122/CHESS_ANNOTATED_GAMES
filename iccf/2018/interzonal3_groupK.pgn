@@ -487,7 +487,8 @@ cannot push a5 soon}
 21...Nc6 {Offering to trade the nemesis on e5}
 22.Bg5 {White is generating some counterplay by attacking the Rook}
 22...Rc8 {Safeguarding the Rook} 
-23.exf5* {White opens up the e-file }
+23.exf5 {White opens up the e-file }
+23...exf5* {Black now threatens to win a pawn after ...Nxe5 dxe5 followed by ...Qxe5}
 
 
 [Event "3rd IZIT Pr K"]

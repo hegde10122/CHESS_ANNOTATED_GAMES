@@ -84,8 +84,6 @@ Bishop on c1 gets locked-in and White will have to do extra to activate it.}
 19.Nb5* {The Bishop on d6 is attacked for the third time. What can Black do to save it?}
 
 
-
-
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
 [Date "2018.11.30"]
@@ -338,7 +336,16 @@ the position of the Bishop on b7 and gaining space in the centre}
 
 21.Nd3 {The Knight position is improved and the Knight can go to e5 later to add pressure on the backward c6 pawn }
 
-21...Nf8* {The Knight will probably come to e6}
+21...Nf8 {The Knight will probably come to e6}
+
+22.Ne5 {The Knight puts additional pressure on the c6 pawn}
+
+22...g6 {Black kicks the Bishop back}
+
+23.Bd3 {Coming back to control the b5 square}
+
+23...N6d7* {Black offers a draw here.}
+
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -353,6 +360,7 @@ the position of the Bishop on b7 and gaining space in the centre}
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "India"]
 [BlackTeam "India"]
+
 
 1.d4 {The Queen pawn opening.}
 
@@ -409,10 +417,14 @@ initiative with moves like ...a5,...Be6 and ...Na2+. }
 It was a tough decision to choose between Ng5 and Nf4.13.Ng5 Rfd8 14.h4 with an intention to open up the h-file against the Black King.14...h6 15.Nxe6 Qxe6 
 16.Bxh6? allows Black to counterattack.16...c5!? 17.d5 N4xd5 18.Nxd5 Rxd5 and Black looks better}
 
-13...Rfd8* {Sensing more activity on the d5 square, Black improves the position of his King Rook further}
+13...Rfd8 {Sensing more activity on the d5 square, Black improves the position of his King Rook further}
+
+14.h4* {White goes for the flank attack planning to push h5.
+14.Nxe6 Qxe6 does not work well for White as the Rook on d8 is doing a splendid job.
+Black's Bishop on g7 is suddenly active as ...Bxe5 is threatened because of the pinned pawn. 
+15.f4 becomes necessary to avert the threat of 15...Bxe5. Then Black can continue his Queenside offensive with 15...a5}
 
 
- 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
 [Date "2018.11.30"]
@@ -457,7 +469,9 @@ play 10...Ne7 since the e7 square is vacant. This Knight can then jump to g6 or 
 10.dxe5 wins a pawn as Black cannot recapture with the pinned pawn on d6.White could have also played 9.O-O-O and brought the 
 Rook to d1 but perhaps it is a tad riskier}
 
-9...Bd7* {Black is ready to push ...e5 again as the Bishop on d7 blocks the Queen on d8 from White's Rook }
+9...Bd7 {Black is ready to push ...e5 again as the Bishop on d7 blocks the Queen on d8 from White's Rook }
+10.d5* {White pushes ahead and attacks the Knight.Another worthy try was 10.e4 vacating the e2 and d3 squares for the light-squared Bishop and creating a strong centre}
+
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -521,8 +535,17 @@ This would have allowed the  light-squared Bishop to eye the Queenside where Bla
 
 13...Re8 {13...f5 locks the entire pawn structure and would have made it impossible for Black's pieces to find meaningful squares later}
 
-14.Nh5* {Looks like White wants to keep attacking pawns. The pawn on g7 is now a target. But it is important to note that once Black defends the pawn then the Knight on h5 
+14.Nh5 {Looks like White wants to keep attacking pawns. The pawn on g7 is now a target. 
+But it is important to note that once Black defends the pawn then the Knight on h5 
 will have to go back to find meaningful work which will allow Black to re-group and possibly get a better position.}
+
+14...Re7* {An ugly looking Rook move but essential in the context of the game as the g7 pawn needs protection.
+14...fxe5 does not look promising. 15.Nxg7 Re7 16.Nh5 exd4 17.Re1 and White will pile up immense pressure on the e6 pawn
+It is better for Black to exchange central pawns at an apt moment.
+14...f5 is also playable but it is difficult to for Black to generate any counterplay.
+}
+
+
 
 
 [Event "AA/C18/SF/A"]
@@ -760,7 +783,12 @@ White plans to push a5 and then use Black's b6 pawn as a pivot to open up the Qu
 
 17...Rac8 {Improving the Queen Rook's position and Black now threatens ...cxd4 and after White replies exd4 then Black would play ...Nd5 taling advantage of the pinned pawn on c4}
 
-18.Qd1* {The Queen goes to the home square to avoid the threat}
+18.Qd1 {The Queen goes to the home square to avoid the threat}
+
+18...Re8 {Another waiting move. }
+
+19.e4* {White expands in the centre and sacrifices the d4 pawn for activity}
+
 
 
 [Event "AA/C18/SF/A"]
@@ -824,7 +852,9 @@ However, White's Bishop pair is offset with the damaged pawn structure}
 
 12...Bf5 {Black develops the last remaining Bishop and connects Rooks}
 
-13.Bb5* {Attacking the defender of the e5 pawn forcing Black to take a decision over the e5 pawn}
+13.Bb5 {Attacking the defender of the e5 pawn forcing Black to take a decision over the e5 pawn}
+
+13...e4* {Black pushes the pawn and fixes it on e4 attacking the White Knight}
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
