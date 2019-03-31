@@ -137,7 +137,7 @@ Another move worth playing was 31...Ra7 with an intention of playing ...Rae7 and
 [Round "-"]
 [White "Koumei Tanabe"]
 [Black "Ganesh Rama Hegde"]
-[Result "*"]
+[Result "0-1"]
 [WhiteElo "2084"]
 [BlackElo "2276"]
 [Annotator "Ganesh R Hegde"]
@@ -269,5 +269,11 @@ Black is also willing to sacrifice the exchange if Black accepts the challenge 1
 
 32.Re4 {Protecting the h4 pawn. Perhaps White could have tried the alternative 32.f4 and attacked the pinned pawn}
 
-32...Kd6* {The King is centralised nicely and ...Ba7 followed by ...Bxc5 is an idea where Black can win a pawn on c5}
+32...Kd6 {The King is centralised nicely and ...Ba7 followed by ...Bxc5 is an idea where Black can win a pawn on c5}
+
+33.f4 {White attacks the e5 pawn a move too late.}
+
+33...Kd5 {It is said that the King is as good as a minor piece in an endgame. 
+This move amplifies that adage. The e5 pawn has another defender on b8.The King now has an easy path to c4-b3 and gobble up White's pawns.
+White resigned}0-1
 

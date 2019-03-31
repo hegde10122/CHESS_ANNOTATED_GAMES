@@ -1,0 +1,179 @@
+[Event "AA/C21/Pr/O"] 
+[Site "ICCF"] 
+[Date "2019.03.31"] 
+[Round "-"] 
+[White "Hegde, Ganesh"] 
+[Black "Jee, Kai Yen"] 
+[Result "*"] 
+[WhiteElo "2233"] 
+[BlackElo "2215"] 
+[Annotator "Ganesh R Hegde"]
+[WhiteTeam "India"]
+[BlackTeam "Singapore"]
+[ECO ""]
+
+1.d4 {The Queen pawn opening}
+
+1...Nf6  {The Indian defence wherein centre control happens using as piece instead of occupying the central squares. Here the Knight controls the d5 and e4 squares }
+
+2.c4 {The flank pawn cothe d5 square as White gains more space on the Queenside. The most popular theoretical move along with 2.Nf3}
+
+2...e6 {Black releases the diagonal for the dark-squared Bishop and also controls the d5 square} 
+
+3.g3* {White gets into a fianchetto}
+
+
+[Event "AA/C21/Pr/O"] 
+[Site "ICCF"] 
+[Date "2019.03.31"] 
+[Round "-"] 
+[White "Hegde, Ganesh"] 
+[Black "Hassall, Kim"] 
+[Result "*"] 
+[WhiteElo "2233"] 
+[Annotator "Ganesh R Hegde"]
+[WhiteTeam "India"]
+[BlackTeam "Australia"]
+[ECO "A40"]
+
+1.d4 {The Queen pawn opening}
+
+1...g6 {Black is ready for the Modern defence after 2.e4}
+
+2.c4 {White want to go for the King's Indian setup instead}
+
+2...Bg7 {Black allows White to create a massive pawn centre. But White needs to be careful as this pawn mass may come under attack later. A healthy balance of pawn moves along with 
+piece development is required in any opening}
+
+3.e4 {White goes for the gauntlet and sets up a big centre}
+
+3...c5 {Attacking the centre with a flank pawn. Now White is forced to make a decision of persisting with the same formation by playing Nf3 or alter it with 
+pushing d5. White can also play the dubious looking dxc5 where his centre and then suffer its consequences}
+
+4.d5* {White creates a light-squared complex by playing the fourth consecutive pawn move!}
+
+
+[Event "AA/C21/Pr/O"] 
+[Site "ICCF"] 
+[Date "2019.03.31"] 
+[Round "-"] 
+[White "Hegde, Ganesh"] 
+[Black "Azaim, Mohamed Said"] 
+[Result "*"] 
+[WhiteElo "2233"] 
+[Annotator "Ganesh R Hegde"]
+[WhiteTeam "India"]
+[BlackTeam "Algeria"]
+[ECO "D35"]
+
+1.d4 {The Queen pawn opening}
+
+1...d5 {The Queen pawn game where Black replies in identical fashion}
+
+2.c4 {The Queen's gambit where Black offers a flank pawn to gain central control}
+
+2...e6 {The Queen's gambit declined. 2...c6 leads to the Slav defence}
+
+3.Nc3 {More control over the d5 and e4 squares as White develops a piece}
+
+3...Nf6 {Controlling the d5 and e4 squares}
+
+4.cxd5 {The exchange variation}
+
+4...exd5 {I believe people should explore 4...Nxd5 as it does not allow White to get an annoying pin as happens in this game}
+
+5.Bg5 {The Carlsbad variation where White pins the Knight and puts more pressure on the d5 pawn}
+
+5...Nc6?! {I would not call it a great move although it develops a piece. 5...c6 was much better. This Knight blocks the pawn on c7 from occupying the c5 square.
+Black's Queenside expansion is hindered because of this Knight on c6}
+
+6.e3 {White continues with his plan of placing the Bishop on d3 or e2}
+
+6...Be7 {Unpinning the Knight and gets ready to O-O}
+
+7.Bd3 {THe Bishop is placed on a healthy diagonal}
+
+7...Nb4 {Attacking the menacing Bishop}
+
+8.Bb1* {The Bishop goes back but the effect on the long diagonal remains. The Knight will be kicked back after White pushes a3. Black will have lost a move without gaining anything}
+
+
+
+[Event "AA/C21/Pr/O"] 
+[Site "ICCF"] 
+[Date "2019.03.31"] 
+[Round "-"] 
+[White "Sukmaji, Uus Rusiman"] 
+[Black "Hegde, Ganesh"] 
+[Result "*"] 
+[WhiteElo "2096"] 
+[BlackElo "2233"] 
+[Annotator "Ganesh R Hegde"]
+[WhiteTeam "Indonesia"]
+[BlackTeam "India"]
+[ECO ""]
+
+1.d4 {The Queen pawn opening}
+
+1...Nf6*  {The Indian defence wherein centre control happens using as piece instead of occupying the central squares. Here the Knight controls the d5 and e4 squares }
+
+[Event "AA/C21/Pr/O"] 
+[Site "ICCF"] 
+[Date "2019.03.31"] 
+[Round "-"] 
+[White "Joshua Hunt"] 
+[Black "Hegde, Ganesh"] 
+[Result "*"] 
+[WhiteElo "1443"] 
+[BlackElo "2233"] 
+[Annotator "Ganesh R Hegde"]
+[WhiteTeam "Australia"]
+[BlackTeam "India"]
+[ECO ""]
+
+1.e4  {The King pawn opening which not only occupies the d5 and f5 squares but also releaases the King's Bishop on f1. }
+
+1...e6 {The French defence is on the board as Black wants to fight for the central squares by occupying the d5 square on the next move as a response to White's
+King pawn opening.}
+
+2.e5 {The Steinitz attack begins as White gains more space and will play on the Kingside}
+
+2...d5 {Black occupies the d5 square and controls the c4 and e4 squares in the enemy camp}
+
+3.d4  {Transposing into the advanced variation of the French defence. White has fixed his pawn structure on the dark squares d4 and e5. 
+This is the main aim of the French defence for Black as he has successfully managed to provoke White from pushing his King pawn further.}
+
+3...c5 {Attacking the base of the pawn chain as Black gains more space on the Queenside and threatens to dismantle White's central pawn chain. This
+is the main motif in the advanced variation where Black will target White's d4 pawn regularly.}
+
+4.c3 {White reinforces the support to the d4 pawn but denies the c3 square to the Knight on b1}
+
+4...Qb6 {An excellent Queen move that adds more pressure on the d4 pawn. Also by putting pressure on the b2 pawn Black stops White from responding Be3}
+
+5.Nf3 {Development and also protecting the d4 pawn}
+
+5...Nc6 {Standard theory that not only develops a piece but also adds another attacker to the d4 pawn}
+
+6.Be3?? {What a mistake! The Queen on b6 will now gobble up the pawn on b2}
+
+6...Qxb2* {White will lose at least two pawns as the Rook on a1 is threatened along with the pawn on c3}
+
+
+[Event "AA/C21/Pr/O"] 
+[Site "ICCF"] 
+[Date "2019.03.31"] 
+[Round "-"] 
+[White "Jansen Malelak"] 
+[Black "Hegde, Ganesh"] 
+[Result "*"] 
+[WhiteElo "2067"] 
+[BlackElo "2233"] 
+[Annotator "Ganesh R Hegde"]
+[WhiteTeam "Indonesia"]
+[BlackTeam "India"]
+[ECO ""]
+
+1.d4 {The Queen pawn opening}
+
+1...Nf6*  {The Indian defence wherein centre control happens using as piece instead of occupying the central squares. Here the Knight controls the d5 and e4 squares }
+

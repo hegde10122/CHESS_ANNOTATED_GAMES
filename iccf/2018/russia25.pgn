@@ -324,7 +324,7 @@ White's King from occupying the central squares.31...Bg5? allows 32.Rxf6 Bxf6 33
 [Round "-"]
 [White "Andrzej Sodomski"]
 [Black "Hegde, Ganesh"]
-[Result "*"]
+[Result "1-0"]
 [WhiteElo "2272"]
 [BlackElo "2276"]
 [ECO "A87"]
@@ -501,7 +501,9 @@ It is better for Black to play with more freedom at the cost of a pawn}
 84...Nb6 {Black does not commit  anything and waits}
 85.Ke6 {The King is ready to gobble the pawns}
 85...Nc4 {Black Knight attacks the e3 pawn}
-86.Ng2* {Protecting the pawn}
+86.Ng2 {Protecting the pawn}
+86...Nd2 {Attacking the f3 pawn now}
+87.Nh4 {The pawn on f3 is protected while the pawn on f5 cannot be saved. Black resigned as defeat is inevitable.}1-0
 
 [Event "Russia25/pr29 (RUS)"]
 [Site "ICCF"]
@@ -783,7 +785,10 @@ who are close to uniting with each other.}
 68...Rb2 {Attacking the pawn from behind as the Rook joins the King in a last-ditch attempt}
 69.Nec5 {Protects the b7 square}
 69...Ra2+ {Black delays the inevitable by checking the White King}
-70.Kb5 * 
+70.Kb5 Rb2 {Another check}
+71.Kc6 {Black runs out of checks}
+71...Rb1* {Waiting move} 
+
 
 [Event "Russia25/pr29 (RUS)"]
 [Site "ICCF"]

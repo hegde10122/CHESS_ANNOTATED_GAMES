@@ -46,8 +46,21 @@ in this positional variation of the QGD. 9...Nbd7 lending support was a playable
 
 11.f3 {Vacating the f2 square for the dark-squared Bishop to come back and also preparing e4 at a later stage. The Black Bishop is attacked and Black has to waste yet another move here}
 
-11...Be6* {The Bishop could have also gone back to c8 considering the fact that White can now play Nf4 and harass the Bishop again}
+11...Be6 {The Bishop could have also gone back to c8 considering the fact that White can now play Nf4 and harass the Bishop again}
 
+12.Nf4 {Harassing the Bishop again. White wants to play Nxe6 and then after Black replies ..fxe6, Black would be left with a pawn weakness on e6}
+
+12...Nbd7 {Black errs into making a hasty developing move. Better was 12...Bc8. Now White can trade off the Knight for the Bishop and create a weak backward pawn on e6}
+
+13.Rc1 {Improving the position of the Rook on the semi-open c-file. The capture of the Bishop on e6 can wait.}
+
+13...Rc8 {Black improves the Rook's position and hopes to push ...c5 at some point}
+
+14.Nxe6 {Now it is the right time to induce the weak pawn on e6 for Black after the Knight is captured}
+
+14...fxe6
+
+15.Ne2* {The Knight will go to the Kingside for more action. Also the c5 square is under the control of the Rook}
 
 
 [Event "1517"]
@@ -82,7 +95,13 @@ plays solidly looking for a grind.This move looks like a hybrid between ...a6 Sl
 
 6...b5 {One of the better ways to save the pawn on b7. 6...Ra7 is also playable but then the Rook will have a hard time finding a meaningful square later}
 
-7.c5* 
+7.c5 {Keeps the Queenside closed. 7.cxd5 is also an alternative}
+
+7...Nbd7 {Best move in the position as Black prepares ...e5} 
+
+8.a4* {Attacking the frontal pawn of the light-squared complex on the Queenside. This move also vacates the a2 square for a possible Nc3-a2-b4 maneouvre where 
+White can put pressure on the backward c6 pawn}
+
 
 [Event "1517"]
 [Site "AICCF"]
@@ -108,7 +127,15 @@ plays solidly looking for a grind.This move looks like a hybrid between ...a6 Sl
 
 1...Nf6 {The Indian defence -a hypermodern approach to control the central d5 and e4 squares with a piece}
 
-2.c4* {White grabs more space on the Queenside and controls the d5 square}
+2.c4 {White grabs more space on the Queenside and controls the d5 square}
+
+2...e6 {Opening up the diagonal for the dark-squared Bishop } 
+
+3.Nc3 {Natural developing move and threatening to play e4 on the next move.}
+
+3...Bb4 {The Nimzo-Indian defence, a hypermodern way of controlling the centre with pieces. By pinning the Knight, Black indirectly controls the e4 square}
+
+4.e3* {The Rubinstein variation of the Nimzo-Indian where White wants to complete his Kingside development before trying to win the Bishop pair}
 
 
 [Event "1517"]
@@ -117,7 +144,7 @@ plays solidly looking for a grind.This move looks like a hybrid between ...a6 Sl
 [Black "Ajith Jose"]
 [EventDate "2019.03.19"]
 [Result "*"]
-[ECO "D36"]
+[ECO "D30"]
 [Annotator "Ganesh R Hegde"]
 
 1.d4 d5 {The Queen's pawn game}
@@ -132,8 +159,16 @@ plays solidly looking for a grind.This move looks like a hybrid between ...a6 Sl
 
 4...Nf6 {Black plays conventional chess.Develops a piece}
 
-5.b3* {White plays a quiet move and protects the c4 pawn disallowing ...dxc4 from Black. 
+5.b3 {White plays a quiet move and protects the c4 pawn disallowing ...dxc4 from Black. 
 The dark-squared Bishop will be fianchettoed to b2 followed by Nbd2 which will overprotect the pawn on c4}
+
+5...Nbd7 {Best continuation for Black as he prepares ...b6, ...Bb7 followed by a possible ...e5 or ...c5 later}
+
+6.Bb2 {White fianchettoes the Bishop according to the plan}
+
+6...b6 {Preparing ...Bb7 and a possible ...c5 later}
+
+7.Bd3* {The Bishop does not worry of getting kicked back if Black plays ...dxc4. Then White can recapture with the pawn}
 
 
 [Event "1517"]
@@ -202,8 +237,17 @@ The dark-squared Bishop will be fianchettoed to b2 followed by Nbd2 which will o
 11...Bb7 {In my opnion this is the worst square for the Bishop as the pawns on c6 and d5 block its activity. 
 11...a5 was perhaps better to avert White's b4 pawn advance}
 
-12.O-O* {White can now castle as 12...Bxh2? will not longer work. 13.Kxh2 Ng4+ 14.Kh3! protecting the Bishop on h4. Black's Bishop is no longer on c8 and the Knight on g4 
+12.O-O {White can now castle as 12...Bxh2? will not longer work. 13.Kxh2 Ng4+ 14.Kh3! protecting the Bishop on h4. Black's Bishop is no longer on c8 and the Knight on g4 
 has to retreat back}
+
+12...Nbd7 {Black too develops the Knight and both the Knights are nicely placed}
+
+13.Rac1 {Piling up more pressure on the semi-open c-file}
+
+13...Qe7 {Adding more steel to the semi-open e-file and also adding more power to the c5 square. 
+Black could have directly played ...c5 and contested the centre control on even terms. It is hard to see the Black Queen doing anything serious on the e-file. }
+
+14.Rfe1* {Improving the position of the King's Rook}
 
 
 [Event "1517"]
@@ -250,7 +294,17 @@ weaknesses as the best defender of the dark squares will be off the board}
 9.Nf3 {White gambits the pawn on c2 and looks to continue the attack. The acceptable theoretical solution is 9.Qd1 where the Queen goes back as 
 White does not have healthy prospects to checkmate the Black King.}
 
-9...Qxc2* {The Queen can come back to e4 with a check and look to exchange its counterpart on g4. 9...Ne7 or 9...Nc6 are also good alternatives for Black}
+9...Qxc2 {The Queen can come back to e4 with a check and look to exchange its counterpart on g4. 9...Ne7 or 9...Nc6 are also good alternatives for Black}
+
+10.Rc1 {Attacking the Queen. A more accurate continuation would have been 10.Be2 preparing O-O}
+
+10...Qg6 {The Queen makes excellent use of the geometry and comes back to shore up the Kingside. Black will be happy to trade  Queens}
+
+11.Qh3 {A better move, I feel, was to play 10.Qf4. The Queen has now moved into a corner}
+
+11...b6* {Protecting pawn on c5 and preparing the insidious ...Ba6 to capture White's good-looking Bishop on f1 to neutralise White's initiative further}
+
+
 
 
 [Event "1517"]
@@ -266,8 +320,18 @@ White does not have healthy prospects to checkmate the Black King.}
 
 2.c4 {White grabs more space on the Queenside and controls the d5 square}
 
-2...e6* {Opens the diagonal for the dark-squared Bishop and controls the d5 square}
+2...e6 {Opens the diagonal for the dark-squared Bishop and controls the d5 square}
 
+3.Nf3 {Avoids 3.Nc3 Bb4 which is the Nimzo-Indian defence where Black's prospects are excellent}
+
+3...Bb4+ {The Bogo-Indian Defence named after two-time World championship challenger to Alexander Alekhine in the 1930s, Efim Bogolubow.
+Diverting from chess, there is a nice story which claims that the
+rotund Bogolubow was a jovial fellow and knew only one word in the English dictionary - beer!
+He also boasted once,"When I play White, I win because I have the first move. When I am Black, I win because I am Bogolubow!!"}
+
+4.Nbd2 {White wants to eliminate Black's Bishop pair later by playing a3 but wants to preserve his two Bishops}
+
+4...b6* {...Bb7 is the idea to control the e4 square}
 
 [Event "1517"]
 [Site "AICCF"]
@@ -275,13 +339,17 @@ White does not have healthy prospects to checkmate the Black King.}
 [Black "Hegde, Ganesh"]
 [EventDate "2019.03.19"]
 [Result "*"]
-[ECO "C00"]
+[ECO "C03"]
 [Annotator "Ganesh R Hegde"]
 
 1.e4 e6 {The French defence}
 
-2.d4 d5* {White grabs space with the central pawn duo while Black hits back to have his own share of the centre}
+2.d4 d5 {White grabs space with the central pawn duo while Black hits back to have his own share of the centre}
 
+3.Nd2  {The Tarrasch variation. The Knight on d2 supports the pawn on e4 and White gives the game a positional colour}
+
+3...Be7* {An exotic variation where Black plays 'hide and seek'. This is a favourite o Russian grandmaster Alexander Morozevich. Black keeps his Knight on g8
+3...Nf6 is the most popular response where Black attacks the e4 pawn again provoking White to push 4.e5}
 
 [Event "1517"]
 [Site "AICCF"]
@@ -324,7 +392,10 @@ White does not have healthy prospects to checkmate the Black King.}
 8...O-O {Black cannot afford to be greedy here.
 8...Bxc3 9.bxc3 b5? 10.Ba3! and Black's King will remain stuck in the centre with a dangerous attack to follow}
 
-9.Bxc4* {White gets the pawn back but the pawn on d4 is now isolated. Can Black exploit it?}
+9.Bxc4 {White gets the pawn back but the pawn on d4 is now isolated. Can Black exploit it?}
+
+9...Nc6* {Devel;oping a piece is the best option as 9...Bxf3 10.Qxf3 Qxd4 11.Qxb7 Qxc4 12.Qxa8 Bd6 13.Qxa7 Bxh2+ 14.Kxh2 Qxf1 is equal} 
+
 
 
 [Event "1517"]
@@ -386,11 +457,15 @@ a tactical shot if White were to make a mistake.
 11.Qd1 {The Queen wisely returns back to defend the c2 pawn and White's aggression fizzles out. 
 11.Qf4 threatening dxc5 allows Black to play 11...Qxc2 12.dxc5 Nge7 with uncertain play }
 
-11...b6* {An insidious move that prepares ...Ba6 to exchange Black's perennial problem piece with White's good Bishop on f1.
+11...b6 {An insidious move that prepares ...Ba6 to exchange Black's perennial problem piece with White's good Bishop on f1.
 This move also protects the pawn on c5 that was under attack.
 11...cxd4 does look playable but 12.Nf3! Nge7 13.Nxd4 Nge7 14.Rh4! and White gets the pawn back with cxd4 on the next move. 
 This would mean that White doubled c-pawns vanish off the board and the Bishop pair 
 would give White a healthy advantage although Black can defend with accurate play.}
+
+12.Nf3 {Simple development as White needs to get his act together}
+
+12...Ba6* {Black wants to neutralise White's Bishop on f1}
 
 
 [Event "1517"]
@@ -431,8 +506,15 @@ at the outset}
 
 10.c3 {White opts to solidify the d4 pawn further denying the Knight the c3 square}
 
-10...O-O* {Black completes Kingside development}
+10...O-O {Black completes Kingside development}
 
+11.O-O {White too castles and safeguards his King}
+
+11..Nc6 {Black brings out yet another piece and remains ahead in development}
+
+12.Re1 {Improving the Rook's position}
+
+12...b5* {Cementing the pawn on c4 further and Black has expanded well on the Queenside}
 
 [Event "1517"]
 [Site "AICCF"]
@@ -488,8 +570,20 @@ come to the Queenside}
 
 11...Qa5 {The idea is to play on the Queenside with moves like ...Rfc8,...a6 and ...b5 where the Queen assists the pawn advance.The move also deters White from moving his Knight to d5 as Black would then exchange Queens}
 
-12.Rfc1* {12.Rab1 was perhaps better where White can push b4 later and drive away the Black Queen}
+12.Rfc1 {12.Rab1 was perhaps better where White can push b4 later and drive away the Black Queen}
 
+12...Nxe4 {It is time for some tactics! The next five to seven are almost forced as Black gets into a forced endgame where White's positional might is 
+reduced considerably.}
+
+13.Nxe4 {Forced.Any other move means the Knight will retreat back and Black won a pawn for nothing}
+
+13...Qxd2 {Foced or else Black would be down a Knight for nothing}
+
+14.Nxd2 {14.Bxd2 is also not effective either as Black would have the same response}
+
+14...Bxb2 {Forking the Rooks. Now Black has two pawns for the Knight and soon White will have two pieces against the Black Rook and a pawn}
+
+15.Bf3* {The most effective continuation as the b7 pawn is attacked. In the ensuing moves Black will lose both the pawns on a7 and b7 but will get the a2 pawn}
 
 
 
