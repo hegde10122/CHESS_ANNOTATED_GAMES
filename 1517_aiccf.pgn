@@ -58,9 +58,13 @@ in this positional variation of the QGD. 9...Nbd7 lending support was a playable
 
 14.Nxe6 {Now it is the right time to induce the weak pawn on e6 for Black after the Knight is captured}
 
-14...fxe6
+14...fxe6 {Forced recapture to prevent loss of material}
 
-15.Ne2* {The Knight will go to the Kingside for more action. Also the c5 square is under the control of the Rook}
+15.Ne2 {The Knight will go to the Kingside for more action. Also the c5 square is under the control of the Rook}
+
+15...Nh5 {Black wants to simplify further to ease the cramp}
+
+16.Bf2* {The Bishop returns back as White wants to make the most of his pieces and keep Black's difficulties intact}
 
 
 [Event "1517"]
@@ -302,9 +306,11 @@ White does not have healthy prospects to checkmate the Black King.}
 
 11.Qh3 {A better move, I feel, was to play 10.Qf4. The Queen has now moved into a corner}
 
-11...b6* {Protecting pawn on c5 and preparing the insidious ...Ba6 to capture White's good-looking Bishop on f1 to neutralise White's initiative further}
+11...b6 {Protecting pawn on c5 and preparing the insidious ...Ba6 to capture White's good-looking Bishop on f1 to neutralise White's initiative further}
 
+12.dxc5 {White grabs a pawn with an intention of playing c4 later and opening up the c-file}
 
+12...bxc5* {12...Ne7 was also possible where Black chooses to develop a piece instead of holding onto the extra pawn.}
 
 
 [Event "1517"]

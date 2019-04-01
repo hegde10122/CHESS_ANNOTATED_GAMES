@@ -50,7 +50,12 @@ piece development is required in any opening}
 3...c5 {Attacking the centre with a flank pawn. Now White is forced to make a decision of persisting with the same formation by playing Nf3 or alter it with 
 pushing d5. White can also play the dubious looking dxc5 where his centre and then suffer its consequences}
 
-4.d5* {White creates a light-squared complex by playing the fourth consecutive pawn move!}
+4.d5 {White creates a light-squared complex by playing the fourth consecutive pawn move!}
+
+4...d6 {Black prevents WHite from pushing ...e5 and opens up the diagonal for the Bishop on c8}
+
+5.Bd3* {White keeps the e2 square vacant for the Knight on g1. 5.Nf3 would allow 5...Bg4 and then 6.Be2 will allow Black to trade the Bishop for the Knight
+In this closed setup White wants to have more pieces on the board and increase Black's headaches.}
 
 
 [Event "AA/C21/Pr/O"] 
@@ -95,8 +100,15 @@ Black's Queenside expansion is hindered because of this Knight on c6}
 
 7...Nb4 {Attacking the menacing Bishop}
 
-8.Bb1* {The Bishop goes back but the effect on the long diagonal remains. The Knight will be kicked back after White pushes a3. Black will have lost a move without gaining anything}
+8.Bb1 {The Bishop goes back but the effect on the long diagonal remains. The Knight will be kicked back after White pushes a3. Black will have lost a move without gaining anything}
 
+8...O-O {A logical move that completes Black's Kingside development}
+
+9.a3 {Kicking the Knight back and preparing a Queenside expansion later with b4}
+
+9...Nc6?! {A slight mistake as this natural looking retreat allows White to win a pawn. 9...Na6!? was better as Black can play c7-c5 later to grab some space in the centre}
+
+10.Bxf6* {Eliminating the defender of the h7 and the d5 pawns. }
 
 
 [Event "AA/C21/Pr/O"] 
@@ -156,7 +168,28 @@ is the main motif in the advanced variation where Black will target White's d4 p
 
 6.Be3?? {What a mistake! The Queen on b6 will now gobble up the pawn on b2}
 
-6...Qxb2* {White will lose at least two pawns as the Rook on a1 is threatened along with the pawn on c3}
+6...Qxb2 {White will lose at least two pawns as the Rook on a1 is threatened along with the pawn on c3}
+
+7.Nbd2 {Protecting the Rook.}
+
+7...c4! {Fixing the c3 pawn and hindering development of the Bishop on f1. 7...Qxc3 was also possible 
+But then 8.dxc5 followed by Rc1 allows White to save a pawn. This move does not allow the possibility of dxc5 also.}
+
+8.Rc1 {Protecting the c3 pawn. It looks as if 8.Qc1 does the job for White in saving the loss of another pawn. 
+But then 8...Ba3! with a double attack on the Queen does not save White from losing another pawn.
+9.Qxb2 Bxb2 10.Rb1 Bxc3 and Black is up two pawns} 
+
+8...Qxa2 {Easy pickings for Black as the passed pawn on a7 can be pushed later}
+
+9.Be2 {White prepares O-O}
+
+9...Nge7 {Black could have also played ...b5 followed by ...a5 and ...Rb8 to steamroll White}
+
+10.O-O {White completes Kingside development}
+
+10...Nf5* {Going after the dark-squared Bishop and also vacating the e7 square for the Bishop on f8.Black can simply trade off all pieces and enter into a 
+winning endgame}
+
 
 
 [Event "AA/C21/Pr/O"] 

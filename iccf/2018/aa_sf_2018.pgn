@@ -162,7 +162,13 @@ comparison.}
 
 14.Ng5!? {Another active prophylactic move from White stopping Black from O-O-O 14...O-O-O ? 15.Nxf7 forking both the Black Rooks and winning the exchange}
 
-14...Nf5* {Attacking the Queen and forcing her to go to a corner and waste another move.}
+14...Nf5 {Attacking the Queen and forcing her to go to a corner and waste another move.}
+
+15.Qh3 {Forced. The Queen has to maintain the pin of the h6 pawn or else the Knight on g5 would fall}
+
+15...Qa5 {The Queen move deters White from castling as 16.O-O? will allow Black to grab a pawn. 16...Ncxd4 17.bxc4 Qxd2}
+
+16.Ra1* {White goes back with the Rook as the c2 pawn does not need protection}
 
 
 [Event "AA/C18/SF/A"]
@@ -255,7 +261,12 @@ pawn on c3}
 
 19.Bf1? {A bad move. White's Queen on d3 blocks the sight of the Bishop. White seems to have no answers for Black's slow grinding play}
 
-19...Qc8* {Black continues with his plan of creating an Alekhine gun on the c-file where all of his three heavy pieces will target the pawn on c3}
+19...Qc8 {Black continues with his plan of creating an Alekhine gun on the c-file where all of his three heavy pieces will target the pawn on c3}
+
+20.Be2 {White has resigned to the fact that the loss of the c3 pawn is inevitable}
+
+20...Rfc7* {The Alekhine gun is ready on the c-file. 20...Na5 attacking the Rook was also possible. 21.Rb5 b6 and the pawn on c3 will fall on the next move.
+But in this case Black will have to lose a few tempi to bring back the Knight into the game. 21...Nd6 is now the logical move that will allow Black to gobble up the pawn on c3}
 
 
 [Event "AA/C18/SF/A"]
@@ -659,7 +670,11 @@ from pushing b2-b4}
 
 15...Nc5 {Attacking the pawn on b3}
 
-16.Qc2* {Defends and White is ready to push b4, gain space on the Queenside and kick the Knight back again}
+16.Qc2 {Defends and White is ready to push b4, gain space on the Queenside and kick the Knight back again}
+
+16...Qe8* {The Queen from e8 can switch over to g6 for a Kingside initiative. Also, the Queen now guards the crucial a4 square which can be used by the 
+Knight on c5 later. This move deters White from pushing b4 immediately and gaining space on the Queenside at the expense of the Black Knight on c5.
+Also Black prepares to push ...a4 and then post the Knight on b3 where it will act as a thorn in White's flesh}
 
 
 [Event "AA/C18/SF/A"]
