@@ -787,7 +787,8 @@ who are close to uniting with each other.}
 69...Ra2+ {Black delays the inevitable by checking the White King}
 70.Kb5 Rb2 {Another check}
 71.Kc6 {Black runs out of checks}
-71...Rb1* {Waiting move} 
+71...Rb1 {Waiting move} 
+72.Ne4 Rc1+* {Another check}
 
 
 [Event "Russia25/pr29 (RUS)"]

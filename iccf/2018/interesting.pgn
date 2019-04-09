@@ -64,7 +64,10 @@ White can double Black's pawns with Bxh6 gxh6}
 31.gxf4 Bxd5 {Black wins the exchange}
 32.fxe5 Rc8 {The pawn on c3 will be grabbed as the Rook is positioned nicely on the semi-open c-file}
 33.exf6 Bxf6 {More material exchanged}
-34.Nxg5 Rxc3* {Threatening ...Rxe3 followed by Bxg5}
+34.Nxg5 Rxc3 {Threatening ...Rxe3 followed by Bxg5}
+35.Bf3 Bxf3 {The Bishops also go off the board}
+36.Nxf3 Bd8 {The b6 pawn will now be targeted after ..Rb3}
+37.Kg2 Kf7* {The King will join the party and target the pawn on b6 also}
 
 
 [Event "*"]

@@ -90,10 +90,20 @@ Bishop on c1 gets locked-in and White will have to do extra to activate it.}
 21.Nd4 {21. Nxa7 looks juicy at the outset but Black has an excellent move that gets back the lost pawn with an equal position. 21...Be5! 22.Nb5 is forced. 
 22...Bxb2 and Black is perfectly alright here.}
 
-21...Re4* {21...R6e7? is bad on account of 22.Nf5! attacking the Rook again.
+21...Re4 {21...R6e7? is bad on account of 22.Nf5! attacking the Rook again.
 More importantly the Knight guards the Bishop on e3 and is ready to push g3 trapping the Bishop on h2
 Now Black will end up in a bad position after 22...Re5? 23.Bd4 23...Re6 24.g3 wiinning a piece. 
 22...Re6 is also a bad move as 23.g3 traps the Bishop on h2. 23...g6? 24.Nh6+ and White will gobble up the Bishop on the next move}
+
+22.Nf5*
+{
+The Knight controls the g3 square and White threatens to trap the Bishop on h2.
+Another alternative is to vacate the third rank for the White Queen by playing 22.Bg5 and also threatening to double Black's pawns after Bxf6.
+Now White has multiple threats. By controlling the g3 square White, wants to play g3 and trap the Bishop on h2. The Knight on f6 also does not have an 
+escape square. 22...Nh5?? 23.Qf3! attacking the Knight 23...Nf6 24.g3 traps the Bishop on h2. Also, Qxd7 will be possible after White eliminates the Knight on f6
+}
+
+
 
 
 [Event "AA/C18/SF/A"]
@@ -168,7 +178,9 @@ comparison.}
 
 15...Qa5 {The Queen move deters White from castling as 16.O-O? will allow Black to grab a pawn. 16...Ncxd4 17.bxc4 Qxd2}
 
-16.Ra1* {White goes back with the Rook as the c2 pawn does not need protection}
+16.Ra1 {White goes back with the Rook as the c2 pawn does not need protection}
+
+16...Nce7* {Black plans to attack the c2 pawn again but this time with ...Ba4.Both sides cannot castle and this seems to be a logical plan}
 
 
 [Event "AA/C18/SF/A"]
@@ -265,8 +277,17 @@ pawn on c3}
 
 20.Be2 {White has resigned to the fact that the loss of the c3 pawn is inevitable}
 
-20...Rfc7* {The Alekhine gun is ready on the c-file. 20...Na5 attacking the Rook was also possible. 21.Rb5 b6 and the pawn on c3 will fall on the next move.
+20...Rfc7 {The Alekhine gun is ready on the c-file. 20...Na5 attacking the Rook was also possible. 21.Rb5 b6 and the pawn on c3 will fall on the next move.
 But in this case Black will have to lose a few tempi to bring back the Knight into the game. 21...Nd6 is now the logical move that will allow Black to gobble up the pawn on c3}
+
+21.Kh1? {A dubious move. 21.Qd1 with the idea of playing Bd3 next and protecting the c2 pawn was much better. 21.Qd1 Na5 22.Rb5 b6 and Black will capture the 
+pawn on c3. In t hat case, Bd3 would have allowed White to keep fighting}
+
+21...Na5 {Gaining a tempo on the Rook and also evacuating the path for the Rook on c6 to gobble up the pawn on c3}
+
+22.Rb2 {22.Rb5 b6 23.Qd1 Rxc3 24.Bd3 was perhaps better for White}
+
+22...Rxc3* {Black crashes through and the pawn on c2 is also under fire}
 
 
 [Event "AA/C18/SF/A"]
@@ -468,7 +489,23 @@ Black's Bishop on g7 is suddenly active as ...Bxe5 is threatened because of the 
 
 14...Bf7 {Preserving his Bishop pair and also adding more control over the h5 square}
 
-15.Qc1* {Stopping Black from playing ...Nc4 and indirectly controlling the c5 square which stops Black from playing ...c5} 
+15.Qc1 {Stopping Black from playing ...Nc4 and indirectly controlling the c5 square which stops Black from playing ...c5} 
+
+15...Na4 {Black wants to trade his Knight with the defender of the a2 pawn sitting on the c3 square. 16.Nxa4?? loses to 
+16...Bxa2+ 17.Ka1 Qxa4 and Black has a winning attack. Black threatens ...Nc2+ on the next move. 
+18.Rd2?? Bb3+ 19.Kb1 Qa2# White will have to give up his Queen and just prolong the mating sequence.
+Also this move from Black forces White to make a decision on the Queenside and stops him from executing his h4-h5 pawn push idea.
+Another significant idea behind this move is that Black now is willing to bust open the Queenside with the pawn push ...c5 as the Knight on a4 controls the 
+c5 square. }
+
+16.b3 {16.a3? is not a good choice as this allows Black great counterplay. 16...Nxc3+ 17.Qxc3 Nd5 18.Nxd5 Qxd5 and Black dominates the a2-f7 diagonal. With moves like ...b5 and ...c5 on the 
+cards, it looks Black will have a great attack. The move played blocks the a2-f7 diagonal and forces the Black Knight to be traded off.}
+
+16...Nxc3 {Forced. 16...Nb6? is bad as 17.h5 allows White to execute his idea.17...g5 keeping the g-file closed.18. Nd3 Nxd3 19.Bxd3 h6 to stop White's pawn march.But then White can bust open the 
+Kingside with 20.f4 g4 keeping the g-file closed yet again. 21.Qc2 Be6 or 21...e6 allows White to play 22.d5! with a great spatial advantage}
+
+17.Qxc3* {Now Black is forced to make a decision with the other Knight}
+
 
 
 [Event "AA/C18/SF/A"]
@@ -596,7 +633,23 @@ It is better for Black to exchange central pawns at an apt moment.
 
 15.Re1 {Activating the Rook on the e1 square from which the e5 square is controlled}
 
-15...fxe5* {Opening up the f-file after the brief surge from White's minor pieces}
+15...fxe5 {Opening up the f-file after the brief surge from White's minor pieces}
+
+16.dxe5 {The only good looking move. 16.Bg5 with an attack on the Rook is also possible but then 16...Rf7 seems to be okay for Black.17.Nf4 Nd8 with added protection to the pawn on e6}
+
+16...b6 {A prophylactic move that stops the White Queen from infiltrating the b7 square. White can play moves like Qb2,Rb1 and pressurise the pawn on b7. This move stops such ideas and throws 
+the ball back into White's court.}
+
+17.Bh3 {The pressure on e6 is maintained and White too does not want to break the ice}
+
+17...Rf7 {Vacating the e7 square for the Knight on g8. After having taken precautionary measures it is time for Black to occupy the f-file and then develop 
+the pieces on g8 and h8}
+
+18.Nf4 {White agains attacks the pawn on e6 with the Knight}
+
+18...Nd8* {The other Knight comes to the rescue. Now if we look at the position it seems that White wasted many tempi in attacking the e6 and the g7 pawns without actually gaining anything
+His Bishop on h3 isn't doing anything great and so too the Knight on f4. On the other hand, Black's Knight on g8 is poised to be developed on e7 followed by ...Rhf8 with some pressure going on the 
+f-file.}
 
 
 [Event "AA/C18/SF/A"]
@@ -752,8 +805,13 @@ behemoth like Alphazero}
 
 15...Nh5 {Vacating the g5 square for the Queen as Black wants to launch a Kingside counter-offensive. After ...Qg5, ...Bf5 becomes a possibility} 
 
-16.O-O* {White takes the King to safety}
+16.O-O {White takes the King to safety}
 
+16...Qg5 {Threatening ...Bxh3. Black turns up the pressure}
+
+17.Kh2* {the h3 pawn is now unpinned. 17.Kh1 is also okay}
+
+{18.Qd2* {18.Qa4 looks to be a mouth-watering prospect with a double attack on the a6 and c6 pawns. But then 18...Re6 }}
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -861,7 +919,15 @@ White plans to push a5 and then use Black's b6 pawn as a pivot to open up the Qu
 
 21...Bxe4 {Black liquidates. 21...Ba6 misplaces the Bishop and so this move played in the game was satisfactory}
 
-22.Nxe4* {22.Rxe4 allows 22...d3 23.Rd4 Rfe8 24.Rxd3 Nc5 and White's Rook will have to make another move to return back to safety allowing Black to better his position}
+22.Nxe4 {22.Rxe4 allows 22...d3 23.Rd4 Rfe8 24.Rxd3 Nc5 and White's Rook will have to make another move to return back to safety allowing Black to better his position}
+
+22...Red8 {White was threatening Nd6 forking both the Rooks. This move seems the best continuation. 22...Rxc4? 23.Nd6 and the fork will help White 
+to win the exchange}
+
+23.Qxd4 {White not only regains the pawn but also the Queen is nicely centralised. White has great space advantage but Black is not bad either.}
+
+23...Nhf8* {Black wants to improve the Knight's position}
+
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -932,7 +998,14 @@ However, White's Bishop pair is offset with the damaged pawn structure}
 
 14...Rad8 {Hard to say whether 14...Rfd8 was much better. It is a tricky decision to make on many occassions}
 
-15.Re1* {Improving the Rook's position}
+15.Re1 {Improving the Rook's position}
+
+15...Rfe8 {Black also follows White and activates the other Rook.Perhaps 15...Rd6 followed by ...Rfd8 was a better option as Black could have kept up the 
+pressure on the d-file}
+
+16.Rc1 {Activating the other Rook}
+
+16...Re6* {Unpinning the Knight on c6.}
 
 
 [Event "AA/C18/SF/A"]
@@ -1023,5 +1096,6 @@ mate the Black King, it seems prudent to capture the pawn on c2 now.}
 
 15...Nd8 {Forced to protect the f7 square as Black prepares to meet g4}
 
-16.Ne2!?* {An excellent move defending the pawn on d4. There is no need for g4 as Black has the f7 square covered}
+16.Ne2!? {An excellent move defending the pawn on d4. There is no need for g4 as Black has the f7 square covered}
 
+16...b6* {Black wants to neutralise White's strong Bishop on d3. ...Ba6 is the idea. The move also adds more protection to the pawn on c5}
