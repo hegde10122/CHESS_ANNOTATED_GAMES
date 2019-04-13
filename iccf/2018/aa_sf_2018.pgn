@@ -647,9 +647,14 @@ the pieces on g8 and h8}
 
 18.Nf4 {White agains attacks the pawn on e6 with the Knight}
 
-18...Nd8* {The other Knight comes to the rescue. Now if we look at the position it seems that White wasted many tempi in attacking the e6 and the g7 pawns without actually gaining anything
+18...Nd8 {The other Knight comes to the rescue. Now if we look at the position it seems that White wasted many tempi in attacking the e6 and the g7 pawns without actually gaining anything
 His Bishop on h3 isn't doing anything great and so too the Knight on f4. On the other hand, Black's Knight on g8 is poised to be developed on e7 followed by ...Rhf8 with some pressure going on the 
 f-file.}
+
+19.Ne2 {White loses another tempo with the Knight as its utility on f4 has been finished.}
+
+19...Ne7* {Black needs to involve his Knight and also the Rook on h8 to join the battle.}
+
 
 
 [Event "AA/C18/SF/A"]
@@ -725,10 +730,11 @@ from pushing b2-b4}
 
 16.Qc2 {Defends and White is ready to push b4, gain space on the Queenside and kick the Knight back again}
 
-16...Qe8* {The Queen from e8 can switch over to g6 for a Kingside initiative. Also, the Queen now guards the crucial a4 square which can be used by the 
+16...Qe8 {The Queen from e8 can switch over to g6 for a Kingside initiative. Also, the Queen now guards the crucial a4 square which can be used by the 
 Knight on c5 later. This move deters White from pushing b4 immediately and gaining space on the Queenside at the expense of the Black Knight on c5.
 Also Black prepares to push ...a4 and then post the Knight on b3 where it will act as a thorn in White's flesh}
 
+17.f3* {A complicated continuation to understand. Controlling the e4 square is understandable. }
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -926,7 +932,7 @@ to win the exchange}
 
 23.Qxd4 {White not only regains the pawn but also the Queen is nicely centralised. White has great space advantage but Black is not bad either.}
 
-23...Nhf8* {Black wants to improve the Knight's position}
+23...Nhf8* {Black wants to improve the Knight's position by playing ...Nc5 followed by ...Nfd7}
 
 
 [Event "AA/C18/SF/A"]
@@ -994,7 +1000,7 @@ However, White's Bishop pair is offset with the damaged pawn structure}
 
 13...e4 {Black pushes the pawn and fixes it on e4 attacking the White Knight}
 
-14.Nd2 {The Knight comes back on to a safe square. 14.Nh4 Bf8 and the Knight looks stupid on the h4 square}
+14.Nd2 {The Knight comes back on to a safe square. 14.Nh4 Bc8 and the Knight looks stupid on the h4 square}
 
 14...Rad8 {Hard to say whether 14...Rfd8 was much better. It is a tricky decision to make on many occassions}
 
@@ -1005,8 +1011,11 @@ pressure on the d-file}
 
 16.Rc1 {Activating the other Rook}
 
-16...Re6* {Unpinning the Knight on c6.}
+16...Re6 {Unpinning the Knight on c6.It is time to take stock of the situation. White's Bishop on b2 is not doing anthing great. The Bishop on b5 is also hitting wood.
+Once the c-file opens up then White's Rook on c1 will have something to look forward too. Black Rooks can double up on the d-file and create some pressure. 
+Black's Knights and the Bishop are also passive. }
 
+17.Bf1* {White retreats the Bishop and the plan is to target the pawn on e4 via moves like g3,Bg2,Qc2.}
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -1098,4 +1107,13 @@ mate the Black King, it seems prudent to capture the pawn on c2 now.}
 
 16.Ne2!? {An excellent move defending the pawn on d4. There is no need for g4 as Black has the f7 square covered}
 
-16...b6* {Black wants to neutralise White's strong Bishop on d3. ...Ba6 is the idea. The move also adds more protection to the pawn on c5}
+16...b6 {Black wants to neutralise White's strong Bishop on d3. ...Ba6 is the idea. The move also adds more protection to the pawn on c5}
+
+17.c4 {Good move. White attacks the d5 pawn and threatens to capture cxd5 and put added pressure on the e6 pawn. The c3 square is also vacated for the Knight 
+to join the party}
+
+17...Bb7* {More or less forced as Black cannot afford the collapse of the pawn chain. The Bishop supports the pawn on d5. The Knight on f5 has lost one of its defenders and White 
+can regain her pawn back. 17...Ba6? 18.cxd5 Bxd3 19.Rxd3 Qc4 supporting the pawn on c5 and e6, allows White to play 20. Qf3 Qxd5 21.Qxd5 exd5 22.dxc5 and the pawn on d5 
+will also be lost soon giving White a healthy advantage}
+
+

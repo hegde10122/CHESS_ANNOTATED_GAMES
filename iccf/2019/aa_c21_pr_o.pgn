@@ -10,7 +10,7 @@
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "India"]
 [BlackTeam "Singapore"]
-[ECO ""]
+[ECO "E00"]
 
 1.d4 {The Queen pawn opening}
 
@@ -20,7 +20,30 @@
 
 2...e6 {Black releases the diagonal for the dark-squared Bishop and also controls the d5 square} 
 
-3.g3* {White commits a fianchetto on g2 for the Bishop on f1 later}
+3.g3 {White commits a fianchetto on g2 for the Bishop on f1 later and this is the Catalan}
+
+3...d5 {Black stakes his claim in the centre}
+
+4.Nf3 {Normal development where White will play Bg2 and O-O later}
+
+4...Bb4+ {Borrowing an idea from the Bogo-Indian territory with this check. I believe Black has got the move order wrong. 
+After playing ...d5 earlier this check does not sound good because by playing ...d5 Black has lost some flexibility. }
+
+5.Bd2 {5.Nbd2 is not great as 5...dxc4 gives Black a pleasant game. The Knight on d2 makes development harder for White and hence this Bishop move is the best 
+continuation}
+
+5...Be7 { By performing this two-step Bishop dance Black has created a misplaced Bishop on d2 for White. }
+
+6.Bg2 {White wants to complete castling on the next move}
+
+6...O-O {Black completes his Kingside development}
+
+7.O-O {White too follows suit}
+
+7...c6 {Another good move as Black does not want any hiccups on the g2-b7 diagonal.
+7...dxc4 hardly looks good as Black has played two moves with his Bishop already. }
+
+8.Qc2* {White remains flexible as the pawn on c4 is now guarded.} 
 
 
 [Event "AA/C21/Pr/O"] 
@@ -81,7 +104,21 @@ Moves like ...Bd7,...Rb8,...a6,...Qe8 are on the cards for a possible expansion 
 10.a3 {10.Bg5 and pinning the Knight is also a good option. But then 10...Qe8 with more control over the b5 square not only unpins the Knight on f6 but also aids Black's idea 
 of a Queenside expansion. The move played announces White's intentions of being the first player to eye a Queenside expansion with moves like Rb1 and b4 up next}
 
-10...Nh5!?* {Interesting move. Black goes for a Kingside expansion. The pawn push ...f5 is prepared and ...Nf4 is too on the cards.}
+10...Nh5!? {Interesting move. Black goes for a Kingside expansion. The pawn push ...f5 is prepared and ...Nf4 is too on the cards.}
+
+11.Rb1 {White prepares a Queenside expansion with b2-b4 next}
+
+11...Nf4 {Looks premature to me. It is important for Black to balance his Kingside expansion with moves that prevents White from carrying out his Queenside 
+expansion. 11...a5 was an apt choice that stops White from pushing b4}
+
+12.Bxf4 {The pesky Knight is removed. 13.Bc2 retreating the Bishop also is a good choice but then this again allows Black to push ...a5 and make life difficult for White.
+12.b4 was also possible immediately but then 12...Nxd3 13.Qxd3 b6 seems okay for Black}
+
+12...exf4  {Forced recapture}
+
+13.Qd2 {Attacking the pawn on f4. This move keeps Black busy in taking countermeasures and denying him the chance to push ...a5}
+
+13...g5* {Interesting move. Black supports his pawn on f4 and decides to create a wedge on the f4 square}
 
 
 

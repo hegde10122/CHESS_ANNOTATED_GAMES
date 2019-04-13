@@ -623,7 +623,7 @@ lands Black with an extra piece}
 [Round "-"]
 [White "Wong, Victor"]
 [Black "Hegde, Ganesh"]
-[Result "*"]
+[Result "1-0"]
 [BlackElo "2276"]
 [Annotator "Ganesh R Hegde"]
 
@@ -788,8 +788,8 @@ who are close to uniting with each other.}
 70.Kb5 Rb2 {Another check}
 71.Kc6 {Black runs out of checks}
 71...Rb1 {Waiting move} 
-72.Ne4 Rc1+* {Another check}
-
+72.Ne4 Rc1+ {Another check}
+73.Nac5 {Black resigned as Nf6 will pick up the pawn on g4 after Nxg4 later and Black will lose}1-0
 
 [Event "Russia25/pr29 (RUS)"]
 [Site "ICCF"]
