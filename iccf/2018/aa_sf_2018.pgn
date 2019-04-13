@@ -287,7 +287,19 @@ pawn on c3. In t hat case, Bd3 would have allowed White to keep fighting}
 
 22.Rb2 {22.Rb5 b6 23.Qd1 Rxc3 24.Bd3 was perhaps better for White}
 
-22...Rxc3* {Black crashes through and the pawn on c2 is also under fire}
+22...Rxc3 {Black crashes through and the pawn on c2 is also under fire}
+
+23.Qb5 {Attacking  the Knight on a5}
+
+23...Nc4 {Attacking the Rook on b2 and forcing White into a series of exchanges}
+
+24.Bxc4 {White is better off to capture this Knight and ease the pressure}
+
+24...R3xc4 {Capturing with the other Rook allows White to play Qxb7}
+
+25.Rab1?!  {Bad decision. White adds more pressure on the b7 pawn but the d4 pawn is left hanging}
+
+25...Rxd4* {Black is two pawns up and is in the driver's seat}
 
 
 [Event "AA/C18/SF/A"]
