@@ -92,15 +92,13 @@ Black's light-squared Bishop has problems occupying a good square in this variat
 25.Qxe6 fxe6 {The Queen's go off the board and Black now has three pawn islands as compared to White's two}
 26.Rc1 {Pinning the Bishop on c5 and not allowing Black to capture 26...Rxa2. The game is abandoned as a draw for reasons unknown}0-0
 
-
-
 [Event "3rd IZIT Pr K"]
 [Site "ICCF"]
 [Date "2018.06.16"]
 [Round "-"]
 [White "Igor Mikhailovich Ryzhkov"]
 [Black "Ganesh Rama Hegde"]
-[Result "*"]
+[Result "1/2-1/2"]
 [WhiteElo "2315"]
 [BlackElo "2276"]
 [ECO "B36"]
@@ -167,7 +165,8 @@ will allow White to penetrate the seventh rank.}
 30...Re6 {Attacking the Bishop on b6}
 31.Bc5 {Offering to trade Bishops and simplify further}
 31...Bxc5+ 32.Rxc5 Rd6 {Covering the c8 square with the Bishop and disallowing the White Rook from penetrating the eight rank}
-33.a4* {Offering to exchange pawns}
+33.a4 {Offering to exchange pawns}
+33...bxa4 34.bxa4 {Draw agreed}1/2-1/2
 
 
 [Event "3rd IZIT Pr K"]
@@ -260,6 +259,7 @@ in recovering the pawn.Morever the pawn move e3 blocks White's dark-squared Bish
 35...Kg6 {Black too seems to be reluctant to take any risks}
 36.Kg1 {White repeats the King move}
 36...Kg7 {Black offers a draw and White accepts it}1/2-1/2
+
 
 [Event "3rd IZIT Pr K"]
 [Site "ICCF"]
@@ -488,7 +488,8 @@ cannot push a5 soon}
 22.Bg5 {White is generating some counterplay by attacking the Rook}
 22...Rc8 {Safeguarding the Rook} 
 23.exf5 {White opens up the e-file }
-23...exf5* {Black now threatens to win a pawn after ...Nxe5 dxe5 followed by ...Qxe5}
+23...exf5 {Black now threatens to win a pawn after ...Nxe5 dxe5 followed by ...Qxe5}
+24.Bf4* {Protecting the Knight on e5 and averting the aforementioned threat}
 
 
 [Event "3rd IZIT Pr K"]

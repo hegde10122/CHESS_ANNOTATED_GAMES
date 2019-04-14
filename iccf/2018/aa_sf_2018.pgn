@@ -180,7 +180,14 @@ comparison.}
 
 16.Ra1 {White goes back with the Rook as the c2 pawn does not need protection}
 
-16...Nce7* {Black plans to attack the c2 pawn again but this time with ...Ba4.Both sides cannot castle and this seems to be a logical plan}
+16...Nce7 {Black plans to attack the c2 pawn again but this time with ...Ba4.Both sides cannot castle and this seems to be a logical plan}
+
+17.g4 {White wants to bust open the g-file for an assault on the Black King}
+
+17...Ng7 {Forced}
+
+18.Rg1* {White gives up his castling rights and is still hopeful of an attack against the Black King. Rg1-g3-f3 seems to be the idea. 
+This is too slow though. 18.O-O was much better }
 
 
 [Event "AA/C18/SF/A"]
@@ -750,7 +757,11 @@ from pushing b2-b4}
 Knight on c5 later. This move deters White from pushing b4 immediately and gaining space on the Queenside at the expense of the Black Knight on c5.
 Also Black prepares to push ...a4 and then post the Knight on b3 where it will act as a thorn in White's flesh}
 
-17.f3* {A complicated continuation to understand. Controlling the e4 square is understandable. }
+17.f3 {A complicated continuation to understand. Controlling the e4 square is understandable that denies the Black Knight on c5 from becoming more proactive }
+
+17...Bc8* {Improving the position of the Bishop. The Bishop will come to d7 later and free the Black Queen from controlling the e8-a4 diagonal}
+
+
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -831,9 +842,14 @@ behemoth like Alphazero}
 
 16...Qg5 {Threatening ...Bxh3. Black turns up the pressure}
 
-17.Kh2* {the h3 pawn is now unpinned. 17.Kh1 is also okay}
+17.Kh2 {the h3 pawn is now unpinned. 17.Kh1 is also okay}
 
-{18.Qd2* {18.Qa4 looks to be a mouth-watering prospect with a double attack on the a6 and c6 pawns. But then 18...Re6 }}
+17...Bf5 {Develoment with a tempo on the White Queen}
+
+18.Qd2* {18.Qa4 looks to be a mouth-watering prospect with a double attack on the a6 and c6 pawns. But then 18...Re6 gives Black enough teeth and the Queen has to come back 
+without munching pawns}
+
+
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -1031,7 +1047,12 @@ pressure on the d-file}
 Once the c-file opens up then White's Rook on c1 will have something to look forward too. Black Rooks can double up on the d-file and create some pressure. 
 Black's Knights and the Bishop are also passive. }
 
-17.Bf1* {White retreats the Bishop and the plan is to target the pawn on e4 via moves like g3,Bg2,Qc2.}
+17.Bf1 {White retreats the Bishop and the plan is to target the pawn on e4 via moves like g3,Bg2,Qc2.}
+
+17...b6 {Black plays another waiting move.17...Red6 was perhaps a better option which would have put more pressure on the d-file}
+
+18.a4* {White wants to activate the Bishop on b2 with the intention of playing Ba3 soon}
+
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]

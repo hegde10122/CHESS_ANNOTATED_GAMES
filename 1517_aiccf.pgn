@@ -79,7 +79,6 @@ in this positional variation of the QGD. 9...Nbd7 lending support was a playable
 19.Bf5* {A nice square for the Bishop forcing the Rook to go to a passive square}
 
 
-
 [Event "1517"]
 [Site "AICCF"]
 [White "Hegde, Ganesh"]
@@ -119,23 +118,28 @@ plays solidly looking for a grind.This move looks like a hybrid between ...a6 Sl
 8.a4 {Attacking the frontal pawn of the light-squared complex on the Queenside. This move also vacates the a2 square for a possible Nc3-a2-b4 maneouvre where 
 White can put pressure on the backward c6 pawn}
 
-8...e5* {Black wants a stake in the centre and rightly so. The Knight on d7 has enabled Black to play this move}
+8...e5 {Black wants a stake in the centre and rightly so. The Knight on d7 has enabled Black to play this move}
 
+9.Qa3* {9.Na2 is also a good option where the Knight will go to b4 and add more pressure on the c6 pawn. }
 
-
+ 
 [Event "1517"]
 [Site "AICCF"]
 [White "Hegde, Ganesh"]
 [Black "R.K.Chauhan"]
 [EventDate "2019.03.19"]
 [Result "*"]
-[ECO "D36"]
+[ECO "E00"]
 [Annotator "Ganesh R Hegde"]
 
 1.d4 Nf6 {The Indian defence is on the board.An excellent hypermodern response to White's Queen pawn opening wherein Black controls the 
 d5 and e4 squares with the Knight }
 
-2.c4* {Expanding on the Queenside and controlling the d5 square}
+2.c4 {Expanding on the Queenside and controlling the d5 square}
+
+2...e6 {The diagonal for the dark-squared Bishop is now open}
+
+3.g3* {The beginning of the Catalan where the White Bishop will exert pressure on the g2-b7 diagonal}
 
 
 [Event "1517"]
@@ -205,8 +209,8 @@ achieve this important advance.}
 
 9...O-O {The most natural response in the given position}
 
-10.Ne5* {Denying the e5 square for Black and the reason behind placing the Queen's Knight on d2. 
-The White Bishop on b2 covers the e5 square}
+10.Ne5* {Denying the e5 square for Black and the reason behind placing the Queen's Knight on d2 was to allow
+the White Bishop on b2 covers the e5 square}
 
 
 [Event "1517"]
@@ -243,7 +247,11 @@ ripe possibility adding more strength to the pawn complex.}
 
 6...e6 {Attacking the pawn spearhead on d5 and forcing White to make a decision}
 
-7.Bg5* {Pinning the Knight and making it difficult for Black from playing ...Nh5 or ...Ne8 later. If White allows Black to plays ...Nh5 and ...f5 later then Black will have an easy game}
+7.Bg5 {Pinning the Knight and making it difficult for Black from playing ...Nh5 or ...Ne8 later. If White allows Black to plays ...Nh5 and ...f5 later then Black will have an easy game}
+
+7...h6 {Black does not want the annoying pin to exist and puts the question back to the Bishop}
+
+8.Be3* {The d2 square is meant for the White Queen that will eye the pawn on h6}
 
 
 
@@ -325,7 +333,9 @@ Black could have directly played ...c5 and contested the centre control on even 
 16...Ra8 {The Rook goes back as the idea ...c5 becomes redundant. The Rook will now assist ...a5 and try to put a spanner in
 White's Queenside expansion plans.}
 
-17.e4* 
+17.e4* {White expands in the centre and threatens to fork the pieces on d6 and f6 after e5. White takes advantage of the pinned Knight on f6
+and hence the e4 square is only controlled by the pawn on d5 as far as Black is concerned.
+The heavy artillery for Black on e7 and e8, no doubt control the e4 square but White's two minor pieces hold sway over the e4 square} 
 
 
 [Event "1517"]
@@ -396,8 +406,9 @@ White does not have healthy prospects to checkmate the Black King.}
 
 15.O-O {White has completed his development and both the Rooks are ready for action.This is enough compensation for the loss of a pawn}
 
-15...Nbc6* {There is no other good move except this Knight development}
+15...Nbc6 {There is no other good move except this Knight development}
 
+16.Bd1!?* {An excellent move that prepares to trap the Black Queen on g6. White has developed nicely and it is now time to do the talking}
 
 
 
@@ -520,7 +531,9 @@ Thus White would have wasted an extra move without gaining anything great.}
 12...Qd7 {12...Qe7 also looks okay but I feel that it is slightly inferior. 13.Re1 with an X-ray attack on the Black Queen will force Black to move the Queen again.
 This move keeps the pressure on the d4 pawn}
 
-13.Be2* {The Knight is unpinned with the possiblity of the move Ne5 to harass the Black Queen again}
+13.Be2 {The Knight is unpinned with the possiblity of the move Ne5 to harass the Black Queen again}
+
+13...a6* {Kicking the Knight back forcing White to lose a move}
 
 
 
@@ -672,7 +685,9 @@ at the outset}
 
 15.Bf3 {Threatening  Nxc4 on the next move and after ...dxc4 White would win back the Knight with Nxc6}
 
-15...Ne7* {Getting out of the problem square c6.Now White is left with the problematic Knight on d2 which needs to find a secure place for some action}
+15...Ne7 {Getting out of the problem square c6.Now White is left with the problematic Knight on d2 which needs to find a secure place for some action}
+
+16.Qc1* {Adding more protection to the pawn on c3} 
 
 
 [Event "1517"]
