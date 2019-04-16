@@ -251,7 +251,13 @@ ripe possibility adding more strength to the pawn complex.}
 
 7...h6 {Black does not want the annoying pin to exist and puts the question back to the Bishop}
 
-8.Be3* {The d2 square is meant for the White Queen that will eye the pawn on h6}
+8.Be3 {The d2 square is meant for the White Queen that will eye the pawn on h6}
+
+8...exd5 {Black alters the pawn structure and removes the wedge  pawn on d5 }
+
+9.cxd5 {9.exd5 is ugly as the e-file is opened and Black has access to the f5 square without working too hard}
+
+9...Nbd7* {Black wants the Knight on the e5 square}
 
 
 
@@ -333,9 +339,13 @@ Black could have directly played ...c5 and contested the centre control on even 
 16...Ra8 {The Rook goes back as the idea ...c5 becomes redundant. The Rook will now assist ...a5 and try to put a spanner in
 White's Queenside expansion plans.}
 
-17.e4* {White expands in the centre and threatens to fork the pieces on d6 and f6 after e5. White takes advantage of the pinned Knight on f6
+17.e4 {White expands in the centre and threatens to fork the pieces on d6 and f6 after e5. White takes advantage of the pinned Knight on f6
 and hence the e4 square is only controlled by the pawn on d5 as far as Black is concerned.
 The heavy artillery for Black on e7 and e8, no doubt control the e4 square but White's two minor pieces hold sway over the e4 square} 
+
+17...g5 {Forced. The Bishop on h4 is blocked from pinning the Knight on h6 and White has to act.}
+
+18.Bg3* {e5 is still a threat}
 
 
 [Event "1517"]
@@ -437,7 +447,21 @@ He also boasted once,"When I play White, I win because I have the first move. Wh
 
 4.Nbd2 {White wants to eliminate Black's Bishop pair later by playing a3 but wants to preserve his two Bishops}
 
-4...b6* {...Bb7 is the idea to control the e4 square}
+4...b6 {...Bb7 is the idea to control the e4 square}
+
+5.a3 {White spends an entire tempo to win the Bishop pair}
+
+5...Bxd2+ {5...Ba5 is not sound for Black as theory suggests}
+
+6.Qxd2 {6.Bxd2 was perhaps better as the Bishop would have been developed. But White wants to play b4 followed by Bb2 to fianchetto the dark-squared Bishop.
+But WHite senses that Black on account of the loss of the dark-squared Bishop will be weaker on dark squares and the Bishop on b2 controls the long diagonal 
+giving White a positional edge}
+
+6...Bb7 {The Bishop comes out as planned}
+
+7.e3 {Be2 followed by O-O is the idea}
+
+7...O-O* {Black completes his Kingside development}
 
 [Event "1517"]
 [Site "AICCF"]
@@ -533,7 +557,11 @@ This move keeps the pressure on the d4 pawn}
 
 13.Be2 {The Knight is unpinned with the possiblity of the move Ne5 to harass the Black Queen again}
 
-13...a6* {Kicking the Knight back forcing White to lose a move}
+13...a6 {Kicking the Knight back forcing White to lose a move}
+
+14.Ne5 {White wants to simplify th positionb by trading pieces. White not only attacks the Black Queen but also opens up a discovered attack on the Bishop on f5}
+
+14...Nxe5* {The attacker is now traded off. Now White's Knight on b5 is hanging but he has two attackers on the Bishop on h5. What will he choose?}
 
 
 
@@ -625,8 +653,6 @@ at his disposal, Black can face the heat instead. White has easy play with moves
 
 16...Nge7* {Black brings his Knight out}
 
-
-
 [Event "1517"]
 [Site "AICCF"]
 [White "Amit Kumar Sharma"]
@@ -687,8 +713,9 @@ at the outset}
 
 15...Ne7 {Getting out of the problem square c6.Now White is left with the problematic Knight on d2 which needs to find a secure place for some action}
 
-16.Qc1* {Adding more protection to the pawn on c3} 
+16.Qc1 {Adding more protection to the pawn on c3.The Queen in all probability come to f4 after White plays Nf1 next} 
 
+16...a5* {Black's mantra is to keep expanding on the Queenside.}
 
 [Event "1517"]
 [Site "AICCF"]

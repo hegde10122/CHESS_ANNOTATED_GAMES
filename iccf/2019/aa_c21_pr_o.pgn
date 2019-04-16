@@ -118,8 +118,11 @@ expansion. 11...a5 was an apt choice that stops White from pushing b4}
 
 13.Qd2 {Attacking the pawn on f4. This move keeps Black busy in taking countermeasures and denying him the chance to push ...a5}
 
-13...g5* {Interesting move. Black supports his pawn on f4 and decides to create a wedge on the f4 square}
+13...g5 {Interesting move. Black supports his pawn on f4 and decides to create a wedge on the f4 square}
 
+14.Rfe1* {White can no longer push b4 with advantage.Earlier when the centre was closed with the White pawns on c4-d5-e4 and the Black pawns on c5-d6-e5, the Bishop on g7 was 
+placid. But now after the change in the pawn structure, the Bishop on g7 is alive and controls the c3 square. 14.b4? would lead into 
+14...cxb4 15.axb4 h5 and Black look to play ...g4 as well with activity on the Kingside. The move played comes with the idea of pushing e5 and after ...dxe5 White has a protected passed pawn on d5}
 
 
 [Event "AA/C21/Pr/O"] 
@@ -196,11 +199,37 @@ and White can carry out a mating attack against the Black King}
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "Indonesia"]
 [BlackTeam "India"]
-[ECO ""]
+[ECO "E11"]
 
 1.d4 {The Queen pawn opening}
 
-1...Nf6*  {The Indian defence wherein centre control happens using as piece instead of occupying the central squares. Here the Knight controls the d5 and e4 squares }
+1...Nf6  {The Indian defence wherein centre control happens using as piece instead of occupying the central squares. Here the Knight controls the d5 and e4 squares }
+
+2.c4 {White gains space on the Queenside and controls the d5 square.}
+
+2...e6 {Frees the diagonal for the Bishop on f8}
+
+3.Nf3 {White does not want a Nimzo-Indian defence after 2.Nc3 Bb4}
+
+3...Bb4+ {The Bogo-Indian defence}
+
+4.Bd2 {White wants to exchange Bishops. 3.Nbd2 is considered passive but playable}
+
+4...Qe7 {3...a5 is also playable. The move played in the game is called the Nimzowitsch variation of the Bogo-Indian}
+
+5.g3 {The best continuation as White wants to rule the diagonal h1-a8 with the Bishop}
+
+5...Nc6 {Attacking the central pawn d4}
+
+6.e3 {A questionable move that overprotects the pawn on d4. The pawn on d4 was never under serious threat}
+
+6...O-O {Black completes the Kingside development}
+
+7.Bg2 {White develops the Bishop and prepares O-O}
+
+7...Bxd2+* {Trading the Bishops and removing the dark-squared movers from the board}
+
+
 
 [Event "AA/C21/Pr/O"] 
 [Site "ICCF"] 
@@ -208,13 +237,13 @@ and White can carry out a mating attack against the Black King}
 [Round "-"] 
 [White "Joshua Hunt"] 
 [Black "Hegde, Ganesh"] 
-[Result "*"] 
+[Result "0-1"] 
 [WhiteElo "1443"] 
 [BlackElo "2233"] 
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "Australia"]
 [BlackTeam "India"]
-[ECO ""]
+[ECO "C02"]
 
 1.e4  {The King pawn opening which not only occupies the d5 and f5 squares but also releaases the King's Bishop on f1. }
 
@@ -308,7 +337,7 @@ plan}
 
 22.Nb1? {Bad choice. White attacks the Black Queen instead of protecting the Rook}
 
-22...Qh3!* {Threatening checkmate on h2! Now the Rook on a2 will have to go and White is looking down and out!}
+22...Qh3! {Threatening checkmate on h2! Now the Rook on a2 will have to go and White is looking down and out! White resigned}0-1
 
 
 
@@ -324,7 +353,7 @@ plan}
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "Indonesia"]
 [BlackTeam "India"]
-[ECO ""]
+[ECO "E11"]
 
 1.d4 {The Queen pawn opening}
 
@@ -332,5 +361,13 @@ plan}
 
 2.Nf3 {A solid move. 2.c4 is also popular which gains space on the Queenside}
 
-2...e6* {Black opens up the diagonal for the dark-squared Bishop}
+2...e6 {Black opens up the diagonal for the dark-squared Bishop}
+
+3.c4 {Transposing into the Anti-Nimzo where Black plays 3.Nf3 after 1.d4 Nf6 2.c4 e6 hoping to avoid the Nimzo-Indian defence considered to be the best response for Black }
+
+3...Bb4+ {The Bogo-Indian defence}
+
+4.Bd2 {4.Nbd2 is also played but slightly passive. Here White does not mind exchanging the dark-squared Bishops}
+
+4...Qe7* {The Nimzowitsch variation.}
 
