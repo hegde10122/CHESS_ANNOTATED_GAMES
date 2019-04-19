@@ -225,9 +225,13 @@ achieve this important advance.}
 10.Ne5 {Denying the e5 square for Black and the reason behind placing the Queen's Knight on d2 was to allow
 the White Bishop on b2 covers the e5 square}
 
-10...Rc8* {Perhaps not the best continuation in my opinion. Black prepares the move ...c5 which is an important motif in the semi-Slav. 
+10...Rc8 {Perhaps not the best continuation in my opinion. Black prepares the move ...c5 which is an important motif in the semi-Slav. 
 10...c5 was very much playable and would have helped Black. 10...Qc7 also looks appropriate as the pesky Knight on e5 needs to be removed. But then 
 11.f4!? looks like an interesting move for White and the game becomes complex in nature.}
+
+11.Qf3* {Qh3 is an idea to start a Kingside attack}
+
+
 
 [Event "1517"]
 [Site "AICCF"]
@@ -683,7 +687,6 @@ at his disposal, Black can face the heat instead. White has easy play with moves
 
 17...f6* {Taking countermeasures in the  centre by attacking White's advanced pawn on e5}
 
-
 [Event "1517"]
 [Site "AICCF"]
 [White "Amit Kumar Sharma"]
@@ -748,7 +751,9 @@ at the outset}
 
 16...a5 {Black's mantra is to keep expanding on the Queenside.}
 
-17.Bd1* {Preventing Black from a4. Also the Bishop will be better placed at a4}
+17.Bd1 {Preventing Black from a4. Also the Bishop will be better placed at a4}
+
+17...Rb7* {Black wants to double the Rooks on the b-file. 18...Nd7 Attacking the influential Knight on e5 was also a good option}
 
 
 [Event "1517"]
