@@ -120,9 +120,12 @@ White can put pressure on the backward c6 pawn}
 
 8...e5 {Black wants a stake in the centre and rightly so. The Knight on d7 has enabled Black to play this move}
 
-9.Qa3* {9.Na2 is also a good option where the Knight will go to b4 and add more pressure on the c6 pawn. }
+9.Qa3 {9.Na2 is also a good option where the Knight will go to b4 and add more pressure on the c6 pawn. }
 
- 
+9...exd4 {Black releases the tension in the centre and removes the defender of the c5 pawn.}
+
+10.exd4* {Forced as 10.Nxd4? loses to 10...b4 11.Qxb4 Nxc5 and Black threatens to fork the Queen and King. White Queen unfortunately has no escape square and is trapped}
+
 [Event "1517"]
 [Site "AICCF"]
 [White "Hegde, Ganesh"]
@@ -139,8 +142,11 @@ d5 and e4 squares with the Knight }
 
 2...e6 {The diagonal for the dark-squared Bishop is now open}
 
-3.g3* {The beginning of the Catalan where the White Bishop will exert pressure on the g2-b7 diagonal}
+3.g3 {The beginning of the Catalan where the White Bishop will exert pressure on the g2-b7 diagonal}
 
+3...d5 {A better idea is perhaps not to commit the central pawn to the d5 square but keeps it flexible by playing 3...Be7}
+
+4.Nf3* 
 
 [Event "1517"]
 [Site "AICCF"]
@@ -148,7 +154,7 @@ d5 and e4 squares with the Knight }
 [Black "Lalit Kapoor"]
 [EventDate "2019.03.19"]
 [Result "*"]
-[ECO "D36"]
+[ECO "E48"]
 [Annotator "Ganesh R Hegde"]
 
 1.d4 {The Queen pawn's opening}
@@ -163,8 +169,15 @@ d5 and e4 squares with the Knight }
 
 3...Bb4 {The Nimzo-Indian defence, a hypermodern way of controlling the centre with pieces. By pinning the Knight, Black indirectly controls the e4 square}
 
-4.e3* {The Rubinstein variation of the Nimzo-Indian where White wants to complete his Kingside development before trying to win the Bishop pair}
+4.e3 {The Rubinstein variation of the Nimzo-Indian where White wants to complete his Kingside development before trying to win the Bishop pair}
 
+4...O-O {The main line where Black goes for rapide development followed by a possible ...d5 and ...c5 planting his pawns in the centre}
+
+5.Bd3 {White continues with the Rubinstein main plan - develop the Kingside and then look to win the Bishop pair}
+
+5...d5 {The most popular continuation where Black himself controls the e4 square with the pawn}
+
+6.cxd5  exd5 7.Nge2* 
 
 [Event "1517"]
 [Site "AICCF"]
@@ -209,9 +222,12 @@ achieve this important advance.}
 
 9...O-O {The most natural response in the given position}
 
-10.Ne5* {Denying the e5 square for Black and the reason behind placing the Queen's Knight on d2 was to allow
+10.Ne5 {Denying the e5 square for Black and the reason behind placing the Queen's Knight on d2 was to allow
 the White Bishop on b2 covers the e5 square}
 
+10...Rc8* {Perhaps not the best continuation in my opinion. Black prepares the move ...c5 which is an important motif in the semi-Slav. 
+10...c5 was very much playable and would have helped Black. 10...Qc7 also looks appropriate as the pesky Knight on e5 needs to be removed. But then 
+11.f4!? looks like an interesting move for White and the game becomes complex in nature.}
 
 [Event "1517"]
 [Site "AICCF"]
@@ -347,7 +363,6 @@ The heavy artillery for Black on e7 and e8, no doubt control the e4 square but W
 
 18.Bg3* {e5 is still a threat}
 
-
 [Event "1517"]
 [Site "AICCF"]
 [White "Gautam De"]
@@ -421,8 +436,6 @@ White does not have healthy prospects to checkmate the Black King.}
 16.Bd1!?* {An excellent move that prepares to trap the Black Queen on g6. White has developed nicely and it is now time to do the talking}
 
 
-
-
 [Event "1517"]
 [Site "AICCF"]
 [White "Arghyadip Das"]
@@ -461,7 +474,13 @@ giving White a positional edge}
 
 7.e3 {Be2 followed by O-O is the idea}
 
-7...O-O* {Black completes his Kingside development}
+7...O-O {Black completes his Kingside development}
+
+8.Be2 {White is consisent with his idea. Another active move would have been to play 8.b4 and expand on the Queenside. This move would also have hindered Black from pushing ...c5
+White could have then played Bb2 and developed the other Bishop}
+
+8...d6* {Black'a main idea is to play ...e5 and ...Nbd7 here} 
+ 
 
 [Event "1517"]
 [Site "AICCF"]
@@ -493,7 +512,16 @@ pawn on e5}
 
 6.Bd3 {The best continuation for White as he prepares to O-O}
 
-6...c5* {A thematic move attacking the d4 pawn and forcing White to make a decision. ...c4 is in the air which will block White's Bishop from serious activity}
+6...c5 {A thematic move attacking the d4 pawn and forcing White to make a decision. ...c4 is in the air which will block White's Bishop from serious activity}
+
+7.c3 {White has to spend a move in protecting the d4 pawn.}
+
+7...b6!? {7...Nc6 is also playable but this move comes with the idea of playing ...Ba6 on the next move. Black would love to exchange his placide Bishop on c8 with his 
+more active counterpart on d3}
+
+8.O-O {White develops and activates the Rook}
+
+8...Ba6* {The Bishops will definitely go off the board}
 
 
 [Event "1517"]
@@ -562,8 +590,6 @@ This move keeps the pressure on the d4 pawn}
 14.Ne5 {White wants to simplify th positionb by trading pieces. White not only attacks the Black Queen but also opens up a discovered attack on the Bishop on f5}
 
 14...Nxe5* {The attacker is now traded off. Now White's Knight on b5 is hanging but he has two attackers on the Bishop on h5. What will he choose?}
-
-
 
 
 [Event "1517"]
@@ -651,7 +677,12 @@ at his disposal, Black can face the heat instead. White has easy play with moves
 
 16.cxd4 {Another forced recapture. 16.Nxd4? Nxe5! is good for Black}
 
-16...Nge7* {Black brings his Knight out}
+16...Nge7 {Black brings his Knight out}
+
+17.a4 {White wants to use Black's b6 pawn as a hook and intends to push a5 followed by axb6 to open up files}
+
+17...f6* {Taking countermeasures in the  centre by attacking White's advanced pawn on e5}
+
 
 [Event "1517"]
 [Site "AICCF"]
@@ -715,7 +746,10 @@ at the outset}
 
 16.Qc1 {Adding more protection to the pawn on c3.The Queen in all probability come to f4 after White plays Nf1 next} 
 
-16...a5* {Black's mantra is to keep expanding on the Queenside.}
+16...a5 {Black's mantra is to keep expanding on the Queenside.}
+
+17.Bd1* {Preventing Black from a4. Also the Bishop will be better placed at a4}
+
 
 [Event "1517"]
 [Site "AICCF"]

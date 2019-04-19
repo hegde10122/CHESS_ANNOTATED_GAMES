@@ -489,8 +489,9 @@ cannot push a5 soon}
 22...Rc8 {Safeguarding the Rook} 
 23.exf5 {White opens up the e-file }
 23...exf5 {Black now threatens to win a pawn after ...Nxe5 dxe5 followed by ...Qxe5}
-24.Bf4* {Protecting the Knight on e5 and averting the aforementioned threat}
-
+24.Bf4 {Protecting the Knight on e5 and averting the aforementioned threat}
+24...Na5* {The Queen is now elieved of defensive duties and is ready to go to h5. Morever this Knight will act as an excellent defender on a5. The Black Bishop on a6 
+can also come back to b7 and Black can begin a Kingside offensive}
 
 [Event "3rd IZIT Pr K"]
 [Site "ICCF"]

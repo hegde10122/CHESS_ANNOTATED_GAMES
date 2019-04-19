@@ -120,9 +120,22 @@ expansion. 11...a5 was an apt choice that stops White from pushing b4}
 
 13...g5 {Interesting move. Black supports his pawn on f4 and decides to create a wedge on the f4 square}
 
-14.Rfe1* {White can no longer push b4 with advantage.Earlier when the centre was closed with the White pawns on c4-d5-e4 and the Black pawns on c5-d6-e5, the Bishop on g7 was 
+14.Rfe1 {White can no longer push b4 with advantage.Earlier when the centre was closed with the White pawns on c4-d5-e4 and the Black pawns on c5-d6-e5, the Bishop on g7 was 
 placid. But now after the change in the pawn structure, the Bishop on g7 is alive and controls the c3 square. 14.b4? would lead into 
 14...cxb4 15.axb4 h5 and Black look to play ...g4 as well with activity on the Kingside. The move played comes with the idea of pushing e5 and after ...dxe5 White has a protected passed pawn on d5}
+
+14...Ne8?! {Black improves the position of the Knight and it is clear that he wants it to be on f6. But is it the right time to improve the piece activity?
+Black could have opted for active prophylaxis like 14...a5 and quell White's Queenside expansion plans.}
+
+15.e5! {White continues with his changed scheme. By trying to open up the centre, White aims to exploit Black's lack of coordination amongst the pieces.
+By removing the pawn on d6, White gives himself a great chance of creating a strong passed pawn candidate on d5}
+
+15...dxe5 {Almost forced. 15...Bxe5 looks amateurish as the only active piece for Black would go back to the box}
+
+16.Nxe5 {16.b4! was possible for White now giving up a pawn in the quest for Queenside expansion. The Black pawn on e5 would have cut off the diagonal for the 
+Bishop on g7 making b4 possible. Remember, this was the original idea which got busted due to Black's eccentricities.}
+
+16...a5* {At last, Black prevents b4!}
 
 
 [Event "AA/C21/Pr/O"] 
@@ -227,8 +240,16 @@ and White can carry out a mating attack against the Black King}
 
 7.Bg2 {White develops the Bishop and prepares O-O}
 
-7...Bxd2+* {Trading the Bishops and removing the dark-squared movers from the board}
+7...Bxd2+ {Trading the Bishops and removing the dark-squared movers from the board}
 
+8.Nfxd2!?* {An interesting choice. 8.Nbxd2 looked better as another piece would also have been developed but White wants the Bishop on the active diagonal while the other Knight will 
+go to the c3 square}
+
+8...e5 {Asking White to commit his central d4 pawn to d5 or exchange with dxe5}
+
+9.d5 {White decides to keep the centre closed}
+
+9...Nb8* {The Knight will come back to d7 after Black plays ...d6}
 
 
 [Event "AA/C21/Pr/O"] 
