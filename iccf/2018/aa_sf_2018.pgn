@@ -194,7 +194,7 @@ comparison.}
 This is too slow though. 18.O-O was much better }
 
 18...Qb6* { 18...Ba4 was the earlier plan but White always has the move 19.Rc1 to defend the pawn on c2. 
-White defensive Rook move has now given Black another  idea to re-maneuver the Queen to b2 and then grab the pawn on a3}
+White defensive Rook move has now given Black another idea to re-maneuver the Queen to b2 and then grab the pawn on a3}
 
 
 [Event "AA/C18/SF/A"]
@@ -775,7 +775,9 @@ Also Black prepares to push ...a4 and then post the Knight on b3 where it will a
 
 17.f3 {A complicated continuation to understand. Controlling the e4 square is understandable that denies the Black Knight on c5 from becoming more proactive }
 
-17...Bc8* {Improving the position of the Bishop. The Bishop will come to d7 later and free the Black Queen from controlling the e8-a4 diagonal}
+17...Bc8 {Improving the position of the Bishop. The Bishop will come to d7 later and free the Black Queen from controlling the e8-a4 diagonal}
+
+18.b4* {White puts the question to the Knight...d7 or the a4 square?}
 
 
 
