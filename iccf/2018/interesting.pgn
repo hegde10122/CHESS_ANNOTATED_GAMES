@@ -4,7 +4,7 @@
 [Round "-"]
 [White "SJMVL73"]
 [Black "Ganesh Rama Hegde"]
-[Result "*"]
+[Result "0-1"]
 [WhiteElo "2015"]
 [BlackElo "2044"]
 [ECO "C01"]
@@ -69,7 +69,17 @@ White can double Black's pawns with Bxh6 gxh6}
 36.Nxf3 Bd8 {The b6 pawn will now be targeted after ..Rb3}
 37.Kg2 Kf7 {The King will join the party and target the pawn on b6 also}
 38.Ng5+ Ke7 {The King goes towards the b6 pawn}
-39.Ne4 Rc6* {The pawn on b6 is doomed}
+39.Ne4 Rc6 {The pawn on b6 is doomed}
+40.Nc5 {Attacking the b7 pawn but actually it is poison}
+40...Bxb6 {Black has now a passed b-pawn}
+41.Nxb7?? {The Knight gobbles up the final pawn and hopes to put up a stubborn Knight versus Rook defense but White is in for a rude shock}
+41...Bxe3 42.fxe3 Rg6+ {The Rook moves with tempo and now will cut off the Knight's escape squares on c5 and a5.White resigned}0-1
+
+
+
+
+
+
 
 
 [Event "*"]

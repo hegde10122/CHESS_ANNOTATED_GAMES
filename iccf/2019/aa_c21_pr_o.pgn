@@ -43,7 +43,11 @@ continuation}
 7...c6 {Another good move as Black does not want any hiccups on the g2-b7 diagonal.
 7...dxc4 hardly looks good as Black has played two moves with his Bishop already. }
 
-8.Qc2* {White remains flexible as the pawn on c4 is now guarded.} 
+8.Qc2 {White remains flexible as the pawn on c4 is now guarded.} 
+
+8...Nbd7 {Black plays another solid move}
+
+9.Bf4* {Redirecting the Bishop on the f4-b8 diagonal}
 
 
 [Event "AA/C21/Pr/O"] 
@@ -135,7 +139,27 @@ By removing the pawn on d6, White gives himself a great chance of creating a str
 16.Nxe5 {16.b4! was possible for White now giving up a pawn in the quest for Queenside expansion. The Black pawn on e5 would have cut off the diagonal for the 
 Bishop on g7 making b4 possible. Remember, this was the original idea which got busted due to Black's eccentricities.}
 
-16...a5* {At last, Black prevents b4!}
+16...a5 {At last, Black prevents b4!}
+
+17.Re2 {White wants to double the Rooks on the e-file as the plan on the Queenside has been stalled }
+
+17...Nd6 {The Knight comes on the central square and Black wishes to push ...f5}
+
+18.Rbe1 {The central e-file is now controlled by White's Rooks}
+
+18...h6?! {Another questionable move.18...Bf5 challenging White's Bishop on d3 was perhaps a viable option }
+
+19.Nb5! {Challenging the Knight on d6 because the blockader blocks the advance of the pawn on d5}
+
+19...Ra6!? {Good defence. The Rook comes out to move to d6 if the Kn9ights are exchanged. Black sheds his passivity}
+
+20.Bb1 {Improving the Bishop's position and preparing Qc2 and Qh7#}
+
+20...h5 {Black does not commit ...f5 and waits for White to respond with his Queen}
+
+21.a4 {No commitment from White either as White sees that Qc2 or Qd3 is futile as Black has the potent response 21...Bf5! 
+This subtle pawn push also fixes Black's pawn on the a5 square and the White Queen eyes it from d2.}
+
 
 
 [Event "AA/C21/Pr/O"] 
@@ -249,7 +273,25 @@ go to the c3 square}
 
 9.d5 {White decides to keep the centre closed}
 
-9...Nb8* {The Knight will come back to d7 after Black plays ...d6}
+9...Nb8 {The Knight will come back to d7 after Black plays ...d6}
+
+10.Nc3 {White develops another Knight}
+
+10...d6 {Black solidifies the pawn structure and opens up the diagonal for the Bishop Black's fianchetto idea on b7 is a non-starter as White's pawn on d5 
+spoils the show for the Bishop on b7.Hence ...b6 is ruled out}
+
+11.a3 {White prepares b4.Another slow move. 11.O-O looks more natural}
+
+11...a5 {Gains space on the Queenside although White can still play b4}
+
+12.O-O {At last!}
+
+12...Bf5!? {An interesting choice. White already has three pieces patrolling the e4 square. Black provokes White from pushing e4. By doing this 
+Black wishes to re-route the Bishop to d7 and then attack the pawn chain's head on d5 with ...c6 later. If White pushes e4 then the Bishop on g2 
+does not have a great future and White will have to redeploy it for greater effectiveness. The Black Bishop can also go to g6 and then Black can hope to 
+play ...Ne8 and ...f5 some time later to challenge White's pawn chain}
+
+
 
 
 [Event "AA/C21/Pr/O"] 
@@ -361,7 +403,6 @@ plan}
 22...Qh3! {Threatening checkmate on h2! Now the Rook on a2 will have to go and White is looking down and out! White resigned}0-1
 
 
-
 [Event "AA/C21/Pr/O"] 
 [Site "ICCF"] 
 [Date "2019.03.31"] 
@@ -390,5 +431,8 @@ plan}
 
 4.Bd2 {4.Nbd2 is also played but slightly passive. Here White does not mind exchanging the dark-squared Bishops}
 
-4...Qe7* {The Nimzowitsch variation.}
+4...Qe7 {The Nimzowitsch variation.}
 
+5.g3 {The main move where White wants to control the g2-a8 diagonal}
+
+5...Nc6* {The Knight puts pressure on the d4 pawn}
