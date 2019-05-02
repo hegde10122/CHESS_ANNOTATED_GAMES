@@ -761,7 +761,10 @@ Bishop }
 
 22...h6 {Preparing 23...g5 in case White opts for 23.Bg2}
 
-23.f4* {Halting Black's ...g5 idea. But the dark-squared Bishop on will find d2 will have a hard time doing something worthwhile}
+23.f4 {Halting Black's ...g5 idea. But the dark-squared Bishop on will find d2 will have a hard time doing something worthwhile}
+
+23...Kb8* {The King is safer here as Black waits for White to spell out his action}
+
 
 
 [Event "AA/C18/SF/A"]
@@ -1064,7 +1067,15 @@ to win the exchange}
 
 23.Qxd4 {White not only regains the pawn but also the Queen is nicely centralised. White has great space advantage but Black is not bad either.}
 
-23...Nhf8* {Black wants to improve the Knight's position by playing ...Nc5 followed by ...Nfd7}
+23...Nhf8 {Black wants to improve the Knight's position by playing ...Nc5 followed by ...Nfd7}
+
+24.h4 {White decides to expand on the Kingside as the Knight and Queen are nicely centralised}
+
+24...Nc5 {Opening up a discovered attack on the Queen and also aiming at the a4 pawn}
+
+25.Nd6* {White blocks with the Knight and hopes to create  another wedge in Black's throat}
+
+
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -1168,7 +1179,10 @@ Black's Knights and the Bishop are also passive. }
 
 22...Rcd6 {The Rook goes back}
 
-23.a5* {Whitee wants to exchange pawns and simplify further}
+23.a5 {Whitee wants to exchange pawns and simplify further}
+
+23...Be6* {Improving the Bishop's influence}
+
 
 
 [Event "AA/C18/SF/A"]

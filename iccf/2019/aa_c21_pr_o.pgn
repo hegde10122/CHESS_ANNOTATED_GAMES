@@ -160,6 +160,22 @@ Bishop on g7 making b4 possible. Remember, this was the original idea which got 
 21.a4 {No commitment from White either as White sees that Qc2 or Qd3 is futile as Black has the potent response 21...Bf5! 
 This subtle pawn push also fixes Black's pawn on the a5 square and the White Queen eyes it from d2.}
 
+21...f5 {Another pawn advance, this time the h7 square is cut-off from White's control}
+
+22.b3 {Strengthening the pawn complex on the Queenside. White waits for Black to take up the gauntlet on the Kingside}
+
+22...Nxb5 {Black trades Knights. What else is there to play?}
+
+23.axb5 {23.cxb5 is bad as the pawn on d5 will become isolated}
+
+23...Rd6 {The Rook is the new blockader of the passed pawn on d5.Another move worth considering was to play 23...Rh6 with moves like ...g4 and ...h4 on the cards}
+
+24.h4* {White now turns his focus on the Kingside as the Queenside expansion has attained it's objective. The move played attacks the defender of the 
+f4 pawn. It also stops Black from playing ...h4 himself}
+
+
+
+
 
 
 [Event "AA/C21/Pr/O"] 
@@ -284,12 +300,9 @@ spoils the show for the Bishop on b7.Hence ...b6 is ruled out}
 
 11...a5 {Gains space on the Queenside although White can still play b4}
 
-12.O-O {At last!}
+12.Qc2 {Making it harder for Black to develop the light-squared Bishop to f5}
 
-12...Bf5!? {An interesting choice. White already has three pieces patrolling the e4 square. Black provokes White from pushing e4. By doing this 
-Black wishes to re-route the Bishop to d7 and then attack the pawn chain's head on d5 with ...c6 later. If White pushes e4 then the Bishop on g2 
-does not have a great future and White will have to redeploy it for greater effectiveness. The Black Bishop can also go to g6 and then Black can hope to 
-play ...Ne8 and ...f5 some time later to challenge White's pawn chain}
+12...Na6* {The Knight is willing to jump on the c5 square later adding more control over the e4 square}
 
 
 
