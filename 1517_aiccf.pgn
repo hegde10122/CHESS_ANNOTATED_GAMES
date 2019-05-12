@@ -172,7 +172,9 @@ I feel, 11...Be7 was better as Black can castle and with moves like ...Ne4 follo
 
 15.Nb4 {As planned earlier, the Knight will create long-term pressure on the c6 pawn}
 
-15...Re8* {Attacking the Bishop, Black improves the Rook's position}
+15...Re8 {Attacking the Bishop, Black improves the Rook's position}
+
+16.Re1* {The Rook comes out in defence of the Bishop}
 
 
 [Event "1517"]

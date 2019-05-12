@@ -638,7 +638,6 @@ Kingside with 20.f4 g4 keeping the g-file closed yet again. 21.Qc2 Be6 or 21...e
 21.Nxd5 Qxd5* {White had to trade his counterpart as the Queen was threatened from d5}
 
 
-
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
 [Date "2018.11.30"]
@@ -699,7 +698,9 @@ development is also iffy and quick measures were required to rectify this proble
 
 12...Nbd7 {Black wants to complete Queenside development. This move also controls the c5 square and thus deters White from pushing c5 himself}
 
-13.Be2* {Preparing Ng5 and O-O}
+13.Be2 {Preparing Ng5 and O-O}
+
+13...Bg4* {The Bishop is trying to rescue itself from being captured. The idea is to redirect the Bishop to h5 and g6 where it will have a great influence}
 
 
 [Event "AA/C18/SF/A"]
