@@ -47,8 +47,11 @@ continuation}
 
 8...Nbd7 {Black plays another solid move}
 
-9.Bf4* {Redirecting the Bishop on the f4-b8 diagonal}
+9.Bf4 {Redirecting the Bishop on the f4-b8 diagonal}
 
+9...b6 {Planning ...Bb7 or ...Ba6}
+
+10.Rd1* {A theoretical move that looks awkward. The e1 square is kept vacant for the Knight while the c1 square is left vacant for the Bishop if Black attacks it with ...Nh5}
 
 [Event "AA/C21/Pr/O"] 
 [Site "ICCF"] 
@@ -170,13 +173,20 @@ This subtle pawn push also fixes Black's pawn on the a5 square and the White Que
 
 23...Rd6 {The Rook is the new blockader of the passed pawn on d5.Another move worth considering was to play 23...Rh6 with moves like ...g4 and ...h4 on the cards}
 
-24.h4* {White now turns his focus on the Kingside as the Queenside expansion has attained it's objective. The move played attacks the defender of the 
+24.h4 {White now turns his focus on the Kingside as the Queenside expansion has attained it's objective. The move played attacks the defender of the 
 f4 pawn. It also stops Black from playing ...h4 himself}
 
+24...g4? {Black makes a mistake. Better was 24...Bh6 25.hxg5 Bxg5 and Black can carry on fighting}
 
+25.Qxf4 {Black's fragile pawn structure will be a liability as the game continues}
 
+25...Bh6 {Good move to attack the Queen}
 
+26.Qh2 {The Queen is not only safew but also guards the pawn on h4}
 
+26...f4?! {Another pawn advance but can Black afford to do it in this precarious situation. 26...Rf6 followed by ..f4 was perhaps the right way to go about it}
+
+27.Bg6* {The h5 pawn is under pressure and Black will slowly but surely start losing the pawn cover on the Kingside.}
 
 [Event "AA/C21/Pr/O"] 
 [Site "ICCF"] 
@@ -302,9 +312,11 @@ spoils the show for the Bishop on b7.Hence ...b6 is ruled out}
 
 12.Qc2 {Making it harder for Black to develop the light-squared Bishop to f5}
 
-12...Na6* {The Knight is willing to jump on the c5 square later adding more control over the e4 square}
+12...Na6 {The Knight is willing to jump on the c5 square later adding more control over the e4 square}
 
+13.b3 {White makes another pawn move and simply reinforces the pawn on c4}
 
+13...Ne8* {With plans of pushing ...f5 next and gaining space on the Kingside.}
 
 
 [Event "AA/C21/Pr/O"] 
@@ -448,4 +460,12 @@ plan}
 
 5.g3 {The main move where White wants to control the g2-a8 diagonal}
 
-5...Nc6* {The Knight puts pressure on the d4 pawn}
+5...Nc6 {The Knight puts pressure on the d4 pawn}
+
+6.Bg2 {A natural continuation and White commits the Bishop on the long diagonal}
+
+6...Bxd2+ {Black releases the tension. Standard theory}
+
+7.Qxd2 {A weak recapture. Better was 7.Nbxd2. Now Black attacks the Queen's by occupying the e4 square}
+
+7...Ne4* {Attacking the Queen as Black thrusts the Knight on the central e square}
