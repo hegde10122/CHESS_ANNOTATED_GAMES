@@ -51,7 +51,13 @@ continuation}
 
 9...b6 {Planning ...Bb7 or ...Ba6}
 
-10.Rd1* {A theoretical move that looks awkward. The e1 square is kept vacant for the Knight while the c1 square is left vacant for the Bishop if Black attacks it with ...Nh5}
+10.Rd1 {A theoretical move that looks awkward. The e1 square is kept vacant for the Knight while the c1 square is left vacant for the Bishop if Black attacks it with ...Nh5}
+
+10...Ba6 {Threatening ...Bxc4 on the next move}
+
+11.Ne5* {An active move that not only supports the pawn on c4 but also threatens the c6 pawn}
+
+
 
 [Event "AA/C21/Pr/O"] 
 [Site "ICCF"] 
@@ -186,7 +192,12 @@ f4 pawn. It also stops Black from playing ...h4 himself}
 
 26...f4?! {Another pawn advance but can Black afford to do it in this precarious situation. 26...Rf6 followed by ..f4 was perhaps the right way to go about it}
 
-27.Bg6* {The h5 pawn is under pressure and Black will slowly but surely start losing the pawn cover on the Kingside.}
+27.Bg6 {The h5 pawn is under pressure and Black will slowly but surely start losing the pawn cover on the Kingside.}
+
+27...Qf6 {27...Bg7 is perhaps neccessary to dislodge the Knight on e5 after ...Bxe5}
+
+28.Bxh5* {Another pawn lost and Black's position is crumbling}
+
 
 [Event "AA/C21/Pr/O"] 
 [Site "ICCF"] 
@@ -316,7 +327,11 @@ spoils the show for the Bishop on b7.Hence ...b6 is ruled out}
 
 13.b3 {White makes another pawn move and simply reinforces the pawn on c4}
 
-13...Ne8* {With plans of pushing ...f5 next and gaining space on the Kingside.}
+13...Ne8 {With plans of pushing ...f5 next and gaining space on the Kingside.}
+
+14.e4 {White cements the central pawn on e4 and this has been an odd game so far from White}
+
+14...f5* {Black expands on the Kingside as planned}
 
 
 [Event "AA/C21/Pr/O"] 
@@ -468,4 +483,9 @@ plan}
 
 7.Qxd2 {A weak recapture. Better was 7.Nbxd2. Now Black attacks the Queen's by occupying the e4 square}
 
-7...Ne4* {Attacking the Queen as Black thrusts the Knight on the central e square}
+7...Ne4 {Attacking the Queen as Black thrusts the Knight on the central e square}
+
+8.Qc2 {Losing another tempo with the Queen}
+
+8...Qb4+* {Forcing White to take a decision. White can lose castling rights or else will have a damaged pawn structure to avert the check}
+

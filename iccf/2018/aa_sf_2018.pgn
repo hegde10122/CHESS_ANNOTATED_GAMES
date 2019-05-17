@@ -139,7 +139,9 @@ of the pinned Queen on f3}
 
 31.Rfd1 {Doubling Rooks on the semi-open d-file and threatening to win the d7 pawn}
 
-31...R4e6* {TheRook comes back into the game and threatens the Bishop on f6 which controls the vital e7 and d8 squares}
+31...R4e6 {TheRook comes back into the game and threatens the Bishop on f6 which controls the vital e7 and d8 squares}
+
+32.Bc3* {The Bishop is ready for Bb4+ on the next move}
 
 
 [Event "AA/C18/SF/A"]
@@ -247,8 +249,9 @@ brief while}
 
 23.Kd1 {The King is the new defender of the c2 pawn!}
 
-23...Qxa3* {The Queen grabs a pawn and creates a passed pawn on the a-file}
+23...Qxa3 {The Queen grabs a pawn and creates a passed pawn on the a-file}
 
+24.Nh3* {Opening up an attack on the h6 pawn with the Bishop.}
 
 
 [Event "AA/C18/SF/A"]
@@ -1362,9 +1365,12 @@ will also be lost soon giving White a healthy advantage}
 
 18...exf5 19.Qxf5 {The pressure on f7 is incessant}
 
-19...Kg8* {Black is stuck with passive defence as of now as White threatens Rg3 and Qg4 next. White threatened to push e6 and pin the f7 pawn. The King 
+19...Kg8 {Black is stuck with passive defence as of now as White threatens Rg3 and Qg4 next. White threatened to push e6 and pin the f7 pawn. The King 
 move makes this threat less attractive. 19...Qe8 allows 20.cxd5 Bxd5 21.Rg3 and with the threat of Qg4 Black will have to play the 
 passive ...Rh7 and it will take some effort to re-activate this Rook later in the game}
 
+20.e6!? {Nice move. White intends to open up the e-file and keep up the pressure}
+
+20...fxe6* {Black needs to accept the wedge pawn as 21.exf7 is threatened ripping apart the pawn structure}
 
 

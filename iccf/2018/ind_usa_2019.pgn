@@ -1,0 +1,32 @@
+[Event "IND - USA 2019"] 
+[Site "ICCF"] 
+[Date "2019.05.23"] 
+[Round "-"] 
+[White "Hegde, Ganesh"] 
+[Black "Palmateer, Carl"] 
+[Result "*"] 
+[WhiteElo "2240"] 
+[BlackElo "2233"] 
+[Board "7"] 
+[WhiteTeam "India"] 
+[BlackTeam "USA"] 
+
+1.d4 Nf6 2.c4 e6 3.Nf3 *  {White avoids the Nimzo-Indian}
+
+
+[Event "IND - USA 2019"] 
+[Site "ICCF"] 
+[Date "2019.05.23"] 
+[Round "-"] 
+[White "Palmateer, Carl"] 
+[Black "Hegde, Ganesh"] 
+[Result "*"] 
+[WhiteElo "2233"] 
+[BlackElo "2240"] 
+[Board "7"] 
+[WhiteTeam "USA"] 
+[BlackTeam "India"] 
+
+1.e4 d6* {The Pirc-Ufimtsev defense is on the board} 
+
+
