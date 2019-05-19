@@ -11,7 +11,21 @@
 [WhiteTeam "India"] 
 [BlackTeam "USA"] 
 
-1.d4 Nf6 2.c4 e6 3.Nf3 *  {White avoids the Nimzo-Indian}
+1.d4 Nf6 
+
+2.c4 e6 
+
+3.Nf3  {White avoids the Nimzo-Indian}
+
+3...d5 {The Queen's gambit declined by transposition}
+
+4.g3 {The Catalan}
+
+4...dxc4 {Black grabs the pawn and gives p centre control}
+
+5.Bg2* {The Catalan move order where White is looking for strategic gains. Here White controls the h1-a8 diagonal. White can still capture the 
+pawn back with Qa4+ followed by Qxc4}
+
 
 
 [Event "IND - USA 2019"] 
@@ -27,6 +41,8 @@
 [WhiteTeam "USA"] 
 [BlackTeam "India"] 
 
-1.e4 d6* {The Pirc-Ufimtsev defense is on the board} 
-
+1.e4 d6 {The Pirc-Ufimtsev defense is on the board} 
+2.d4 Nf6
+3.Nc3 {Protecting the e4 pawn}
+3...g6* {Fianchetto followed y castling is the main line}
 

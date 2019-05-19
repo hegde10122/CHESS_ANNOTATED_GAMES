@@ -174,7 +174,10 @@ I feel, 11...Be7 was better as Black can castle and with moves like ...Ne4 follo
 
 15...Re8 {Attacking the Bishop, Black improves the Rook's position}
 
-16.Re1* {The Rook comes out in defence of the Bishop}
+16.Re1 {The Rook comes out in defence of the Bishop}
+
+16...Ne4* {Gaining space and preparing to play ...h6,...g5}
+
 
 
 [Event "1517"]
@@ -221,7 +224,12 @@ White can go for 7.O-O a5 and again Black is fine. 5.Nc3 dxc4 and theoretically 
 
 9...b6 {Black prepares ...Bb7 or ...Ba6}
 
-10.Rd1 
+10.Rd1 {A theoretical move that only activates the Rook. The e1 square is left for the Knight on f3 while the c1 square is left vacant for the 
+Bishop to retreat back if Black decides to play ...Nh5}
+
+10...Bb7 {Black develops the Bishop}
+
+11.Nc3* {The games continues with active development}
 
 [Event "1517"]
 [Site "AICCF"]
@@ -285,7 +293,18 @@ that happens in certain variations of the Nimzo after .Black plays ...Bxc3 and W
 
 13...Bb7 {Protecting the d5 pawn Black scuttles White's potent Qf3 idea}
 
-14.a3* {White wants to open up the a and b-files and neutralise Black's pawn march}
+14.a3 {White wants to open up the a and b-files and neutralise Black's pawn march}
+
+14...bxa3 {Black accepts the pawn}
+
+15.bxa3 Bxa3 {Black is happy to accept the pawn sacrifice}
+
+16.Rb1 {Attacking the Bishop on b7 as White wants activity on the Queenside}
+
+16...Nb6 {Improving the Knight's position as it eyes the c4 square}
+
+17.Ba5* {Putting the passive Bishop to work. White wants to trade it with the Knight}
+
 
 [Event "1517"]
 [Site "AICCF"]
@@ -418,8 +437,9 @@ exchange Knights}
 
 15...Nd3+ {Black Knight does not have any pretty square for a retreat and forces White to give up the Bishop pair}
 
-16.Bxd3 exd3* {Black has a thorn pawn right in the middle of White's territory}
+16.Bxd3 exd3 {Black has a thorn pawn right in the middle of White's territory}
 
+17.O-O* {The King needs to go away from the central e-file. 17.hxg6 is being too greedy}
 
 [Event "1517"]
 [Site "AICCF"]
@@ -541,7 +561,20 @@ The heavy artillery for Black on e7 and e8, no doubt control the e4 square but W
 
 27...Ng7 {Forcing White to make a decision with the defender of the d4 pawn}
 
-28.Nxg7* {White trades as the game will be nicer with lesser pieces}
+28.Nxg7 {White trades as the game will be nicer with lesser pieces}
+
+28...Kxg7 {The King is out of the last rank and hides behind the Queen}
+
+29.Qc3 {Protecting the pawn on d4,White wants to squeeze Black's inferior Bishop on b7 by playing on the dark squares}
+
+29...b5 {Black challenges the pawn on a4}
+
+30.a5 {White reacts by closing the pawn structure. The Bishop on b7 is a serious liability for Black}
+ 
+30...Kf8 {What else? The Queen on f6 has to baby-sit the pawn on c6.} 
+
+31.Qc5+* {White keeps a firm grip over the dark squares}
+
 
 [Event "1517"]
 [Site "AICCF"]
@@ -621,8 +654,9 @@ White does not have healthy prospects to checkmate the Black King.}
 
 17...gxf6 {17...Qxf6 is bad as the pawn on e6 becomes a permanent backward pawn. White's Rooks can occupy the e-file and create pressure on the e6 pawn}
 
-18.Nh4* {Forcing Black to move the Queen again.More importantly the third rank is cleared for the White Queen to enter the game}
+18.Nh4 {Forcing Black to move the Queen again.More importantly the third rank is cleared for the White Queen to enter the game}
 
+18...Qf7* {The Queen drops back and Black is a pawn ahead but at the cost of losing the castling rights}
 
 
 [Event "1517"]
@@ -768,7 +802,9 @@ Queenside}
 
 13.Bh6 {Threatening mate on g7}
 
-13...Ne8* {Black has all the bases covered and the pieces are jam-packed in defensive positions}
+13...Ne8 {Black has all the bases covered and the pieces are jam-packed in defensive positions}
+
+14.a4* {White begins a Queenside expansion and prevents Black from playing ...b5}
 
 
 [Event "1517"]
@@ -1047,9 +1083,12 @@ as White will play Rb1 at some point and exchange Rooks}
 
 21.Bb1 {The Bishop does not retreat to d1 as this allows 21..Bf5 and Black occupies even more light squares}
 
-21...Re8* {The b-file is closed and the Rook retreats to the central e-file forfurther action}
+21...Re8 {The b-file is closed and the Rook retreats to the central e-file forfurther action}
 
+22.Nh4 {White wants to push f4 at some point and start a Kingside expansion as the Queenside and the centre is closed.Also Nf5 is an idea after 
+White pushes g4}
 
+22...Qd8* {The Queen drops back and waits for White to take a call.}
 
 
 [Event "1517"]
@@ -1160,7 +1199,7 @@ King will become pronounced.}
 
 25.Nf1 {The Knight goes back and White renews the pressure on the e7 pawn}
 
-25...e5* {The pawn cannot be captured as 26.Rxe5? leads to 26...Rb1 and the Knight on f1 comes under fire}
+25...e5 {The pawn cannot be captured as 26.Rxe5? leads to 26...Rb1 and the Knight on f1 comes under fire}
 
 26.g4 {Making room for the Bishop on g2}
 
@@ -1189,7 +1228,8 @@ Also Rxh7 will allow White to win a free pawn. The move played keeps everything 
 
 32...Rec2 {Attacking the Bishop now as White cannot take 33.Nxf5}
 
-33.Rc7* {White lays a subtle trap for Black tempting him to push ...f4}
+33.Rc7 {White lays a subtle trap for Black tempting him to push ...f4}
 
+33...Ra5* {Attacking the Bishop again and forcing White to exchange Rooks}
 
 

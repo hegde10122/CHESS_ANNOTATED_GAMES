@@ -55,7 +55,10 @@ continuation}
 
 10...Ba6 {Threatening ...Bxc4 on the next move}
 
-11.Ne5* {An active move that not only supports the pawn on c4 but also threatens the c6 pawn}
+11.Ne5 {An active move that not only supports the pawn on c4 but also threatens the c6 pawn}
+
+11...Rc8* {Protecting the c6 pawn. 11...Nxe5 is considered to be the main continuation}
+
 
 
 
@@ -196,7 +199,12 @@ f4 pawn. It also stops Black from playing ...h4 himself}
 
 27...Qf6 {27...Bg7 is perhaps neccessary to dislodge the Knight on e5 after ...Bxe5}
 
-28.Bxh5* {Another pawn lost and Black's position is crumbling}
+28.Bxh5 {Another pawn lost and Black's position is crumbling}
+
+28...Qg7 {Protecting the pawn on g4 for the second time and Black's pieces have donned a passive look}
+
+29.f3* {Challenging Black's pawn on g4, White wants to open up the f and g-files against the Black King}
+
 
 
 [Event "AA/C21/Pr/O"] 
