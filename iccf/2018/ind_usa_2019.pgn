@@ -8,6 +8,7 @@
 [WhiteElo "2240"] 
 [BlackElo "2233"] 
 [Board "7"] 
+[ECO "E04"]
 [WhiteTeam "India"] 
 [BlackTeam "USA"] 
 
@@ -23,9 +24,12 @@
 
 4...dxc4 {Black grabs the pawn and gives p centre control}
 
-5.Bg2* {The Catalan move order where White is looking for strategic gains. Here White controls the h1-a8 diagonal. White can still capture the 
+5.Bg2 {The Catalan move order where White is looking for strategic gains. Here White controls the h1-a8 diagonal. White can still capture the 
 pawn back with Qa4+ followed by Qxc4}
 
+5...Nc6 {A popular variation against the Catalan. Here Black's goal is to play ...Rb8 if White plays 6.O-O and then protect the extra pawn with ...b5}
+
+6.Qa4* {A theoretical line where White wants to get back the pawn on c4 and fight for an opening advantage}
 
 
 [Event "IND - USA 2019"] 
@@ -38,11 +42,28 @@ pawn back with Qa4+ followed by Qxc4}
 [WhiteElo "2233"] 
 [BlackElo "2240"] 
 [Board "7"] 
+[ECO "E09"]
 [WhiteTeam "USA"] 
 [BlackTeam "India"] 
 
 1.e4 d6 {The Pirc-Ufimtsev defense is on the board} 
-2.d4 Nf6
+
+2.d4 Nf6 {Attacking the e4 pawn with development}
+
 3.Nc3 {Protecting the e4 pawn}
-3...g6* {Fianchetto followed y castling is the main line}
+
+3...g6 {Fianchetto followed by castling is the main line}
+
+4.f4  {The dangerous Austrian atack where White plans to run down Black on the Kingside}
+
+4...Bg7  {Black has to develop the Bishop - the best move in this position}
+
+5.Nf3  {White is consistent with his piece development}
+
+5...c5 {5...O-O is the riskier option where a misstep from Black can spell disaster. The move played is also quite popular and Black challenges 
+White to take a call with his central d-pawn}
+
+6.Bb5+ {Theoretically the best move and considered to be the main line}
+
+6...Bd7* {Challenging his counterpart. 6...Nfd7?! is bad because 7.dxc5! dxc5 8.e5 and White gains space and Black is left with an inferior pawn structure }
 

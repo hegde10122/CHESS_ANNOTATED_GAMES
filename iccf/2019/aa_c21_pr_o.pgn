@@ -203,8 +203,11 @@ f4 pawn. It also stops Black from playing ...h4 himself}
 
 28...Qg7 {Protecting the pawn on g4 for the second time and Black's pieces have donned a passive look}
 
-29.f3* {Challenging Black's pawn on g4, White wants to open up the f and g-files against the Black King}
+29.f3 {Challenging Black's pawn on g4, White wants to open up the f and g-files against the Black King}
 
+29...g3 {Attacking the Queen and keeping the g-file closed}
+
+30.Qh1* {Forced}
 
 
 [Event "AA/C21/Pr/O"] 

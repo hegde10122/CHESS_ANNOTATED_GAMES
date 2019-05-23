@@ -141,7 +141,18 @@ of the pinned Queen on f3}
 
 31...R4e6 {TheRook comes back into the game and threatens the Bishop on f6 which controls the vital e7 and d8 squares}
 
-32.Bc3* {The Bishop is ready for Bb4+ on the next move}
+32.Bc3 {The Bishop is ready for Bb4+ on the next move}
+
+32...Rg6 {Black sets a nice trap and lures White to take the d7 pawn} 
+
+33.R1d3 {Protecting the Queen and renewing the threat on d7. 33.Rxd7?? Rxg3+!! 34.fxg3 --Forced as the White Queen is pinned
+34...Re2+!! taking advantage of the pinned Queen again. 35.Kf1 Qxf3+! and Black wins}
+
+33...d6 {Protecting the pawn but Black entombes the Bishop on b8. A better move was 33...a5 to prevent Bb4+ 33...Re7 was also a better try}
+
+34.h4* {White improves the pawn structure and waits. The Rook on d5 makes the life of the Black Queen difficult while the Rook on e8 is also not 
+contributing much.The Bishop on b8 is a tall pawn for now}
+
 
 
 [Event "AA/C18/SF/A"]
@@ -1020,9 +1031,11 @@ weaknesses on a6,a7 and c6}
 
 20...a5 {Black too waits. Perhaps a better move was to push 20...Qe7 and then push 21...g5 increasing the pressure on the Kingside}
 
-21.Na4* {Preparing Nc5, the Knight not only wants to gain the outpost but also attacks the a5 pawn in the process.}
+21.Na4 {Preparing Nc5, the Knight not only wants to gain the outpost but also attacks the a5 pawn in the process.}
 
+21...Rg6  {Threatening mate on g2}
 
+22.Rg1* {Forced}
 
 
 [Event "AA/C18/SF/A"]
@@ -1371,6 +1384,7 @@ passive ...Rh7 and it will take some effort to re-activate this Rook later in th
 
 20.e6!? {Nice move. White intends to open up the e-file and keep up the pressure}
 
-20...fxe6* {Black needs to accept the wedge pawn as 21.exf7 is threatened ripping apart the pawn structure}
+20...fxe6 {Black needs to accept the wedge pawn as 21.exf7 is threatened ripping apart the pawn structure}
 
+21.Qg4* {Keeping the pressure on the g7 pawn and Black has a difficult defense ahead}
 
