@@ -182,8 +182,6 @@ I feel, 11...Be7 was better as Black can castle and with moves like ...Ne4 follo
 
 16...Ne4* {Gaining space and preparing to play ...h6,...g5}
 
-
-
 [Event "1517"]
 [Site "AICCF"]
 [White "Hegde, Ganesh"]
@@ -239,7 +237,6 @@ Bishop to retreat back if Black decides to play ...Nh5}
 
 12.Nd2* {The Knight goes back to capture the pawn on c4. Black threat was to push ...b5 and this move does not allow it as 12...b5?!
 allows 13.Nxb5! taking advantage of the pinned c6 pawn}
-
 
 [Event "1517"]
 [Site "AICCF"]
@@ -376,7 +373,9 @@ the White Bishop on b2 covers the e5 square}
 
 12.Qg3 {White maintains the tension as the Knight gets an additional defender}
 
-12...c5* {Atlast, the freeing move comes up.}
+12...c5 {Atlast, the freeing move comes up.}
+
+13.cxd5* {Opening up the c-file for the Rook on a1, White goes in for a pawn swap}
 
 
 [Event "1517"]
@@ -680,7 +679,14 @@ White does not have healthy prospects to checkmate the Black King.}
 
 18.Nh4 {Forcing Black to move the Queen again.More importantly the third rank is cleared for the White Queen to enter the game}
 
-18...Qf7* {The Queen drops back and Black is a pawn ahead but at the cost of losing the castling rights}
+18...Qf7 {The Queen drops back and Black is a pawn ahead but at the cost of losing the castling rights}
+
+19.Rb1 {White wants to infiltrate the seventh rank with his Rook}
+
+19...Rg8* {19...e5 with a discovered attack on the Queen looks like a playable move. 20.NBh6+ Ke8 21.Qe3 and with the idea of playing 22.f4, Black has to deal with 
+complications. The Rook move does not commit any pawn moves that are irreversible in nature and also activates a piece on an open file}
+
+
 
 
 [Event "1517"]

@@ -29,8 +29,15 @@ pawn back with Qa4+ followed by Qxc4}
 
 5...Nc6 {A popular variation against the Catalan. Here Black's goal is to play ...Rb8 if White plays 6.O-O and then protect the extra pawn with ...b5}
 
-6.Qa4* {A theoretical line where White wants to get back the pawn on c4 and fight for an opening advantage}
+6.Qa4 {A theoretical line where White wants to get back the pawn on c4 and fight for an opening advantage}
 
+6...Bb4+ {The main line}
+
+7.Bd2 {All standard theory}
+
+7...Nd5 {Bolstering the Bishop with the access to the c4 pawn blocked}
+
+8.Bxd4* {White goes for simplification which is the most popular continuation}
 
 [Event "IND - USA 2019"] 
 [Site "ICCF"] 
@@ -65,5 +72,24 @@ White to take a call with his central d-pawn}
 
 6.Bb5+ {Theoretically the best move and considered to be the main line}
 
-6...Bd7* {Challenging his counterpart. 6...Nfd7?! is bad because 7.dxc5! dxc5 8.e5 and White gains space and Black is left with an inferior pawn structure }
+6...Bd7 {Challenging his counterpart. 6...Nfd7?! is bad because 7.dxc5! dxc5 8.e5 and White gains space and Black is left with an inferior pawn structure }
 
+7.e5 {White begins the attack}
+
+7...Ng4 {7...Ng8 is placid and does no justice to Black's aggressive opening choice}
+
+8.Bxd7+ {White goes for a lighter option. 8.e6!? was a more complex option ruining Black's pawn structure after 8...fxe6}
+
+8...Qxd7 {Forced as 8...Nxd7? allows White to play 9.e6! fxe6 10.Ng5+ with White's attacking chances amplified}
+
+9.h3!? {A move laced with poison. White's idea is to corner the Knight and hen expand with g4. This idea is consistnt with the attacking plans}
+
+9...cxd4!? {The Pirc solution where Black introduces complications of his own by attacking the Knight}
+
+10.Qxd4 {White centralises the Queen with this capture}
+
+10...Nc6 {Development with tempo}
+
+11.Qe4 {The Queen is not going back and keeps herself on an active post}
+
+11...Nh6* {The Knight has to go back and the position is reasonable for Black}

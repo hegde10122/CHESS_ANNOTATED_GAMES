@@ -57,9 +57,9 @@ continuation}
 
 11.Ne5 {An active move that not only supports the pawn on c4 but also threatens the c6 pawn}
 
-11...Rc8* {Protecting the c6 pawn. 11...Nxe5 is considered to be the main continuation}
+11...Rc8 {Protecting the c6 pawn. 11...Nxe5 is considered to be the main continuation}
 
-
+12.cxd5* {Going for a pawn swap. 12.Nc3 is also a good choice where Black will give up the Bishop pair after 12...Bxc4 13.Nxc4 dxc4 in return for an extra pawn}
 
 
 [Event "AA/C21/Pr/O"] 
@@ -498,5 +498,12 @@ plan}
 
 8.Qc2 {Losing another tempo with the Queen}
 
-8...Qb4+* {Forcing White to take a decision. White can lose castling rights or else will have a damaged pawn structure to avert the check}
+8...Qb4+ {Forcing White to take a decision. White can lose castling rights or else will have a damaged pawn structure to avert the check}
 
+9.Nc3 {White could have tried 9.Kd1 d5 losing castling rights but keeping the pawn structure intact.}
+
+9...Nxc3 {Black wants to damgae the pawn structure and have a better endgame where the doubled pawns will come back to haunt White}
+
+10.bxc3 {White sacrifices a pawn instead and aims for activity with the Queens on the board}
+
+10...Qxc4* {Black grabs a pawn and is perfectly alright here although this is the third Queen move already!}
