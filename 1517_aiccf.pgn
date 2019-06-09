@@ -252,7 +252,11 @@ allows 13.Nxb5! taking advantage of the pinned c6 pawn}
 
 14.gxf4 Qc7 {Till now we are still with theory as the Queen attacks the pawn on f4}
 
-15.e3* {White adds more protection to the pawn}
+15.e3 {White adds more protection to the pawn}
+
+15...Rad8 {Activating the Rook}
+
+16.Rac1* {White follows suit}
 
 
 [Event "1517"]
@@ -335,7 +339,11 @@ that happens in certain variations of the Nimzo after .Black plays ...Bxc3 and W
 
 18...Nxh5 {Black trades Knights}
 
-19.Qxh5* {19.Nxh5 is also okay}
+19.Qxh5 {19.Nxh5 is also okay}
+
+19...g6 {Black does not want the Queen in its territory}
+
+20.Qf3* {Preparing e4}
 
 
 [Event "1517"]
