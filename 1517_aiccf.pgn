@@ -410,9 +410,10 @@ the White Bishop on b2 covers the e5 square}
 
 14.exd4 {14.Bxd4?? Bxe5 and Black wins a piece}
 
-14...Bxd5* {14...exd5 shuts the Bishop on b7 while 14...Nxd5 allows White to play 15.Ne4 and threaten Nxd6. The move played is the best choice as 
+14...Bxd5 {14...exd5 shuts the Bishop on b7 while 14...Nxd5 allows White to play 15.Ne4 and threaten Nxd6. The move played is the best choice as 
 both c4 and e4 squares are under Black's control}
 
+15.Ndc4* {Threatening the eliminate the Bishop pair}
 
 [Event "1517"]
 [Site "AICCF"]

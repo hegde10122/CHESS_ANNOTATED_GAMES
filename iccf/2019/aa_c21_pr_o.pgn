@@ -67,8 +67,16 @@ continuation}
 
 13...Nh5 {Black too wants to eliminate the Biahop pair}
 
-14.Be3* {14.Bc1 is also okay allowing White a chance to push e4 at some point. The move blocka the idea e2-e4 but keeps the c1 square vacant for the
+14.Be3 {14.Bc1 is also okay allowing White a chance to push e4 at some point. The move blocka the idea e2-e4 but keeps the c1 square vacant for the
 Rook on a1. White has to go for some trade-off}
+
+14...Nb8 {Attacking the pinned Knight}
+
+15.Nxe7+ {15.Nxd8?? Rxc2 and the White Knight on d8 will also be lost}
+
+15...Qxe7 16.Nc3 {The Rook's attack on the Queen is blocked}
+
+16...Nc6* {The Knight is back on a useful square}
 
 
 [Event "AA/C21/Pr/O"] 
@@ -359,8 +367,9 @@ spoils the show for the Bishop on b7.Hence ...b6 is ruled out}
 
 15.exf5 Bxf5 {Attacking the Queen}
 
-16.Be4* {White wants to trade his bad Bishop}
+16.Be4 {White wants to trade his bad Bishop}
 
+16...g6* {Black supports the Bishop on f5}
 
 [Event "AA/C21/Pr/O"] 
 [Site "ICCF"] 
