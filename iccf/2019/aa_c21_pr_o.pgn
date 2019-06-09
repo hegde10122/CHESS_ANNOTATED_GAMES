@@ -61,8 +61,14 @@ continuation}
 
 12.cxd5 {Going for a pawn swap. 12.Nc3 is also a good choice where Black will give up the Bishop pair after 12...Bxc4 13.Nxc4 dxc4 in return for an extra pawn}
 
-12...cxd5* {opening up the c-file for the Rook}
+12...cxd5 {opening up the c-file for the Rook}
 
+13.Nc6 {Attacking the Bishop on e7 which has nowhere to escape}
+
+13...Nh5 {Black too wants to eliminate the Biahop pair}
+
+14.Be3* {14.Bc1 is also okay allowing White a chance to push e4 at some point. The move blocka the idea e2-e4 but keeps the c1 square vacant for the
+Rook on a1. White has to go for some trade-off}
 
 
 [Event "AA/C21/Pr/O"] 
@@ -212,7 +218,10 @@ f4 pawn. It also stops Black from playing ...h4 himself}
 
 30.Qh1 {Forced}
 
-30...Qh8* {Both the Queens occupy the edge of the board!}
+30...Qh8 {Both the Queens occupy the edge of the board!}
+
+31.Bg4* {Offering to trade Bishops and inch closer to a lighter game}
+
 
 [Event "AA/C21/Pr/O"] 
 [Site "ICCF"] 
@@ -510,4 +519,11 @@ plan}
 
 10.bxc3 {White sacrifices a pawn instead and aims for activity with the Queens on the board}
 
-10...Qxc4* {Black grabs a pawn and is perfectly alright here although this is the third Queen move already!}
+10...Qxc4 {Black grabs a pawn and is perfectly alright here although this is the third Queen move already!}
+
+11.O-O O {Both sides take their Kings to safety}
+
+12.Rfd1 {12.e4 was a nice possibility for White}
+
+12...d6* {Planning ...e5 at some point}
+

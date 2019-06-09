@@ -505,8 +505,15 @@ protected twice and does not need another defender on a6}
 
 27.Rae1 {Bringing the last piece into action}
 
-27...Bb7* {Improving the position of the Bishop where it will play an active role in controlling the light squares}
+27...Bb7 {Improving the position of the Bishop where it will play an active role in controlling the light squares}
 
+28.Bd1 {Making room for the Rook on e3 followed by doubling of the Rooks on e-file}
+
+28...Qh7 {Preventing White from pushing g4 with tempo}
+
+29.Qc1 {Another calm move intending to play Bg5 followed by Qf4}
+
+29...Bd5* {Black prepares to counter White's Rook occupation idea on the e-file with moves like ...Re6.This move controls the e6 square}
 
 
 [Event "3rd IZIT Pr K"]
