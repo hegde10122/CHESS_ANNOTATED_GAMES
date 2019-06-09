@@ -37,7 +37,16 @@ pawn back with Qa4+ followed by Qxc4}
 
 7...Nd5 {Bolstering the Bishop with the access to the c4 pawn blocked}
 
-8.Bxd4* {White goes for simplification which is the most popular continuation}
+8.Bxb4 {White goes for simplification which is the most popular continuation}
+
+8...Ndxb4 {Forced}
+
+9.O-O {White nestles his King to safety}
+
+9...Rb8 {The most popular response. Preparing ...b5}
+
+10.Na3*  {Attacking the pawn on c4 and preventing ...b5}
+
 
 [Event "IND - USA 2019"] 
 [Site "ICCF"] 
@@ -92,4 +101,9 @@ White to take a call with his central d-pawn}
 
 11.Qe4 {The Queen is not going back and keeps herself on an active post}
 
-11...Nh6* {The Knight has to go back and the position is reasonable for Black}
+11...Nh6 {The Knight has to go back and the position is reasonable for Black}
+
+12.Be3 {Preparing O-O-O}
+
+12...Nf5* {Attacking the Bishop}
+

@@ -59,7 +59,10 @@ continuation}
 
 11...Rc8 {Protecting the c6 pawn. 11...Nxe5 is considered to be the main continuation}
 
-12.cxd5* {Going for a pawn swap. 12.Nc3 is also a good choice where Black will give up the Bishop pair after 12...Bxc4 13.Nxc4 dxc4 in return for an extra pawn}
+12.cxd5 {Going for a pawn swap. 12.Nc3 is also a good choice where Black will give up the Bishop pair after 12...Bxc4 13.Nxc4 dxc4 in return for an extra pawn}
+
+12...cxd5* {opening up the c-file for the Rook}
+
 
 
 [Event "AA/C21/Pr/O"] 
@@ -207,8 +210,9 @@ f4 pawn. It also stops Black from playing ...h4 himself}
 
 29...g3 {Attacking the Queen and keeping the g-file closed}
 
-30.Qh1* {Forced}
+30.Qh1 {Forced}
 
+30...Qh8* {Both the Queens occupy the edge of the board!}
 
 [Event "AA/C21/Pr/O"] 
 [Site "ICCF"] 
