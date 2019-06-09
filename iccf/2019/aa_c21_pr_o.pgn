@@ -355,7 +355,11 @@ spoils the show for the Bishop on b7.Hence ...b6 is ruled out}
 
 14.e4 {White cements the central pawn on e4 and this has been an odd game so far from White}
 
-14...f5* {Black expands on the Kingside as planned}
+14...f5 {Black expands on the Kingside as planned}
+
+15.exf5 Bxf5 {Attacking the Queen}
+
+16.Be4* {White wants to trade his bad Bishop}
 
 
 [Event "AA/C21/Pr/O"] 
