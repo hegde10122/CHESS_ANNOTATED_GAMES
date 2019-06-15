@@ -159,7 +159,15 @@ contributing much.The Bishop on b8 is a tall pawn for now}
 
 35...Rge6 {The Rook goes back and White has a firm grip on the Kingside as Black's Queen and Bishop have become toothless}
 
-36.Qg4* {The Queen is ready to deliver check on g7 followed by Qxh7 as Black looks crippled}
+36.Qg4 {The Queen is ready to deliver check on g7 followed by Qxh7 as Black looks crippled}
+
+36...Ke7 {The King wants to escape to the Queenside}
+
+37.Rf3 {Threatening Rxf7 if the King were to run away}
+
+37...Rf8 {Black supports the f7 pawn with the Rook and the King is ready to escape}
+
+38.Rdf5* {Adding more pressure on the f7 pawn, White wants to keep the Black King in the middle of the board} 
 
 
 [Event "AA/C18/SF/A"]
@@ -271,7 +279,12 @@ brief while}
 
 24.Nh3 {Opening up an attack on the h6 pawn with the Bishop.}
 
-24...h5* {The pawn is pushed down further}
+24...h5 {The pawn is pushed down further}
+
+25.Bg5 {The Bishop is back on an active diagonal}
+
+25...Nc6* {26.Bf6 is not a huge problem for Black as 26...Na5 27.Bxg7? Nb3! 28.Qg5 Nxc1 is good for Black}
+
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -866,7 +879,11 @@ Bishop }
 
 25.Be3 {The Bishop remains hemmed in by its own pawns}
 
-25...Ne7* {The Knight will go to f5 and blunt White's Bishop on h3. 25...Nxd4 is also okay but 26.cxd4 only helps WHite to undouble his pawns}
+25...Ne7 {The Knight will go to f5 and blunt White's Bishop on h3. 25...Nxd4 is also okay but 26.cxd4 only helps WHite to undouble his pawns}
+
+26.Rb4 {Putting the question to the Black Queen}
+
+26...Qa5* {White can now push a4. 26...Qa6 is also possible}
 
 
 
@@ -968,7 +985,10 @@ The game is complicated as White does have chances on the Queenside.}
 
 21...Qe7 {The Queen is ready to go to g5 or h4}
 
-22.Kh1* {White puts the ball in Black's court again. 22.Rab1 was perhaps a better alternative }
+22.Kh1 {White puts the ball in Black's court again. 22.Rab1 was perhaps a better alternative }
+
+22...Qf6* {Black too waits and keeps the Queen on a dark square}
+
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -1074,7 +1094,12 @@ weaknesses on a6,a7 and c6}
 
 21...Rg6  {Threatening mate on g2}
 
-22.Rg1* {Forced}
+22.Rg1 {Forced}
+
+22...Nf6 {A strange Knight retreat. 22...Qd8 was better as Black's attack on the White King looks dead. Black's Knight in all probability wants to 
+come to the e4 square}
+
+23.Nc5* {Occupying the hole on c5 with more control over the e4 square. White is ready to trade on e4 if Black were to plant his Knight or Bishop there}
 
 
 [Event "AA/C18/SF/A"]
@@ -1206,7 +1231,17 @@ to win the exchange}
 
 27.Qe3 {Vacating the d4 square for the other Knight. The Rook can also come to d4 followed by Rg4 depending upon Black's response}
 
-27...Nd7* {Bringing the other Knight into the game}
+27...Nd7 {Bringing the other Knight into the game}
+
+28.g4 {White expands on the Kingside as Black's pieces are stuck}
+
+28...Nac5 {The Knigh retreats back}
+
+29.g5 {White wants to open up the Kingside}
+
+29...h5 {Black keeps the pawn structure closed}
+
+30.Nb5*  {31.Rd6 is an idea now as White waits }
 
 
 [Event "AA/C18/SF/A"]
@@ -1438,5 +1473,8 @@ passive ...Rh7 and it will take some effort to re-activate this Rook later in th
 
 20...fxe6 {Black needs to accept the wedge pawn as 21.exf7 is threatened ripping apart the pawn structure}
 
-21.Qg4* {Keeping the pressure on the g7 pawn and Black has a difficult defense ahead}
+21.Qg4 {Keeping the pressure on the g7 pawn and Black has a difficult defense ahead}
+
+21...Ba6* {Attacking the pawn on c4. This is a delicate position for Black}
+
 

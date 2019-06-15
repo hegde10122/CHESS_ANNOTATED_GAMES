@@ -76,7 +76,11 @@ Rook on a1. White has to go for some trade-off}
 
 15...Qxe7 16.Nc3 {The Rook's attack on the Queen is blocked}
 
-16...Nc6* {The Knight is back on a useful square}
+16...Nc6 {The Knight is back on a useful square}
+
+17.g4 {Gaining space on the Kingside and attacking the Knight}
+
+17...Nf6 18.h3* {Strengthening the pawn complex}
 
 
 [Event "AA/C21/Pr/O"] 
@@ -228,7 +232,12 @@ f4 pawn. It also stops Black from playing ...h4 himself}
 
 30...Qh8 {Both the Queens occupy the edge of the board!}
 
-31.Bg4* {Offering to trade Bishops and inch closer to a lighter game}
+31.Bg4 {Offering to trade Bishops and inch closer to a lighter game}
+
+31...Bg7 {Black attacks the nemesis on e5}
+
+32.Bxc8* {Trading the Bishop as White liquidates}
+
 
 
 [Event "AA/C21/Pr/O"] 
@@ -369,7 +378,14 @@ spoils the show for the Bishop on b7.Hence ...b6 is ruled out}
 
 16.Be4 {White wants to trade his bad Bishop}
 
-16...g6* {Black supports the Bishop on f5}
+16...g6 {Black supports the Bishop on f5}
+
+17.Bxf5 gxf5 {White trades the Bishops}
+
+18.O-O {Finally castling!}
+
+18...Qf7* {The Queen will move to h5 followed by ...Nf6}
+
 
 [Event "AA/C21/Pr/O"] 
 [Site "ICCF"] 

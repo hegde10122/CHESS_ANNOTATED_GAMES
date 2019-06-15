@@ -513,7 +513,10 @@ protected twice and does not need another defender on a6}
 
 29.Qc1 {Another calm move intending to play Bg5 followed by Qf4}
 
-29...Bd5* {Black prepares to counter White's Rook occupation idea on the e-file with moves like ...Re6.This move controls the e6 square}
+29...Bd5 {Black prepares to counter White's Rook occupation idea on the e-file with moves like ...Re6.This move controls the e6 square}
+30.Rf2* {This Rook will probably go to e2 and White will increase the pressure of the Rooks on the e-file}
+
+
 
 
 [Event "3rd IZIT Pr K"]

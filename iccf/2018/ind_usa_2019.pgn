@@ -12,9 +12,9 @@
 [WhiteTeam "India"] 
 [BlackTeam "USA"] 
 
-1.d4 Nf6 
+1.d4 Nf6  {The Indian defence is a popular answer to the Queen's pawn opening}
 
-2.c4 e6 
+2.c4 e6 {Black wants to develop the Bishop on f8 and castle quickly}
 
 3.Nf3  {White avoids the Nimzo-Indian}
 
@@ -45,7 +45,16 @@ pawn back with Qa4+ followed by Qxc4}
 
 9...Rb8 {The most popular response. Preparing ...b5}
 
-10.Na3*  {Attacking the pawn on c4 and preventing ...b5}
+10.Na3  {Attacking the pawn on c4 and preventing ...b5}
+
+10...O-O {Black castles and the Knight on c6 is no longer pinned}
+
+11.Qb5 {The only move to get back the pawn}
+
+11...b6 {The Bishop will come out on b7 or a6}
+
+12.Qxc4* {White gets back the pawn}
+
 
 
 [Event "IND - USA 2019"] 
@@ -58,7 +67,7 @@ pawn back with Qa4+ followed by Qxc4}
 [WhiteElo "2233"] 
 [BlackElo "2240"] 
 [Board "7"] 
-[ECO "E09"]
+[ECO "B09"]
 [WhiteTeam "USA"] 
 [BlackTeam "India"] 
 
@@ -105,5 +114,19 @@ White to take a call with his central d-pawn}
 
 12.Be3 {Preparing O-O-O}
 
-12...Nf5* {Attacking the Bishop}
+12...Nf5 {Attacking the Bishop}
+
+13.Bf2 {The Bishop is protected}
+
+13...dxe5 {13...O-O? looks natural but is bad as 14.O-O-O will allow White to create a pawn storm on the Kingside.14...Rae8 15.g4 Nh6 and White will have a 
+great attack going}
+
+14.fxe5 {Opening the f-file anf controlling the d6 square. 14.Nxe5 allows 14...Nd6 and if White trades Queens then the attack evaporates} 
+
+14...Nxe5 {A temporary Knight sacrifice as Black removes the wedge pawn on e5 }
+
+15.Nxe5 {White has to accept the sacrifice or else he will lose a pawn for nothing}
+
+15...Qe6* {The Knight on e5 is attacked twice now and there is no pawn to protect the Knight. The White King is still on e1 and the Rooks are also 
+at home}
 

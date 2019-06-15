@@ -187,7 +187,14 @@ I feel, 11...Be7 was better as Black can castle and with moves like ...Ne4 follo
 
 16.Re1 {The Rook comes out in defence of the Bishop}
 
-16...Ne4* {Gaining space and preparing to play ...h6,...g5}
+16...Ne4 {Gaining space and preparing to play ...h6,...g5}
+
+17.h3 {White waits }
+
+17...g5 {Preparing ...h5 and ...g4, a Kingside flank attack as the centre and Queenside is closed}
+
+18.Be3* {Development of  another piece}
+
 
 
 [Event "1517"]
@@ -343,7 +350,11 @@ that happens in certain variations of the Nimzo after .Black plays ...Bxc3 and W
 
 19...g6 {Black does not want the Queen in its territory}
 
-20.Qf3* {Preparing e4}
+20.Qf3 {Preparing e4}
+
+20...Bc8 {The Bishop redirects itself to an efective diagonal}
+
+21.e4* {White gains space in the centre }
 
 
 [Event "1517"]
@@ -413,7 +424,14 @@ the White Bishop on b2 covers the e5 square}
 14...Bxd5 {14...exd5 shuts the Bishop on b7 while 14...Nxd5 allows White to play 15.Ne4 and threaten Nxd6. The move played is the best choice as 
 both c4 and e4 squares are under Black's control}
 
-15.Ndc4* {Threatening the eliminate the Bishop pair}
+15.Ndc4 {Threatening the eliminate the Bishop pair}
+
+15...Be7 {The Bishop moves back as Black keeps the Bishop pair}
+
+16.Ne3 {Attacking the other Bishop now}
+
+16...Qb7* {Black increases the control over the h1-a8 diagonal not minding the elimination of the Bishop pair. Black also aims to push ...b5 and ...a6}
+
 
 [Event "1517"]
 [Site "AICCF"]
@@ -640,12 +658,13 @@ The heavy artillery for Black on e7 and e8, no doubt control the e4 square but W
 
 33...Qxe5 34.dxe5 Kf8 {The Black moves towards the centre hoping to eliminate the pawn on e5}
 
-35.g3* {White needs to prevent the Black King from coming to e6.For this Bg4 is a necessity. Hence 35.g4?! is a bad move that allows Black's 
+35.g3 {White needs to prevent the Black King from coming to e6.For this Bg4 is a necessity. Hence 35.g4?! is a bad move that allows Black's 
 King to have unrestrained access over the central squares. 
 35.Bg4 is also good but it is unclear how White will cope up with 35...c5 which allows Black's Bishop to come to life as the White pawn on g2 is enprise.
 35.Ke2? is bad allowing Black to push 35...Ke7. To prevent Black from playing 36...Ke6 White must now play 36.Bg4 which again allows Black to push 
 36...c5 attacking the pawn on g2.Complicated stuff.}
 
+35...Bc8* {Attacking the h3 pawn}
 
 
 [Event "1517"]
@@ -987,7 +1006,12 @@ This move keeps the pressure on the d4 pawn}
 
 21.Qe2 {The White Queen does not want the nagging pin ...Bb6 to be unleashed and occupies a safe square leaving the a2 pawn for grabs}
 
-21...Bd2* {Attacking the defender of the Knight on c5, Black invites White to play 22.Rfd1 and create complications}
+21...Bd2 {Attacking the defender of the Knight on c5, Black invites White to play 22.Rfd1 and create complications}
+
+22.Rc4 {22.Rfd1 creates complications. 22...Bxc1 23.Rxd5 Rxd5 24.b4 Ba3 and Black has good play} 
+
+22...Bg5* {The Bishop retreats}
+
 
 
 [Event "1517"]
@@ -1343,8 +1367,8 @@ Also Rxh7 will allow White to win a free pawn. The move played keeps everything 
 
 34...Rxc7 {Black's story so far...exchange,exchange and exchange!}
 
-35.Bxc7* {The Black Rook on a5 is still under the hammer}
+35.Bxc7 {The Black Rook on a5 is still under the hammer}
 
-
+35...Rc5* {Attacking the Bishop now as the game heads towards a draw}
 
 
