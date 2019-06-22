@@ -263,7 +263,11 @@ allows 13.Nxb5! taking advantage of the pinned c6 pawn}
 
 15...Rad8 {Activating the Rook}
 
-16.Rac1* {White follows suit}
+16.Rac1 {White follows suit}
+
+16...c5 {Opening up the long diagonal for lquidation of the Bishops}
+
+17.d5* {White decides to open up the central d-file instead}
 
 
 [Event "1517"]
@@ -430,7 +434,13 @@ both c4 and e4 squares are under Black's control}
 
 16.Ne3 {Attacking the other Bishop now}
 
-16...Qb7* {Black increases the control over the h1-a8 diagonal not minding the elimination of the Bishop pair. Black also aims to push ...b5 and ...a6}
+16...Qb7 {Black increases the control over the h1-a8 diagonal not minding the elimination of the Bishop pair. Black also aims to push ...b5 and ...a6}
+
+17.Nxd5 {White eliminates the Bishop pair} 
+
+17...Nxd5  {17...exd5 blocks the Queen's influence from b7 while 17...Qxd5 allows 18.Be4 with a tempo on the Queen}
+
+18.a3* {Preparing b4 }
 
 
 [Event "1517"]
@@ -511,8 +521,16 @@ exchange Knights}
 
 17...Qe7 {Not so sure about the idea behind this move. A better alternative in my opinion is 17...Bf5 with more protection to the wedge pawn on d3}
 
-18.Na3* {White wants to take advantage of Black's last move by playing 19.Rae1 with an X-ray attack on the Queen forcing Black to lose another tempo with the 
+18.Na3{White wants to take advantage of Black's last move by playing 19.Rae1 with an X-ray attack on the Queen forcing Black to lose another tempo with the 
 Queen}
+
+18...Bf5 {Adding more protection to the pawn on d3 and connecting Rooks}
+
+19.Rae1 {White goes ahead with his plan and activates the Rook}
+
+19...Qd7* {The Queen moves out to evade the threat}
+
+
 
 [Event "1517"]
 [Site "AICCF"]
@@ -666,6 +684,18 @@ King to have unrestrained access over the central squares.
 
 35...Bc8* {Attacking the h3 pawn}
 
+36.Bxc6 Bxh3+ {Black needs to activate the Bishop at any cost}
+
+37.Ke2 {Improving the position of the King}
+
+37...Bc8 {Preventing White from playing Bb7}
+
+38.Ke3 {The White King goes closer towards the centre}
+
+38...h5 {38...Ke7 looks better. Black pawns need the King as pushing them further only makes them weaker}
+39.f4* {Attacking the pawn and forcing Black to decide his pawn structure}
+
+
 
 [Event "1517"]
 [Site "AICCF"]
@@ -754,8 +784,12 @@ White does not have healthy prospects to checkmate the Black King.}
 19...Rg8 {19...e5 with a discovered attack on the Queen looks like a playable move. 20.NBh6+ Ke8 21.Qe3 and with the idea of playing 22.f4, Black has to deal with 
 complications. The Rook move does not commit any pawn moves that are irreversible in nature and also activates a piece on an open file}
 
-20.Bh6+ Ke8* {Black's King can now escape towards the Queenside but the only hindrance is the active White Rook on b1.White still is a pawn down and 
+20.Bh6+ Ke8 {Black's King can now escape towards the Queenside but the only hindrance is the active White Rook on b1.White still is a pawn down and 
 must do something to restore parity}
+
+21.Qe3 {The Queen now aims to occupy the c5 square. White aims to play Rb7 soon and probably f4,f5 as well.}
+
+21...Bd7* {Black needs to his develop his pieces, especially the Rook on a8 soon}
 
 
 [Event "1517"]
@@ -912,7 +946,9 @@ the Knight on c6 is not too influential. Black preferes to keep the Knight on d7
 
 15.Nc2 {The action begins on the Queenside as White connects Rooks}
 
-15...Rb8* {Preparing ...b5. 15...b5 is an active choice. 16.axb5 Rb8 17.Na3 Kh8 18.Bd2 Nc7 with a double attack on the pawn on b5}
+15...Rb8 {Preparing ...b5. 15...b5 is an active choice. 16.axb5 Rb8 17.Na3 Kh8 18.Bd2 Nc7 with a double attack on the pawn on b5}
+
+16.Na2*  {White defends the b2 pawn and is ready for a battle on the Queenside}
 
 
 [Event "1517"]
@@ -1010,8 +1046,11 @@ This move keeps the pressure on the d4 pawn}
 
 22.Rc4 {22.Rfd1 creates complications. 22...Bxc1 23.Rxd5 Rxd5 24.b4 Ba3 and Black has good play} 
 
-22...Bg5* {The Bishop retreats}
+22...Bg5 {The Bishop retreats}
 
+23.Nb3 {The Knight goes back to ease the tension and White threatens 24.Rxc7}
+
+23...Rb5* {Pinning the Rook and halting White's Rxc7 idea}
 
 
 [Event "1517"]
@@ -1121,7 +1160,6 @@ hampering Black's Rooks as the King cannot go down the board easily}
 
 21...Rhc8* {Attacking the pawn on c2}
 
-
 [Event "1517"]
 [Site "AICCF"]
 [White "Amit Kumar Sharma"]
@@ -1219,15 +1257,18 @@ White could have played Qf4 followed by Nf5 offering to trade pieces and ease th
 
 24.Qf4 {The Queen becomes active now and offers more protection to the Knight.White plans to push g4 now gaining space on the Kingside}
 
-24...Nf8* {Protecting the Bishop on e6 as Black prepares to push ...f6 to kick the Knight away and foil White's Kingside expansion plans}
+24...Nf8 {Protecting the Bishop on e6 as Black prepares to push ...f6 to kick the Knight away and foil White's Kingside expansion plans}
 
+25.Nh4 {White does not mind the fork after 25...g5 as the pawn can be pinned with 26.Qg3}
+
+25...Nd7* {Again the exchange of Knights is offered}
 
 [Event "1517"]
 [Site "AICCF"]
 [White "Mohanty, Om Prakash"]
 [Black "Hegde, Ganesh"]
 [EventDate "2019.03.19"]
-[Result "*"]
+[Result "1/2-1/2"]
 [ECO "B36"]
 [Annotator "Ganesh R Hegde"]
 
@@ -1369,6 +1410,24 @@ Also Rxh7 will allow White to win a free pawn. The move played keeps everything 
 
 35.Bxc7 {The Black Rook on a5 is still under the hammer}
 
-35...Rc5* {Attacking the Bishop now as the game heads towards a draw}
+35...Rc5 {Attacking the Bishop now as the game heads towards a draw}
 
+36.Bd6 {The Rook is attacked again}
+
+36...Rd5 {The Rook keeps the Bishop busy as draw looms}
+
+37.Nxf5 {The Bishop is supported}
+
+37...Kf7 {The King comes out and improves its position}
+
+38.Bb4 {White Bishop shies away}
+
+38...Rd1+ {Now the Rook will try to keep checking the King and stymie White's advance}
+
+39.Kg2 Kg6 {Attacking the Knight}
+
+40.Ne3 {Attacking the Black Rook}
+40...Rd3 {The Rook keeps control of the d-file}
+41.Be7 {The Bishop might want to go to h4 and support the King and the Knight for the passage of pawns to victory}
+41...Rd4 {Keeping control over the h4 square with an offer of a draw to White. White accepts the pece offer}1/2-1/2
 

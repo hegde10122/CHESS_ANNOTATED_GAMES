@@ -80,7 +80,12 @@ Rook on a1. White has to go for some trade-off}
 
 17.g4 {Gaining space on the Kingside and attacking the Knight}
 
-17...Nf6 18.h3* {Strengthening the pawn complex}
+17...Nf6 18.h3 {Strengthening the pawn complex}
+
+18...Na5 {Black wants to grab the c4 square and control the Queenside}
+
+19.Bg5* {Anticipating an attack on the Bishop on e3 after Black plays ...Nc4, White pins the Knight on f6 and cranks up the pressure on the Kingside}
+
 
 
 [Event "AA/C21/Pr/O"] 
@@ -236,7 +241,12 @@ f4 pawn. It also stops Black from playing ...h4 himself}
 
 31...Bg7 {Black attacks the nemesis on e5}
 
-32.Bxc8* {Trading the Bishop as White liquidates}
+32.Bxc8 {Trading the Bishop as White liquidates}
+
+32...Rxc8 33.Qh3 {The Queen comes out of the hood and attacks the Rook}
+33...Rcd8 {Doubling forces on the d-file, Black remains passive}
+
+34.Qg4* {Pinning the Bishop on g7. Qxf4 is a threat that Black needs to address or else the g3 pawn will also fall leading to a winning game for White}
 
 
 
@@ -384,7 +394,13 @@ spoils the show for the Bishop on b7.Hence ...b6 is ruled out}
 
 18.O-O {Finally castling!}
 
-18...Qf7* {The Queen will move to h5 followed by ...Nf6}
+18...Qf7 {The Queen will move to h5 followed by ...Nf6}
+
+19.Rab1 {White decides to play for a Queenside expansion with b4 on the cards}
+
+19...Qh5* {Black wants tp play ...Nf6 followed by ...Ng4 to exert pressure on the h2 pawn}
+
+
 
 
 [Event "AA/C21/Pr/O"] 
@@ -550,9 +566,15 @@ plan}
 
 10...Qxc4 {Black grabs a pawn and is perfectly alright here although this is the third Queen move already!}
 
-11.O-O O {Both sides take their Kings to safety}
+11.O-O O-O {Both sides take their Kings to safety}
 
 12.Rfd1 {12.e4 was a nice possibility for White}
 
-12...d6* {Planning ...e5 at some point}
+12...d6 {Planning ...e5 at some point}
+
+13.e3  {Strengthening the d4 pawn}
+
+13...h6* {14.Ng5 is prevented for the moment.
+13...Qb5 was also a good idea redirecting it to h5 for a possible Kingside expansion.}
+
 

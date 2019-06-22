@@ -165,11 +165,11 @@ Black King. 39...Kh7 40.Qh4+ Qh6 41.Nh5 and with moves like Rf6 to follow, Black
 
 41.Qxd6 Nxd6 {Nice time to exchange Queens and go into a better endgame}
 
-42.g6* {Setting a trap for Black after 42...fxg6 43.Nxg6+ forking the Rook and the King}
+42.g6 {Setting a trap for Black after 42...fxg6 43.Nxg6+ forking the Rook and the King}
 
+42...Rxe3 {Black grabs the central pawn}
 
-
-
+43.Rc1* {Attacking the Bishop}
 
 
 [Event "IND-JPN 2018"]

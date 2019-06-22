@@ -53,8 +53,15 @@ pawn back with Qa4+ followed by Qxc4}
 
 11...b6 {The Bishop will come out on b7 or a6}
 
-12.Qxc4* {White gets back the pawn}
+12.Qxc4 {White gets back the pawn}
 
+12...Ba6 {Attacking the Queen}
+
+13.Nb5 {If the Queen were to move then the pawn on e2 would fall}
+
+13...Qe8 {The Queen overprotects the Knight on c6 as White threatens a3. 13...Qd5 14.Qxd5 Nxd5 would lead to a drawish game}
+
+14.Rfd1* {14.Rfc1 was also possible. This move adds more strength to the d4 pawn}
 
 
 [Event "IND - USA 2019"] 
@@ -127,6 +134,16 @@ great attack going}
 
 15.Nxe5 {White has to accept the sacrifice or else he will lose a pawn for nothing}
 
-15...Qe6* {The Knight on e5 is attacked twice now and there is no pawn to protect the Knight. The White King is still on e1 and the Rooks are also 
+15...Qe6 {The Knight on e5 is attacked twice now and there is no pawn to protect the Knight. The White King is still on e1 and the Rooks are also 
 at home}
+
+16.O-O-O {White castles long and brings out the Rook on the active d-file. The b7 pawn can be captured later}
+
+16...Bxe5 {The piece is retrieved back}
+
+17.Rhe1 {White threatens to win the Bishop on e5}
+
+17...Bxc3* {Black simplifies further. 17...f6 also looks okay for Black. 18.Qxb7 O-O 19.g4 Nd6 20.Qd5 Qf7 and Black look fine}
+
+
 

@@ -167,7 +167,15 @@ contributing much.The Bishop on b8 is a tall pawn for now}
 
 37...Rf8 {Black supports the f7 pawn with the Rook and the King is ready to escape}
 
-38.Rdf5* {Adding more pressure on the f7 pawn, White wants to keep the Black King in the middle of the board} 
+38.Rdf5 {Adding more pressure on the f7 pawn, White wants to keep the Black King in the middle of the board} 
+
+38...Kd8 {Taking advantage of the pinned Rook on f3, the Black King can escape as the f5 pawn cannot be captured}
+
+39.Kh2 {Threatening 40.Rxf7}
+
+39...Re4 {Attacking the Queen on g4}
+
+40.Qg7* {Turning the attention to the hapless pawns on h6 and h7, White wants Black to lose a tempo by saving the attacked Rook}
 
 
 [Event "AA/C18/SF/A"]
@@ -283,7 +291,11 @@ brief while}
 
 25.Bg5 {The Bishop is back on an active diagonal}
 
-25...Nc6* {26.Bf6 is not a huge problem for Black as 26...Na5 27.Bxg7? Nb3! 28.Qg5 Nxc1 is good for Black}
+25...Nc6 {26.Bf6 is not a huge problem for Black as 26...Na5 27.Bxg7? Nb3! 28.Qg5 Nxc1 is good for Black}
+
+26.Bf6 {Pinning the Knight on g7.}
+
+26...Na5!?*  {26...Rg8?! is not better. 27.Bxg7 Rxg7 28.gxh5 gxh5 29.Qf6 Qf8 30.Ng5 and White turns the screws}
 
 
 [Event "AA/C18/SF/A"]
@@ -682,8 +694,9 @@ Kingside with 20.f4 g4 keeping the g-file closed yet again. 21.Qc2 Be6 or 21...e
 
 21.Nxd5 Qxd5 {White had to trade his counterpart as the Queen was threatened from d5}
 
-22.Qb2* {Preventing Black from pushing ...b4 with tempo. The Queen now paves the way for White's Rooks to control the c-file}
+22.Qb2 {Preventing Black from pushing ...b4 with tempo. The Queen now paves the way for White's Rooks to control the c-file}
 
+22...Rdc8* {Black wants to push ...c5 at some point}
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -755,8 +768,13 @@ development is also iffy and quick measures were required to rectify this proble
 
 15.Be1 {The Bishop remains safe on e1}
 
-15...a5* {Expanding on the Queenside with control over the b4 square}
+15...a5 {Expanding on the Queenside with control over the b4 square}
 
+16.Nd4 {Looking to simplify}
+
+16...Bxe2 17.Nxe2 {17.Qxe2 is also okay}
+17...a4 {Black does not allow b4 with advantage for White}
+18.f3* {Kicking the Knight back}
 
 
 [Event "AA/C18/SF/A"]
@@ -883,8 +901,12 @@ Bishop }
 
 26.Rb4 {Putting the question to the Black Queen}
 
-26...Qa5* {White can now push a4. 26...Qa6 is also possible}
+26...Qa5 {White can now push a4. 26...Qa6 is also possible}
 
+27.a4 {Denying the a4 quare, White wants to play Nb5 followed by Nxa7 wrecking Black King's defences}
+
+27...Ned6* {27...Nf5 is bad as 28.Bxf5 gxf5 29.Nb5 Nc6 30.Qa3 and White has great activity on the Queenside. Attacking the Rook on b4, Black wants to curtail White's 
+activity}
 
 
 [Event "AA/C18/SF/A"]
@@ -987,8 +1009,9 @@ The game is complicated as White does have chances on the Queenside.}
 
 22.Kh1 {White puts the ball in Black's court again. 22.Rab1 was perhaps a better alternative }
 
-22...Qf6* {Black too waits and keeps the Queen on a dark square}
+22...Qf6 {Black too waits and keeps the Queen on a dark square}
 
+23.Rab1* {}
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -1358,8 +1381,14 @@ Black's Knights and the Bishop are also passive. }
 
 25...Rd5 {Threatening not only ...Rg5+ but also cxd4 and attacking the Bishop on b5}
 
-26.Qb2* {Vacating the e2 square for the King to escape. If the Rook checks on g5 then Kf1 is the way to go.
+26.Qb2 {Vacating the e2 square for the King to escape. If the Rook checks on g5 then Kf1 is the way to go.
 Also the Bishop on b5 is protected now and both the threats of Black have been parried}
+
+26...Qc8!? {Very nice. Black prevents White from escaping with the King on to the Queenside. Threatening ...Qxh3 with disastrous consequences
+27.Kf1 is ruled out}
+
+27.Bf1* {Forced as White cannot afford the infiltration of the Black Queen. Now the King remains stuck on g1 and Black can continue 
+with the aggression}
 
 
 [Event "AA/C18/SF/A"]
@@ -1475,6 +1504,11 @@ passive ...Rh7 and it will take some effort to re-activate this Rook later in th
 
 21.Qg4 {Keeping the pressure on the g7 pawn and Black has a difficult defense ahead}
 
-21...Ba6* {Attacking the pawn on c4. This is a delicate position for Black}
+21...Ba6 {Attacking the pawn on c4. This is a delicate position for Black}
+
+22.Rg3 {Threatening mate on g7}
+
+22...Rh7* {An ugly move but necessary to stave off mate. 22...Qd7?! is bad as White crashes throught the centre. 
+23.cxd5 taking advantage of the pinned pawn on d5. 23...Rh7 24.dxc5 Qxd5 and Black is looking really passive}
 
 
