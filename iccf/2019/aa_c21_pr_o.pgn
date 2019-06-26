@@ -84,8 +84,17 @@ Rook on a1. White has to go for some trade-off}
 
 18...Na5 {Black wants to grab the c4 square and control the Queenside}
 
-19.Bg5* {Anticipating an attack on the Bishop on e3 after Black plays ...Nc4, White pins the Knight on f6 and cranks up the pressure on the Kingside}
+19.Bg5 {Anticipating an attack on the Bishop on e3 after Black plays ...Nc4, White pins the Knight on f6 and cranks up the pressure on the Kingside}
 
+19...h6 {Putting the question to the Bishop}
+
+20.Bh4 {Maintaing the pin}
+
+20...b5 {Preparing ...b4 and win the pinned Knight on c3}
+
+21.a3 {Preventing ...b4}
+
+21...Bb7* {The Bishop is back to b7 and Black prepares for ...a6}
 
 
 [Event "AA/C21/Pr/O"] 
@@ -246,8 +255,15 @@ f4 pawn. It also stops Black from playing ...h4 himself}
 32...Rxc8 33.Qh3 {The Queen comes out of the hood and attacks the Rook}
 33...Rcd8 {Doubling forces on the d-file, Black remains passive}
 
-34.Qg4* {Pinning the Bishop on g7. Qxf4 is a threat that Black needs to address or else the g3 pawn will also fall leading to a winning game for White}
+34.Qg4 {Pinning the Bishop on g7. Qxf4 is a threat that Black needs to address or else the g3 pawn will also fall leading to a winning game for White}
 
+34...Qh6 {Protecting the f4 pawn}
+
+35.h5 {White has plenty of waiting moves.35.Re4 is another way of piling up on the f4 pawn}
+
+35...Rf8 {Black's pieces are stuck defending the weak pawn infrastructure}
+
+36.Kf1* {Another waiting move!} 
 
 
 [Event "AA/C21/Pr/O"] 

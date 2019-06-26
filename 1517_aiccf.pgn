@@ -358,7 +358,10 @@ that happens in certain variations of the Nimzo after .Black plays ...Bxc3 and W
 
 20...Bc8 {The Bishop redirects itself to an efective diagonal}
 
-21.e4* {White gains space in the centre }
+21.e4 {White gains space in the centre }
+
+21...Qg5* {Defending the d5 pawn in a novel way. Black now most probably would like to play ...Bg4 and harass the Queen. After the Queens are 
+exchanged, Black would enjoy the Bishop pair and the extra pawn. 22.exd5?? Bg4 and the Queen is trapped.}
 
 
 [Event "1517"]
@@ -528,7 +531,11 @@ Queen}
 
 19.Rae1 {White goes ahead with his plan and activates the Rook}
 
-19...Qd7* {The Queen moves out to evade the threat}
+19...Qd7 {The Queen moves out to evade the threat}
+
+20.hxg6 {White grabs another pawn}
+
+20...a6* {Black prepares for the thematic Queenside pawn march with ...b5 on the cards}
 
 
 
@@ -682,7 +689,7 @@ King to have unrestrained access over the central squares.
 35.Ke2? is bad allowing Black to push 35...Ke7. To prevent Black from playing 36...Ke6 White must now play 36.Bg4 which again allows Black to push 
 36...c5 attacking the pawn on g2.Complicated stuff.}
 
-35...Bc8* {Attacking the h3 pawn}
+35...Bc8 {Attacking the h3 pawn}
 
 36.Bxc6 Bxh3+ {Black needs to activate the Bishop at any cost}
 
@@ -693,7 +700,14 @@ King to have unrestrained access over the central squares.
 38.Ke3 {The White King goes closer towards the centre}
 
 38...h5 {38...Ke7 looks better. Black pawns need the King as pushing them further only makes them weaker}
-39.f4* {Attacking the pawn and forcing Black to decide his pawn structure}
+39.f4 {Attacking the pawn and forcing Black to decide his pawn structure}
+39...h4 {The h-pawn marches forward but the h1 square is under WHite's control}
+40.fxg5 {Another pawn grabbed}
+40...h3 {The pawn is going to die a slow death}
+41.Kf3 {The White King is in the nick of time}
+41...Ke7 {The King is finally out and Black plans to play ...Ke6 next}
+42.Bd5* {The only good continuation for WHite as the e6 square needs to be blocked from Black's King. Any other move will allow Black to escape 
+with a draw}
 
 
 
@@ -876,7 +890,10 @@ idea to recapture the Knight with the Bishop}
 
 17.a4!? {White expands on the Queenside. Moves like a5 and c5 are on the cards depending on Black's response.}
 
-17...a5* {Halting White from pushing a5 himself}
+17...a5 {Halting White from pushing a5 himself}
+
+18.c5 {White expands}
+18...bxc5* {18...dxc5? is bad as White can then play }
 
 
 [Event "1517"]
@@ -948,7 +965,9 @@ the Knight on c6 is not too influential. Black preferes to keep the Knight on d7
 
 15...Rb8 {Preparing ...b5. 15...b5 is an active choice. 16.axb5 Rb8 17.Na3 Kh8 18.Bd2 Nc7 with a double attack on the pawn on b5}
 
-16.Na2*  {White defends the b2 pawn and is ready for a battle on the Queenside}
+16.Na2  {White defends the b2 pawn and is ready for a battle on the Queenside}
+
+16...Kh8* {Forcing the Bishop to move back. Black needs to unwind his bottled-up pieces}
 
 
 [Event "1517"]

@@ -175,7 +175,13 @@ contributing much.The Bishop on b8 is a tall pawn for now}
 
 39...Re4 {Attacking the Queen on g4}
 
-40.Qg7* {Turning the attention to the hapless pawns on h6 and h7, White wants Black to lose a tempo by saving the attacked Rook}
+40.Qg7 {Turning the attention to the hapless pawns on h6 and h7, White wants Black to lose a tempo by saving the attacked Rook}
+
+40...Rfe8 {The Rooks are connected}
+
+41.Qxh6 {The mop-up operation has begun}
+41...Kc8{The King runs away further from action}
+42.Qxh7* {White creates a passed pawn on h5}
 
 
 [Event "AA/C18/SF/A"]
@@ -578,7 +584,11 @@ the position of the Bishop on b7 and gaining space in the centre}
 
 38...Nd7 {The other Knight joins the party but there are no good squares for it at the moment}
 
-39.Ke3* {The King comes closer to the center}
+39.Ke3 {The King comes closer to the center}
+
+39...h5 {Hoping that White grabs the pawn and commits a self-goal}
+
+40.Ne4* {Looking to trade Knights }
 
 
 [Event "AA/C18/SF/A"]
@@ -696,7 +706,10 @@ Kingside with 20.f4 g4 keeping the g-file closed yet again. 21.Qc2 Be6 or 21...e
 
 22.Qb2 {Preventing Black from pushing ...b4 with tempo. The Queen now paves the way for White's Rooks to control the c-file}
 
-22...Rdc8* {Black wants to push ...c5 at some point}
+22...Rdc8 {Black wants to push ...c5 at some point}
+
+23.Rd2* {The modus operandi is simple: play Rc2 and then bring the other Rook over to c1. Attack the c7 pawn and keep Black occupied }
+
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -774,7 +787,9 @@ development is also iffy and quick measures were required to rectify this proble
 
 16...Bxe2 17.Nxe2 {17.Qxe2 is also okay}
 17...a4 {Black does not allow b4 with advantage for White}
-18.f3* {Kicking the Knight back}
+18.f3 {Kicking the Knight back}
+18...Nec5 {18...Nef6 scuttles the Knight's activity as it does not have good squares to jump in the future}
+19.e4* {The pawn on e3 was under attack. White pushes it forward and grabs the central square}
 
 
 [Event "AA/C18/SF/A"]
@@ -905,9 +920,10 @@ Bishop }
 
 27.a4 {Denying the a4 quare, White wants to play Nb5 followed by Nxa7 wrecking Black King's defences}
 
-27...Ned6* {27...Nf5 is bad as 28.Bxf5 gxf5 29.Nb5 Nc6 30.Qa3 and White has great activity on the Queenside. Attacking the Rook on b4, Black wants to curtail White's 
+27...Ned6 {27...Nf5 is bad as 28.Bxf5 gxf5 29.Nb5 Nc6 30.Qa3 and White has great activity on the Queenside. Attacking the Rook on b4, Black wants to curtail White's 
 activity}
 
+28.Rb5* {Attacking the Queen again and leaving the a4 pawn as a ascrifice. Will Black accept it?}
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -1011,7 +1027,9 @@ The game is complicated as White does have chances on the Queenside.}
 
 22...Qf6 {Black too waits and keeps the Queen on a dark square}
 
-23.Rab1* {}
+23.Rab1 {White wants to push c5 at some point. This is a preparatory move towards a Queenside expansion as Black has dithered so far from a 
+Kingside offensive}
+
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]

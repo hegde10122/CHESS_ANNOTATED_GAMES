@@ -61,7 +61,16 @@ pawn back with Qa4+ followed by Qxc4}
 
 13...Qe8 {The Queen overprotects the Knight on c6 as White threatens a3. 13...Qd5 14.Qxd5 Nxd5 would lead to a drawish game}
 
-14.Rfd1* {14.Rfc1 was also possible. This move adds more strength to the d4 pawn}
+14.Rfd1 {14.Rfc1 was also possible. This move adds more strength to the d4 pawn}
+
+14...Nxa2 {Black goes for tactics and wins a pawn}
+
+15.Rxa2 {Forced or the Knight goes back to b4}
+
+15...Na5 {Protecting the Bishop on a6 and attacking the defender of the Knight on b5. The Queen must go back and allow Black to recapture 
+the piece} 
+
+16.Qc2* {16.Qxc7 Qxb5 and White's Queen on c7 will be attacked again. The pawn on e2 is also hanging and Black is okay here}
 
 
 [Event "IND - USA 2019"] 

@@ -169,7 +169,14 @@ Black King. 39...Kh7 40.Qh4+ Qh6 41.Nh5 and with moves like Rf6 to follow, Black
 
 42...Rxe3 {Black grabs the central pawn}
 
-43.Rc1* {Attacking the Bishop}
+43.Rc1 {Attacking the Bishop}
+
+43...Be4 {The Bishop attacks the pawn on g6.}
+
+44.Nxe4 {The Bishop is removed and White simplifies}
+44.R3xe4 45.Rg1* {The action switches over to the Kingside}
+45...fxg6 {The nagging White pawn is out of the window}
+46.
 
 
 [Event "IND-JPN 2018"]
