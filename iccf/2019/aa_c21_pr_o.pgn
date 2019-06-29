@@ -94,8 +94,9 @@ Rook on a1. White has to go for some trade-off}
 
 21.a3 {Preventing ...b4}
 
-21...Bb7* {The Bishop is back to b7 and Black prepares for ...a6}
+21...Bb7 {The Bishop is back to b7 and Black prepares for ...a6}
 
+22.Qd3* {Unpinning the Knight on c3 and also attacking the pawn on b5}
 
 [Event "AA/C21/Pr/O"] 
 [Site "ICCF"] 
@@ -414,10 +415,10 @@ spoils the show for the Bishop on b7.Hence ...b6 is ruled out}
 
 19.Rab1 {White decides to play for a Queenside expansion with b4 on the cards}
 
-19...Qh5* {Black wants tp play ...Nf6 followed by ...Ng4 to exert pressure on the h2 pawn}
+19...Qh5 {Black wants tp play ...Nf6 followed by ...Ng4 to exert pressure on the h2 pawn}
 
-
-
+20.f4 {White can now play f3 and control the h2 square}
+20...Nf6* {21...Ng4 is an idea}
 
 [Event "AA/C21/Pr/O"] 
 [Site "ICCF"] 

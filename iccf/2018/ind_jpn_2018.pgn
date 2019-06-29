@@ -174,9 +174,13 @@ Black King. 39...Kh7 40.Qh4+ Qh6 41.Nh5 and with moves like Rf6 to follow, Black
 43...Be4 {The Bishop attacks the pawn on g6.}
 
 44.Nxe4 {The Bishop is removed and White simplifies}
-44.R3xe4 45.Rg1* {The action switches over to the Kingside}
+44.R3xe4 45.Rg1 {The action switches over to the Kingside}
 45...fxg6 {The nagging White pawn is out of the window}
-46.
+46.Nxg6+ {White will win the exchange here as the King is in a tight corner}
+46...Kh7 {Only move that evades the check on the g-file}
+47.Nf8+ Rxf8 {47...Kh8? 48.Rf6 threatening Rxh6#}
+48.Rxf8 Rxd4 {White gets an exchange and is into a winning endgame}
+49.Rg2* {White defends the second rank with the Rook}
 
 
 [Event "IND-JPN 2018"]

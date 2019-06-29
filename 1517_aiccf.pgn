@@ -443,7 +443,8 @@ both c4 and e4 squares are under Black's control}
 
 17...Nxd5  {17...exd5 blocks the Queen's influence from b7 while 17...Qxd5 allows 18.Be4 with a tempo on the Queen}
 
-18.a3* {Preparing b4 }
+18.a3 {Preparing b4 }
+18...N7f6* {The Knight's position is improved.Nf6-h5-f4 is a possible idea for Black}
 
 
 [Event "1517"]
@@ -535,7 +536,10 @@ Queen}
 
 20.hxg6 {White grabs another pawn}
 
-20...a6* {Black prepares for the thematic Queenside pawn march with ...b5 on the cards}
+20...a6 {Black prepares for the thematic Queenside pawn march with ...b5 on the cards}
+
+21.Nab1* {White prepares a3 in view of the move ...b5}
+
 
 
 
@@ -706,7 +710,7 @@ King to have unrestrained access over the central squares.
 40...h3 {The pawn is going to die a slow death}
 41.Kf3 {The White King is in the nick of time}
 41...Ke7 {The King is finally out and Black plans to play ...Ke6 next}
-42.Bd5* {The only good continuation for WHite as the e6 square needs to be blocked from Black's King. Any other move will allow Black to escape 
+42.Bd5* {The only good continuation for White as the e6 square needs to be blocked from Black's King. Any other move will allow Black to escape 
 with a draw}
 
 
@@ -893,7 +897,7 @@ idea to recapture the Knight with the Bishop}
 17...a5 {Halting White from pushing a5 himself}
 
 18.c5 {White expands}
-18...bxc5* {18...dxc5? is bad as White can then play }
+18...bxc5* {18...dxc5? is bad as White can then play 19.Qa2+}
 
 
 [Event "1517"]
@@ -1069,7 +1073,12 @@ This move keeps the pressure on the d4 pawn}
 
 23.Nb3 {The Knight goes back to ease the tension and White threatens 24.Rxc7}
 
-23...Rb5* {Pinning the Rook and halting White's Rxc7 idea}
+23...Qb5 {Pinning the Rook and halting White's Rxc7 idea}
+
+24.Qe4 {The Queen gets out of the pin}
+
+24...f5* {Attacking the Queen again}
+
 
 
 [Event "1517"]

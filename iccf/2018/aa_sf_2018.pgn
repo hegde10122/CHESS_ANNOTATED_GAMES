@@ -301,7 +301,18 @@ brief while}
 
 26.Bf6 {Pinning the Knight on g7.}
 
-26...Na5!?*  {26...Rg8?! is not better. 27.Bxg7 Rxg7 28.gxh5 gxh5 29.Qf6 Qf8 30.Ng5 and White turns the screws}
+26...Na5!?  {26...Rg8?! is not better. 27.Bxg7 Rxg7 28.gxh5 gxh5 29.Qf6 Qf8 30.Ng5 and White turns the screws}
+
+27.Bxg7 {White accepts the piece sacrifice}
+27...Nb3 {Forced}
+28.Qg5 {Protecting the Rook on c1}
+28...Nxc1 {Black will trades Knight and the Queen}
+29.Qxc1 Qxc1+ 30.Kxc1 Rh7 {Attacking the Bishop.}
+31.gxh5 {Forced. 31.Bf6?? hxg4 with a fork on the White Rook and Knight}
+31...Rxg7 {Black gets back the piece with a drawish position}
+32.h6 {Attacking the Rook again. 32.hxg6?? Rxg6 and Black is an exchange up. 32.}
+32...Rh7* {Black Rook goes away}
+
 
 
 [Event "AA/C18/SF/A"]
@@ -789,7 +800,9 @@ development is also iffy and quick measures were required to rectify this proble
 17...a4 {Black does not allow b4 with advantage for White}
 18.f3 {Kicking the Knight back}
 18...Nec5 {18...Nef6 scuttles the Knight's activity as it does not have good squares to jump in the future}
-19.e4* {The pawn on e3 was under attack. White pushes it forward and grabs the central square}
+19.e4 {The pawn on e3 was under attack. White pushes it forward and grabs the central square}
+19...Qg5 {Preventing 20.Nf4. Also Black intends to play ...Ne5 and then create a Kingside initiative}
+20.Bf2* {Attacking the Knight on c5. Also controlling the e3 square}
 
 
 [Event "AA/C18/SF/A"]
@@ -920,10 +933,13 @@ Bishop }
 
 27.a4 {Denying the a4 quare, White wants to play Nb5 followed by Nxa7 wrecking Black King's defences}
 
-27...Ned6 {27...Nf5 is bad as 28.Bxf5 gxf5 29.Nb5 Nc6 30.Qa3 and White has great activity on the Queenside. Attacking the Rook on b4, Black wants to curtail White's 
+27...Nec6 {27...Nf5 is bad as 28.Bxf5 gxf5 29.Nb5 Nc6 30.Qa3 and White has great activity on the Queenside. Attacking the Rook on b4, Black wants to curtail White's 
 activity}
 
-28.Rb5* {Attacking the Queen again and leaving the a4 pawn as a ascrifice. Will Black accept it?}
+28.Rb5 {Attacking the Queen again and leaving the a4 pawn as a sacrifice. Will Black accept it?}
+28...Qxa4* {Black accepts the pawn and opens up the a-file for White. It is time for White to justify the pawn sacrifice.}
+
+
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -1029,6 +1045,8 @@ The game is complicated as White does have chances on the Queenside.}
 
 23.Rab1 {White wants to push c5 at some point. This is a preparatory move towards a Queenside expansion as Black has dithered so far from a 
 Kingside offensive}
+
+23...Qe7* {The Queen is only dancing around!}
 
 
 [Event "AA/C18/SF/A"]
@@ -1140,7 +1158,9 @@ weaknesses on a6,a7 and c6}
 22...Nf6 {A strange Knight retreat. 22...Qd8 was better as Black's attack on the White King looks dead. Black's Knight in all probability wants to 
 come to the e4 square}
 
-23.Nc5* {Occupying the hole on c5 with more control over the e4 square. White is ready to trade on e4 if Black were to plant his Knight or Bishop there}
+23.Nc5 {Occupying the hole on c5 with more control over the e4 square. White is ready to trade on e4 if Black were to plant his Knight or Bishop there}
+
+23...a4* {Black wants to gid rid of the doubled pawns and if White plays 24.bxa4 then Black will target the doubled a-pawns later}
 
 
 [Event "AA/C18/SF/A"]

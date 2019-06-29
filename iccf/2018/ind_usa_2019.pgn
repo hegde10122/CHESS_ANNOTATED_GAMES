@@ -70,8 +70,11 @@ pawn back with Qa4+ followed by Qxc4}
 15...Na5 {Protecting the Bishop on a6 and attacking the defender of the Knight on b5. The Queen must go back and allow Black to recapture 
 the piece} 
 
-16.Qc2* {16.Qxc7 Qxb5 and White's Queen on c7 will be attacked again. The pawn on e2 is also hanging and Black is okay here}
+16.Qc2 {16.Qxc7 Qxb5 and White's Queen on c7 will be attacked again. The pawn on e2 is also hanging and Black is okay here}
 
+16...Bxb5 {Black gets back the Knight}
+
+17.Ng5* {Threatening Qxh7#}
 
 [Event "IND - USA 2019"] 
 [Site "ICCF"] 
@@ -152,7 +155,17 @@ at home}
 
 17.Rhe1 {White threatens to win the Bishop on e5}
 
-17...Bxc3* {Black simplifies further. 17...f6 also looks okay for Black. 18.Qxb7 O-O 19.g4 Nd6 20.Qd5 Qf7 and Black look fine}
+17...Bxc3 {Black simplifies further. 17...f6 also looks okay for Black. 18.Qxb7 O-O 19.g4 Nd6 20.Qd5 Qf7 and Black look fine}
 
+18.Qxb7 {White grabs a pawn back and attacks the Rook}
 
-
+18...Qc8 {Offering to trade Queens}
+19.Qb5+  {With tempo}
+19...Kf8 {The only move that does not lose material}
+20.bxc3 Qxc3 {The Queen grabs another pawn}
+21.g4 {Attacking the Knight now.21.Rd7 was another good move to infiltrate the seventh rank and keeping control over the d-file}
+21...Nd6 {Attacking the Queen}
+22.Qa4 {22.Qe5 exchanging Queens is not a good idea as White is a pawn down}
+22...Qa1+ {Forcing the King onto the d-file}
+23.Kd2 {The only move}
+23...Qf6* {The attacked Queen is back keeping an eye on the e7 pawn as well.}
