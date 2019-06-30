@@ -193,9 +193,11 @@ I feel, 11...Be7 was better as Black can castle and with moves like ...Ne4 follo
 
 17...g5 {Preparing ...h5 and ...g4, a Kingside flank attack as the centre and Queenside is closed}
 
-18.Be3* {Development of  another piece}
+18.Be3 {Development of  another piece}
 
+18...h5 {Black continues with his Kingside pawn storm}
 
+19.Nh2* {Preventing ...g4 with tempo}
 
 [Event "1517"]
 [Site "AICCF"]
@@ -360,8 +362,10 @@ that happens in certain variations of the Nimzo after .Black plays ...Bxc3 and W
 
 21.e4 {White gains space in the centre }
 
-21...Qg5* {Defending the d5 pawn in a novel way. Black now most probably would like to play ...Bg4 and harass the Queen. After the Queens are 
+21...Qg5 {Defending the d5 pawn in a novel way. Black now most probably would like to play ...Bg4 and harass the Queen. After the Queens are 
 exchanged, Black would enjoy the Bishop pair and the extra pawn. 22.exd5?? Bg4 and the Queen is trapped.}
+
+22.Be2* {Preventing ...Bg4}
 
 
 [Event "1517"]
@@ -444,7 +448,8 @@ both c4 and e4 squares are under Black's control}
 17...Nxd5  {17...exd5 blocks the Queen's influence from b7 while 17...Qxd5 allows 18.Be4 with a tempo on the Queen}
 
 18.a3 {Preparing b4 }
-18...N7f6* {The Knight's position is improved.Nf6-h5-f4 is a possible idea for Black}
+18...N7f6 {The Knight's position is improved.Nf6-h5-f4 is a possible idea for Black}
+19.Rfe1* {The Rook is developed to an active file}
 
 
 [Event "1517"]
@@ -540,15 +545,12 @@ Queen}
 
 21.Nab1* {White prepares a3 in view of the move ...b5}
 
-
-
-
 [Event "1517"]
 [Site "AICCF"]
 [White "Hegde, Ganesh"]
 [Black "B.Mohanakrishnan"]
 [EventDate "2019.03.19"]
-[Result "*"]
+[Result "1-0"]
 [ECO "D36"]
 [Annotator "Ganesh R Hegde"]
 
@@ -710,10 +712,8 @@ King to have unrestrained access over the central squares.
 40...h3 {The pawn is going to die a slow death}
 41.Kf3 {The White King is in the nick of time}
 41...Ke7 {The King is finally out and Black plans to play ...Ke6 next}
-42.Bd5* {The only good continuation for White as the e6 square needs to be blocked from Black's King. Any other move will allow Black to escape 
-with a draw}
-
-
+42.Bd5 {The only good continuation for White as the e6 square needs to be blocked from Black's King. Any other move will allow Black to escape 
+with a draw.Black resigned as the chances of saving the game are slim}1-0
 
 [Event "1517"]
 [Site "AICCF"]
@@ -973,7 +973,6 @@ the Knight on c6 is not too influential. Black preferes to keep the Knight on d7
 
 16...Kh8* {Forcing the Bishop to move back. Black needs to unwind his bottled-up pieces}
 
-
 [Event "1517"]
 [Site "AICCF"]
 [White "Rabi Roy"]
@@ -1077,9 +1076,7 @@ This move keeps the pressure on the d4 pawn}
 
 24.Qe4 {The Queen gets out of the pin}
 
-24...f5* {Attacking the Queen again}
-
-
+24...f5* {Attacking the White Queen again}
 
 [Event "1517"]
 [Site "AICCF"]
@@ -1289,7 +1286,13 @@ White could have played Qf4 followed by Nf5 offering to trade pieces and ease th
 
 25.Nh4 {White does not mind the fork after 25...g5 as the pawn can be pinned with 26.Qg3}
 
-25...Nd7* {Again the exchange of Knights is offered}
+25...Nd7 {Again the exchange of Knights is offered}
+
+26.Nhf3 {The Knight dance continues!}
+26...Nxe5 {Enough is enough says Black and trades!}
+27.Nxe5 {The other Knight comes to e5}
+27...Rb6* {After ...Bc8 later, the Rook on b6 will be ready to jump to f6 or h6 for some action}
+
 
 [Event "1517"]
 [Site "AICCF"]
@@ -1457,5 +1460,4 @@ Also Rxh7 will allow White to win a free pawn. The move played keeps everything 
 40.Ne3 {Attacking the Black Rook}
 40...Rd3 {The Rook keeps control of the d-file}
 41.Be7 {The Bishop might want to go to h4 and support the King and the Knight for the passage of pawns to victory}
-41...Rd4 {Keeping control over the h4 square with an offer of a draw to White. White accepts the pece offer}1/2-1/2
-
+41...Rd4 {Keeping control over the h4 square with an offer of a draw to White. White accepts the peace offer}1/2-1/2

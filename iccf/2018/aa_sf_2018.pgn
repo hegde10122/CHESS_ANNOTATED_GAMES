@@ -802,7 +802,8 @@ development is also iffy and quick measures were required to rectify this proble
 18...Nec5 {18...Nef6 scuttles the Knight's activity as it does not have good squares to jump in the future}
 19.e4 {The pawn on e3 was under attack. White pushes it forward and grabs the central square}
 19...Qg5 {Preventing 20.Nf4. Also Black intends to play ...Ne5 and then create a Kingside initiative}
-20.Bf2* {Attacking the Knight on c5. Also controlling the e3 square}
+20.Bf2 {Attacking the Knight on c5. Also controlling the e3 square}
+20...f6* {Strengthening the e5 square further and Black waits}
 
 
 [Event "AA/C18/SF/A"]
@@ -937,7 +938,14 @@ Bishop }
 activity}
 
 28.Rb5 {Attacking the Queen again and leaving the a4 pawn as a sacrifice. Will Black accept it?}
-28...Qxa4* {Black accepts the pawn and opens up the a-file for White. It is time for White to justify the pawn sacrifice.}
+28...Qxa4 {Black accepts the pawn and opens up the a-file for White. It is time for White to justify the pawn sacrifice.}
+
+29.Rb1 {With the idea of playing Ra1 and trapping the Black Queen}
+
+29...Nxd4* {Vacating the c6 square for the Queen. 29...Qa5? Black cannot be greedy with his pawn grabbing ideas. 30.Ra1 Qxc3? 31.Nb5 with a fork on the 
+Queen and the a7 pawn. Black will get busted here. 29...Qa6?! is also a defensive move that will allow White great counterplay.
+30.Ra1 Na5 31.Qa3 Ka8 32.Reb1 and White gets what he wanted when he decided to sacrifice a pawn on move 28}
+
 
 
 

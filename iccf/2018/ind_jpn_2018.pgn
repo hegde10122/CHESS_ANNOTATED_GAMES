@@ -180,7 +180,9 @@ Black King. 39...Kh7 40.Qh4+ Qh6 41.Nh5 and with moves like Rf6 to follow, Black
 46...Kh7 {Only move that evades the check on the g-file}
 47.Nf8+ Rxf8 {47...Kh8? 48.Rf6 threatening Rxh6#}
 48.Rxf8 Rxd4 {White gets an exchange and is into a winning endgame}
-49.Rg2* {White defends the second rank with the Rook}
+49.Rg2 {White defends the second rank with the Rook}
+49...Re4 {Black Rook is ready for more action}
+50.Rb8* {The Rook keeps pressure on the b5 pawn}
 
 
 [Event "IND-JPN 2018"]
