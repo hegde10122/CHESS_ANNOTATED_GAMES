@@ -74,7 +74,14 @@ the piece}
 
 16...Bxb5 {Black gets back the Knight}
 
-17.Ng5* {Threatening Qxh7#}
+17.Ng5 {Threatening Qxh7#}
+
+17...g6 {17...f5 looks more fragile as it creates a "hole" on e5}
+
+18.b4 {Attacking the Knight. 17.h4 is also worth consideration.}
+
+18...Nc6* {The Knight safely retreats}
+
 
 [Event "IND - USA 2019"] 
 [Site "ICCF"] 
@@ -168,4 +175,8 @@ at home}
 22.Qa4 {22.Qe5 exchanging Queens is not a good idea as White is a pawn down}
 22...Qa1+ {Forcing the King onto the d-file}
 23.Kd2 {The only move}
-23...Qf6* {The attacked Queen is back keeping an eye on the e7 pawn as well.}
+23...Qf6 {The attacked Queen is back keeping an eye on the e7 pawn as well.}
+24.Bd4 {Attacking the Queen and Rook - skewer}
+24...Qg5+ {Nothing to worry for Black}
+25.Be3 {Blocking again}
+25...Qf6* {Repeating the same position as on move 23}

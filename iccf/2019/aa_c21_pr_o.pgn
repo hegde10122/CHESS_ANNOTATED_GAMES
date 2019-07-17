@@ -96,7 +96,20 @@ Rook on a1. White has to go for some trade-off}
 
 21...Bb7 {The Bishop is back to b7 and Black prepares for ...a6}
 
-22.Qd3* {Unpinning the Knight on c3 and also attacking the pawn on b5}
+22.Qd3 {Unpinning the Knight on c3 and also attacking the pawn on b5}
+
+22...Nc4 {Blocking the Queen's attack and attacking the b2 pawn. ...Nxb2 will allow a fork at the moment}
+
+23.Rdc1 {The b2 pawn is left hanging as White can play Qxb5 anyway}
+
+23...a6 {Black supports the b5 pawn and is now ready for ...Nxb2}
+
+24.Rc2 {Protecting the pawn on b2}
+
+24...g5 {Attacking the Bishop and starting a flank attack}
+25.Bg3 h5 {Black expands on the Kingside }
+26.e4* {White plays in the centre.}
+
 
 [Event "AA/C21/Pr/O"] 
 [Site "ICCF"] 
@@ -264,7 +277,16 @@ f4 pawn. It also stops Black from playing ...h4 himself}
 
 35...Rf8 {Black's pieces are stuck defending the weak pawn infrastructure}
 
-36.Kf1* {Another waiting move!} 
+36.Kf1 {Another waiting move!} 
+
+36...Kh7 {The Bishop on g7 is now alive and kicking}
+
+37.Ng6 {Attacking the Rook on f8. 37.Nd3 is also good as the c5 pawn will be under fire. 37...b6 38.Re6 Rxe6 39.dxe6 and White has created a strong passed pawn with Black in a bind}
+
+37...Rxg6 {The best plan for Black. The Knight would have come to h4 and then threaten to attck the Queen with Nf5. 37...R8f6 38.Re6 also does nothing for Black}
+
+38.Qxg6+ {Exchanging Queens is the best way to enter into a winning endgame}
+38...Qxg6 39.hxg6 Kxg6 40.Re8* {Offering to trade Rooks now}
 
 
 [Event "AA/C21/Pr/O"] 
@@ -418,7 +440,17 @@ spoils the show for the Bishop on b7.Hence ...b6 is ruled out}
 19...Qh5 {Black wants tp play ...Nf6 followed by ...Ng4 to exert pressure on the h2 pawn}
 
 20.f4 {White can now play f3 and control the h2 square}
-20...Nf6* {21...Ng4 is an idea}
+20...Nf6 {21...Ng4 is an idea}
+21.fxe5 {White grabs a central pawn}
+21...Ng4 {Threatening mate on h2}
+22.Nf3 {Forced}
+22...Ne3 {Forking the Queen and Rook}
+23.Qd2 {The Queen is okay here}
+23...Nxf1 {Removing the defender of the Knight on f3}
+24.Rxf1 {Forced or else ...Qxf3}
+24...dxe5 25.Nxe5 {Another pawn is grabbed}
+25...Rae8* {Attacking the Knight}
+
 
 [Event "AA/C21/Pr/O"] 
 [Site "ICCF"] 
@@ -594,5 +626,7 @@ plan}
 13...h6 {14.Ng5 is prevented for the moment.
 13...Qb5 was also a good idea redirecting it to h5 for a possible Kingside expansion.}
 14.Rab1 {White brings out the Rook on a semi-open file}
-14...a5* {Taking away the b4 square}
+14...a5 {Taking away the b4 square}
+15.Bf1 {The Queen is attacked and has to move again}
+15...Qd5* {The only square where the Queen is safe}
 
