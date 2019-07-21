@@ -80,7 +80,10 @@ the piece}
 
 18.b4 {Attacking the Knight. 17.h4 is also worth consideration.}
 
-18...Nc6* {The Knight safely retreats}
+18...Nc6 {The Knight safely retreats}
+19.Ne4 {A cunning move that threatens fork on f6. This move also invites Black to push his pawn and protect the f6 square thereby creating more weaknesses
+around the Black King.Black is also dared to play 19...Nxb4 having a fork of his own}
+19...f6* {Black does weaken his pawn structure here}
 
 
 [Event "IND - USA 2019"] 
@@ -179,4 +182,12 @@ at home}
 24.Bd4 {Attacking the Queen and Rook - skewer}
 24...Qg5+ {Nothing to worry for Black}
 25.Be3 {Blocking again}
-25...Qf6* {Repeating the same position as on move 23}
+25...Qf6 {Repeating the same position as on move 23}
+26.Bh6+ {White's hope of utilising the dark squares have not dimmed}
+26...Kg8 27.Qf4 {Offering to exchange Queens. White missed an opportunity to crank up the pressure with 27.g5 Qf2+ forced as any other move without check would 
+allow White to double the Rooks on the d-file after Kc1,Rd3,Red1 etc. After 27...Qf2+ 28.Kc1 Nf5  with an intention of eliminating the monster Bishop
+29.Re4 with an intention of bringing the other Rook to e1 and increasing the pressure on the e7 pawn.29...Nxh6 30.gxh6 Qc5 and Black looks okay}
+27...Qxf4 {Accepting Queen exchange is the only sane option.
+27...Qh4? 28.Bg5 and the with fall of the e7 pawn the defence of the Black King will eventually collapse
+27...Ne8? 28.Qxf6 exf6 29.Re7! and the Black King and the Rook on h8 will be stuck on passive squares forever. The other White Rook will join the party on the d7 square and Black will be busted}
+28.Bxf4* 

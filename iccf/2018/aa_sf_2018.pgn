@@ -741,7 +741,12 @@ Kingside with 20.f4 g4 keeping the g-file closed yet again. 21.Qc2 Be6 or 21...e
 
 22...Rdc8 {Black wants to push ...c5 at some point}
 
-23.Rd2* {The modus operandi is simple: play Rc2 and then bring the other Rook over to c1. Attack the c7 pawn and keep Black occupied }
+23.Rd2 {The modus operandi is simple: play Rc2 and then bring the other Rook over to c1. Attack the c7 pawn and keep Black occupied }
+
+23...Be8 {Controlling the c6 square. ...Ra6 followed by ...Rc6 to trade Rooks is a possibility}
+24.Rc1 {As per plan}
+24...Qb7 {The Queen defends the pawn on c7}
+25.Rdc2* {White keeps up the pressure on the c-file}
 
 
 [Event "AA/C18/SF/A"]

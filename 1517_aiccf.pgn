@@ -124,7 +124,7 @@ in this positional variation of the QGD. 9...Nbd7 lending support was a playable
 31.h3 {Waiting move}
 31...Qxa2?? {The Queen is on a pawn hunt but gives up the support to the Knight on f6.Monumental blunder.}
 32.Rxg7+!!*  {The defender of the Knight is removed and the Black King is in a mating net}
-
+32...Kh8 {32...Kf8 33.Qxh6# 32...Kxg7 33.Qxf6+ }
 
 [Event "1517"]
 [Site "AICCF"]
@@ -1239,7 +1239,9 @@ hampering Black's Rooks as the King cannot go down the board easily}
 21...Rhc8 {Attacking the pawn on c2}
 
 22.Kd3 {King supports the pawn}
-22...Rc7* {Not allowing Rb7}
+22...Rc7 {Not allowing Rb7}
+23.Ra6 {Creates a blockade on the a7 pawn. White wants to double the Rooks on the a-file and eventually collect the pawn on a7}
+23...Rac8* {Attacking the pawn on c2 again with the Rook battery}
 
 
 [Event "1517"]

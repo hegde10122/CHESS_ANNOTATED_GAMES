@@ -286,7 +286,8 @@ f4 pawn. It also stops Black from playing ...h4 himself}
 37...Rxg6 {The best plan for Black. The Knight would have come to h4 and then threaten to attck the Queen with Nf5. 37...R8f6 38.Re6 also does nothing for Black}
 
 38.Qxg6+ {Exchanging Queens is the best way to enter into a winning endgame}
-38...Qxg6 39.hxg6 Kxg6 40.Re8* {Offering to trade Rooks now}
+38...Qxg6 39.hxg6 Kxg6 40.Re8 {Offering to trade Rooks now}
+40...Rf5* {Black declines the trade and rightly so}
 
 
 [Event "AA/C21/Pr/O"] 
