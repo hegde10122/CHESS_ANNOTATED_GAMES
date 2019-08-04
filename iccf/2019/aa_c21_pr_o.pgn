@@ -108,7 +108,11 @@ Rook on a1. White has to go for some trade-off}
 
 24...g5 {Attacking the Bishop and starting a flank attack}
 25.Bg3 h5 {Black expands on the Kingside }
-26.e4* {White plays in the centre.}
+26.e4 {White plays in the centre.}
+26...dxe4 27.Nxe4 Bxe4 28.Bxe4 Nxe4 29.Qxe4 hxg4 {Black trades heavily and reaches and equal position}
+30.hxg4 {30.Qxg4 f5! 31.Qe2 f4! and Black obtains great counterplay}
+30...Nd6 {The Queen is atta again}
+31.Qd3* {An equal game}
 
 
 [Event "AA/C21/Pr/O"] 
@@ -117,7 +121,7 @@ Rook on a1. White has to go for some trade-off}
 [Round "-"] 
 [White "Hegde, Ganesh"] 
 [Black "Hassall, Kim"] 
-[Result "*"] 
+[Result "1-0"] 
 [WhiteElo "2233"] 
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "India"]
@@ -287,7 +291,13 @@ f4 pawn. It also stops Black from playing ...h4 himself}
 
 38.Qxg6+ {Exchanging Queens is the best way to enter into a winning endgame}
 38...Qxg6 39.hxg6 Kxg6 40.Re8 {Offering to trade Rooks now}
-40...Rf5* {Black declines the trade and rightly so}
+40...Rf5 {Black declines the trade and rightly so}
+41.d6 {Passed pawns is pushed further}
+41...Rf7 {Preventing d7}
+42.R1e7 {Offering to trade Rooks}
+42...Bf6 {What else?}
+43.Rg8+ {Forcing exchange of all the pieces on board and Queening on d8 soon afterwards}
+43...Bg7 44.Rxf7 Kxf7 45.Rxg7+ Kxg7 46.d7 {White will bring a Queen on the next move and should win easily.Black resigned}1-0
 
 
 [Event "AA/C21/Pr/O"] 
@@ -629,5 +639,12 @@ plan}
 14.Rab1 {White brings out the Rook on a semi-open file}
 14...a5 {Taking away the b4 square}
 15.Bf1 {The Queen is attacked and has to move again}
-15...Qd5* {The only square where the Queen is safe}
+15...Qd5 {The only square where the Queen is safe}
+16.Nh4 {17.Bg2 is the idea}
+16...Qg5 {Black can run away with the Queen to e7 and remain a pawn up}
+17.f4 {Attacking the Queen again}
+17...Qe7 18.Bg2 {Preventing ...b6}
+18...a4 {Gaining more space on the Queenside}
+19.Re1 {Pushing e4 in the centre is a possible idea for White.19.e4 was much better}
+19...Re8* {Activating the King Rook}
 

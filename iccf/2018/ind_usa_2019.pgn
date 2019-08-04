@@ -83,7 +83,10 @@ the piece}
 18...Nc6 {The Knight safely retreats}
 19.Ne4 {A cunning move that threatens fork on f6. This move also invites Black to push his pawn and protect the f6 square thereby creating more weaknesses
 around the Black King.Black is also dared to play 19...Nxb4 having a fork of his own}
-19...f6* {Black does weaken his pawn structure here}
+19...f6 {Black does weaken his pawn structure here}
+20.Rb2 {20.Qc3 is also okay but why make the Queen a defensive piece?}
+20...Rd8 {Piling pressure on the d4 pawn}
+21.e3* {Protecting the d4 pawn}
 
 
 [Event "IND - USA 2019"] 

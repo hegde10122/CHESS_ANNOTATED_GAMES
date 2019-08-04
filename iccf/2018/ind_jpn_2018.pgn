@@ -184,7 +184,9 @@ Black King. 39...Kh7 40.Qh4+ Qh6 41.Nh5 and with moves like Rf6 to follow, Black
 49...Re4 {Black Rook is ready for more action}
 50.Rb8 {The Rook keeps pressure on the b5 pawn}
 50...Re5 {The Knight is ready to fly!}
-51.Rbg8* {Threatening mate on g7 with the other Rook on g2}
+51.Rbg8 {Threatening mate on g7 with the other Rook on g2}
+51.Re7 {Preventing mate}
+52.Rb8* {Rb6 is an idea}
 
 
 [Event "IND-JPN 2018"]

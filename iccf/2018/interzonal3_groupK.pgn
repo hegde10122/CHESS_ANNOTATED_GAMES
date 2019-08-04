@@ -520,7 +520,11 @@ protected twice and does not need another defender on a6}
 31...g6 {Another waiting move}
 32.Bg5 {Controlling e7 square and preventing ...Re7.The White Queen will probably come to f4}
 32...Qg7 {Preventing 33.Bf6}
-33.Bc2* {Another waiting move}
+33.Bc2 {Another waiting move}
+33...Ka8 {Vacating the b7 square for the Knight on a5 to make a come back into the game as White is simply playing a waiting game}
+34.Qf4 Nab7 {Improving the Knight's position and preparing ...a5} 
+35.Kf2 {Another waiting move.Also vacating he g1 square. Rg1,g4 are possible ideas}
+35...Ref8* {Preventing  White from pushing g4 as the White Queen and King are on the f-file}
 
 
 

@@ -4,7 +4,7 @@
 [Round "-"]
 [White "Hegde, Ganesh"]
 [Black "Mai, Wolfgang"]
-[Result "*"]
+[Result "1-0"]
 [WhiteElo "2251"]
 [BlackElo "1899"]
 [ECO "E45"]
@@ -192,7 +192,10 @@ contributing much.The Bishop on b8 is a tall pawn for now}
 46.Qg6 {Only square for the Queen}
 46...Rdxd8 {Controlling the h8 square}
 47.h7 {Passed pawn is meant to be pushed}
-47...Kb8* {Waiting move}
+47...Kb8 {Waiting move}
+48.Rxf6 Rh8 {Black is absolutely passive}
+49.Re3 {Looking to penetrate the seventh rank as Black is completely paralysed}
+49...a5 50.Rf7 {Black resigned}1-0
 
 
 [Event "AA/C18/SF/A"]
@@ -327,7 +330,9 @@ brief while}
 33...Rxh6 {The Rook has no option but to given up on the f7 pawn}
 34.Nxf7 {The Rook is attacked again as White has gone for a series of forced exchanges and brought the game closer to a draw}
 34...Rh7 {Attacking the Knight again}
-35.Ng5 Rxh2* {Another pawn grabbed}
+35.Ng5 Rxh2 {Another pawn grabbed}
+36.Nxe6 Rc8 37.Nf4 Bc6 38.Nxg6 Kd8
+39.Rf6 Kc7* {The King is safe on the Queenside}
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -621,7 +626,9 @@ the position of the Bishop on b7 and gaining space in the centre}
 42...Nb8 {The Knight needs to get back into the game.Idea is to play ..Nc6 or ...Na6 to attack the b4 pawn}
 43.Nc7 {Attacking the b5 pawn but more importantly taking away the a6 square from the Black Knight}
 43...Nc6 {Attacking the pawn on b4}
-44.Na6* {Protecting the pawn}
+44.Na6 {Protecting the pawn}
+44...Ne7 {Nothing great in sight}
+45.d5* {The passed pawn moves forward taking away the c6 square}
 
 
 [Event "AA/C18/SF/A"]
@@ -746,7 +753,8 @@ Kingside with 20.f4 g4 keeping the g-file closed yet again. 21.Qc2 Be6 or 21...e
 23...Be8 {Controlling the c6 square. ...Ra6 followed by ...Rc6 to trade Rooks is a possibility}
 24.Rc1 {As per plan}
 24...Qb7 {The Queen defends the pawn on c7}
-25.Rdc2* {White keeps up the pressure on the c-file}
+25.Rdc2 {White keeps up the pressure on the c-file}
+25...Bf8* {Improving the Bishop's position}
 
 
 [Event "AA/C18/SF/A"]
@@ -830,7 +838,9 @@ development is also iffy and quick measures were required to rectify this proble
 19.e4 {The pawn on e3 was under attack. White pushes it forward and grabs the central square}
 19...Qg5 {Preventing 20.Nf4. Also Black intends to play ...Ne5 and then create a Kingside initiative}
 20.Bf2 {Attacking the Knight on c5. Also controlling the e3 square}
-20...f6* {Strengthening the e5 square further and Black waits}
+20...f6 {Strengthening the e5 square further and Black waits}
+21.Nc3 {Nd5 is an idea}
+21...Qh5* {...Qf7 is the idea to bring back the Queen}
 
 
 [Event "AA/C18/SF/A"]
@@ -976,7 +986,11 @@ Queen and the a7 pawn. Black will get busted here. 29...Qa6?! is also a defensiv
 30...Nc6 {Protecting the pawn on a7 in advance}
 31.Ra1 Qb4 {The Queen can run away to f8 or e7}
 32.c3 {Attacking the Queen again}
-32...Qf8* {The Queen is safe here}
+32...Qf8 {The Queen is safe here}
+33.Qb2 {The Rook on f1 will also be brought onto the b-file in all likelihood}
+33...Bc8 {Clearing the b7 square for the Rook to come into play}
+34.Qb5 {Attacking the Knight}
+34...Qe8* {The Knight is protected}
 
 
 [Event "AA/C18/SF/A"]
@@ -1088,7 +1102,9 @@ Kingside offensive}
 
 24.Rfc1 {The Rook adds weight to the Queenside and White wants to push c5 at some point}
 24...Kh8 {The only move that does not weaken the pawn structure. 24...h5 or ...h6 is too commital}
-25.e4* {White pushes in the centre}
+25.e4 {White pushes in the centre}
+25...f4 {Keeping the structure closed is the way to go}
+26.Qd1* {Bc2 is on the cards as White wants to get going at the stuck Knight on a4}
 
 
 [Event "AA/C18/SF/A"]
@@ -1204,7 +1220,14 @@ come to the e4 square}
 
 23...a4 {Black wants to gid rid of the doubled pawns and if White plays 24.bxa4 then Black will target the doubled a-pawns later}
 
-24.Nf4* {Attacking the Rook}
+24.Nf4 {Attacking the Rook}
+24...Rh6 25.b4 {White keeps the structure closed}
+25...Ne4 26.Nxe4 Bxe4 {A pair of Knights are exchanged as Black has too many dark square weaknesses}
+27.Rc1 {Rc5 is an idea with an intention of occupying the outpost}
+27...Qd8{Bringing back the Queen into the game as the attack on the g-file has been stopped}
+28.Rc5 {Occupying the outpost}
+28...g5  {Attacking the Knight again}
+29.Nd3* {29.Ne2 is okay for White as well}
 
 
 [Event "AA/C18/SF/A"]
@@ -1213,7 +1236,7 @@ come to the e4 square}
 [Round "-"]
 [White "Hegde, Ganesh"]
 [Black "Glatthaar, Michael"]
-[Result "*"]
+[Result "1/2-1/2"]
 [WhiteElo "2251"]
 [BlackElo "2448"]
 [WhiteTeam "India"]
@@ -1346,7 +1369,8 @@ to win the exchange}
 
 29...h5 {Black keeps the pawn structure closed}
 
-30.Nb5*  {31.Rd6 is an idea now as White waits }
+30.Nb5  {31.Rd6 is an idea now as White waits }
+30...Na6 31.Nd6 Nac5 32.Nb5 {Draw offered and Black agrees}1/2-1/2
 
 
 [Event "AA/C18/SF/A"]
@@ -1474,7 +1498,10 @@ with the aggression}
 27...Rg5+ {Forcing the King on the h-file}
 28.Kh2 {28.Kh1 loses instantly.}
 28...Ng4+!! {Very nice}
-29.Kh1* {The King is cornered}
+29.Kh1 {The King is cornered}
+29...Qf5! {Bringing the Queen into the game}
+30.Rc2 {Protecting the f2 pawn}
+30...Rd6!!* {Black brings the last piece into the attack and ...Rg6 is on the cards}
 
 
 [Event "AA/C18/SF/A"]
@@ -1603,5 +1630,6 @@ passive ...Rh7 and it will take some effort to re-activate this Rook later in th
 23...exd5 {23...Bxe2 24.Qxe2 Qxd4? allows White to bust open Black. 25.Bc3! Qxd5 26.Rd1 and Black will go downhill after 26...Qb7 27.Rgd3 Nf7 28.Qxe6 winning}
 
 24.Re3!! {Outsanding. The e-file is cut-off from the King and the e8 square is unavailable for the Queen now.}
-24...Nf7* {Forced as Black's Rook on a8 needs to be brought out for defence}
-
+24...Nf7 {Forced as Black's Rook on a8 needs to be brought out for defence}
+25.Rc1 Rf8 {The last piece into the act}
+26.Qe6*
