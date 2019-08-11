@@ -4,7 +4,7 @@
 [Round "-"] 
 [White "Hegde, Ganesh"] 
 [Black "Jee, Kai Yen"] 
-[Result "*"] 
+[Result "1/2-1/2"] 
 [WhiteElo "2233"] 
 [BlackElo "2215"] 
 [Annotator "Ganesh R Hegde"]
@@ -112,7 +112,8 @@ Rook on a1. White has to go for some trade-off}
 26...dxe4 27.Nxe4 Bxe4 28.Bxe4 Nxe4 29.Qxe4 hxg4 {Black trades heavily and reaches and equal position}
 30.hxg4 {30.Qxg4 f5! 31.Qe2 f4! and Black obtains great counterplay}
 30...Nd6 {The Queen is atta again}
-31.Qd3* {An equal game}
+31.Qd3 {An equal game}
+31...Rxc2 {Draw agreed by White}1/2-1/2
 
 
 [Event "AA/C21/Pr/O"] 
@@ -646,5 +647,6 @@ plan}
 17...Qe7 18.Bg2 {Preventing ...b6}
 18...a4 {Gaining more space on the Queenside}
 19.Re1 {Pushing e4 in the centre is a possible idea for White.19.e4 was much better}
-19...Re8* {Activating the King Rook}
+19...Re8 {Activating the King Rook}
+20.e4* {Grabbing the central square. White has some compensation for the lost pawn}
 

@@ -990,7 +990,8 @@ Queen and the a7 pawn. Black will get busted here. 29...Qa6?! is also a defensiv
 33.Qb2 {The Rook on f1 will also be brought onto the b-file in all likelihood}
 33...Bc8 {Clearing the b7 square for the Rook to come into play}
 34.Qb5 {Attacking the Knight}
-34...Qe8* {The Knight is protected}
+34...Qe8 {The Knight is protected}
+35.Bc1* {The Bishop improves itself}
 
 
 [Event "AA/C18/SF/A"]
@@ -1104,7 +1105,13 @@ Kingside offensive}
 24...Kh8 {The only move that does not weaken the pawn structure. 24...h5 or ...h6 is too commital}
 25.e4 {White pushes in the centre}
 25...f4 {Keeping the structure closed is the way to go}
-26.Qd1* {Bc2 is on the cards as White wants to get going at the stuck Knight on a4}
+26.Qd1 {Bc2 is on the cards as White wants to get going at the stuck Knight on a4.Also 27.c5 is a powerful idea}
+26...axb4 {Preventing White from pushing c5}
+27.axb4 {27.Bxb4? is bad as as the Bishop does not have to do anything great on the Queenside and Black can quickly launch a 
+Kingside offensive with 27...g5 followed by ...h5. White will have to bring back the dark-squared Bishop back on e1 and waste a tempo}
+27...g5 {Black begins a Kingside expansion with ...h5,...g4 and ...Rg8 on the cards}
+28.Bf1* {The Bishop comes back to shore up the Kingside defence}
+
 
 
 [Event "AA/C18/SF/A"]
@@ -1227,7 +1234,9 @@ come to the e4 square}
 27...Qd8{Bringing back the Queen into the game as the attack on the g-file has been stopped}
 28.Rc5 {Occupying the outpost}
 28...g5  {Attacking the Knight again}
-29.Nd3* {29.Ne2 is okay for White as well}
+29.Nd3 {29.Ne2 is okay for White as well}
+29...Qb8+ 30.Kh1 Qc8 {Threatening Qxh3# on the next move}
+31.Kh2* {White King goes back again. In hindsight, 28.Rc5 looks bad now as 28.Rf1 could have vacated the g1 square for the White King}
 
 
 [Event "AA/C18/SF/A"]
@@ -1501,7 +1510,8 @@ with the aggression}
 29.Kh1 {The King is cornered}
 29...Qf5! {Bringing the Queen into the game}
 30.Rc2 {Protecting the f2 pawn}
-30...Rd6!!* {Black brings the last piece into the attack and ...Rg6 is on the cards}
+30...Rd6!! {Black brings the last piece into the attack and ...Rg6 is on the cards}
+31.Bg2* {What else?}
 
 
 [Event "AA/C18/SF/A"]

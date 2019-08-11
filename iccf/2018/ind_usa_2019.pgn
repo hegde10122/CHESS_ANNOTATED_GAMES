@@ -86,7 +86,9 @@ around the Black King.Black is also dared to play 19...Nxb4 having a fork of his
 19...f6 {Black does weaken his pawn structure here}
 20.Rb2 {20.Qc3 is also okay but why make the Queen a defensive piece?}
 20...Rd8 {Piling pressure on the d4 pawn}
-21.e3* {Protecting the d4 pawn}
+21.e3 {Protecting the d4 pawn}
+21...Ne7 {Baiting the c7 pawn. 22.Qxc7 Nd5 and Black is okay}
+22.Ra1* {Attacking the a7 pawn}
 
 
 [Event "IND - USA 2019"] 
@@ -193,4 +195,5 @@ allow White to double the Rooks on the d-file after Kc1,Rd3,Red1 etc. After 27..
 27...Qxf4 {Accepting Queen exchange is the only sane option.
 27...Qh4? 28.Bg5 and the with fall of the e7 pawn the defence of the Black King will eventually collapse
 27...Ne8? 28.Qxf6 exf6 29.Re7! and the Black King and the Rook on h8 will be stuck on passive squares forever. The other White Rook will join the party on the d7 square and Black will be busted}
-28.Bxf4* 
+28.Bxf4 Kf8* {Protecting the e7 pawn} 
+
