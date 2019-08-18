@@ -131,7 +131,6 @@ in this positional variation of the QGD. 9...Nbd7 lending support was a playable
 35.Qxf6+ Kg8
 36.Qg7# {1-0}
 
-
 [Event "1517"]
 [Site "AICCF"]
 [White "Hegde, Ganesh"]
@@ -218,10 +217,15 @@ I feel, 11...Be7 was better as Black can castle and with moves like ...Ne4 follo
 20...Bg6 {The Bishop goes back}
 21.Kg2 {A waiting move}
 21...Qe7 {The pawn on c6 is up for grabs}
-22.Bd1* {Keeping an eye on the g4 square. The Bishop will move to c2 at an oppotune time.
+22.Bd1 {Keeping an eye on the g4 square. The Bishop will move to c2 at an oppotune time.
 22.Nxc6 Rxc6 23.Bxb5 Rc8 24.Bxe8 Nxe8 25.hxg5 Bxh5. With so much trade happening it is unclear how White 
 can convert his minimal material advantage to victory}
-
+22...hxg4 {Black wants to open up the Kingside for an onslaught against the White King}
+23.hxg4 {23.Bxg4 and 23.Nxg4 are both bad as 23...Nxg4 24.hxg4 f5 will expose White's fragile pawn structure
+23.Bxg5 Qd7 with an eye on the g4 square. 24.Bh4 with an idea of shoring up the defence allows 24...gxh3+ 25.Qxh3 Bf5 
+and again the White King remains naked.The move played keeps the pawn structure closed and now Black needs to find ways to untangle
+and keep up with his planned aggression.}
+23...Nd7* {The g5 pawn under attack}
 
 [Event "1517"]
 [Site "AICCF"]
@@ -306,7 +310,9 @@ allows 13.Nxb5! taking advantage of the pinned c6 pawn}
 21...Qh3 {Infiltrating the Kingside and threatening ...Qxf3}
 22.Qe2 {Protects the f3 pawn} 
 22...Qe6 {The Queen goes back as there is nothing else to do on the Kingside}
-23.b3* {Overprotecting the Knight on c4}
+23.b3 {Overprotecting the Knight on c4}
+23...a6 {Preventing Nb5}
+24.Kh1* {Safe King. }
 
 
 [Event "1517"]
@@ -404,7 +410,6 @@ exchanged, Black would enjoy the Bishop pair and the extra pawn. 22.exd5?? Bg4 a
 22.Be2 {Preventing ...Bg4}
 22...dxe4 {Draw agreed}1/2-1/2
 
-
 [Event "1517"]
 [Site "AICCF"]
 [White "Hegde, Ganesh"]
@@ -497,7 +502,17 @@ both c4 and e4 squares are under Black's control}
 23.dxe5 {Converting the isolated d-pawn into an e-pawn. 23.Rxe5 Nc3 24.Qxb7 Rxb7 and it is equal}
 23...Nd7 24.Rad1 {Activating the Rook}
 24...Nc3 {Attacking the Rook}
-25.Qxb7 Rxb7 26.Rd2* {Can White achieve anything from this position with the Bishop pair against the Knight pair?}
+25.Qxb7 Rxb7 26.Rd2 {Can White achieve anything from this position with the Bishop pair against the Knight pair?}
+26...Rc5 {Attacking the e5 pawn}
+27.Bxc3 {27.Rc1 was also a good option. 27...Rbc7 28.Bf1 Ne2+ 29.Bxe2 Rxc1+ 30.Bxc1 Rxc1+ 31.Bf1 and it is equal}
+27...Rxc3 
+28.Be4 {The only good move that prevents Black from grabbing the a3 pawn.28. f4 protecting the e5 pawn is a bad option.
+28...g6 with an idea to eliminate back-rank weaknesses. 29.Bc6 allows Black to play 29...Nc5 and now the King can remain safe on g7.
+White will have a hard time defending the pawn on a3}
+28...Rbc7 {Forced as the Knight on d7 was also under attack from the Rook on d2}
+29.Bc6 {Attacking the Knight again and cutting off the Rook on c7}
+29...Nf8 {Forced as 30.Rd8# was the threat}
+30.h4* {The back-rank weakness is eliminated and it is time to activate both the Rooks}
 
 
 [Event "1517"]
@@ -867,7 +882,12 @@ Variation 1: 23...Kf8 24.Ba4 Rd8 25.Rb7 d4 26.cxd4 exd4 27.Qh6+ allows White a g
 27...Rg7 28.Bc7 and White's pieces are all playing a cohesive part in chiselling Black's defense.
 Variation 2: 23...Kd8 24.f4 e4 keeping the e-file closed. 25.f5 allows White to establish a wedge pawn controlling the e6 square
 Variation 3: 23...Kd8 24.Qc5!? f5 25.Nf3 attacking the e5 pawn twice. 25...f4 26.Bh4 allows White to have a great advantage}
-24.Qd2* {The Queen goes back wih f4 on the cards}
+24.Qd2 {The Queen goes back wih f4 on the cards}
+24...Rd8 {Activating the Rook as the attack on the Queen allowed Black an extra tempo}
+25.f4 {White wants to break the pawn chain}
+25...e4* {25...exf4 looks suicidal as then 26.Qxf4 creates a backward pawn on f6. The Black King's wafer-thin pawn cover will prove to be 
+counterproductive in the long run.25...dxc3 26.Qxc3 opens up the d-file but then Black will have to push ...e4 as White's threat of fxe5 is decisive}
+
 
 
 [Event "1517"]
@@ -1165,7 +1185,14 @@ This move keeps the pressure on the d4 pawn}
 30.h4 {Baiting the pawn for the Black Bishop on e7.30...Bxh4? 31.Rc4 winning the Bishop}
 30...Qb5 {Offering to trade Queens and also making it possible to go for ...Bxh4 on the next move}
 31.Qc2 {Exchanging Queens on the b5 square is not a good idea for White as Black will then have a dominating pawn mass on the Queenside}
-31...Bxh4* {Grabbing the pawn on h4}
+31...Bxh4 {Grabbing the pawn on h4}
+32.a4 {Good move as White wants to push a5 and break Black's pawn chain}
+32...Qb4* {It is important to keep hold on the c4 square. 
+White cannot play 33.Rc4?? Qxe1 wins for Black.Any other square for the Queen allows 
+White to play a5.Now 33.a5? will be a mistake on account of 33...c4! and after the Knight moves. 34...b5 allows Black to gobble up 
+the pawn on a5 later}
+
+
 
 [Event "1517"]
 [Site "AICCF"]
@@ -1284,7 +1311,9 @@ hampering Black's Rooks as the King cannot go down the board easily}
 26.Rba2 {The pawn on a7 is pressurised further}
 26...R3c4 {Keeping the pressure on the d4 pawn}
 27.g3 {White waits}
-27...Nc8* {The Knight will go to b6 as the action is on the Queenside}
+27...Nc8 {The Knight will go to b6 as the action is on the Queenside}
+28.R6a3 {Covering the c3 square}
+28...R4c6* {Black maintains his pressure on c2 square}
 
 
 [Event "1517"]

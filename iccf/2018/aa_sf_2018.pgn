@@ -754,7 +754,9 @@ Kingside with 20.f4 g4 keeping the g-file closed yet again. 21.Qc2 Be6 or 21...e
 24.Rc1 {As per plan}
 24...Qb7 {The Queen defends the pawn on c7}
 25.Rdc2 {White keeps up the pressure on the c-file}
-25...Bf8* {Improving the Bishop's position}
+25...Bf8 {Improving the Bishop's position and preparing ...c5}
+26.Bg5* {The idea is to go to f6 and then push h5 to open up lines against the Black King}
+
 
 
 [Event "AA/C18/SF/A"]
@@ -991,7 +993,10 @@ Queen and the a7 pawn. Black will get busted here. 29...Qa6?! is also a defensiv
 33...Bc8 {Clearing the b7 square for the Rook to come into play}
 34.Qb5 {Attacking the Knight}
 34...Qe8 {The Knight is protected}
-35.Bc1* {The Bishop improves itself}
+35.Bc1 {The Bishop improves itself}
+35...Ne7 {Offering to trade Queens as Black is a pawn up
+36.Qb1 {White's attack would go bust if Queens go off the board}
+36...Nf5* {Blocking the e6 pawn's attacker on h3. This frees Black's Bishop on c8}
 
 
 [Event "AA/C18/SF/A"]
