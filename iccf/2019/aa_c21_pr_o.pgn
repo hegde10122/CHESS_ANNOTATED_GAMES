@@ -648,5 +648,12 @@ plan}
 18...a4 {Gaining more space on the Queenside}
 19.Re1 {Pushing e4 in the centre is a possible idea for White.19.e4 was much better}
 19...Re8 {Activating the King Rook}
-20.e4* {Grabbing the central square. White has some compensation for the lost pawn}
+20.e4 {Grabbing the central square. White has some compensation for the lost pawn}
+20...e5 {Challenging White's massive pawn structure}
+21.Nf5 {Attacking the Queen, the Knight occupies more space in the White camp}
+21...Qd8* {Back to the home square. 21...Qf6 is okay but then Rf1 followed by fxe5 will force the Queen another tempo
+21...Qd7 is also similar.22.dxe5 dxe5 23.Rbd1 again forces a Queen move for Black.21...Qf8 is too safe a square for the Queen as she gets out of action.
+Black will have to waste at least two tempi to get her back into action.}
+
+
 

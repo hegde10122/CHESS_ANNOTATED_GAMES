@@ -88,7 +88,9 @@ around the Black King.Black is also dared to play 19...Nxb4 having a fork of his
 20...Rd8 {Piling pressure on the d4 pawn}
 21.e3 {Protecting the d4 pawn}
 21...Ne7 {Baiting the c7 pawn. 22.Qxc7 Nd5 and Black is okay}
-22.Ra1* {Attacking the a7 pawn}
+22.Ra1 {Attacking the a7 pawn}
+22...a6 {Protecting the pawn}
+23.Nc3* {Attacking the Bishop,the defender of the a6 pawn}
 
 
 [Event "IND - USA 2019"] 

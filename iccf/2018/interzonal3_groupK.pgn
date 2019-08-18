@@ -529,7 +529,8 @@ protected twice and does not need another defender on a6}
 37...Nd8 {The Knight wants to go to e6}
 38.Qf2 {Waiting move}
 38...Ne6 {As planned the Knight is in the central file now}
-39.Bc1* {The Bishop will now in all probability go to the a3 square}
+39.Bc1 {The Bishop will now in all probability go to the a3 square}
+39...Ka7* {Another waiting move!}
 
 
 [Event "3rd IZIT Pr K"]
