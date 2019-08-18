@@ -769,7 +769,7 @@ Kingside with 20.f4 g4 keeping the g-file closed yet again. 21.Qc2 Be6 or 21...e
 [WhiteElo "2303"]
 [BlackElo "2251"]
 [ECO "E33"]
-[Annotator "Ganesh R Hegde"]
+[Annotator "Ganesh R Hegde"]gr
 [WhiteTeam "Australia"]
 [BlackTeam "India"]
 
@@ -993,7 +993,13 @@ Queen and the a7 pawn. Black will get busted here. 29...Qa6?! is also a defensiv
 33...Bc8 {Clearing the b7 square for the Rook to come into play}
 34.Qb5 {Attacking the Knight}
 34...Qe8 {The Knight is protected}
-35.Bc1* {The Bishop improves itself}
+35.Bc1 {The Bishop improves itself}
+35...Ne7 {Offering to trade Queens}
+36.Qb1 {Not a good idea to exchange Queens after you have sacrificed a pawn in search of an attack}
+36...Nf5 {The Knight acts as an excellent piece to cut off the incessant vigil of the White bishop on the e6 pawn and frees his own Bishop on c8 to do meaningful 
+work}
+37.Ba3 {The Bishop is ready to go to d6}
+37...Rb7 {Shoring up the b-file}
 
 
 [Event "AA/C18/SF/A"]
