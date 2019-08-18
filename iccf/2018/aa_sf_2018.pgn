@@ -999,7 +999,7 @@ Queen and the a7 pawn. Black will get busted here. 29...Qa6?! is also a defensiv
 36...Nf5 {The Knight acts as an excellent piece to cut off the incessant vigil of the White bishop on the e6 pawn and frees his own Bishop on c8 to do meaningful 
 work}
 37.Ba3 {The Bishop is ready to go to d6}
-37...Rb7 {Shoring up the b-file}
+37...Rb7* {Shoring up the b-file}
 
 
 [Event "AA/C18/SF/A"]
