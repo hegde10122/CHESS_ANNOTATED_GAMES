@@ -225,7 +225,7 @@ can convert his minimal material advantage to victory}
 23.Bxg5 Qd7 with an eye on the g4 square. 24.Bh4 with an idea of shoring up the defence allows 24...gxh3+ 25.Qxh3 Bf5 
 and again the White King remains naked.The move played keeps the pawn structure closed and now Black needs to find ways to untangle
 and keep up with his planned aggression.}
-23...Nd7* {The g5 pawn under attack}
+23...Nd7* {The g5 pawn was under attack}
 
 [Event "1517"]
 [Site "AICCF"]
@@ -512,7 +512,9 @@ White will have a hard time defending the pawn on a3}
 28...Rbc7 {Forced as the Knight on d7 was also under attack from the Rook on d2}
 29.Bc6 {Attacking the Knight again and cutting off the Rook on c7}
 29...Nf8 {Forced as 30.Rd8# was the threat}
-30.h4* {The back-rank weakness is eliminated and it is time to activate both the Rooks}
+30.h4 {The back-rank weakness is eliminated and it is time to activate both the Rooks}
+30...h5 {Black too does the same. 30...g6 followed by ...Kg7 was perhaps a better option as the Knight on f8 needs to be re-activated}
+31.Rd8* {White puts pressure on the Knight and Black will have to play a couple of moves to free the Knight}
 
 
 [Event "1517"]
@@ -1430,7 +1432,8 @@ White could have played Qf4 followed by Nf5 offering to trade pieces and ease th
 30.Ng6 Kf7 {Attacking the Knight again}
 31.Nf4 f5 {Black prepares ..g5 as the White Bishop's vigil is blocked}
 32.g3 {Vacating the g2 square for the Knight as Black threatens ...g5}
-32...g5* {The Knight retreats as planned}
+32...g5 {The Knight will now retreat as planned}
+33.Ng2 f4* {...Bxh3 is an idea}
 
 
 [Event "1517"]

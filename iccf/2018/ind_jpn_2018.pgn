@@ -191,8 +191,11 @@ Black King. 39...Kh7 40.Qh4+ Qh6 41.Nh5 and with moves like Rf6 to follow, Black
 53.Rb6 Rd5 {Protecting the Knight as well}
 54.Re2 {Re6 followed by Rxh6 is an idea after Black moves the twice-attacked Knight}
 54...Nf5 {The Knight is free now to roam around!}
-55.Rc2* {The idea is to play Rc7+ followed by Rb8# as the Black King has no escape}
-
+55.Rc2 {The idea is to play Rc7+ followed by Rb8# as the Black King has no escape}
+55...Rd7 {Preventing Rc7+} 
+56.Rc5 {Applying pressure on the Knight and then capture the pawn on b5} 
+56...Ng7 {The Rook on d7 is now free to check the White King}
+57.Rbxb5* {Grabbing another pawn}
 
 
 [Event "IND-JPN 2018"]
