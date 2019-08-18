@@ -26,7 +26,7 @@ e4 and c4 squares}
 The Knight on c3 is pinned and has no control over the e4 and d5 squares. Here Black develops a piece and is looking to castle on the next move. In most cases, the Bishop
 on b4 will be exchanged for the Knight after ...Bxc3. Black hopes to strike at the centre later owing to his much more active development.}
 
-4.e3 {The Rubinstein variation named after Akiba Rubinstein a well-known Polish Grandmaster. Rubinstein encyclopedic knowledge of chess endgames is legendary.
+4.e3 {The Rubinstein variation named after Akiba Rubinstein, a well-known Polish Grandmaster. Rubinstein's encyclopedic knowledge of chess endgames is legendary.
 Here White neglects the threat of ...Bxc3+ and proceeds to activate the Bishop on f1. White wants to
 develop soon and later on carry on a positional struggle in the centre. The downside of this move is that the
 Bishop on c1 gets locked-in and White will have to do extra to activate it.}
@@ -195,7 +195,7 @@ contributing much.The Bishop on b8 is a tall pawn for now}
 47...Kb8 {Waiting move}
 48.Rxf6 Rh8 {Black is absolutely passive}
 49.Re3 {Looking to penetrate the seventh rank as Black is completely paralysed}
-49...a5 50.Rf7 {Black resigned}1-0
+49...a5 50.Rf7 {Black resigned as both the Rooks will infiltrate the seventh rank and grab even more pawns}1-0
 
 
 [Event "AA/C18/SF/A"]
@@ -332,7 +332,9 @@ brief while}
 34...Rh7 {Attacking the Knight again}
 35.Ng5 Rxh2 {Another pawn grabbed}
 36.Nxe6 Rc8 37.Nf4 Bc6 38.Nxg6 Kd8
-39.Rf6 Kc7* {The King is safe on the Queenside}
+39.Rf6 Kc7 {The King is safe on the Queenside}
+40.Bg4 Rd8* {The Rook on c8 was under attack}
+
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -628,7 +630,9 @@ the position of the Bishop on b7 and gaining space in the centre}
 43...Nc6 {Attacking the pawn on b4}
 44.Na6 {Protecting the pawn}
 44...Ne7 {Nothing great in sight}
-45.d5* {The passed pawn moves forward taking away the c6 square}
+45.d5 {The passed pawn moves forward taking away the c6 square}
+45...Nc8 {...Nd6 is an idea}
+46.Nc7* {Attacking the pawn on b5}
 
 
 [Event "AA/C18/SF/A"]
@@ -769,7 +773,7 @@ Kingside with 20.f4 g4 keeping the g-file closed yet again. 21.Qc2 Be6 or 21...e
 [WhiteElo "2303"]
 [BlackElo "2251"]
 [ECO "E33"]
-[Annotator "Ganesh R Hegde"]gr
+[Annotator "Ganesh R Hegde"]
 [WhiteTeam "Australia"]
 [BlackTeam "India"]
 
@@ -999,7 +1003,7 @@ Queen and the a7 pawn. Black will get busted here. 29...Qa6?! is also a defensiv
 36...Nf5 {The Knight acts as an excellent piece to cut off the incessant vigil of the White bishop on the e6 pawn and frees his own Bishop on c8 to do meaningful 
 work}
 37.Ba3 {The Bishop is ready to go to d6}
-37...Rb7* {Shoring up the b-file}
+37...Rb7* {Shoring up the b-file and Black is ready to push ...a5}
 
 
 [Event "AA/C18/SF/A"]
@@ -1118,7 +1122,8 @@ Kingside offensive}
 27.axb4 {27.Bxb4? is bad as as the Bishop does not have to do anything great on the Queenside and Black can quickly launch a 
 Kingside offensive with 27...g5 followed by ...h5. White will have to bring back the dark-squared Bishop back on e1 and waste a tempo}
 27...g5 {Black begins a Kingside expansion with ...h5,...g4 and ...Rg8 on the cards}
-28.Bf1* {The Bishop comes back to shore up the Kingside defence}
+28.Bf1 {The Bishop comes back to shore up the Kingside defence}
+28...h5* {...g4 is on the cards next}
 
 
 
@@ -1519,7 +1524,9 @@ with the aggression}
 29...Qf5! {Bringing the Queen into the game}
 30.Rc2 {Protecting the f2 pawn}
 30...Rd6!! {Black brings the last piece into the attack and ...Rg6 is on the cards}
-31.Bg2* {What else?}
+31.Bg2 {What else?}
+31...Ne5 {Who cares about the Knight when mate is on the horizon? ...Rg6 is next on the cards}
+32.dxe5* {White will lose soon as ...Rg6 cannot be averted}
 
 
 [Event "AA/C18/SF/A"]
@@ -1650,4 +1657,6 @@ passive ...Rh7 and it will take some effort to re-activate this Rook later in th
 24.Re3!! {Outsanding. The e-file is cut-off from the King and the e8 square is unavailable for the Queen now.}
 24...Nf7 {Forced as Black's Rook on a8 needs to be brought out for defence}
 25.Rc1 Rf8 {The last piece into the act}
-26.Qe6*
+26.Qe6 {A fine move to cut off the Black Knight}
+26...cxd4* {Attacking the Rook after grabbing the central pawn}
+
