@@ -225,7 +225,13 @@ can convert his minimal material advantage to victory}
 23.Bxg5 Qd7 with an eye on the g4 square. 24.Bh4 with an idea of shoring up the defence allows 24...gxh3+ 25.Qxh3 Bf5 
 and again the White King remains naked.The move played keeps the pawn structure closed and now Black needs to find ways to untangle
 and keep up with his planned aggression.}
-23...Nd7* {The g5 pawn was under attack}
+23...Nd7 {The g5 pawn was under attack}
+24.Bc2* {Connecting the Rooks in preparation of pushing f3.
+24.f3? is a bad move on account of 24...Qf8 and White cannot grab the Knight on e4 as 25.fxe4 Ra8! allows Black to win the Rook on a1 after 
+White moves the Queen. AAlso 24...Qf8 25.Nc2 Nexc5 26.dxc5 Ra8 27.Qb4 Ne5 with the idea of ...Nd3 forking the Queen and Rook
+28.Rxa8 Rxa8 29.Re2 Nd3 29.Qd2 Nxb2 - a complicated computer line with no advantage to White}
+
+
 
 [Event "1517"]
 [Site "AICCF"]
