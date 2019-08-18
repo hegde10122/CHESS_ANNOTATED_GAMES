@@ -754,9 +754,15 @@ Kingside with 20.f4 g4 keeping the g-file closed yet again. 21.Qc2 Be6 or 21...e
 24.Rc1 {As per plan}
 24...Qb7 {The Queen defends the pawn on c7}
 25.Rdc2 {White keeps up the pressure on the c-file}
+<<<<<<< HEAD
 25...Bf8 {Improving the Bishop's position and preparing ...c5}
 26.Bg5* {The idea is to go to f6 and then push h5 to open up lines against the Black King}
 
+=======
+25...Bf8 {Improving the Bishop's position}
+26.Bg5 {The idea is to play Bf6}
+26...Qa7* {Black wants to push ...c5 as the stage is set for a Queenside assault}
+>>>>>>> origin/master
 
 
 [Event "AA/C18/SF/A"]
@@ -769,7 +775,7 @@ Kingside with 20.f4 g4 keeping the g-file closed yet again. 21.Qc2 Be6 or 21...e
 [WhiteElo "2303"]
 [BlackElo "2251"]
 [ECO "E33"]
-[Annotator "Ganesh R Hegde"]
+[Annotator "Ganesh R Hegde"]gr
 [WhiteTeam "Australia"]
 [BlackTeam "India"]
 
@@ -994,9 +1000,18 @@ Queen and the a7 pawn. Black will get busted here. 29...Qa6?! is also a defensiv
 34.Qb5 {Attacking the Knight}
 34...Qe8 {The Knight is protected}
 35.Bc1 {The Bishop improves itself}
+<<<<<<< HEAD
 35...Ne7 {Offering to trade Queens as Black is a pawn up
 36.Qb1 {White's attack would go bust if Queens go off the board}
 36...Nf5* {Blocking the e6 pawn's attacker on h3. This frees Black's Bishop on c8}
+=======
+35...Ne7 {Offering to trade Queens}
+36.Qb1 {Not a good idea to exchange Queens after you have sacrificed a pawn in search of an attack}
+36...Nf5 {The Knight acts as an excellent piece to cut off the incessant vigil of the White bishop on the e6 pawn and frees his own Bishop on c8 to do meaningful 
+work}
+37.Ba3 {The Bishop is ready to go to d6}
+37...Rb7* {Shoring up the b-file}
+>>>>>>> origin/master
 
 
 [Event "AA/C18/SF/A"]
