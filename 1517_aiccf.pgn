@@ -1327,7 +1327,8 @@ hampering Black's Rooks as the King cannot go down the board easily}
 27.g3 {White waits}
 27...Nc8 {The Knight will go to b6 as the action is on the Queenside}
 28.R6a3 {Covering the c3 square}
-28...R4c6* {Black maintains his pressure on c2 square}
+28...R4c6 {Black maintains his pressure on c2 square}
+29.Kd1 Rc4* {Both sides remain quiet as forcing a positive outcome seems a mirage}
 
 
 [Event "1517"]
@@ -1445,7 +1446,8 @@ White could have played Qf4 followed by Nf5 offering to trade pieces and ease th
 31.Nf4 f5 {Black prepares ..g5 as the White Bishop's vigil is blocked}
 32.g3 {Vacating the g2 square for the Knight as Black threatens ...g5}
 32...g5 {The Knight will now retreat as planned}
-33.Ng2 f4* {...Bxh3 is an idea}
+33.Ng2 f4 {...Bxh3 is an idea}
+34.gxf4* {Grabbing the pawn leaving the Kingside vulnerable}
 
 
 [Event "1517"]
