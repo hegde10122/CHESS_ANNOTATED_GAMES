@@ -1074,7 +1074,11 @@ work hard to get back into the game}
 18...Kh7 {Safe King}
 
 19.Qh3 {19.Re1 seems better}
-19...Nc7* {Improving the cramped position}
+19...Nc7 {Improving the cramped position}
+20.Ne3 {Playing on the Kingside with Ng4 on the cards}
+20...b5 {Playing on the Queenside}
+21.axb5 Rxb5* {It is important to capture with the Rook as the Knight on c7 is needed for defence of the King}
+
 
 [Event "1517"]
 [Site "AICCF"]
@@ -1195,11 +1199,13 @@ This move keeps the pressure on the d4 pawn}
 31.Qc2 {Exchanging Queens on the b5 square is not a good idea for White as Black will then have a dominating pawn mass on the Queenside}
 31...Bxh4 {Grabbing the pawn on h4}
 32.a4 {Good move as White wants to push a5 and break Black's pawn chain}
-32...Qb4* {It is important to keep hold on the c4 square. 
+32...Qb4 {It is important to keep hold on the c4 square. 
 White cannot play 33.Rc4?? Qxe1 wins for Black.Any other square for the Queen allows 
 White to play a5.Now 33.a5? will be a mistake on account of 33...c4! and after the Knight moves. 34...b5 allows Black to gobble up 
 the pawn on a5 later}
-
+33.Ree3 {The move looks sub-optimal because it leaves the first rank vulnerable. 33.Rc1 looks better as Black can play ...Bg5 at some point forcing the
+Rook to move again. 33.Ra1 with ideas like a5 also looks okay for White}
+33...Qg4* {Threatening ...Qd1+ forcing a Queen trade. The Black Queen had to move as White threatened Rc4 winning the Bishop on h4}
 
 
 [Event "1517"]
