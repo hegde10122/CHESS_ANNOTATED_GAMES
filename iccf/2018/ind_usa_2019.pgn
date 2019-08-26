@@ -91,6 +91,11 @@ around the Black King.Black is also dared to play 19...Nxb4 having a fork of his
 22.Ra1 {Attacking the a7 pawn}
 22...a6 {Protecting the pawn}
 23.Nc3* {Attacking the Bishop,the defender of the a6 pawn}
+23...c6 {23...Bc4 is also okay}
+24.Nxb5 axb5 {White creates doubled pawns and hope to win back a pawn later}
+25.Ra7 {Seventh rank infiltration}
+25...Rd7 {Hoping to trade Rooks}
+26.Rba2* {White wants to keep a Rook on the seventh rank if Black decides to liquidate}
 
 
 [Event "IND - USA 2019"] 
@@ -197,5 +202,8 @@ allow White to double the Rooks on the d-file after Kc1,Rd3,Red1 etc. After 27..
 27...Qxf4 {Accepting Queen exchange is the only sane option.
 27...Qh4? 28.Bg5 and the with fall of the e7 pawn the defence of the Black King will eventually collapse
 27...Ne8? 28.Qxf6 exf6 29.Re7! and the Black King and the Rook on h8 will be stuck on passive squares forever. The other White Rook will join the party on the d7 square and Black will be busted}
-28.Bxf4 Kf8* {Protecting the e7 pawn} 
+28.Bxf4 Kf8 {Protecting the e7 pawn} 
+29.Bh6+ Ke8 {29...Kg8?? 30.Rxe7 and Black's Rook on h8 will become a dead piece forever!}
+30.Bg5 {The e7 pawn is under siege}
+30...Nc8* {30...e6 creates a hole on f6.31.Bf6 Rg8 and White has managed to create a weak pawn on f7 that can be exploited later}
 
