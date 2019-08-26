@@ -195,7 +195,12 @@ Black King. 39...Kh7 40.Qh4+ Qh6 41.Nh5 and with moves like Rf6 to follow, Black
 55...Rd7 {Preventing Rc7+} 
 56.Rc5 {Applying pressure on the Knight and then capture the pawn on b5} 
 56...Ng7 {The Rook on d7 is now free to check the White King}
-57.Rbxb5* {Grabbing another pawn}
+57.Rbxb5 {Grabbing another pawn}
+57...Rd2+ {Harassing the White King with checks}
+58.Kg3 Rd3+ {Another check!}
+59.Kg2 Rd2+ 60.Kf1 
+60...Rd6 {...Rf6+ is possible now}
+61.Rc4* {Preventing 61...Ne6 and also preparing to play Rxa4}
 
 
 [Event "IND-JPN 2018"]
