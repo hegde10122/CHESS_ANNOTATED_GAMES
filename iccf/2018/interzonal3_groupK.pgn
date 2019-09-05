@@ -530,7 +530,13 @@ protected twice and does not need another defender on a6}
 38.Qf2 {Waiting move}
 38...Ne6 {As planned the Knight is in the central file now}
 39.Bc1 {The Bishop will now in all probability go to the a3 square}
-39...Ka7* {Another waiting move!}
+39...Ka7 {Another waiting move!}
+40.Nc6+ {An inferior move that sparks a series of exchanges. Better was 40.f4 followed by Ba3 with pressure on the dark diagonal.}
+40...Bxc6 {Black is happy to simplify and go into a superior endgame}
+41.Rxe6 Re8 {Attacking the White Rook head on and offering another trade of Rooks this time}
+42.Bg5 {The Bishop's position is improved}
+42...Rxe6 43.Rxe6 Re8* {Offering to trade further}
+
 
 
 [Event "3rd IZIT Pr K"]
