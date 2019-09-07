@@ -1,12 +1,12 @@
-[Event "AA/C21/Pr/O"] 
-[Site "ICCF"] 
-[Date "2019.03.31"] 
-[Round "-"] 
-[White "Hegde, Ganesh"] 
-[Black "Jee, Kai Yen"] 
-[Result "1/2-1/2"] 
-[WhiteElo "2233"] 
-[BlackElo "2215"] 
+[Event "AA/C21/Pr/O"]
+[Site "ICCF"]
+[Date "2019.03.31"]
+[Round "-"]
+[White "Hegde, Ganesh"]
+[Black "Jee, Kai Yen"]
+[Result "1/2-1/2"]
+[WhiteElo "2233"]
+[BlackElo "2215"]
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "India"]
 [BlackTeam "Singapore"]
@@ -18,7 +18,7 @@
 
 2.c4 {The flank pawn cothe d5 square as White gains more space on the Queenside. The most popular theoretical move along with 2.Nf3}
 
-2...e6 {Black releases the diagonal for the dark-squared Bishop and also controls the d5 square} 
+2...e6 {Black releases the diagonal for the dark-squared Bishop and also controls the d5 square}
 
 3.g3 {White commits a fianchetto on g2 for the Bishop on f1 later and this is the Catalan}
 
@@ -26,10 +26,10 @@
 
 4.Nf3 {Normal development where White will play Bg2 and O-O later}
 
-4...Bb4+ {Borrowing an idea from the Bogo-Indian territory with this check. I believe Black has got the move order wrong. 
+4...Bb4+ {Borrowing an idea from the Bogo-Indian territory with this check. I believe Black has got the move order wrong.
 After playing ...d5 earlier this check does not sound good because by playing ...d5 Black has lost some flexibility. }
 
-5.Bd2 {5.Nbd2 is not great as 5...dxc4 gives Black a pleasant game. The Knight on d2 makes development harder for White and hence this Bishop move is the best 
+5.Bd2 {5.Nbd2 is not great as 5...dxc4 gives Black a pleasant game. The Knight on d2 makes development harder for White and hence this Bishop move is the best
 continuation}
 
 5...Be7 { By performing this two-step Bishop dance Black has created a misplaced Bishop on d2 for White. }
@@ -43,7 +43,7 @@ continuation}
 7...c6 {Another good move as Black does not want any hiccups on the g2-b7 diagonal.
 7...dxc4 hardly looks good as Black has played two moves with his Bishop already. }
 
-8.Qc2 {White remains flexible as the pawn on c4 is now guarded.} 
+8.Qc2 {White remains flexible as the pawn on c4 is now guarded.}
 
 8...Nbd7 {Black plays another solid move}
 
@@ -116,14 +116,14 @@ Rook on a1. White has to go for some trade-off}
 31...Rxc2 {Draw agreed by White}1/2-1/2
 
 
-[Event "AA/C21/Pr/O"] 
-[Site "ICCF"] 
-[Date "2019.03.31"] 
-[Round "-"] 
-[White "Hegde, Ganesh"] 
-[Black "Hassall, Kim"] 
-[Result "1-0"] 
-[WhiteElo "2233"] 
+[Event "AA/C21/Pr/O"]
+[Site "ICCF"]
+[Date "2019.03.31"]
+[Round "-"]
+[White "Hegde, Ganesh"]
+[Black "Hassall, Kim"]
+[Result "1-0"]
+[WhiteElo "2233"]
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "India"]
 [BlackTeam "Australia"]
@@ -135,12 +135,12 @@ Rook on a1. White has to go for some trade-off}
 
 2.c4 {White want to go for the King's Indian setup instead}
 
-2...Bg7 {Black allows White to create a massive pawn centre. But White needs to be careful as this pawn mass may come under attack later. A healthy balance of pawn moves along with 
+2...Bg7 {Black allows White to create a massive pawn centre. But White needs to be careful as this pawn mass may come under attack later. A healthy balance of pawn moves along with
 piece development is required in any opening}
 
 3.e4 {White goes for the gauntlet and sets up a big centre}
 
-3...c5 {Attacking the centre with a flank pawn. Now White is forced to make a decision of persisting with the same formation by playing Nf3 or alter it with 
+3...c5 {Attacking the centre with a flank pawn. Now White is forced to make a decision of persisting with the same formation by playing Nf3 or alter it with
 pushing d5. White can also play the dubious looking dxc5 where his centre and then suffer its consequences}
 
 4.d5 {White creates a light-squared complex by playing the fourth consecutive pawn move!}
@@ -167,18 +167,18 @@ In this closed setup White wants to have more pieces on the board and increase B
 9.O-O {White too completes his development. 9.a3 is also possible where White denies the b4 square for the Knight on a6 but I feel that it is overtly positional}
 
 9...Nc7 {Nice move as the Knight goes back to control the b5 square.
-Moves like ...Bd7,...Rb8,...a6,...Qe8 are on the cards for a possible expansion on the Queenside. This plan is slow. Black could have opted for 
+Moves like ...Bd7,...Rb8,...a6,...Qe8 are on the cards for a possible expansion on the Queenside. This plan is slow. Black could have opted for
 9...Ne8 with ideas like ...f5 aiding a Kingside expansion.
 9...Nb4?! looks bad after 10.Bb1 Ne8 11.a3 and the Knight is kicked back again}
 
-10.a3 {10.Bg5 and pinning the Knight is also a good option. But then 10...Qe8 with more control over the b5 square not only unpins the Knight on f6 but also aids Black's idea 
+10.a3 {10.Bg5 and pinning the Knight is also a good option. But then 10...Qe8 with more control over the b5 square not only unpins the Knight on f6 but also aids Black's idea
 of a Queenside expansion. The move played announces White's intentions of being the first player to eye a Queenside expansion with moves like Rb1 and b4 up next}
 
 10...Nh5!? {Interesting move. Black goes for a Kingside expansion. The pawn push ...f5 is prepared and ...Nf4 is too on the cards.}
 
 11.Rb1 {White prepares a Queenside expansion with b2-b4 next}
 
-11...Nf4 {Looks premature to me. It is important for Black to balance his Kingside expansion with moves that prevents White from carrying out his Queenside 
+11...Nf4 {Looks premature to me. It is important for Black to balance his Kingside expansion with moves that prevents White from carrying out his Queenside
 expansion. 11...a5 was an apt choice that stops White from pushing b4}
 
 12.Bxf4 {The pesky Knight is removed. 13.Bc2 retreating the Bishop also is a good choice but then this again allows Black to push ...a5 and make life difficult for White.
@@ -190,8 +190,8 @@ expansion. 11...a5 was an apt choice that stops White from pushing b4}
 
 13...g5 {Interesting move. Black supports his pawn on f4 and decides to create a wedge on the f4 square}
 
-14.Rfe1 {White can no longer push b4 with advantage.Earlier when the centre was closed with the White pawns on c4-d5-e4 and the Black pawns on c5-d6-e5, the Bishop on g7 was 
-placid. But now after the change in the pawn structure, the Bishop on g7 is alive and controls the c3 square. 14.b4? would lead into 
+14.Rfe1 {White can no longer push b4 with advantage.Earlier when the centre was closed with the White pawns on c4-d5-e4 and the Black pawns on c5-d6-e5, the Bishop on g7 was
+placid. But now after the change in the pawn structure, the Bishop on g7 is alive and controls the c3 square. 14.b4? would lead into
 14...cxb4 15.axb4 h5 and Black look to play ...g4 as well with activity on the Kingside. The move played comes with the idea of pushing e5 and after ...dxe5 White has a protected passed pawn on d5}
 
 14...Ne8?! {Black improves the position of the Knight and it is clear that he wants it to be on f6. But is it the right time to improve the piece activity?
@@ -202,7 +202,7 @@ By removing the pawn on d6, White gives himself a great chance of creating a str
 
 15...dxe5 {Almost forced. 15...Bxe5 looks amateurish as the only active piece for Black would go back to the box}
 
-16.Nxe5 {16.b4! was possible for White now giving up a pawn in the quest for Queenside expansion. The Black pawn on e5 would have cut off the diagonal for the 
+16.Nxe5 {16.b4! was possible for White now giving up a pawn in the quest for Queenside expansion. The Black pawn on e5 would have cut off the diagonal for the
 Bishop on g7 making b4 possible. Remember, this was the original idea which got busted due to Black's eccentricities.}
 
 16...a5 {At last, Black prevents b4!}
@@ -223,7 +223,7 @@ Bishop on g7 making b4 possible. Remember, this was the original idea which got 
 
 20...h5 {Black does not commit ...f5 and waits for White to respond with his Queen}
 
-21.a4 {No commitment from White either as White sees that Qc2 or Qd3 is futile as Black has the potent response 21...Bf5! 
+21.a4 {No commitment from White either as White sees that Qc2 or Qd3 is futile as Black has the potent response 21...Bf5!
 This subtle pawn push also fixes Black's pawn on the a5 square and the White Queen eyes it from d2.}
 
 21...f5 {Another pawn advance, this time the h7 square is cut-off from White's control}
@@ -236,7 +236,7 @@ This subtle pawn push also fixes Black's pawn on the a5 square and the White Que
 
 23...Rd6 {The Rook is the new blockader of the passed pawn on d5.Another move worth considering was to play 23...Rh6 with moves like ...g4 and ...h4 on the cards}
 
-24.h4 {White now turns his focus on the Kingside as the Queenside expansion has attained it's objective. The move played attacks the defender of the 
+24.h4 {White now turns his focus on the Kingside as the Queenside expansion has attained it's objective. The move played attacks the defender of the
 f4 pawn. It also stops Black from playing ...h4 himself}
 
 24...g4? {Black makes a mistake. Better was 24...Bh6 25.hxg5 Bxg5 and Black can carry on fighting}
@@ -282,7 +282,7 @@ f4 pawn. It also stops Black from playing ...h4 himself}
 
 35...Rf8 {Black's pieces are stuck defending the weak pawn infrastructure}
 
-36.Kf1 {Another waiting move!} 
+36.Kf1 {Another waiting move!}
 
 36...Kh7 {The Bishop on g7 is now alive and kicking}
 
@@ -301,14 +301,14 @@ f4 pawn. It also stops Black from playing ...h4 himself}
 43...Bg7 44.Rxf7 Kxf7 45.Rxg7+ Kxg7 46.d7 {White will bring a Queen on the next move and should win easily.Black resigned}1-0
 
 
-[Event "AA/C21/Pr/O"] 
-[Site "ICCF"] 
-[Date "2019.03.31"] 
-[Round "-"] 
-[White "Hegde, Ganesh"] 
-[Black "Azaim, Mohamed Said"] 
-[Result "1-0"] 
-[WhiteElo "2233"] 
+[Event "AA/C21/Pr/O"]
+[Site "ICCF"]
+[Date "2019.03.31"]
+[Round "-"]
+[White "Hegde, Ganesh"]
+[Black "Azaim, Mohamed Said"]
+[Result "1-0"]
+[WhiteElo "2233"]
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "India"]
 [BlackTeam "Algeria"]
@@ -354,7 +354,7 @@ Black's Queenside expansion is hindered because of this Knight on c6}
 10.Bxf6 {Eliminating the defender of the h7 and the d5 pawns. }
 
 10...Bxf6 {Forced or else 10...gxf6?? not only damages Black's pawn structure but also gives White a winning edge. 11.Qh5! threatening mate on h7
-11...f5  to block the Bishop's vigilance from b1. 12. g4 distracting the pawn again! 12...f6 13.gxf5 opening up the g-file for the Rook to come into play 
+11...f5  to block the Bishop's vigilance from b1. 12. g4 distracting the pawn again! 12...f6 13.gxf5 opening up the g-file for the Rook to come into play
 and White can carry out a mating attack against the Black King}
 
 11.Qh5 {Threatening mate on h7 and also a double attack on the d5 pawn}
@@ -363,15 +363,15 @@ and White can carry out a mating attack against the Black King}
 
 12.Qxh7# {Checkmate!}1-0
 
-[Event "AA/C21/Pr/O"] 
-[Site "ICCF"] 
-[Date "2019.03.31"] 
-[Round "-"] 
-[White "Sukmaji, Uus Rusiman"] 
-[Black "Hegde, Ganesh"] 
-[Result "*"] 
-[WhiteElo "2096"] 
-[BlackElo "2233"] 
+[Event "AA/C21/Pr/O"]
+[Site "ICCF"]
+[Date "2019.03.31"]
+[Round "-"]
+[White "Sukmaji, Uus Rusiman"]
+[Black "Hegde, Ganesh"]
+[Result "*"]
+[WhiteElo "2096"]
+[BlackElo "2233"]
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "Indonesia"]
 [BlackTeam "India"]
@@ -405,7 +405,7 @@ and White can carry out a mating attack against the Black King}
 
 7...Bxd2+ {Trading the Bishops and removing the dark-squared movers from the board}
 
-8.Nfxd2!? {An interesting choice. 8.Nbxd2 looked better as another piece would also have been developed but White wants the Bishop on the active diagonal while the other Knight will 
+8.Nfxd2!? {An interesting choice. 8.Nbxd2 looked better as another piece would also have been developed but White wants the Bishop on the active diagonal while the other Knight will
 go to the c3 square}
 
 8...e5 {Asking White to commit his central d4 pawn to d5 or exchange with dxe5}
@@ -416,7 +416,7 @@ go to the c3 square}
 
 10.Nc3 {White develops another Knight}
 
-10...d6 {Black solidifies the pawn structure and opens up the diagonal for the Bishop Black's fianchetto idea on b7 is a non-starter as White's pawn on d5 
+10...d6 {Black solidifies the pawn structure and opens up the diagonal for the Bishop Black's fianchetto idea on b7 is a non-starter as White's pawn on d5
 spoils the show for the Bishop on b7.Hence ...b6 is ruled out}
 
 11.a3 {White prepares b4.Another slow move. 11.O-O looks more natural}
@@ -461,18 +461,23 @@ spoils the show for the Bishop on b7.Hence ...b6 is ruled out}
 23...Nxf1 {Removing the defender of the Knight on f3}
 24.Rxf1 {Forced or else ...Qxf3}
 24...dxe5 25.Nxe5 {Another pawn is grabbed}
-25...Rae8* {Attacking the Knight}
+25...Rae8 {Attacking the Knight}
+26.Nd3 Qg6 {The Queen can now go to b6}
+27.Rf2 {A waiting move}
+27...Qb6 {Pinning the Rook and attacking the b3 pawn}
+28.Ne2* {White does not mind losing the b3 pawn}
 
 
-[Event "AA/C21/Pr/O"] 
-[Site "ICCF"] 
-[Date "2019.03.31"] 
-[Round "-"] 
-[White "Joshua Hunt"] 
-[Black "Hegde, Ganesh"] 
-[Result "0-1"] 
-[WhiteElo "1443"] 
-[BlackElo "2233"] 
+
+[Event "AA/C21/Pr/O"]
+[Site "ICCF"]
+[Date "2019.03.31"]
+[Round "-"]
+[White "Joshua Hunt"]
+[Black "Hegde, Ganesh"]
+[Result "0-1"]
+[WhiteElo "1443"]
+[BlackElo "2233"]
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "Australia"]
 [BlackTeam "India"]
@@ -487,7 +492,7 @@ King pawn opening.}
 
 2...d5 {Black occupies the d5 square and controls the c4 and e4 squares in the enemy camp}
 
-3.d4  {Transposing into the advanced variation of the French defence. White has fixed his pawn structure on the dark squares d4 and e5. 
+3.d4  {Transposing into the advanced variation of the French defence. White has fixed his pawn structure on the dark squares d4 and e5.
 This is the main aim of the French defence for Black as he has successfully managed to provoke White from pushing his King pawn further.}
 
 3...c5 {Attacking the base of the pawn chain as Black gains more space on the Queenside and threatens to dismantle White's central pawn chain. This
@@ -507,12 +512,12 @@ is the main motif in the advanced variation where Black will target White's d4 p
 
 7.Nbd2 {Protecting the Rook.}
 
-7...c4! {Fixing the c3 pawn and hindering development of the Bishop on f1. 7...Qxc3 was also possible 
+7...c4! {Fixing the c3 pawn and hindering development of the Bishop on f1. 7...Qxc3 was also possible
 But then 8.dxc5 followed by Rc1 allows White to save a pawn. This move does not allow the possibility of dxc5 also.}
 
-8.Rc1 {Protecting the c3 pawn. It looks as if 8.Qc1 does the job for White in saving the loss of another pawn. 
+8.Rc1 {Protecting the c3 pawn. It looks as if 8.Qc1 does the job for White in saving the loss of another pawn.
 But then 8...Ba3! with a double attack on the Queen does not save White from losing another pawn.
-9.Qxb2 Bxb2 10.Rb1 Bxc3 and Black is up two pawns} 
+9.Qxb2 Bxb2 10.Rb1 Bxc3 and Black is up two pawns}
 
 8...Qxa2 {Easy pickings for Black as the passed pawn on a7 can be pushed later}
 
@@ -522,7 +527,7 @@ But then 8...Ba3! with a double attack on the Queen does not save White from los
 
 10.O-O {White completes Kingside development}
 
-10...Nf5 {Going after the dark-squared Bishop and also vacating the e7 square for the Bishop on f8.Black can simply trade off all pieces and enter into a 
+10...Nf5 {Going after the dark-squared Bishop and also vacating the e7 square for the Bishop on f8.Black can simply trade off all pieces and enter into a
 winning endgame}
 
 11.Rc2 {Attacking the Queen again}
@@ -532,10 +537,10 @@ winning endgame}
 
 12.Bf4 {Protecting the Bishop as simplification of any kind brings White closer to defeat}
 
-12...b5 {Black wants to ensure that the passed a-pawn will march to the Queening square. This is a preparatory move in that quest. Black 
+12...b5 {Black wants to ensure that the passed a-pawn will march to the Queening square. This is a preparatory move in that quest. Black
 plans to play ...Qb6,...Rb8 and ...a5 and then start rolling the pawns on the a and the b-files}
 
-13.Qb1 {13.g4 was a better move as White could have gained space on the Kingside where he is stronger. The move played seems to be a waiting move with no concrete 
+13.Qb1 {13.g4 was a better move as White could have gained space on the Kingside where he is stronger. The move played seems to be a waiting move with no concrete
 plan}
 
 13...Rb8 {Adding more protection to the b5 pawn. Now Black can pull back the Queen to the c7 square and then push ...a5 and keep expanding on the Queenside}
@@ -573,15 +578,15 @@ plan}
 22...Qh3! {Threatening checkmate on h2! Now the Rook on a2 will have to go and White is looking down and out! White resigned}0-1
 
 
-[Event "AA/C21/Pr/O"] 
-[Site "ICCF"] 
-[Date "2019.03.31"] 
-[Round "-"] 
-[White "Jansen Malelak"] 
-[Black "Hegde, Ganesh"] 
-[Result "*"] 
-[WhiteElo "2067"] 
-[BlackElo "2233"] 
+[Event "AA/C21/Pr/O"]
+[Site "ICCF"]
+[Date "2019.03.31"]
+[Round "-"]
+[White "Jansen Malelak"]
+[Black "Hegde, Ganesh"]
+[Result "*"]
+[WhiteElo "2067"]
+[BlackElo "2233"]
 [Annotator "Ganesh R Hegde"]
 [WhiteTeam "Indonesia"]
 [BlackTeam "India"]
@@ -654,6 +659,3 @@ plan}
 21...Qd8* {Back to the home square. 21...Qf6 is okay but then Rf1 followed by fxe5 will force the Queen another tempo
 21...Qd7 is also similar.22.dxe5 dxe5 23.Rbd1 again forces a Queen move for Black.21...Qf8 is too safe a square for the Queen as she gets out of action.
 Black will have to waste at least two tempi to get her back into action.}
-
-
-
