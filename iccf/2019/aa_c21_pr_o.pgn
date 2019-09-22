@@ -468,6 +468,10 @@ spoils the show for the Bishop on b7.Hence ...b6 is ruled out}
 28.Ne2 {White does not mind losing the b3 pawn and brings the Knight for Kingside activity}
 28...Qe3* {Looking to trade Queens.28...Qxb3 29.Nd4 Qxc4 30.Nxf5 and Black King has a wafer thin pawn cover. 30...Rxf5 is essential or else Nh6+ followed by Qg5 will allow White to
 go for the kill}
+29.Nef4 {White neglects Black's Queen trade offer} 29...Qxd2 {Black wants simplification}
+30.Rxd2 c6 {Do you want to exchange on d5, Mr. White?}
+31.d6 {Passed pawn is pushed}
+31...Re4* {The good old chess principle at work - Put the Rook behind the passed pawn. d7 will now be met with ...Rd4}
 
 
 
@@ -662,3 +666,8 @@ plan}
 21...Qd8* {Back to the home square. 21...Qf6 is okay but then Rf1 followed by fxe5 will force the Queen another tempo
 21...Qd7 is also similar.22.dxe5 dxe5 23.Rbd1 again forces a Queen move for Black.21...Qf8 is too safe a square for the Queen as she gets out of action.
 Black will have to waste at least two tempi to get her back into action.}
+22.dxe5 {White liquidates further and opens the centre}
+22...dxe5 23.Ne3 {The Knight goes back and one possible plan is to open up the f-file with fxe5,Rf,Qf2 etc.}
+23...Re6 {The Rook prepares to go to d6 followed by ...Rd2 and Black wants to dominate the d-file.}
+24.Qf2 {White is targeting the f7 pawn after fxe5 and Rf1. This is a slow idea and Black has adequate resources to defend}
+24...Rd6* {As planned}

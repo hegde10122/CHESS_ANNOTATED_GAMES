@@ -318,7 +318,11 @@ allows 13.Nxb5! taking advantage of the pinned c6 pawn}
 22...Qe6 {The Queen goes back as there is nothing else to do on the Kingside}
 23.b3 {Overprotecting the Knight on c4}
 23...a6 {Preventing Nb5}
-24.Kh1* {Safe King. }
+24.Kh1 {Safe King. }
+24...g6 {A waiting move}
+25.e4 {Grabbing the centre}
+25...Nh5 {Attacking the pawn on f4 and preparing ...f5}
+26.f5* {White attacks the Queen and is willing to go into a drawish endgame after simplification.}
 
 
 [Event "1517"]
@@ -896,7 +900,16 @@ Variation 3: 23...Kd8 24.Qc5!? f5 25.Nf3 attacking the e5 pawn twice. 25...f4 26
 25...e4 {25...exf4 looks suicidal as then 26.Qxf4 creates a backward pawn on f6. The Black King's wafer-thin pawn cover will prove to be
 counterproductive in the long run.25...dxc3 26.Qxc3 opens up the d-file but then Black will have to push ...e4 as White's threat of fxe5 is decisive}
 26.f5 {The wedge pawn moves forward as White prepares Rf4 with an idea of grabbing it later with Rxe4}
-26...dxc3* {Black grabs a pawn and asks the Queen a question}
+26...dxc3 {Black grabs a pawn and asks the Queen a question}
+27.Qxc3 {White Queen is happy to exchange.}
+27...Rxg3* {Removing the dark squares hunter. Black sacrifices the exchange to maintain parity. Re1 followed by Bd6 was a great worry for Black
+and the move played nullifies that plan.27...Bc8 with the idea of playing ...Rd3 next. But 28.Bc2 stops Black from executing his plan. The pawn
+on e4 will drop next and Black's defense will become difficult as the King remains stranded on e8.
+27...Kf8 looks bad as 28.Bc2 will allow White to win the pawn on e4. Bd6 would remain a worry as Black's Knights will have difficulty
+in untangling themselves. The Knight on c6 can now jump to e5 and protect the pawn on c4 freeing the Black Queen on f7 with defensive
+duties.}
+
+
 
 
 [Event "1517"]
@@ -1085,8 +1098,8 @@ work hard to get back into the game}
 22.Ng4 {Prepares Nxh6}
 22...Rh8 {The only defensive move preventing Nxh6. 23.Nxh6? gxh6 24.Qxh6+ Kg8 25.Qf4 and White's attack loses steam}
 23.Qg3 {White prepares h4}
-23...Nb6* {With the idea of pushing ...a4.White's attack is no where potent and Black can afford to play a slow game of his own.}
-
+23...Nb6 {With the idea of pushing ...a4.White's attack is no where potent and Black can afford to play a slow game of his own.}
+24.Ne1* {h4-h5 is dropped and f4-f5 idea is born!}
 
 
 [Event "1517"]
@@ -1214,7 +1227,7 @@ White to play a5.Now 33.a5? will be a mistake on account of 33...c4! and after t
 the pawn on a5 later}
 33.Ree3 {The move looks sub-optimal because it leaves the first rank vulnerable. 33.Rc1 looks better as Black can play ...Bg5 at some point forcing the
 Rook to move again. 33.Ra1 with ideas like a5 also looks okay for White}
-33...Qg4* {Threatening ...Qd1+ forcing a Queen trade. The Black Queen had to move as White threatened Rc4 winning the Bishop on h4}
+33...Qg4 {Threatening ...Qd1+ forcing a Queen trade. The Black Queen had to move as White threatened Rc4 winning the Bishop on h4}
 34.Nd2 Bg5 35.Red3 Kg7 36.Nf3 Be7 37.b3 b5 38.axb5 axb5 39.Qd1*
 
 [Event "1517"]

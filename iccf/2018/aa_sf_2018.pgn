@@ -859,6 +859,12 @@ development is also iffy and quick measures were required to rectify this proble
 21...Qh5 {...Qf7 is the idea to bring back the Queen}
 22.Ra1 {A weird move to say the least. What is White's idea? It is hard to say anything logical.22.Nd5 looked a good continuation.}
 22...Qf7* {22...Nb3 looks menacing but then 23.Rae1 and the Knight on b3 has to go back.}
+23.Nd5 {Attacking the pawn on c7}
+23...Ne5 {The Queen defends the c7 pawn}
+24.Rad1 {The Rook is back on d1}
+24...Nb3* {White's plan is unclear. It seems that Rd2 followed by Rfd1 is an idea. Playing f4,g3 also looks a possibility for White.
+The move played halts White from playing Rd2}
+
 
 
 [Event "AA/C18/SF/A"]
@@ -1020,7 +1026,8 @@ work}
 38...Ka8 {Not allowing the annoying Bd6+ with tempo}
 39.Reb1 {As planned}
 39...Qd8* {Bd6 is out of question for White now. If 40.Bc5 then 40...Qc7 allows Black to over protect the pawn on a7}
-
+40.Qe2 {White is expecting 40...g5. 41.Bxf5 exf5 42.e6 and White will be better}
+40...Rgg7* {Waiting move}
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -1270,6 +1277,8 @@ come to the e4 square}
 29...Qb8+ 30.Kh1 Qc8 {Threatening Qxh3# on the next move}
 31.Kh2 {White King goes back again. In hindsight, 28.Rc5 looks bad now as 28.Rf1 could have vacated the g1 square for the White King}
 31...Qb8+ 32.Kh1* {The position has been repeated}
+32...Qc8 {Threatening Qxh3# on the next move}
+33.f3* {The mate is prevented}
 
 
 [Event "AA/C18/SF/A"]
@@ -1549,6 +1558,7 @@ with the aggression}
 32.dxe5* {White will lose soon as ...Rg6 cannot be averted}
 
 
+
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
 [Date "2018.11.30"]
@@ -1683,3 +1693,5 @@ passive ...Rh7 and it will take some effort to re-activate this Rook later in th
 27...Qxa3 {27...Bxe2 will be a mistake as 28.Rxe2 allows White to have unrestricted control over the c8 square with Rc8 on the cards}
 28.Rxd5 {Destroying Black's centre}
 28...Qa4 {Black wants to get back to the e8 square.28...Qa2 29.Rc7 Bc4 30.Rxf7 Qb1+ 31.Bc1 Bxd5 32.Rxf8+ Kxf8 33.Qxd5 and White is winning}
+29.Re5 {Blocking ...Qe8 move}
+29...Kh8* {The Knight is unpinned and the Rook on e5 is under attack. The Rook on h7 is totally out of the game and Black is technically a Rook down}
