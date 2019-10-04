@@ -228,9 +228,9 @@ and keep up with his planned aggression.}
 23...Nd7 {The g5 pawn was under attack}
 24.Bc2* {Connecting the Rooks in preparation of pushing f3.
 24.f3? is a bad move on account of 24...Qf8 and White cannot grab the Knight on e4 as 25.fxe4 Ra8! allows Black to win the Rook on a1 after
-White moves the Queen. AAlso 24...Qf8 25.Nc2 Nexc5 26.dxc5 Ra8 27.Qb4 Ne5 with the idea of ...Nd3 forking the Queen and Rook
+White moves the Queen. Also 24...Qf8 25.Nc2 Nexc5 26.dxc5 Ra8 27.Qb4 Ne5 with the idea of ...Nd3 forking the Queen and Rook
 28.Rxa8 Rxa8 29.Re2 Nd3 29.Qd2 Nxb2 - a complicated computer line with no advantage to White}
-24...Nf8 25.f3 Ng6 26.Qa7*
+24...Nf8 25.f3 Ng6 26.Qa7 Nfd7 {Black not only refutes Queen trade but also protects the g5 pawn}*
 
 
 [Event "1517"]
@@ -322,7 +322,8 @@ allows 13.Nxb5! taking advantage of the pinned c6 pawn}
 24...g6 {A waiting move}
 25.e4 {Grabbing the centre}
 25...Nh5 {Attacking the pawn on f4 and preparing ...f5}
-26.f5* {White attacks the Queen and is willing to go into a drawish endgame after simplification.}
+26.f5 {White attacks the Queen and is willing to go into a drawish endgame after simplification.}
+26...gxf5* {Black accepts the pawn offer}
 
 
 [Event "1517"]
@@ -425,7 +426,7 @@ exchanged, Black would enjoy the Bishop pair and the extra pawn. 22.exd5?? Bg4 a
 [White "Hegde, Ganesh"]
 [Black "Ajith Jose"]
 [EventDate "2019.03.19"]
-[Result "*"]
+[Result "1-0"]
 [ECO "D30"]
 [Annotator "Ganesh R Hegde"]
 
@@ -476,7 +477,7 @@ the White Bishop on b2 covers the e5 square}
 
 12.Qg3 {White maintains the tension as the Knight gets an additional defender}
 
-12...c5 {Atlast, the freeing move comes up.}
+12...c5 {At last, the freeing move comes up.}
 
 13.cxd5 {Opening up the c-file for the Rook on a1, White goes in for a pawn swap}
 
@@ -524,7 +525,8 @@ White will have a hard time defending the pawn on a3}
 29...Nf8 {Forced as 30.Rd8# was the threat}
 30.h4 {The back-rank weakness is eliminated and it is time to activate both the Rooks}
 30...h5 {Black too does the same. 30...g6 followed by ...Kg7 was perhaps a better option as the Knight on f8 needs to be re-activated}
-31.Rd8* {White puts pressure on the Knight and Black will have to play a couple of moves to free the Knight}
+31.Rd8 {White puts pressure on the Knight and Black will have to play a couple of moves to free the Knight. Black spends forty days
+without making a move and loses on time after having 156 days in the bank prior to this move. What a pity!}1-0
 
 
 [Event "1517"]
@@ -908,7 +910,7 @@ on e4 will drop next and Black's defense will become difficult as the King remai
 27...Kf8 looks bad as 28.Bc2 will allow White to win the pawn on e4. Bd6 would remain a worry as Black's Knights will have difficulty
 in untangling themselves. The Knight on c6 can now jump to e5 and protect the pawn on c4 freeing the Black Queen on f7 with defensive
 duties.}
-
+28.hxg3* {The Queen remains on c3. 28.Qxg3 would have forced White to spend another move to bring back the Queen to an active square}
 
 
 
@@ -1099,7 +1101,8 @@ work hard to get back into the game}
 22...Rh8 {The only defensive move preventing Nxh6. 23.Nxh6? gxh6 24.Qxh6+ Kg8 25.Qf4 and White's attack loses steam}
 23.Qg3 {White prepares h4}
 23...Nb6 {With the idea of pushing ...a4.White's attack is no where potent and Black can afford to play a slow game of his own.}
-24.Ne1* {h4-h5 is dropped and f4-f5 idea is born!}
+24.Ne1 {h4-h5 is dropped and f4-f5 idea is born!}
+24...Qd7* {f4 cannot be prevented but this move forces White to make another Knight move to force f5}
 
 
 [Event "1517"]
@@ -1228,7 +1231,7 @@ the pawn on a5 later}
 33.Ree3 {The move looks sub-optimal because it leaves the first rank vulnerable. 33.Rc1 looks better as Black can play ...Bg5 at some point forcing the
 Rook to move again. 33.Ra1 with ideas like a5 also looks okay for White}
 33...Qg4 {Threatening ...Qd1+ forcing a Queen trade. The Black Queen had to move as White threatened Rc4 winning the Bishop on h4}
-34.Nd2 Bg5 35.Red3 Kg7 36.Nf3 Be7 37.b3 b5 38.axb5 axb5 39.Qd1*
+34.Nd2 Bg5 35.Red3 Kg7 36.Nf3 Be7 37.b3 b5 38.axb5 axb5 39.Qd1 Qb4 40.Qa1 Qe4 41.e6 Qa8 {Offering to trade Queens}*
 
 [Event "1517"]
 [Site "AICCF"]
@@ -1351,7 +1354,10 @@ hampering Black's Rooks as the King cannot go down the board easily}
 28.R6a3 {Covering the c3 square}
 28...R4c6 {Black maintains his pressure on c2 square}
 29.Kd1 Rc4* {Both sides remain quiet as forcing a positive outcome seems a mirage}
-
+30.Ra4 {Offers to trade Rooks which Black accepts}
+30...Rxa4 31.Rxa4 Ne7 {The Knight has better things to do}
+32.Kd2 {Preventing ...Rc3}
+32...Nc6* {The Knight protects the pawn on a7 and Black is ready to push ...a5}
 
 [Event "1517"]
 [Site "AICCF"]
@@ -1469,8 +1475,8 @@ White could have played Qf4 followed by Nf5 offering to trade pieces and ease th
 32.g3 {Vacating the g2 square for the Knight as Black threatens ...g5}
 32...g5 {The Knight will now retreat as planned}
 33.Ng2 f4 {...Bxh3 is an idea}
-34.gxf4* {Grabbing the pawn leaving the Kingside vulnerable}
-
+34.gxf4 {Grabbing the pawn leaving the Kingside vulnerable}
+34...Bxh3 35.Qe2 Bxg2 36.Qh5+ Kg7 37.Kxg2 Rh8 38.Rh1 Qg8*
 
 [Event "1517"]
 [Site "AICCF"]
