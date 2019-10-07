@@ -1,0 +1,56 @@
+[Event "Sweden-Asia,Africa,Australia,New Zealand"]
+[Site "ICCF"]
+[Date "2019.09.30"]
+[Round "-"]
+[White "Hegde, Ganesh"]
+[Black "Djamel Zeghachov"]
+[Result "*"]
+[WhiteElo "2244"]
+[BlackElo "2301"]
+[Board "17"]
+[Annotator "Ganesh R Hegde"]
+[WhiteTeam "AAAN"]
+[BlackTeam "Sweden"]
+[ECO ""]
+[BlackTitle "CCE"]
+
+1.d4 {The Queen pawn opening}
+1...d5 {Identical opening move controlling the e4 and c4 squares}
+2.c4 {The best response in accordance with theory}
+2...e6 {2...c6 leads to the Slav defence.The Queen's Gambit Declined or QGD is now on the board.}
+3.Nc3 {White is ready to play 4.cxd5 next if Black plays 3...Nf6 leading to the exchange variation of the Queen's gambit declined}
+3...c6 {The Semi-Slav is on the board where Black overprotects the d5 pawn. His main idea is to play ...dxc4 at some point followed by ...b5,...Bb7.}
+4.e3 {The c4 pawn is now protected as White prepares to swing his light-squared Bishop to d3 or play the quiet Be2 soon.}
+4...Nf6 {Black develops the Knight}
+5.Nf3 {White's common response as developing the Bishop on f1 allows Black to play ...dxc4 and attain one of his objectives in the semi-Slav.}
+5...Nbd7 {Black is ready to play the complicated lines in the Meran system}
+6.Qc2*{}
+
+
+[Event "Sweden-Asia,Africa,Australia,New Zealand"]
+[Site "ICCF"]
+[Date "2019.09.30"]
+[Round "-"]
+[White "Djamel Zeghachov"]
+[Black "Hegde, Ganesh"]
+[Result "*"]
+[WhiteElo "2301"]
+[BlackElo "2244"]
+[Board "17"]
+[Annotator "Ganesh R Hegde"]
+[WhiteTeam "Sweden"]
+[BlackTeam "AAAN"]
+[ECO "B07"]
+[WhiteTitle "CCE"]
+
+1.e4 {The King pawn opening considered to be the oldest opening move by many}
+1...g6 {Black goes for the complicated and swashbuckling Modern defence.}
+2.d4 {When presented with an opportunity grab the centre with both hands. White's most common response in the Modern.}
+2...Bg7 {The matador Bishop will attack on the a1-h8 diagonal. Black's plans include playing ...d6 followed by ...e5 or ...c5 to stake a claim in the centre.}
+3.Nf3 {The classical line where White is contend to develop pieces. 3.f4 allows White to go for the brutal Austrian attack}
+3...d6 {Preventing e5 and preparing ...Nf6}
+4.Bd3 {A quiet move where White will probably castle next. 4.h3!? is also possible where White takes away the g4 square for the Black Bishop on c8.}
+4...Nf6 {Transposing into the Pirc defense.}
+5.O-O {White could have still played 5.h3!? or even 5.c4}
+5...Nbd7* {A slow line where Black prepares the ...e5 thrust in the centre forcing White to make a decision. This move on the other hand blocks the Queen's vigil of the
+d-file allowing White to push e5 himself.}

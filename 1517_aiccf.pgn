@@ -230,7 +230,7 @@ and keep up with his planned aggression.}
 24.f3? is a bad move on account of 24...Qf8 and White cannot grab the Knight on e4 as 25.fxe4 Ra8! allows Black to win the Rook on a1 after
 White moves the Queen. Also 24...Qf8 25.Nc2 Nexc5 26.dxc5 Ra8 27.Qb4 Ne5 with the idea of ...Nd3 forking the Queen and Rook
 28.Rxa8 Rxa8 29.Re2 Nd3 29.Qd2 Nxb2 - a complicated computer line with no advantage to White}
-24...Nf8 25.f3 Ng6 26.Qa7 Nfd7 {Black not only refutes Queen trade but also protects the g5 pawn}*
+24...Nf8 25.f3 Nf6 26.Qa7 N6d7 {Black not only refutes Queen trade but also protects the g5 pawn}*
 
 
 [Event "1517"]
@@ -238,7 +238,7 @@ White moves the Queen. Also 24...Qf8 25.Nc2 Nexc5 26.dxc5 Ra8 27.Qb4 Ne5 with th
 [White "Hegde, Ganesh"]
 [Black "R.K.Chauhan"]
 [EventDate "2019.03.19"]
-[Result "*"]
+[Result "1/2-1/2"]
 [ECO "E00"]
 [Annotator "Ganesh R Hegde"]
 
@@ -323,7 +323,8 @@ allows 13.Nxb5! taking advantage of the pinned c6 pawn}
 25.e4 {Grabbing the centre}
 25...Nh5 {Attacking the pawn on f4 and preparing ...f5}
 26.f5 {White attacks the Queen and is willing to go into a drawish endgame after simplification.}
-26...gxf5* {Black accepts the pawn offer}
+26...gxf5 {Black accepts the pawn offer}
+27.exf5 Qxe2 28.Nxe2 b5 29.axb5 Rxd1+ 30.Rxd1 axb5 {Too much simplification with a draw on the cards} 31.Ne3 Nf6 {Draw agreed}1/2/-1/2
 
 
 [Event "1517"]
@@ -1238,7 +1239,7 @@ Rook to move again. 33.Ra1 with ideas like a5 also looks okay for White}
 [White "Anil Anand"]
 [Black "Hegde, Ganesh"]
 [EventDate "2019.03.19"]
-[Result "*"]
+[Result "1/2-1/2"]
 [ECO "C15"]
 [Annotator "Ganesh R Hegde"]
 
@@ -1354,10 +1355,13 @@ hampering Black's Rooks as the King cannot go down the board easily}
 28.R6a3 {Covering the c3 square}
 28...R4c6 {Black maintains his pressure on c2 square}
 29.Kd1 Rc4* {Both sides remain quiet as forcing a positive outcome seems a mirage}
-30.Ra4 {Offers to trade Rooks which Black accepts}
+30.Ra4 {Offers to trade Rooks which Black accepts}sss
 30...Rxa4 31.Rxa4 Ne7 {The Knight has better things to do}
 32.Kd2 {Preventing ...Rc3}
-32...Nc6* {The Knight protects the pawn on a7 and Black is ready to push ...a5}
+32...Nc6 {The Knight protects the pawn on a7 and Black is ready to push ...a5}
+33.c4 Rb7 {Nothing doing as Black plays safe}
+34.cxd5 exd5 {Trade helps Black and a draw looms large}
+35.Ra6 {Draw agreed as 35...Rb6 keeps Black safe and secure. An exciting opening ends in a dull draw.}1/2-1/2
 
 [Event "1517"]
 [Site "AICCF"]
