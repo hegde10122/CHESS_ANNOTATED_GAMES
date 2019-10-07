@@ -1703,7 +1703,7 @@ passive ...Rh7 and it will take some effort to re-activate this Rook later in th
 24...Nf7 {Forced as Black's Rook on a8 needs to be brought out for defence}
 25.Rc1 Rf8 {The last piece into the act}
 26.Qe6 {A fine move to cut off the Black Knight}
-26...cxd4* {Attacking the Rook after grabbing the central pawn}
+26...cxd4 {Attacking the Rook after grabbing the central pawn}
 27.Re5 {Attacking the d5 pawn}
 27...Qxa3 {27...Bxe2 will be a mistake as 28.Rxe2 allows White to have unrestricted control over the c8 square with Rc8 on the cards}
 28.Rxd5 {Destroying Black's centre}
@@ -1711,6 +1711,6 @@ passive ...Rh7 and it will take some effort to re-activate this Rook later in th
 29.Re5 {Blocking ...Qe8 move}
 29...Kh8 {The Knight is unpinned and the Rook on e5 is under attack. The Rook on h7 is totally out of the game and Black is technically a Rook down}
 30.Re4 {White maintains the pressure on the e8 square and also turns his attention to the d4 pawn.Rc7 is also on the cards.}
-30...Qa3 {30...Ng5 looks like Black will win the exchange after forking White's Queen and Rook. But 31.Qd6!! spoils the party as Qxf8# is threatened.
+30...Qa3* {30...Ng5 looks like Black will win the exchange after forking White's Queen and Rook. But 31.Qd6!! spoils the party as Qxf8# is threatened.
 The Queen move from Black guards the d6 square and Black threatens ...Ng5 to fork the heavy pieces on e4 and e6.White
 does not have the option of Qd6 as discussed earlier to prevent the fork.}

@@ -663,11 +663,14 @@ plan}
 20.e4 {Grabbing the central square. White has some compensation for the lost pawn}
 20...e5 {Challenging White's massive pawn structure}
 21.Nf5 {Attacking the Queen, the Knight occupies more space in the White camp}
-21...Qd8* {Back to the home square. 21...Qf6 is okay but then Rf1 followed by fxe5 will force the Queen another tempo
+21...Qd8 {Back to the home square. 21...Qf6 is okay but then Rf1 followed by fxe5 will force the Queen another tempo
 21...Qd7 is also similar.22.dxe5 dxe5 23.Rbd1 again forces a Queen move for Black.21...Qf8 is too safe a square for the Queen as she gets out of action.
 Black will have to waste at least two tempi to get her back into action.}
 22.dxe5 {White liquidates further and opens the centre}
 22...dxe5 23.Ne3 {The Knight goes back and one possible plan is to open up the f-file with fxe5,Rf,Qf2 etc.}
 23...Re6 {The Rook prepares to go to d6 followed by ...Rd2 and Black wants to dominate the d-file.}
 24.Qf2 {White is targeting the f7 pawn after fxe5 and Rf1. This is a slow idea and Black has adequate resources to defend}
-24...Rd6* {As planned}
+24...Rd6 {As planned, the Rook lift is on the board. The Rook can now swing to g6 if required. ...Rd2 is now a strong threat.}
+25.f5?! {White was perhaps worried with the idea of facing ...exf4 leaving with the isolated pawn on e4 after Qxf4.
+The move played takes away the g6 square from the Black Rook. But the move not only keeps the f-file closed but also }
+25...Na5* {The pawn on b7 is now protected and Black now prepares ...Bd7 followed by ...Bc6. The Knight on a5 can jump to c4 at an opportune time.}
