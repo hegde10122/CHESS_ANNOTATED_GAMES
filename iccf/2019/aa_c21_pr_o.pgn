@@ -16,7 +16,7 @@
 
 1...Nf6  {The Indian defence wherein centre control happens using as piece instead of occupying the central squares. Here the Knight controls the d5 and e4 squares }
 
-2.c4 {The flank pawn cothe d5 square as White gains more space on the Queenside. The most popular theoretical move along with 2.Nf3}
+2.c4 {The flank pawn controls the d5 square as White gains more space on the Queenside. The most popular theoretical move along with 2.Nf3}
 
 2...e6 {Black releases the diagonal for the dark-squared Bishop and also controls the d5 square}
 
@@ -472,8 +472,21 @@ go for the kill}
 30.Rxd2 c6 {Do you want to exchange on d5, Mr. White?}
 31.d6 {Passed pawn is pushed}
 31...Re4* {The good old chess principle at work - Put the Rook behind the passed pawn. d7 will now be met with ...Rd4}
-
-
+32.c5 {White solidifies his passed pawn}
+32...Rfe8 {The e6 square is now in Black's control}
+33.Rb2 {White decides to open up the Queenside with the flank pawns}
+33...Rd4 {Behind the passed pawn}
+34.b4 {White carries out his plan}
+34...axb4 35.axb4
+35...Re3 {Threatening the Knight}
+36.Rb3 {Compulsory move}
+36...Kf7 {The King starts his march towards the centre of the board}
+37.Kf2 {White does the same with his King}
+37...Ree4 {37...Re8?! will be a mistake as then 38.b5!? looks good for White as the Knight on a6 cannot go to b4.
+38...cxb5? 39.Rxb5 threatening Rxb7 and the pawn chain c5-d6 turn into a juggernaut. Another line 38...Nxc5 39.Nxc5 Rxd6 40.Nxb7 Rd2+ 41.Kf3 cxb5 42.Rxb5
+Here Black faces an uncertain future}
+38.Ne2 {Threatening to win the Rook on d4.}
+38...Rc4* {Putting the Rook behind the pawn on c5. White's pawn push 39.b5 cannot materialise as the c5 pawn will be lost.}
 
 
 [Event "AA/C21/Pr/O"]
@@ -673,4 +686,6 @@ Black will have to waste at least two tempi to get her back into action.}
 24...Rd6 {As planned, the Rook lift is on the board. The Rook can now swing to g6 if required. ...Rd2 is now a strong threat.}
 25.f5?! {White was perhaps worried with the idea of facing ...exf4 leaving with the isolated pawn on e4 after Qxf4.
 The move played takes away the g6 square from the Black Rook. But the move not only keeps the f-file closed but also }
-25...Na5* {The pawn on b7 is now protected and Black now prepares ...Bd7 followed by ...Bc6. The Knight on a5 can jump to c4 at an opportune time.}
+25...Na5 {The pawn on b7 is now protected and Black now prepares ...Bd7 followed by ...Bc6. The Knight on a5 can jump to c4 at an opportune time.}
+26.Qe2 {The Queen wants to go to the b5 square and grab the a4 pawn next.}
+26...Bd7* {No entry on the b5 square!}

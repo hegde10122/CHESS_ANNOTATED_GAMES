@@ -11,6 +11,7 @@
 [ECO "E04"]
 [WhiteTeam "India"]
 [BlackTeam "USA"]
+[BlackTitle ""CCE]
 
 1.d4 Nf6  {The Indian defence is a popular answer to the Queen's pawn opening}
 
@@ -111,6 +112,7 @@ around the Black King. Black is also dared to play 19...Nxb4 having a fork of hi
 [ECO "B09"]
 [WhiteTeam "USA"]
 [BlackTeam "India"]
+[WhiteTitle "CCE"]
 
 1.e4 d6 {The Pirc-Ufimtsev defense is on the board}
 
@@ -204,11 +206,15 @@ allow White to double the Rooks on the d-file after Kc1,Rd3,Red1 etc. After 27..
 27...Ne8? 28.Qxf6 exf6 29.Re7! and the Black King and the Rook on h8 will be stuck on passive squares forever. The other White Rook will join the party on the d7 square and Black will be busted}
 28.Bxf4 Kf8 {Protecting the e7 pawn}
 29.Bh6+ Ke8 {29...Kg8?? 30.Rxe7 and Black's Rook on h8 will become a dead piece forever!}
-30.Bg5 {The e7 pawn is under siege}
+336...Ra6.0.Bg5 {The e7 pawn is under siege}
 30...Nc8 {30...e6 creates a hole on f6.31.Bf6 Rg8 and White has managed to create a weak pawn on f7 that can be exploited later}
 31.Rb1 {Rb3-d3 is an idea}
 31...Kd8 {The Black King gets out of the e-file}
 32.Rb3 h6 {Black asks the Bishop to step back}
 33.Rd3+ Ke8 {What else ?}
 34.Bf6 {The Rook on h8 is attacked}
-34...Rg8* {34...Rf8 seems okay as well}
+34...Rg8 {34...Rf8 seems okay as well}
+35.Kc1 {The King is now safe and White looks forward to regroup his pair of Rooks}
+35...a5 {A necessary move that vacates the a7 square for the Rook. Black can also play ...Ra6 and put the question to the Bishop on f6}
+36.Re5 {White prepares Red5 and threateb=ns to mate on d8 square}
+36...g5* {Vacating the g6 square for the Rook and end White's stranglehold on the e7 pawn.36...Ra6.Putting the question to the Bishop was also playable.}

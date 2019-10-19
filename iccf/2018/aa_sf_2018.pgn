@@ -871,7 +871,9 @@ development is also iffy and quick measures were required to rectify this proble
 The move played halts White from playing Rd2}
 25.Rfe1 {Improving the Rook's scope and White is ready to push f4.}
 25...Rac8 {...Nd7 will be the reply if White plays 26.f4. The pawn on c7 is protected with this Rook move}
-26.Ne3* {The Knight on d5 goes back and White's intentions are not clear at the moment.}
+26.Ne3 {The Knight on d5 goes back and White's intentions are not clear at the moment.}
+26...Ra8 {The Rook has nothing special to do on c8. Hence goes back}
+27.Nd5* {Looking for a three-fold repetition as Black is low on time.}
 
 
 
@@ -1033,9 +1035,20 @@ work}
 38.Qa2 {White vacates the b1 square for the King's Rook}
 38...Ka8 {Not allowing the annoying Bd6+ with tempo}
 39.Reb1 {As planned}
-39...Qd8* {Bd6 is out of question for White now. If 40.Bc5 then 40...Qc7 allows Black to over protect the pawn on a7}
+39...Qd8 {Bd6 is out of question for White now. If 40.Bc5 then 40...Qc7 allows Black to over protect the pawn on a7}
 40.Qe2 {White is expecting 40...g5. 41.Bxf5 exf5 42.e6 and White will be better}
-40...Rgg7* {Waiting move}
+40...Qd7 {Waiting move. The Queen can now swing to g7 or h7 and Black aim to play ...g5}
+41.Bc1?! {White could have played 41.Bb4 and the Bishop looks far better on b4.White cannot stop Black from pushing ...g5 with this move.}
+41...Qf7 {Adding more protection to the Knight on f5 before pushing ...g5}
+42.Qa2 {The Queen keeps moving back and forth with no clear plan}
+42...g5 {Black decides to play on the Kingside and expands on the g-file. The idea is to break open the door towards the White King.}
+43.Bxf5 {White has had enough of the pesky Knight on f5 and gives up the Bishop pair. White could have tried 43.Bg4 instead. The dark-squared Bishop hopes to make it to d6
+and White is hoping to play with an opposite-coloured Bishop ending in the long run. There is also a subtle trap here with White hoping for Black to respond with ...Qxf5?!}
+43...exf5* {43...Qxf5?! 44.Rxb6 and White wins back his pawn. The Rook on b6 cannot be captured. 44...Rxb6?? 45.Qxa7#. The pawn on e5 for White is a passed pawn but it lacks
+a bright future as the e6 square is difficult for White's pieces to access.}
+
+
+
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -1159,8 +1172,11 @@ Kingside offensive with 27...g5 followed by ...h5. White will have to bring back
 29...g4 {Black is aggressive and wants to open up the Kingside}
 30.Rc2 {As planned. The Rook can also switch over to g2 in the future}
 30...g3 {Black continues with the aggression as ...Qh4 is on the cards}
-31.Rca2* {Attacking the paralysed Knight on a4 as White can afford to neglect Black's aggression at the moment.}
-
+31.Rca2 {Attacking the paralysed Knight on a4 as White can afford to neglect Black's aggression at the moment.}
+31...b5 {The only good continuation.31...Qh4 32.h3 b5 and Black will have to waste another Queen move to put it to concrete use.}
+32.c5!? {Is this the winning move for White? Only time will tell. This move takes away the b6 square from the Knight and White threatens c6.White also invites
+32...dxc5 33.bxc5 Qxc5 34.Rc1 creating an isolated pawn on c7 to target in the future. 32.cxb5 Nb6 allows the Knight back into the game and Black can hope to fight being a pawn down.}
+32...Rg8*
 
 
 [Event "AA/C18/SF/A"]
@@ -1289,7 +1305,9 @@ come to the e4 square}
 31...Qb8+ 32.Kh1* {The position has been repeated}
 32...Qc8 {Threatening Qxh3# on the next move}
 33.f3* {The mate is prevented}
-
+33...Bxf3 {Black plays a series of exchanges that neutralises White's grip on the position.}
+34.gxf3 Qxh3+ 35.Qh2 Qxf3+
+36.Qg2 Rxe3 37.Qxf3 Rxf3 38.Rxg5+ Kh7* {The position looks drawish}
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -1714,3 +1732,6 @@ passive ...Rh7 and it will take some effort to re-activate this Rook later in th
 30...Qa3* {30...Ng5 looks like Black will win the exchange after forking White's Queen and Rook. But 31.Qd6!! spoils the party as Qxf8# is threatened.
 The Queen move from Black guards the d6 square and Black threatens ...Ng5 to fork the heavy pieces on e4 and e6.White
 does not have the option of Qd6 as discussed earlier to prevent the fork.}
+31.Nf4 {White does not fall for the trap but instead goes hunting for the g6 square forcing another King move}
+31...Kg8 {Forced as Ng6+ ends the game for Black. The Knight on f7 is again a pinned piece while the Rook on h7 looks a dead piece}
+32.f3* {Another waiting move as White plays a python like squeezing move}

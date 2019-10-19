@@ -200,9 +200,17 @@ Black King. 39...Kh7 40.Qh4+ Qh6 41.Nh5 and with moves like Rf6 to follow, Black
 58.Kg3 Rd3+ {Another check!}
 59.Kg2 Rd2+ 60.Kf1
 60...Rd6 {...Rf6+ is possible now}
-61.Rc4* {Preventing 61...Ne6 and also preparing to play Rxa4}
+61.Rc4 {Preventing 61...Ne6 and also preparing to play Rxa4}
 61...Rf6+ {Black Rook is on a harassment mission}
-62.Ke2*{Preventing ...Rf3}
+62.Ke2{Preventing ...Rf3}
+62...Re6+ {Keeps checking!}
+63.Kd3 {The King will hide behind the Rooks soon}
+63...Rd6+ {Black continues with his checking ideas}
+64.Kc3 Ra6 {Black decides to support the pawn. But the White King is closer by and the pawn on a4 will fall}
+65.Rb7 {Pinning the hapless Knight as White threatens to play Rcc7 and win the Knight on g7}
+65...h5? {65...Rg6 was necessary and then ...h5 on move 66}
+66.Rcc7* {White has perhaps delivered the death blow here. The Knight on g7 can be protected only by ...Rg6 but White can forcibly exchange all pieces and then gobble up the a4 pawn
+with the King's help.}
 
 
 [Event "IND-JPN 2018"]

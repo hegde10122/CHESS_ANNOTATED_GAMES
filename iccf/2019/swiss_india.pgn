@@ -24,7 +24,15 @@
 4...Nf6 {Black develops the Knight}
 5.Nf3 {White's common response as developing the Bishop on f1 allows Black to play ...dxc4 and attain one of his objectives in the semi-Slav.}
 5...Nbd7 {Black is ready to play the complicated lines in the Meran system}
-6.Qc2*{}
+6.Qc2{The Queen controls the e4 square and White does not commit the Bishop on f1 to d3 or e2.}
+6...Bd6 {Black is ready to castle and is also ready to push ...e5}
+7.cxd5 {7.b3 is an Anti-Meran move where Black's ...dxc4 is no longer a great idea as White can capture back with bxc4.
+7.Bd3 has also been played widely and is a known theoretical line
+where White does not gain anything significant. The move played deviates from theory and Black will have to adopt new plans to gain an advantage.}
+7...exd5 {Black captures away from the centre and prepares to play ...Re8 after castling short. White will not have the move Ne5 as the e-file has been opened up.}
+8.Bd3 {White has cleared matters in the centre and prepares to push e4 at some point in the near future and prepares to castle Kingside}
+8...O-O {Black is good as is the case in the Semi-Slav.}
+9.O-O* {White will now play Re1 and then look to push e4 and gain space in the centre.}
 
 
 [Event "Sweden-Asia,Africa,Australia,New Zealand"]
@@ -54,3 +62,12 @@
 5.O-O {White could have still played 5.h3!? or even 5.c4}
 5...Nbd7* {A slow line where Black prepares the ...e5 thrust in the centre forcing White to make a decision. This move on the other hand blocks the Queen's vigil of the
 d-file allowing White to push e5 himself.}
+6.e5 {White grabs the opportunity to expand in the centre and gains space.}
+6...dxe5 {Forced as the Knight was attacked}
+7.dxe5 {Reinforcement in equal measure}
+7...Nd5 {7...Ng4 also looks okay with a triple attack on the e5 pawn. 8.e6! forcing Black to have a dubious pawn structure.
+8...fxe6 9.Qe2 attacking the pawn on e6.Now Black cannot O-O as Qxe6 comes with check, 9...c6. This move vacates the c7 square for the Queen.10.Rd1 Qc7 and the position is playable for Black}
+8.Re1 {Protecting the wedge pawn on e5 and threatening Bxg6 followed by Qxd5 winning back the piece.}
+8...c6 {A necessary move to prevent 9.Bxg6. The Knight on d5 gets added protection}
+9.Bc4 {Attacking the Knight again and White threatens to win a pawn after Bxd5 on the next move.Again Black is forced to defend the Knight and go for a delayed castling.}
+9...Nc5* {The Queen protects the Knight on d5 as the Knight on d7 vacates the e6 square for the Bishop on c8 to join the party}

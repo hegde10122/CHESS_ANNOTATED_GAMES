@@ -486,17 +486,17 @@ cannot push a5 soon}
 21.Ne5 {Attacking the pawn on c4 now}
 21...Nc6 {Offering to trade the nemesis on e5}
 22.Bg5 {White is generating some counterplay by attacking the Rook}
-22...Rc8 {Safeguarding the Rook} 
+22...Rc8 {Safeguarding the Rook}
 23.exf5 {White opens up the e-file }
 23...exf5 {Black now threatens to win a pawn after ...Nxe5 dxe5 followed by ...Qxe5}
 24.Bf4 {Protecting the Knight on e5 and averting the aforementioned threat}
 
-24...Na5 {The Queen is now relieved of defensive duties and is ready to go to h5. Morever this Knight will act as an excellent defender on a5. The Black Bishop on a6 
+24...Na5 {The Queen is now relieved of defensive duties and is ready to go to h5. Morever this Knight will act as an excellent defender on a5. The Black Bishop on a6
 can also come back to b7 and Black can begin a Kingside offensive}
 
 25.Re1 {Improving the Rook's position}
 
-25...Qh5 {Moving away from the White Rook's X-ray, the Queen wants to play a significant role on the Kingside. Black prepares ...Bb7 as the pawn on c4 is 
+25...Qh5 {Moving away from the White Rook's X-ray, the Queen wants to play a significant role on the Kingside. Black prepares ...Bb7 as the pawn on c4 is
 protected twice and does not need another defender on a6}
 
 26.Rf1 {The Rook comes back to shore up the Kingside. 26.Rad1 followed by d5 made much more sense as White needs to close the h1- a8 diagonal}
@@ -522,7 +522,7 @@ protected twice and does not need another defender on a6}
 32...Qg7 {Preventing 33.Bf6}
 33.Bc2 {Another waiting move}
 33...Ka8 {Vacating the b7 square for the Knight on a5 to make a come back into the game as White is simply playing a waiting game}
-34.Qf4 Nab7 {Improving the Knight's position and preparing ...a5} 
+34.Qf4 Nab7 {Improving the Knight's position and preparing ...a5}
 35.Kf2 {Another waiting move.Also vacating he g1 square. Rg1,g4 are possible ideas}
 35...Ref8 {Preventing  White from pushing g4 as the White Queen and King are on the f-file}
 36.Kg1 a5 37.Qe3 {The Queen comes back anticipating ...Nd8 and ...Ne6 from Black }
@@ -535,7 +535,16 @@ protected twice and does not need another defender on a6}
 40...Bxc6 {Black is happy to simplify and go into a superior endgame}
 41.Rxe6 Re8 {Attacking the White Rook head on and offering another trade of Rooks this time}
 42.Bg5 {The Bishop's position is improved}
-42...Rxe6 43.Rxe6 Re8* {Offering to trade further}
+42...Rxe6 43.Rxe6 Re8 {Offering to trade further}
+44.Rxe8 Nxe8
+45.Bd1 Qd7 {Attacking the a4 pawn }
+46.Qa2 {The a4 pawn gets added protection as White slips into a passive position}
+46...Nd6 {Protecting the attacked c4 pawn}
+47.Bf4 {Attacking the defender of the c4 pawn}
+47...Qe6 {Threatening ...Qe1#}
+48.Kf2 {Forced}
+48...Kb7 {Waiting move}
+49.Qb2* {White also plays the same waiting game}
 
 
 
