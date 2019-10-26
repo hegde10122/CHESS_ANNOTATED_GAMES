@@ -863,7 +863,7 @@ development is also iffy and quick measures were required to rectify this proble
 21.Nc3 {Nd5 is an idea}
 21...Qh5 {...Qf7 is the idea to bring back the Queen}
 22.Ra1 {A weird move to say the least. What is White's idea? It is hard to say anything logical.22.Nd5 looked a good continuation.}
-22...Qf7* {22...Nb3 looks menacing but then 23.Rae1 and the Knight on b3 has to go back.}
+22...Qf7 {22...Nb3 looks menacing but then 23.Rae1 and the Knight on b3 has to go back.}
 23.Nd5 {Attacking the pawn on c7}
 23...Ne5 {The Queen defends the c7 pawn}
 24.Rad1 {The Rook is back on d1}
@@ -873,8 +873,13 @@ The move played halts White from playing Rd2}
 25...Rac8 {...Nd7 will be the reply if White plays 26.f4. The pawn on c7 is protected with this Rook move}
 26.Ne3 {The Knight on d5 goes back and White's intentions are not clear at the moment.}
 26...Ra8 {The Rook has nothing special to do on c8. Hence goes back}
-27.Nd5* {Looking for a three-fold repetition as Black is low on time.}
-
+27.Nd5 {Looking for a three-fold repetition as Black is low on time.}
+27...Rac8 {Protecting the c7 pawn again as Black lowers his guard.}
+28.h3 {White too makes another diffident move}
+28...Nd7 {No commitment as well from Black}
+29.Kh1 {The White King is also joining the party now of making boring moves with no intention of forcing concrete ideas}
+29...Ndc5 {The Knight goes to the Queenside again}
+30.Rf1* {White Rook is now back to the Kingside}
 
 
 [Event "AA/C18/SF/A"]
@@ -1176,7 +1181,8 @@ Kingside offensive with 27...g5 followed by ...h5. White will have to bring back
 31...b5 {The only good continuation.31...Qh4 32.h3 b5 and Black will have to waste another Queen move to put it to concrete use.}
 32.c5!? {Is this the winning move for White? Only time will tell. This move takes away the b6 square from the Knight and White threatens c6.White also invites
 32...dxc5 33.bxc5 Qxc5 34.Rc1 creating an isolated pawn on c7 to target in the future. 32.cxb5 Nb6 allows the Knight back into the game and Black can hope to fight being a pawn down.}
-32...Rg8*
+32...Rg8* {Black wants to play ...Qh4 forcing White to stave off mate by playing h3. Then ...Bxh3 can force a draw. 32...dxc5 is dangerous as 33.bxc5 Qxc5 allows 34.Rc2 and the pawn on c7
+will eventually fall paving the way for intrusion of the White's army}
 
 
 [Event "AA/C18/SF/A"]

@@ -471,7 +471,7 @@ go for the kill}
 29.Nef4 {White neglects Black's Queen trade offer} 29...Qxd2 {Black wants simplification}
 30.Rxd2 c6 {Do you want to exchange on d5, Mr. White?}
 31.d6 {Passed pawn is pushed}
-31...Re4* {The good old chess principle at work - Put the Rook behind the passed pawn. d7 will now be met with ...Rd4}
+31...Re4 {The good old chess principle at work - Put the Rook behind the passed pawn. d7 will now be met with ...Rd4}
 32.c5 {White solidifies his passed pawn}
 32...Rfe8 {The e6 square is now in Black's control}
 33.Rb2 {White decides to open up the Queenside with the flank pawns}
@@ -485,8 +485,14 @@ go for the kill}
 37...Ree4 {37...Re8?! will be a mistake as then 38.b5!? looks good for White as the Knight on a6 cannot go to b4.
 38...cxb5? 39.Rxb5 threatening Rxb7 and the pawn chain c5-d6 turn into a juggernaut. Another line 38...Nxc5 39.Nxc5 Rxd6 40.Nxb7 Rd2+ 41.Kf3 cxb5 42.Rxb5
 Here Black faces an uncertain future}
-38.Ne2 {Threatening to win the Rook on d4.}
-38...Rc4* {Putting the Rook behind the pawn on c5. White's pawn push 39.b5 cannot materialise as the c5 pawn will be lost.}
+38.Ne2 {Threatening to win the Rook on d4. 38.b5 is not fruitful now as the b4 square is available for the Knight. 38...Nb4 39.bxc6 bxc6 40.Nxb4 Rxb4
+and White can at best hope to draw}
+38...Rc4 {Putting the Rook behind the pawn on c5. White's pawn push 39.b5 cannot materialise as the c5 pawn will be lost.}
+39.Nc3 {Attacking the other Rook }
+39...Re6 {The only good square as the Rook cannot afford to lose control over the e-file. Any other safe square allows 40.Ne5+ forking the King
+and the Rook.}
+40.Nd1 {Ne3 is the next move likely to be played and attack the pawn on f5 and the Rook on c4 simultaneously}
+40...Rd4* {The Rook is safe here and behind the passed pawn again.}
 
 
 [Event "AA/C21/Pr/O"]
@@ -565,7 +571,7 @@ plan}
 
 13...Rb8 {Adding more protection to the b5 pawn. Now Black can pull back the Queen to the c7 square and then push ...a5 and keep expanding on the Queenside}
 
-14.Ng5?! {A tepid move not amounbting to anything. The Knight has nothing significant to do from the g5 square}
+14.Ng5?! {A tepid move not amounting to anything. The Knight has nothing significant to do from the g5 square}
 
 14...h6 {Kicking the Knight and controlling the g5 square for good}
 
@@ -688,4 +694,8 @@ Black will have to waste at least two tempi to get her back into action.}
 The move played takes away the g6 square from the Black Rook. But the move not only keeps the f-file closed but also }
 25...Na5 {The pawn on b7 is now protected and Black now prepares ...Bd7 followed by ...Bc6. The Knight on a5 can jump to c4 at an opportune time.}
 26.Qe2 {The Queen wants to go to the b5 square and grab the a4 pawn next.}
-26...Bd7* {No entry on the b5 square!}
+26...Bd7 {No entry on the b5 square!}
+27.Red1 {Looking to trade Rooks}
+27...Bc6 {Improving the Bishop's influence and the Black Queen is ready to play ...Qxd6 if White decides to swap Rooks}
+28.c4 {Denying the c4 square to the Black Knight}
+28...b6* {Vacating the b7 square for the Knight and preventing White from pushing c5}

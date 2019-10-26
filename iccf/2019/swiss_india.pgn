@@ -32,7 +32,11 @@ where White does not gain anything significant. The move played deviates from th
 7...exd5 {Black captures away from the centre and prepares to play ...Re8 after castling short. White will not have the move Ne5 as the e-file has been opened up.}
 8.Bd3 {White has cleared matters in the centre and prepares to push e4 at some point in the near future and prepares to castle Kingside}
 8...O-O {Black is good as is the case in the Semi-Slav.}
-9.O-O* {White will now play Re1 and then look to push e4 and gain space in the centre.}
+9.O-O {White will now play Re1 and then look to push e4 and gain space in the centre.}
+9...Re8 {As planned.Black does not allow an easy e4 for White}
+10.Re1 {Preparing e4}
+10...Nf8 {...Bg4 is prepared and Black is ready to play ...Bxf3 to damage White's pawn structure}
+11.h3* {The g4 square is taken away for the moment from Black's pieces}
 
 
 [Event "Sweden-Asia,Africa,Australia,New Zealand"]
@@ -70,4 +74,6 @@ d-file allowing White to push e5 himself.}
 8.Re1 {Protecting the wedge pawn on e5 and threatening Bxg6 followed by Qxd5 winning back the piece.}
 8...c6 {A necessary move to prevent 9.Bxg6. The Knight on d5 gets added protection}
 9.Bc4 {Attacking the Knight again and White threatens to win a pawn after Bxd5 on the next move.Again Black is forced to defend the Knight and go for a delayed castling.}
-9...Nc5* {The Queen protects the Knight on d5 as the Knight on d7 vacates the e6 square for the Bishop on c8 to join the party}
+9...Nc5 {The Queen protects the Knight on d5 as the Knight on d7 vacates the e6 square for the Bishop on c8 to join the party}
+10.Qd4 {The Queen is ready to swing to h4. Now the Black Knight has to move back again}
+10...Ne6* {Attacking the Queen}

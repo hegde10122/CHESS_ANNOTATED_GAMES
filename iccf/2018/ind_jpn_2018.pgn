@@ -4,7 +4,7 @@
 [Round "-"]
 [White "Ganesh Rama Hegde"]
 [Black "Koumei Tanabe"]
-[Result "*"]
+[Result "1-0"]
 [WhiteElo "2276"]
 [BlackElo "2084"]
 [Annotator "Ganesh R Hegde"]
@@ -209,8 +209,13 @@ Black King. 39...Kh7 40.Qh4+ Qh6 41.Nh5 and with moves like Rf6 to follow, Black
 64.Kc3 Ra6 {Black decides to support the pawn. But the White King is closer by and the pawn on a4 will fall}
 65.Rb7 {Pinning the hapless Knight as White threatens to play Rcc7 and win the Knight on g7}
 65...h5? {65...Rg6 was necessary and then ...h5 on move 66}
-66.Rcc7* {White has perhaps delivered the death blow here. The Knight on g7 can be protected only by ...Rg6 but White can forcibly exchange all pieces and then gobble up the a4 pawn
+66.Rcc7 {White has perhaps delivered the death blow here. The Knight on g7 can be protected only by ...Rg6 but White can forcibly exchange all pieces and then gobble up the a4 pawn
 with the King's help.}
+66...Rg6 {Forced move to protect the Knight}
+67.Rxg7+ {Forcing matters. The pieces will be exchanged and then the a4 pawn will be gobbled up. White's passed b-pawn will march towards
+the Queening square}
+67...Rxg7 68.Rxg7 Kxg7 69.Kb4 {This move seals the pawn on a4 next and the b2 pawn will march towards the Queening square b8.Black Resigned}1-0
+
 
 
 [Event "IND-JPN 2018"]

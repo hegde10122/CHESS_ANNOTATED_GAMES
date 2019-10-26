@@ -2,107 +2,6 @@
 [Site "ICCF"]
 [Date "2019.05.23"]
 [Round "-"]
-[White "Hegde, Ganesh"]
-[Black "Palmateer, Carl"]
-[Result "*"]
-[WhiteElo "2240"]
-[BlackElo "2233"]
-[Board "7"]
-[ECO "E04"]
-[WhiteTeam "India"]
-[BlackTeam "USA"]
-[BlackTitle ""CCE]
-
-1.d4 Nf6  {The Indian defence is a popular answer to the Queen's pawn opening}
-
-2.c4 e6 {Black wants to develop the Bishop on f8 and castle quickly}
-
-3.Nf3  {White avoids the Nimzo-Indian}
-
-3...d5 {The Queen's gambit declined by transposition}
-
-4.g3 {The Catalan}
-
-4...dxc4 {Black grabs the pawn and gives p centre control}
-
-5.Bg2 {The Catalan move order where White is looking for strategic gains. Here White controls the h1-a8 diagonal. White can still capture the
-pawn back with Qa4+ followed by Qxc4}
-
-5...Nc6 {A popular variation against the Catalan. Here Black's goal is to play ...Rb8 if White plays 6.O-O and then protect the extra pawn with ...b5}
-
-6.Qa4 {A theoretical line where White wants to get back the pawn on c4 and fight for an opening advantage}
-
-6...Bb4+ {The main line}
-
-7.Bd2 {All standard theory}
-
-7...Nd5 {Bolstering the Bishop with the access to the c4 pawn blocked}
-
-8.Bxb4 {White goes for simplification which is the most popular continuation}
-
-8...Ndxb4 {Forced}
-
-9.O-O {White nestles his King to safety}
-
-9...Rb8 {The most popular response. Preparing ...b5}
-
-10.Na3  {Attacking the pawn on c4 and preventing ...b5}
-
-10...O-O {Black castles and the Knight on c6 is no longer pinned}
-
-11.Qb5 {The only move to get back the pawn}
-
-11...b6 {The Bishop will come out on b7 or a6}
-
-12.Qxc4 {White gets back the pawn}
-
-12...Ba6 {Attacking the Queen}
-
-13.Nb5 {If the Queen were to move then the pawn on e2 would fall}
-
-13...Qe8 {The Queen overprotects the Knight on c6 as White threatens a3. 13...Qd5 14.Qxd5 Nxd5 would lead to a drawish game}
-
-14.Rfd1 {14.Rfc1 was also possible. This move adds more strength to the d4 pawn}
-
-14...Nxa2 {Black goes for tactics and wins a pawn}
-
-15.Rxa2 {Forced or the Knight goes back to b4}
-
-15...Na5 {Protecting the Bishop on a6 and attacking the defender of the Knight on b5. The Queen must go back and allow Black to recapture
-the piece}
-
-16.Qc2 {16.Qxc7 Qxb5 and White's Queen on c7 will be attacked again. The pawn on e2 is also hanging and Black is okay here}
-
-16...Bxb5 {Black gets back the Knight}
-
-17.Ng5 {Threatening Qxh7#}
-
-17...g6 {17...f5 looks more fragile as it creates a "hole" on e5}
-
-18.b4 {Attacking the Knight. 17.h4 is also worth consideration.}
-
-18...Nc6 {The Knight safely retreats}
-19.Ne4 {A cunning move that threatens fork on f6. This move also invites Black to push his pawn and protect the f6 square thereby creating more weaknesses
-around the Black King. Black is also dared to play 19...Nxb4 having a fork of his own}
-19...f6 {Black does weaken his pawn structure here}
-20.Rb2 {20.Qc3 is also okay but why make the Queen a defensive piece?}
-20...Rd8 {Piling pressure on the d4 pawn}
-21.e3 {Protecting the d4 pawn}
-21...Ne7 {Baiting the c7 pawn. 22.Qxc7 Nd5 and Black is okay}
-22.Ra1 {Attacking the a7 pawn}
-22...a6 {Protecting the pawn}
-23.Nc3* {Attacking the Bishop, the defender of the a6 pawn}
-23...c6 {23...Bc4 is also okay}
-24.Nxb5 axb5 {White creates doubled pawns and hope to win back a pawn later}
-25.Ra7 {Seventh rank infiltration}
-25...Rd7 {Hoping to trade Rooks}
-26.Rba2 {White wants to keep a Rook on the seventh rank if Black decides to liquidate}
-26...Qc8 27.R2a6 Rxa7 28.Rxa7 Nd5 29.Qa2 Re8 30.e4 Nxb4 31.Qa3 Qb8 32.Rd7 c5 33.e5 Rf8 34.Rb7 Qe8 35.exf6*
-
-[Event "IND - USA 2019"]
-[Site "ICCF"]
-[Date "2019.05.23"]
-[Round "-"]
 [White "Palmateer, Carl"]
 [Black "Hegde, Ganesh"]
 [Result "*"]
@@ -217,4 +116,110 @@ allow White to double the Rooks on the d-file after Kc1,Rd3,Red1 etc. After 27..
 35.Kc1 {The King is now safe and White looks forward to regroup his pair of Rooks}
 35...a5 {A necessary move that vacates the a7 square for the Rook. Black can also play ...Ra6 and put the question to the Bishop on f6}
 36.Re5 {White prepares Red5 and threateb=ns to mate on d8 square}
-36...g5* {Vacating the g6 square for the Rook and end White's stranglehold on the e7 pawn.36...Ra6.Putting the question to the Bishop was also playable.}
+36...g5 {Vacating the g6 square for the Rook and end White's stranglehold on the e7 pawn.36...Ra6.Putting the question to the Bishop was also playable.}
+37.Rde3 {More pressure on the e7 pawn}
+37...Ra7 {Ugly looking but effective defence}
+38.Rc3 {Attacking the Knight}
+38...Nd6* {The Knight is safe here}
+
+[Event "IND - USA 2019"]
+[Site "ICCF"]
+[Date "2019.05.23"]
+[Round "-"]
+[White "Hegde, Ganesh"]
+[Black "Palmateer, Carl"]
+[Result "*"]
+[WhiteElo "2240"]
+[BlackElo "2233"]
+[Board "7"]
+[ECO "E04"]
+[WhiteTeam "India"]
+[BlackTeam "USA"]
+[BlackTitle "CCE"]
+
+1.d4 Nf6  {The Indian defence is a popular answer to the Queen's pawn opening}
+
+2.c4 e6 {Black wants to develop the Bishop on f8 and castle quickly}
+
+3.Nf3  {White avoids the Nimzo-Indian}
+
+3...d5 {The Queen's gambit declined by transposition}
+
+4.g3 {The Catalan}
+
+4...dxc4 {Black grabs the pawn and gives up centre control}
+
+5.Bg2 {The Catalan move order where White is looking for strategic gains. Here White controls the h1-a8 diagonal. White can still capture the
+pawn back with Qa4+ followed by Qxc4}
+
+5...Nc6 {A popular variation against the Catalan. Here Black's goal is to play ...Rb8 if White plays 6.O-O and then protect the extra pawn with ...b5}
+
+6.Qa4 {A theoretical line where White wants to get back the pawn on c4 and fight for an opening advantage}
+
+6...Bb4+ {The main line}
+
+7.Bd2 {All standard theory}
+
+7...Nd5 {Bolstering the Bishop with the access to the c4 pawn blocked}
+
+8.Bxb4 {White goes for simplification which is the most popular continuation}
+
+8...Ndxb4 {Forced}
+
+9.O-O {White nestles his King to safety}
+
+9...Rb8 {The most popular response. Preparing ...b5}
+
+10.Na3  {Attacking the pawn on c4 and preventing ...b5}
+
+10...O-O {Black castles and the Knight on c6 is no longer pinned}
+
+11.Qb5 {The only move to get back the pawn}
+
+11...b6 {The Bishop will come out on b7 or a6}
+
+12.Qxc4 {White gets back the pawn}
+
+12...Ba6 {Attacking the Queen}
+
+13.Nb5 {If the Queen were to move then the pawn on e2 would fall}
+
+13...Qe8 {The Queen overprotects the Knight on c6 as White threatens a3. 13...Qd5 14.Qxd5 Nxd5 would lead to a drawish game}
+
+14.Rfd1 {14.Rfc1 was also possible. This move adds more strength to the d4 pawn}
+
+14...Nxa2 {Black goes for tactics and wins a pawn}
+
+15.Rxa2 {Forced or the Knight goes back to b4}
+
+15...Na5 {Protecting the Bishop on a6 and attacking the defender of the Knight on b5. The Queen must go back and allow Black to recapture
+the piece}
+
+16.Qc2 {16.Qxc7 Qxb5 and White's Queen on c7 will be attacked again. The pawn on e2 is also hanging and Black is okay here}
+
+16...Bxb5 {Black gets back the Knight}
+
+17.Ng5 {Threatening Qxh7#}
+
+17...g6 {17...f5 looks more fragile as it creates a "hole" on e5}
+
+18.b4 {Attacking the Knight. 17.h4 is also worth consideration.}
+
+18...Nc6 {The Knight safely retreats}
+19.Ne4 {A cunning move that threatens fork on f6. This move also invites Black to push his pawn and protect the f6 square thereby creating more weaknesses
+around the Black King. Black is also dared to play 19...Nxb4 having a fork of his own}
+19...f6 {Black does weaken his pawn structure here}
+20.Rb2 {20.Qc3 is also okay but why make the Queen a defensive piece?}
+20...Rd8 {Piling pressure on the d4 pawn}
+21.e3 {Protecting the d4 pawn}
+21...Ne7 {Baiting the c7 pawn. 22.Qxc7 Nd5 and Black is okay}
+22.Ra1 {Attacking the a7 pawn}
+22...a6 {Protecting the pawn}
+23.Nc3 {Attacking the Bishop, the defender of the a6 pawn}
+23...c6 {23...Bc4 is also okay}
+24.Nxb5 axb5 {White creates doubled pawns and hope to win back a pawn later}
+25.Ra7 {Seventh rank infiltration}
+25...Rd7 {Hoping to trade Rooks}
+26.Rba2 {White wants to keep a Rook on the seventh rank if Black decides to liquidate}
+26...Qc8 27.R2a6 Rxa7 28.Rxa7 Nd5 29.Qa2 Re8 30.e4 Nxb4 31.Qa3 Qb8 32.Rd7 c5 33.e5 Rf8 34.Rb7 Qe8 35.exf6*
+35...Nd5 36.dxc5 bxc5 37.Qxc5 Qc8 38.Qxb5*

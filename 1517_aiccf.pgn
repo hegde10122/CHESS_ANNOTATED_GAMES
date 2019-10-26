@@ -241,7 +241,15 @@ White moves the Queen. Also 24...Qf8 25.Nc2 Nexc5 26.dxc5 Ra8 27.Qb4 Ne5 with th
 29.Nf1 {29.Qb7 Nb8 30.Rxe8 Rxe8 31.Re1 Rxe1 32.Bxe1 creates a drawish position}
 29...f5?! {A difficult choice where Black tries to open up the Kingside. A better looking move, I feel was 29...Red8 followed by ...Ne6. It is important to remove the
 distressed Knight on d7 and take it to safer shores.}
-30.Rxe8* {White exchanges a pair of Rooks before improving the Knight's position to g3.}
+30.Rxe8 {White exchanges a pair of Rooks before improving the Knight's position to g3.}
+30...Rxe8 {30...Qxe8? is bad as it allows 31.}
+31.Ng3 {Ready to jump to f5 after Nxf5}
+31...fxg4 {Black clears the f-file and forces a trade}
+32.fxg4 Qf7 {Black Queen protects the Knight on d7 thereby losing control over the c6 pawn. The Knight on f8 will now go travel via the g6-
+f4 route and generate some counterplay. 32...Bxd4 is also an interesting choice. 33.Bxd4 Qe6 eyeing the g4 pawn. Black's idea is to trip
+White King's pawn cover and force a perpetual check to draw the game. But 34.Rf1 Qxg4 is complicated and White has chances to look forward to a
+positive result.}
+33.Nxc6* {White grabs the pawn}
 
 
 
@@ -338,7 +346,10 @@ allows 13.Nxb5! taking advantage of the pinned c6 pawn}
 26...gxf5 {Black accepts the pawn offer}
 27.exf5 Qxe2 28.Nxe2 b5 29.axb5 Rxd1+ 30.Rxd1 axb5 {Too much simplification with a draw on the cards} 31.Ne3 Nf6 32.Nc3 Ra8 {Looking to activate the Rook for better prospects.
 Black can attack the pawn on b3 with ...Ra3}
-33.Ned5* {Attacking the Bishop on e7 and inviting the Black Knight to go for further simplification.}
+33.Ned5 {Attacking the Bishop on e7 and inviting the Black Knight to go for further simplification.}
+33..Nxd5 34.Rxd5 {Pieces are going off the board}
+34...Rb8 {The Rook is ready to create a passed pawn}
+35.f6* {Trying to deflect the Bishop and grab the pawn on c5}
 
 
 [Event "1517"]
@@ -928,7 +939,12 @@ duties.}
 28.hxg3 {The Queen remains on c3. 28.Qxg3 would have forced White to spend another move to bring back the Queen to an active square}
 28...Ne5 {The c4 pawn gets added protection.}
 29.Bc2 {The pawn on e4 will be a target now}
-29...Bc6* {29...Qd5?! runs into 30.Rbe1 Qc5+ 31.Qe3 Qxe3 32.Rxe3 Bc6 33.Bxe4 and White stands better.}
+29...Bc6 {29...Qd5?! runs into 30.Rbe1 Qc5+ 31.Qe3 Qxe3 32.Rxe3 Bc6 33.Bxe4 and White stands better.}
+30.Bc2 {The e4 pawn is the new target}
+30...Nd3 {The pawn on e4 is protected indirectly as the Black Knight sits on an annoying square for the White pieces}
+31.Bxd3 {The offender is eliminated}
+31...cxd3* {The only correct recapture. 31...Rxd3?! leads to back rank weaknesses. 32.Rb8+ Nc8 33.Qb4 and the Black King remains stuck in the centre.
+On the other hand, 31...exd3?! is also bad because White then piles on the e-file with increased pressure on the pinned Knight. 32.Re3 followed by R1e1 will keep the Black King stuck in the centre defending the Knight on e7}
 
 
 [Event "1517"]
@@ -1122,10 +1138,12 @@ work hard to get back into the game}
 24.Ne1 {h4-h5 is dropped and f4-f5 idea is born!}
 24...Qd7 {f4 cannot be prevented but this move forces White to make another Knight move to force f5}
 25.Qf3 {Not sure whether this is a correct strategy. White Queen attacks the f7 pawn and dissolves the f4 idea. This is an esoteric move in my opinion.}
-25...Kd8 {25...Qe8 also looks okay but then the Rook on h8 will not be able to swing to the Queenside in the future without losing additional tempi.}
+25...Kg8 {25...Qe8 also looks okay but then the Rook on h8 will not be able to swing to the Queenside in the future without losing additional tempi.}
 26.Ne3 {White's Knight is probably going to c2 and then a3. This is confusing chess}
 26...a4 {Grabbing more Queenside space as White changes track}
-27.N1c2* {The Knight will probably go to b4 and create some sort of a blockade and thwart Black's expansion.}
+27.N1c2* {The Knight will probably go to b4 and create some sort of a blockade and thwart Black's expansion. The a3 square is now controlled by the
+White Knight on c2}
+
 
 [Event "1517"]
 [Site "AICCF"]
@@ -1265,6 +1283,10 @@ Rook to move again. 33.Ra1 with ideas like a5 also looks okay for White}
 47.Nd7+ Kg7 {The King goes back to a safe square as the White Knight controls a lot of squares in the Black territory}
 48.Rc2 {Not allowing the Black Rook to lord the second rank}
 48...h5* {Waiting move}
+49.g3 {White too does not have too many options}
+49...Ra8* {The c5 pawn is left hanging as a bait as Black is ready to play ...Ra1 and lord the first rank. The pawn on h5 also acts
+as a web}
+
 
 [Event "1517"]
 [Site "AICCF"]
@@ -1512,8 +1534,20 @@ White could have played Qf4 followed by Nf5 offering to trade pieces and ease th
 32...g5 {The Knight will now retreat as planned}
 33.Ng2 f4 {...Bxh3 is an idea}
 34.gxf4 {Grabbing the pawn leaving the Kingside vulnerable}
-34...Bxh3 35.Qe2 Bxg2 36.Qh5+ Kg7 37.Kxg2 Rh8 38.Rh1 Qg8 {With an intention of trading Queens on the g-file after the pawns go off the board from the g-file}
-
+34...Bxh3 {Black too exposes the White King further}
+35.Qe2 Bxg2 {Black is keen to liquidate and exploit his space advantage}
+36.Qh5+ {An in-between check before the Bishop recapture}
+36...Kg7 37.Kxg2 Rh8 {increasing the Rook's influence over the h-file}
+38.Rh1 Qg8 {The Queen joins the party as Black decides to exchange all the heavy artillery and enter into a superior endgame.
+Black intends to trade Queens on the g-file after the pawns go off the board from the g-file}
+39.Rh3 {Rg3 in sight perhaps}
+39...Rf6 {The Black Rook also joins the party}
+40.fxg5 hxg5 {White opens up the gain and can win a pawn here}
+41.Qxg5+ Kf7 {Forced or the Queen will grab the Rook on f6}
+42.Qxg8+ Kxg8 43.Rxh8+ Kxh8 {White trades but what else can be done? It is an inferior position with the Bishop on b1 not finding a White square
+and trapping its own Rook comrade on a1!. It is said that Bishops thrive on long diagonal but what kind of a long diagonal is this?}
+44.f3 {44.a4 was also possible. This move looks funny but White is clearly inferior with the number of possibilities drying up}
+44...Re6* {With the idea of ...Re2+ and winning the b2 pawn}
 
 [Event "1517"]
 [Site "AICCF"]
