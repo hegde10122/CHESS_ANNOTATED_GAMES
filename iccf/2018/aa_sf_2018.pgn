@@ -1061,9 +1061,11 @@ and White is hoping to play with an opposite-coloured Bishop ending in the long 
 a bright future as the e6 square is difficult for White's pieces to access.}
 44.Qg2 {The Queen is ready to defend the Kingside as Black threatens to expand}
 44...Qd7 {Not allowing Rb5 that would have allowed White to attack the d5 pawn twice}
-45.Ra2* {White wants to build up pressure on the a-file.
+45.Ra2 {White wants to build up pressure on the a-file.
 It is also possible that the Rook on a2 will go to b2 and then White will play Rb5 to apply more pressure on the d5 pawn.}
-
+45...Rg6 {Adding more control over the sixth rank,Black waits}
+46.h3 {Waiting move again}
+46...Qf7* {The Queen moves and Black throws the ball in White's court again}
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -1193,8 +1195,9 @@ Kingside offensive with 27...g5 followed by ...h5. White will have to bring back
 32...dxc5 33.bxc5 Qxc5 34.Rc1 creating an isolated pawn on c7 to target in the future. 32.cxb5 Nb6 allows the Knight back into the game and Black can hope to fight being a pawn down.}
 32...Rg8 {Black wants to play ...Qh4 forcing White to stave off mate by playing h3. Then ...Bxh3 can force a draw. 32...dxc5 is dangerous as 33.bxc5 Qxc5 allows 34.Rc2 and the pawn on c7
 will eventually fall paving the way for intrusion of the White's army}
-33.Qe1* {A stout move guarding the h4 square with an X-ray. At first sight, it looks as 33.c6 is much more troublesome for Black. 33...Qh4 34.h3
+33.Qe1 {A stout move guarding the h4 square with an X-ray. At first sight, it looks as 33.c6 is much more troublesome for Black. 33...Qh4 34.h3
 But Black has a great defensive resource.34...Bxh3!! 35.gxh3 g2+ 36.Bxg2 Rxg2! 37.Kxg2 Rg8+ and the Queen-Rook battery ensure a perpetual check for Black }
+33...c6* {Not allowing the c6 pawn push from White. 33...dxc5 34.bxc5 Qxc5 is slow poison for Black. After the Rooks double on the c-file, the c7 pawn will be lost and White will consolidate the position}
 
 
 [Event "AA/C18/SF/A"]
@@ -1325,8 +1328,8 @@ come to the e4 square}
 33.f3* {The mate is prevented}
 33...Bxf3 {Black plays a series of exchanges that neutralises White's grip on the position.}
 34.gxf3 Qxh3+ 35.Qh2 Qxf3+
-36.Qg2 Rxe3 37.Qxf3 Rxf3 38.Rxg5+ Kh7* {The position looks drawish}
-
+36.Qg2 Rxe3 37.Qxf3 Rxf3 38.Rxg5+ Kh7  {The position looks drawish}
+39.Ne5 Rh3+ 40.Kg2 Ra3* {Attacking the pawn on a2}
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]

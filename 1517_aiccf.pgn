@@ -1046,11 +1046,13 @@ idea to recapture the Knight with the Bishop}
 19.bxa5 {White has a dangerous position and a passed pawn now}
 19...Qe7 {The Queen comes back to shore up the defence.}
 20.Bb5 {Attacking the defender of the light squares}
-20...Bd5 {The Bishop on b7 is not safe at all.}
+20...Bd5 {The Bishop on b7 is* not safe at all.}
 21.Rad1 {White prepares 22.Bc3 with an attack on the Bishop on d5}
 21...Be6 {Black Bishop now loses control of the a8-h1 diagonal }
 22.e4 {The d5 square is also taken away for the moment from Black. The d6 pawn is now a serious weakness for Black}
-22...h6* {22...fxe4 23.fxe4 Rxf1 24.Rxf1 does not solve Black's d6 problem as }
+22...h6 {22...fxe4 23.fxe4 Rxf1 24.Rxf1 does not solve Black's d6 problem as }
+23.h3 Rac8 24.a6 {Passed pawn pushed further}
+24...c4* {Vacating the c5 square for the Knight and put pressure on the a6 pawn}
 
 [Event "1517"]
 [Site "AICCF"]
@@ -1149,9 +1151,9 @@ work hard to get back into the game}
 25...Kg8 {25...Qe8 also looks okay but then the Rook on h8 will not be able to swing to the Queenside in the future without losing additional tempi.}
 26.Ne3 {White's Knight is probably going to c2 and then a3. This is confusing chess}
 26...a4 {Grabbing more Queenside space as White changes track}
-27.N1c2* {The Knight will probably go to b4 and create some sort of a blockade and thwart Black's expansion. The a3 square is now controlled by the
+27.N1c2 {The Knight will probably go to b4 and create some sort of a blockade and thwart Black's expansion. The a3 square is now controlled by the
 White Knight on c2}
-
+27...Rb3* {Creating a blockade on the b-file}
 
 [Event "1517"]
 [Site "AICCF"]
@@ -1298,8 +1300,8 @@ as a web}
 50...Raa1 {As planned}
 51.Kh3 Rh1+ {The Rook puts the question to the King}
 52.Rh2 {The only good defensive move.52.Kg2? h4! 53.gxh4? Bxh4 and White will have to lose a Rook. 54.Nxc5 Rag1+ 55.Kf3 Rh3+ 56.Ke2 Re1+ and Black will win}
-52...Rae1* {Offering to trade Rooks as the pawn on e6 is under an X-ray attack if the trade offer is rejected}
-
+52...Rae1 {Offering to trade Rooks as the pawn on e6 is under an X-ray attack if the trade offer is rejected}
+53.Rxe1 Rxe1 54.Ra2* {The Rook wants to penetrate the seventh rank}
 
 [Event "1517"]
 [Site "AICCF"]
