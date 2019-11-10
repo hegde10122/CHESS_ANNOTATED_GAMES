@@ -492,7 +492,16 @@ and White can at best hope to draw}
 39...Re6 {The only good square as the Rook cannot afford to lose control over the e-file. Any other safe square allows 40.Ne5+ forking the King
 and the Rook.}
 40.Nd1 {Ne3 is the next move likely to be played and attack the pawn on f5 and the Rook on c4 simultaneously}
-40...Rd4* {The Rook is safe here and behind the passed pawn again.}
+40...Rd4 {The Rook is safe here and behind the passed pawn again.}
+41.Ne3 Kf6 {Defending the attacked pawn on f5 as White Knight stations itself on an active square}
+42.Nc2 {Attacking the Rook again}
+42...Rc4 {The Rook is safe here as Black keeps the pressure on the b4 pawn}
+43.Ne3 {Attacking the Rook again as both the Rook and the Knight dance around!}
+43...Rce4 {No more d4 square for the Rook again and the Knight on e3 is the new target}
+44.Ng2 {The Knight can now jump to f4 or e1}
+44...Rd4 {The fourth rank is for the taking.44...Re2+ was also okay for Black.}
+45.Nge1 {The Knight dance is excruciatingly painful to watch!}
+45...Re8* {The Rook goes back to guard the eight rank and waits for White to take a decision}
 
 
 [Event "AA/C21/Pr/O"]
@@ -698,4 +707,6 @@ The move played takes away the g6 square from the Black Rook. But the move not o
 27.Red1 {Looking to trade Rooks}
 27...Bc6 {Improving the Bishop's influence and the Black Queen is ready to play ...Qxd6 if White decides to swap Rooks}
 28.c4 {Denying the c4 square to the Black Knight}
-28...b6* {Vacating the b7 square for the Knight and preventing White from pushing c5}
+28...b6 {Vacating the b7 square for the Knight and preventing White from pushing c5}
+29.Bf3 {Waiting move as the Bishop is hemmed in by its own light-square pawn complex}
+29...f6* {Solidifying the centre}

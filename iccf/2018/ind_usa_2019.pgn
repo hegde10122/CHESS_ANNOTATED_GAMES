@@ -115,12 +115,19 @@ allow White to double the Rooks on the d-file after Kc1,Rd3,Red1 etc. After 27..
 34...Rg8 {34...Rf8 seems okay as well}
 35.Kc1 {The King is now safe and White looks forward to regroup his pair of Rooks}
 35...a5 {A necessary move that vacates the a7 square for the Rook. Black can also play ...Ra6 and put the question to the Bishop on f6}
-36.Re5 {White prepares Red5 and threateb=ns to mate on d8 square}
+36.Re5 {White prepares Red5 and threatens to mate on d8 square}
 36...g5 {Vacating the g6 square for the Rook and end White's stranglehold on the e7 pawn.36...Ra6.Putting the question to the Bishop was also playable.}
 37.Rde3 {More pressure on the e7 pawn}
 37...Ra7 {Ugly looking but effective defence}
 38.Rc3 {Attacking the Knight}
-38...Nd6* {The Knight is safe here}
+38...Nd6 {The Knight is safe here}
+39.Rc6 {With more pressure on the Knight}
+39...Kf8 {Finally out of the annoying pin on e7}
+40.Rd5 {White gives up the Bishop but wants to lord the sixth rank by grabbing the Knight in return}
+40...exf6 41.Rdxd6 {The pawn on f6 will fall soon}
+40...Rg6 {The Rook comes out to neutralise the effect on the sixth rank}
+42.Rxf6 Kg7* {The Black King protects his friend on g6 and forces another pair of Rooks to be traded}
+
 
 [Event "IND - USA 2019"]
 [Site "ICCF"]
@@ -221,5 +228,10 @@ around the Black King. Black is also dared to play 19...Nxb4 having a fork of hi
 25.Ra7 {Seventh rank infiltration}
 25...Rd7 {Hoping to trade Rooks}
 26.Rba2 {White wants to keep a Rook on the seventh rank if Black decides to liquidate}
-26...Qc8 27.R2a6 Rxa7 28.Rxa7 Nd5 29.Qa2 Re8 30.e4 Nxb4 31.Qa3 Qb8 32.Rd7 c5 33.e5 Rf8 34.Rb7 Qe8 35.exf6*
-35...Nd5 36.dxc5 bxc5 37.Qxc5 Qc8 38.Qxb5*
+26...Qc8 27.R2a6 Rxa7 28.Rxa7 Nd5 29.Qa2 Re8 30.e4 Nxb4 31.Qa3 Qb8 32.Rd7 c5 33.e5 Rf8 34.Rb7 Qe8 35.exf6
+35...Nd5 36.dxc5 bxc5 37.Qxc5 Qc8 38.Qxb5 Qc1+
+39.Bf1 {39.Qf1 allows Black to claw back into the game with reduced material on the board. 39...Qxf1+ 40.Bxf1 Rf7 and it will be hard for White to force a win}
+39...Nxf6 {The pawn is gobbled up}
+40.Re7 {Attacking the isolated pawn from behind as White keeps up the pressure on the seventh rank}
+40...Qe1 {The pawn is protected for the moment and Black prepares ...Ng4 to pressurise the f2 pawn}
+41.Qb7* {The Knight has to guard the h7 pawn and Black cannot go for ...Ng4}

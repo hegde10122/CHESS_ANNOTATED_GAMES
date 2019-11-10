@@ -36,7 +36,9 @@ where White does not gain anything significant. The move played deviates from th
 9...Re8 {As planned.Black does not allow an easy e4 for White}
 10.Re1 {Preparing e4}
 10...Nf8 {...Bg4 is prepared and Black is ready to play ...Bxf3 to damage White's pawn structure}
-11.h3* {The g4 square is taken away for the moment from Black's pieces}
+11.h3 {The g4 square is taken away for the moment from Black's pieces}
+11...Be6 {The Bishop develops to the best possible square available}
+12.a4* {The Queen side expansion begins}
 
 
 [Event "Sweden-Asia,Africa,Australia,New Zealand"]
@@ -76,4 +78,6 @@ d-file allowing White to push e5 himself.}
 9.Bc4 {Attacking the Knight again and White threatens to win a pawn after Bxd5 on the next move.Again Black is forced to defend the Knight and go for a delayed castling.}
 9...Nc5 {The Queen protects the Knight on d5 as the Knight on d7 vacates the e6 square for the Bishop on c8 to join the party}
 10.Qd4 {The Queen is ready to swing to h4. Now the Black Knight has to move back again}
-10...Ne6* {Attacking the Queen}
+10...Ne6 {Attacking the Queen}
+11.Qh4 {The Queen comes to h4 as planned and White is ready for Bh6 and exchange the Bishops weakening the dark squares in the Black camp}
+11...h6* {The g5 square is taken out for the moment as Black cannot castle short any time soon}
