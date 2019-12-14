@@ -138,7 +138,7 @@ in this positional variation of the QGD. 9...Nbd7 lending support was a playable
 [EventDate "2019.03.19"]
 [ECO "D12"]
 [Annotator "Ganesh R Hegde"]
-[Result "*"]
+[Result "1/2-1/2"]
 [BlackTitle "CCM"]
 
 1.d4 d5 {The Queen pawn's game}
@@ -255,8 +255,20 @@ positive result.}
 34...Bf8 {Not allowing 35.Nxg7}
 35.Qa3 {White prepares Qf3 to protect the pawn on g4 in view of ...Re4 followed by the threat of ...Rxg4.}
 35...Nf4+ {The Knight penetrates deeper into the White territory}
-36.Kf1* {Preventing ...Re2}
-
+36.Kf1 {Preventing ...Re2}
+36...Qh7 {Looking for ...Qh1+ and pick up the Rook}
+37.Qf3 {The Queen comes back in the nick of time}
+37...Nf6 {Improving the Knight's position}
+38.Re1 Rxe1+ 39.Bxe1 {The Rooks are traded and both sides move towards a drawish ending}
+39...Qh2 {Black does not have any attack going here. White has adequate arsenal to put up resistance.}
+40.Bg3 {Asking the question to the Queen with a fork.}
+40...Qh3+ {The only move that does not allow 41.Bxf3}
+41.Kg1 {The King is safe here}
+41...Nxg4 {Grabbing a pawn}
+42.Qf1 {Forcing the Queen to make a decision}
+42...Qh7 {Attacking the Knight which does not have any good squares to jump}
+43.Bxf4 {It is important to remove the pesky Knight}
+43...Qxf5 44.Bd2 {Offering a draw to Black.Draw accepted}1/2-1/2
 
 [Event "1517"]
 [Site "AICCF"]
@@ -354,7 +366,14 @@ Black can attack the pawn on b3 with ...Ra3}
 33.Ned5 {Attacking the Bishop on e7 and inviting the Black Knight to go for further simplification.}
 33..Nxd5 34.Rxd5 {Pieces are going off the board}
 34...Rb8 {The Rook is ready to create a passed pawn}
-35.f6* {Trying to deflect the Bishop and grab the pawn on c5}
+35.f6 {Trying to deflect the Bishop and grab the pawn on c5}
+35..Bf8 {The Bishop goes to a passive square}
+36.Kg2 b4 {Attacking the Knight as Black wants to create a passed pawn soon}
+37.Ne4 {The Knight can go to c3 followed by b1 if required}
+37...c4 {Black is removing the last pawn in his quest for a Queen on b1}
+38.bxc4 {Only good move}
+38...b3 {Passed pawn meant to be pushed}
+39.Rd1* {Patrolling the b1 square in the nick of time}
 
 
 [Event "1517"]
@@ -945,14 +964,19 @@ duties.}
 28...Ne5 {The c4 pawn gets added protection.}
 29.Bc2 {The pawn on e4 will be a target now}
 29...Bc6 {29...Qd5?! runs into 30.Rbe1 Qc5+ 31.Qe3 Qxe3 32.Rxe3 Bc6 33.Bxe4 and White stands better.}
-30.Bc2 {The e4 pawn is the new target}
+30.Rfe1 {The e4 pawn is the new target}
 30...Nd3 {The pawn on e4 is protected indirectly as the Black Knight sits on an annoying square for the White pieces}
 31.Bxd3 {The offender is eliminated}
 31...cxd3 {The only correct recapture. 31...Rxd3?! leads to back rank weaknesses. 32.Rb8+ Nc8 33.Qb4 and the Black King remains stuck in the centre.
 On the other hand, 31...exd3?! is also bad because White then piles on the e-file with increased pressure on the pinned Knight. 32.Re3 followed by R1e1 will keep the Black King stuck in the centre defending the Knight on e7}
 32.Nf3 {Baiting Black to grab the Knight.}
 32...Qd5 {The Queen protects the Bishop on c6 and threatens ...exf3. 32...exf3? 33.Qxc6+ as the Knight on e7 is pinned. The pawn on f5 is also attacked}
-33.Qxf6* {Again 33...exf3?? is thwarted as 34.Qxe7# ends the game on the spot!}
+33.Qxf6 {Again 33...exf3?? is thwarted as 34.Qxe7# ends the game on the spot!}
+33...Qc5+ {Adding more protection to the Knight as well on e7.Black cannot afford to open up the e-file at the moment.
+33...d2 looks interesting. Asking the White Rook to evacuate the e-file and allow Black to capture ...exf3 and win a piece.
+34.Nxd2 Qxd2.But White can exploit the weak position of the Black King.35.Qh8+ Kf7 36.Qxh7+ Kf6 is forced. 37.g4 and White has a pair of
+connected passed pawns. Black has a tough defence to deal with in this scenario.}
+34.Kh2 Qxf5*
 
 
 [Event "1517"]
@@ -1046,20 +1070,27 @@ idea to recapture the Knight with the Bishop}
 19.bxa5 {White has a dangerous position and a passed pawn now}
 19...Qe7 {The Queen comes back to shore up the defence.}
 20.Bb5 {Attacking the defender of the light squares}
-20...Bd5 {The Bishop on b7 is* not safe at all.}
+20...Bd5 {The Bishop on b7 is not safe at all.}
 21.Rad1 {White prepares 22.Bc3 with an attack on the Bishop on d5}
 21...Be6 {Black Bishop now loses control of the a8-h1 diagonal }
 22.e4 {The d5 square is also taken away for the moment from Black. The d6 pawn is now a serious weakness for Black}
 22...h6 {22...fxe4 23.fxe4 Rxf1 24.Rxf1 does not solve Black's d6 problem as }
 23.h3 Rac8 24.a6 {Passed pawn pushed further}
-24...c4* {Vacating the c5 square for the Knight and put pressure on the a6 pawn}
+24...c4 {Vacating the c5 square for the Knight and put pressure on the a6 pawn}
+25.a7!? {Interesting. 25.Ba5 looks even stronger for White. This move would have allowed White Bishop to infiltrate the dark squares around the
+Queenside.}
+25...fxe4 {}
+26.a8Q Rxa8
+27.Bb4 {Attacking the backward d6 pawn}
+27...Nc5 {The Knight nicely blockades the Bishop and Black is hanging on}
+28.Bxc5 dxc5* {White had nothing better except for the Knight exchange.}
 
 [Event "1517"]
 [Site "AICCF"]
 [White "Satyajit Das"]
 [Black "Hegde, Ganesh"]
 [EventDate "2019.03.19"]
-[Result "*"]
+[Result "0-1"]
 [ECO "C03"]
 [Annotator "Ganesh R Hegde"]
 
@@ -1153,7 +1184,12 @@ work hard to get back into the game}
 26...a4 {Grabbing more Queenside space as White changes track}
 27.N1c2 {The Knight will probably go to b4 and create some sort of a blockade and thwart Black's expansion. The a3 square is now controlled by the
 White Knight on c2}
-27...Rb3* {Creating a blockade on the b-file}
+27...Rb3 {Creating a blockade on the b-file}
+28.Re1 {Improving the Rook's influence as the position is bone-dry at the moment.}
+28...Qc6 {With ideas like ...Qa8 Black is ready for more Queenside play}
+29.Qd1 {Readying f4 and f5}
+29...Kh7 {Vacating the path for the Rook on h8.White lost on time}0-1
+
 
 [Event "1517"]
 [Site "AICCF"]
@@ -1274,7 +1310,7 @@ This move keeps the pressure on the d4 pawn}
 31.Qc2 {Exchanging Queens on the b5 square is not a good idea fo42.Qxa8 Rxa8 43.Ne5 Ra1+ 44.Kh2 Rc8 45.f4 Kf6 46.Re3r White as Black will then have a dominating pawn mass on the Queenside}
 31...Bxh4 {Grabbing the pawn on h4}
 32.a4 {Good move as White wants to push a5 and break Black's pawn chain}
-32...Qb4 {It is important to keep hold on the c4 square.*
+32...Qb4 {It is important to keep hold on the c4 square.
 White cannot play 33.Rc4?? Qxe1 wins for Black.Any other square for the Queen allows
 White to play a5.Now 33.a5? will be a mistake on account of 33...c4! and after the Knight moves. 34...b5 allows Black to gobble up
 the pawn on a5 later}
@@ -1301,7 +1337,16 @@ as a web}
 51.Kh3 Rh1+ {The Rook puts the question to the King}
 52.Rh2 {The only good defensive move.52.Kg2? h4! 53.gxh4? Bxh4 and White will have to lose a Rook. 54.Nxc5 Rag1+ 55.Kf3 Rh3+ 56.Ke2 Re1+ and Black will win}
 52...Rae1 {Offering to trade Rooks as the pawn on e6 is under an X-ray attack if the trade offer is rejected}
-53.Rxe1 Rxe1 54.Ra2* {The Rook wants to penetrate the seventh rank}
+53.Rxe1 Rxe1 54.Ra2 {The Rook wants to penetrate the seventh rank}
+54...Rxe6 {Gobbling up the passed pawn}
+55.Ra7 {Looking to gobble up the c5 pawn as the Bishop on e7 is pinned}
+55...g5 {Intending to push ...g4. Black offers a pawn and hopes to make inroads into the Kingside}
+56.Nxc5 {Grabbing the pawn as the Bishop is pinned}
+56...g4+ {The King is pushed back and the pawns are fixed. As the Bishop can play on both sides of the board, Black can hope to win with his extra pawn}
+57.Kg2 Re2+ {The Rook checks again as Black wants to quickly seize the initiative again after the defensive maneuvering}
+58.Kf1 Re3 {The only square where the Bishop is also supported}
+59.Kg2* {White plays a waiting move}
+
 
 [Event "1517"]
 [Site "AICCF"]
@@ -1423,7 +1468,7 @@ hampering Black's Rooks as the King cannot go down the board easily}
 27...Nc8 {The Knight will go to b6 as the action is on the Queenside}
 28.R6a3 {Covering the c3 square}
 28...R4c6 {Black maintains his pressure on c2 square}
-29.Kd1 Rc4* {Both sides remain quiet as forcing a positive outcome seems a mirage}
+29.Kd1 Rc4 {Both sides remain quiet as forcing a positive outcome seems a mirage}
 30.Ra4 {Offers to trade Rooks which Black accepts}sss
 30...Rxa4 31.Rxa4 Ne7 {The Knight has better things to do}
 32.Kd2 {Preventing ...Rc3}
@@ -1432,12 +1477,13 @@ hampering Black's Rooks as the King cannot go down the board easily}
 34.cxd5 exd5 {Trade helps Black and a draw looms large}
 35.Ra6 {Draw agreed as 35...Rb6 keeps Black safe and secure. An exciting opening ends in a dull draw.}1/2-1/2
 
+
 [Event "1517"]
 [Site "AICCF"]
 [White "Amit Kumar Sharma"]
 [Black "Hegde, Ganesh"]
 [EventDate "2019.03.19"]
-[Result "*"]
+[Result "0-1"]
 [ECO "C00"]
 [Annotator "Ganesh R Hegde"]
 
@@ -1564,7 +1610,22 @@ and trapping its own Rook comrade on a1!. It is said that Bishops thrive on long
 44.f3 {44.a4 was also possible. This move looks funny but White is clearly inferior with the number of possibilities drying up}
 44...Re6 {With the idea of ...Re2+ and winning the b2 pawn}
 45.Kf2 {Controlling the e2 square}
-45...a4* {That is a boa-constrictor squeeze!}
+45...a4 {That is a boa-constrictor squeeze!}
+46.Be4 {Enough is enough says White and sacrifices the dead Bishop}
+46...dxe4 {Accept the gift with joy}
+47.fxe4 Rxe4 {Black inches closer to victory as he is a clean piece up}
+48.Kf3 {Attacking the Rook now }
+48...Rh4 {Threatening ...Rh2 followed by ...Rxb2}
+49.Re1 {The Rook wants to create some counter-attacking chances}
+49...Nd5 {The Knight gets out of the threat and prepares ...Nxc3 at an opportune time to create a passed b-pawn on b3}
+50.Kg3 Rh5 {The e5 square is now not available for the White Rook for free}
+51.Re8+ Kg7 {The White Rook will probably go to b8 and keep an eye on the advanced b3 pawn}
+52.Rb8 {As planned. 52...Nxc3 is not possible now as ...b2 is not possible}
+52...Kf6 {Bringing the King closer to the pawns}
+53.Rc8 {White could have also attempted 53.Rb5}
+53...Nxc3 {The Knight can afford to sacrifice itself as the White Rook has no control over the b-file now. Black can play ...Rb5 if
+White decides to accept the Knight sacrifice. White resigned as 54.Rxc4 Nd1 attacking the b2 pawn. 55.Rxa4 Rb5 and the pawn on b3 will
+Queen after ...Nxb2 soon.}0-1
 
 
 [Event "1517"]

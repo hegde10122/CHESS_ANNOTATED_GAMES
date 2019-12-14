@@ -38,7 +38,9 @@ where White does not gain anything significant. The move played deviates from th
 10...Nf8 {...Bg4 is prepared and Black is ready to play ...Bxf3 to damage White's pawn structure}
 11.h3 {The g4 square is taken away for the moment from Black's pieces}
 11...Be6 {The Bishop develops to the best possible square available}
-12.a4* {The Queen side expansion begins}
+12.a4 {The Queen side expansion begins}
+12...Ng6* {Black is solid here. 12...a5 is also a good choice}
+
 
 
 [Event "Sweden-Asia,Africa,Australia,New Zealand"]
@@ -66,7 +68,7 @@ where White does not gain anything significant. The move played deviates from th
 4.Bd3 {A quiet move where White will probably castle next. 4.h3!? is also possible where White takes away the g4 square for the Black Bishop on c8.}
 4...Nf6 {Transposing into the Pirc defense.}
 5.O-O {White could have still played 5.h3!? or even 5.c4}
-5...Nbd7* {A slow line where Black prepares the ...e5 thrust in the centre forcing White to make a decision. This move on the other hand blocks the Queen's vigil of the
+5...Nbd7 {A slow line where Black prepares the ...e5 thrust in the centre forcing White to make a decision. This move on the other hand blocks the Queen's vigil of the
 d-file allowing White to push e5 himself.}
 6.e5 {White grabs the opportunity to expand in the centre and gains space.}
 6...dxe5 {Forced as the Knight was attacked}
@@ -80,4 +82,9 @@ d-file allowing White to push e5 himself.}
 10.Qd4 {The Queen is ready to swing to h4. Now the Black Knight has to move back again}
 10...Ne6 {Attacking the Queen}
 11.Qh4 {The Queen comes to h4 as planned and White is ready for Bh6 and exchange the Bishops weakening the dark squares in the Black camp}
-11...h6* {The g5 square is taken out for the moment as Black cannot castle short any time soon}
+11...h6 {The g5 square is taken out for the moment as Black cannot castle short any time soon}
+12.Nc3 {White develops the Knight but he is willing to damage his pawn structure in the process.12.Bd2 looks more solid in my opinion.}
+12...Nxc3 {12...Nb6 does not look a prudent choice.13.Bb3 Nc5 14.Be3 and has a tremendous lead in development with a clear edge. 12...g5 is also
+a poor choice as 13.Qh5 allows White to lord the light-squared weaknesses on the Kingside.The Black King will then remain precariously
+placed in the centre of the board for a while. 13...b5 14.Bb3 and White is nicely placed here.}
+13.bxc3*

@@ -126,7 +126,18 @@ allow White to double the Rooks on the d-file after Kc1,Rd3,Red1 etc. After 27..
 40.Rd5 {White gives up the Bishop but wants to lord the sixth rank by grabbing the Knight in return}
 40...exf6 41.Rdxd6 {The pawn on f6 will fall soon}
 40...Rg6 {The Rook comes out to neutralise the effect on the sixth rank}
-42.Rxf6 Kg7* {The Black King protects his friend on g6 and forces another pair of Rooks to be traded}
+42.Rxf6 Kg7 {The Black King protects his friend on g6 and forces another pair of Rooks to be traded}
+43.Rxg6 fxg6 {Black gets doubled pawns}
+44.Kd2 {Activating the King}
+44...Rf7 {The Rook is ready to attack the weak pawn on h3}
+45.Re6 h5 46.Kd3 Rd7+ {The Rook wants to go to the second rank and gobble up pawns}
+47.Ke4 Rd2 {The Rook is now ready to gobble up the second rank pawns}
+48.gxh5 Re2+ {Black forces the King to dance around}
+49.Kd5 Rd2+ {Another check to handle}
+50.Ke5 {White King has advanced too far from his pawns now}
+50...gxh5 {The time for a draw is nearer now}
+51.Rc6 {Preventing the capture of the c2 pawn}
+51...Rf2* {Blocking the White King from entering the f-file}
 
 
 [Event "IND - USA 2019"]
@@ -234,4 +245,9 @@ around the Black King. Black is also dared to play 19...Nxb4 having a fork of hi
 39...Nxf6 {The pawn is gobbled up}
 40.Re7 {Attacking the isolated pawn from behind as White keeps up the pressure on the seventh rank}
 40...Qe1 {The pawn is protected for the moment and Black prepares ...Ng4 to pressurise the f2 pawn}
-41.Qb7* {The Knight has to guard the h7 pawn and Black cannot go for ...Ng4}
+41.Qb7 {The Knight has to guard the h7 pawn and Black cannot go for ...Ng4}
+41...Kh8 {A wasted move}
+42.Qb2 {Pinning the Knight}
+42...Kg8 {This is why move 41 was wasteful as the King has to go back to g8}
+43.h4 {Wait and watch as the Knight on f6 is precariously placed}
+43...e5* {...e4 followed by ...e3 is the idea to damage White's pawn structure.The Black pawn is now acting as a gambit to free Black's defensive resources}

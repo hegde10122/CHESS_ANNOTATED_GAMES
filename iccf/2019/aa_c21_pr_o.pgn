@@ -298,7 +298,7 @@ f4 pawn. It also stops Black from playing ...h4 himself}
 42.R1e7 {Offering to trade Rooks}
 42...Bf6 {What else?}
 43.Rg8+ {Forcing exchange of all the pieces on board and Queening on d8 soon afterwards}
-43...Bg7 44.Rxf7 Kxf7 45.Rxg7+ Kxg7 46.d7 {White will bring a Queen on the next move and should win easily.Black resigned}1-0
+43...Bg7 44.Rxf7 Kxf7 45.Rxg7+ Kxg7 46.d7 {White will bring a Queen on the next move and should win easily. Black resigned}1-0
 
 
 [Event "AA/C21/Pr/O"]
@@ -362,6 +362,7 @@ and White can carry out a mating attack against the Black King}
 11...Be6?? {What an unbelievable blunder in a correspondence game of chess!! }
 
 12.Qxh7# {Checkmate!}1-0
+
 
 [Event "AA/C21/Pr/O"]
 [Site "ICCF"]
@@ -501,7 +502,14 @@ and the Rook.}
 44.Ng2 {The Knight can now jump to f4 or e1}
 44...Rd4 {The fourth rank is for the taking.44...Re2+ was also okay for Black.}
 45.Nge1 {The Knight dance is excruciatingly painful to watch!}
-45...Re8* {The Rook goes back to guard the eight rank and waits for White to take a decision}
+45...Re8 {The Rook goes back to guard the eight rank and waits for White to take a decision}
+46.Kf3 Nb8 {The Knight is looking for greener pastures after ...Nd7}
+47.Ra3 {White wants to infiltrate the seventh rank}
+47...Nd7 {As planned}
+48.Kf2 {Waiting move again}
+48...Nf8 {Will go to the Kingside}
+49.Nf3 {Attacking the Rook again}
+49...Rde4*{The Rook is safe here}
 
 
 [Event "AA/C21/Pr/O"]
@@ -709,4 +717,16 @@ The move played takes away the g6 square from the Black Rook. But the move not o
 28.c4 {Denying the c4 square to the Black Knight}
 28...b6 {Vacating the b7 square for the Knight and preventing White from pushing c5}
 29.Bf3 {Waiting move as the Bishop is hemmed in by its own light-square pawn complex}
-29...f6* {Solidifying the centre}
+29...f6 {Solidifying the centre}
+30.Qf2 {Looks like another waiting move}
+30...Rxd1+ {Black decides to liquidate and move closer to an endgame}
+31.Rxd1 Qe7 {The Queen is safe here}
+32.Rc1 {Looking to push c5 at some point}
+32...Nb7 {Improving the Knight's position}
+33.Kg2 {White consolidates his position further and waits for Black to make a move}
+33...Ra5* {Looking for ...Rc5 and pile up on the c4 pawn after ...Nd6.
+33...Rd8 looks pale in comparison as 34.Nd5 blocks the Rook from infiltrating the position}
+34.Nd5 {Attacking the Queen and the Knight occupies a more influential square.}
+34...Bxd5 {Simplifying further, the good Knight is taken out}
+35.cxd5 {The weak pawn on c4 is now a d-pawn}
+35...Rc5* {Why don't you trade me as well - pleads the Black Rook}

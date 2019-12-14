@@ -439,14 +439,14 @@ for a defense is a reference to the Indian version of chess, in which pawns only
 move one square forward, never two, so an 'Indian' defense is one in which the early
 pawn moves are just one square. Another version of the story is that the name comes
 from a player named Bannerjee Moheschunder, who regularly played 1...Nf6 in India
-in the flrst half of the 1 9th century. Cannot predict which story is true.}
+in the first half of the 19th century. Cannot predict which story is true.}
 2.c4 {White expands and controls the d5 square}
 2...e6 {Black too is eyeing the d5 square and prepares ...d5 at some point later}
 3.Nc3 {White develops the Knight and threatens e4 with a massive centre}
 3...Bb4 {The Nimzo-Indian Defence}
 4.e3 {The Rubinstein variation where White intends to play Bd3,Nf3 or Ne2 followed by O-O.The downside to the move is that White's dark-squared Bishop is blocked
 on c1}
-4...b6 {A popular response where Blacks intends to play ...Bb7 and exert pressure on the e4 square. ...Ba6 is also another reponse that Black can play depending on White's reply}
+4...b6 {A popular response where Blacks intends to play ...Bb7 and exert pressure on the e4 square. ...Ba6 is also another response that Black can play depending on White's reply}
 5.Nge2 {White supports the pinned Knight and will recapture with this Knight as soon as Black will play ...Bxc3}
 5...Ba6 {Black attacks the c4 pawn.This is the best continuation for Black}
 6.Ng3 {White Knight moves to a solid square without worrying about the doubling of the pawns on the c-file after ...Bxc3+
@@ -552,13 +552,46 @@ protected twice and does not need another defender on a6}
 51...Nf7 {Planning ...g5}
 52.Be3 {Anticipating g5 with tempo}
 52...g5 53.Qe2 {White does not seem to have any valid plan}
-53...Kc7* {The King gets out of the b-file as Black prepares ...b5}
-
+53...Kc7 {The King gets out of the b-file as Black prepares ...b5}
+54.Bc1 {White has had enough and decides to trade Queens}
+54...Qxe2+ 55.Kxe2 {55.Bxe2?! is no better as the light-squared Bishop is hemmed in by Black's pawns on light squares.55...b5! and Black will eventually push ...b4
+with a strong passed pawn}
+55...Kd7 56.Bc2 Ke6 {Improving the King's position as White's Bishop pair have no active play}
+57.Bd1 b5 {Black wants to create a passed pawn }
+58.Ba3 {The White Bishop tries to create some counterplay on the dark squares as it is unopposed over the board now}
+58...Nd6 59.Bc5 {The Bishop is trying to increase its influence and White again adopts a waiting policy}
+59...g4 {Black plays on the Kingside now} 60.fxg4 {Nothing better for White as the pawn was attacked twice.
+60.Kf2?? gxf3 61.Bxf3 62.Kxf3 Nd5! and White loses the c3 pawn}
+60...fxg4 {Nice recapture with the pawns locked on the Kingside}
+61.Bc2 {The unlucky Bishop is now eyeing some activity}
+61...Be4* {Looking to trade pieces and enter a winning endgame}
+62.Bxd6 {Eliminating the defender of Bishop, White goes into an inferior King and pawns endgame}
+62...Bd3+ {The only logical way to save the Bishop. The Bishop will go off the board}
+63.Bxd3 cxd3+ {The Bishop goes with a check or White would have saved the dark-squared Bishop on d6}
+64.Kxd3 Kxd6 {Now Black King must aid the passed pawn on the a-file somehow to win}
+65.c4 {Offering a pawn exchange to trick Black.}
+65...bxa4 {65...bxc4?? is losing for Black as 66.Kxc4 allows the White King an easy access to the c5 square after the Black King moves away from
+the d6 square}
+66.Kc3 {Dissuading Black from pushing 66...a3}
+66...Ke6 {The only move that leads to a win for Black. The Black King must move to f5 next and then control the White's pawn pair
+from marching forward by occupying the e4 square subsequently.}
+67.Kb2 {Trying to cut-off the passed a-pawn}
+67...Kf5 {In the nick of time to control the e4 square}
+68.Ka3 {Blockading the passed pawn}
+68...Ke4 {Forcing the pawn to the fifth rank now}
+69.d5 {White will now push the c-pawn to the eight square but Black too is equally good as we shall see.}
+69...cxd5 70.c5! {White best chance to equalise as both pawns will now race to the Queening squares}
+70...d4 71.c6 d3 72.c7 d2 73.c8=Q d1=Q* {Both Queens are alive again but Black should win these as the Kingside pawns are weak and up for
+grabs}
+74.Qe6+ Kf3 75.Qf5+ Ke3 76.Qf4+ {Another check where White hopes to grab the g4 pawn somehow}
+76...Kd3* {Only square where the g4 pawn is also protected. 76...Ke2?? 77.Qxg4+ and will win}
 
 
 [Event "3rd IZIT Pr K"]
 [Site "ICCF"]
-[Date "2018.06.16"]
+[Date "2018.06.16"] {Another check where White hopes to grab the g4 pawn somehow}
+76...Kd3 {Only square where the g4 pawn is also protected. 76...Ke2?? 77.Qxg4+ and will win}
+
 [Round "-"]
 [White "Mikhail Vasilievich Stukalov"]
 [Black "Ganesh Rama Hegde"]

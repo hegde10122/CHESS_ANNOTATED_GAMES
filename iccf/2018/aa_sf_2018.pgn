@@ -781,8 +781,14 @@ Kingside with 20.f4 g4 keeping the g-file closed yet again. 21.Qc2 Be6 or 21...e
 28...gxh5 {Black accepts the challenge}
 29.f4 {Closing the f-file and asking Black to take up the gauntlet}
 29...b4 {Black expands on the Queenside with the heavy artillery behind}
-30.a4* {Keeping the pawn formation closed on the Queenside. 30.Bc4 looks attractive but then Black has sufficient counterplay.
+30.a4 {Keeping the pawn formation closed on the Queenside. 30.Bc4 looks attractive but then Black has sufficient counterplay.
 30...Qe4 31.Bxe6+ Bf7 32.Bxf7 Kxf7 33.Re1 and Black looks okay}
+30...Qe4 {Attacking the Bishop}
+31.Bf2 {Only good square.31.Bg1 looks more passive as it can become a hindrance for the Rooks to switch over to the Kingside if needed}
+31...Qxf4 {Grabbing a pawn}
+32.Bf3 {The Bishop does a fair job here}
+32...c6 {32...Rab8 makes the Rook passive. Instead Black is more than happy to allow 33.Bxc6 and exchange pieces to reduce passive play}
+33.Rc4* {White wants to push d5 with a tempo on the Black Queen}
 
 
 [Event "AA/C18/SF/A"]
@@ -888,7 +894,10 @@ The move played halts White from playing Rd2}
 29.Kh1 {The White King is also joining the party now of making boring moves with no intention of forcing concrete ideas}
 29...Ndc5 {The Knight goes to the Queenside again}
 30.Rf1 {White Rook is now back to the Kingside}
-30...Ne6* {Going back to the Kingside}
+30...Ne6 {Going back to the Kingside}
+31.Ne3 {Repositioning the Knight to go to the Kingside}
+31...Ned4 32.Qc3* {The Queen is safe here and the Knight on d4 is attacked twice now}
+
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -1065,13 +1074,19 @@ a bright future as the e6 square is difficult for White's pieces to access.}
 It is also possible that the Rook on a2 will go to b2 and then White will play Rb5 to apply more pressure on the d5 pawn.}
 45...Rg6 {Adding more control over the sixth rank,Black waits}
 46.h3 {Waiting move again}
-46...Qf7* {The Queen moves and Black throws the ball in White's court again}
+46...Qf7 {The Queen moves and Black throws the ball in White's court again}
+47.Kh2 {As slow as it can get!}
+47...a5 {Black decides to use the passed pawn to good effect. The plan is to use the light-squared Bishop, the Queen and smother
+White for space  on the a and the b-files}
+48.Be3 Bd7 49.Bc1 Qe6 50.Qf1 Bc6
+51.Ba3 Ka7*
+
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
 [Date "2018.11.30"]
 [Round "-"]
-[White "Marius J. Fourie"]
+[White "Marius Jacques Fourie"]
 [Black "Hegde, Ganesh"]
 [Result "*"]
 [WhiteElo "2369"]
@@ -1197,7 +1212,15 @@ Kingside offensive with 27...g5 followed by ...h5. White will have to bring back
 will eventually fall paving the way for intrusion of the White's army}
 33.Qe1 {A stout move guarding the h4 square with an X-ray. At first sight, it looks as 33.c6 is much more troublesome for Black. 33...Qh4 34.h3
 But Black has a great defensive resource.34...Bxh3!! 35.gxh3 g2+ 36.Bxg2 Rxg2! 37.Kxg2 Rg8+ and the Queen-Rook battery ensure a perpetual check for Black }
-33...c6* {Not allowing the c6 pawn push from White. 33...dxc5 34.bxc5 Qxc5 is slow poison for Black. After the Rooks double on the c-file, the c7 pawn will be lost and White will consolidate the position}
+33...c6 {Not allowing the c6 pawn push from White. 33...dxc5 34.bxc5 Qxc5 is slow poison for Black. After the Rooks double on the c-file, the c7 pawn will be lost and White will consolidate the position}
+34.Rc2 {More pressure on the c-file}
+34...Rg6 {The Rook comes to the defence of the sixth rank pawns.}
+35.Rac1 {Doubling the Rooks on the c-file as White prepares to exchange pawns and open up the floodgates}
+35...Ra6 {Coming to the sixth rank as the game will open up after the pawns are exchanged.35...cxd5? 36.c6 is strong as the passed pawn will pose a serious headache for Black.
+36.exd5 preparing c6 on the next move is also annoying for Black. 35...dxc5 36.bxc5 allows White to plant two pawns on the fifth rank. It also
+vacates the b4 and a5 squares for the White Bishop to reactivate itself on an important square exacerbating Black's pain. }
+36.dxc6* {Opening up the d-file with an attack on the Bishop now}
+
 
 
 [Event "AA/C18/SF/A"]
@@ -1206,7 +1229,7 @@ But Black has a great defensive resource.34...Bxh3!! 35.gxh3 g2+ 36.Bxg2 Rxg2! 3
 [Round "-"]
 [White "Hegde, Ganesh"]
 [Black "Mosrati, Nabil"]
-[Result "*"]
+[Result "1/2-1/2"]
 [WhiteElo "2251"]
 [BlackElo "2308"]
 [ECO "D36"]
@@ -1323,13 +1346,16 @@ come to the e4 square}
 29.Nd3 {29.Ne2 is okay for White as well}
 29...Qb8+ 30.Kh1 Qc8 {Threatening Qxh3# on the next move}
 31.Kh2 {White King goes back again. In hindsight, 28.Rc5 looks bad now as 28.Rf1 could have vacated the g1 square for the White King}
-31...Qb8+ 32.Kh1* {The position has been repeated}
+31...Qb8+ 32.Kh1 {The position has been repeated}
 32...Qc8 {Threatening Qxh3# on the next move}
-33.f3* {The mate is prevented}
+33.f3 {The mate is prevented}
 33...Bxf3 {Black plays a series of exchanges that neutralises White's grip on the position.}
 34.gxf3 Qxh3+ 35.Qh2 Qxf3+
 36.Qg2 Rxe3 37.Qxf3 Rxf3 38.Rxg5+ Kh7  {The position looks drawish}
-39.Ne5 Rh3+ 40.Kg2 Ra3* {Attacking the pawn on a2}
+39.Ne5 Rh3+ 40.Kg2 Ra3 {Attacking the pawn on a2}
+41.Nxf7 {The Knight grabs a pawn}
+41...Rxa2+ {Draw offered and agreed}1/2/-1/2
+
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -1620,7 +1646,7 @@ with the aggression}
 [Round "-"]
 [White "Odeeva, Kristina"]
 [Black "Hegde, Ganesh"]
-[Result "*"]
+[Result "1-0"]
 [WhiteElo "2188"]
 [BlackElo "2251"]
 [ECO "C18"]
@@ -1757,6 +1783,15 @@ does not have the option of Qd6 as discussed earlier to prevent the fork.}
 31.Nf4 {White does not fall for the trap but instead goes hunting for the g6 square forcing another King move}
 31...Kg8 {Forced as Ng6+ ends the game for Black. The Knight on f7 is again a pinned piece while the Rook on h7 looks a dead piece}
 32.f3 {Another waiting move as White plays a python like squeezing move}
-33...Qd6 {Looking to trade Queens}
-34.Qb3 {Threatening 35.Bb4 with a winning position}
-34...Qd7* {The Queen gets out of the way but Black is looking tight here}
+32...Qd6 {Looking to trade Queens}
+33.Qb3 {Threatening 35.Bb4 with a winning position}
+33...Qd7 {The Queen gets out of the way but Black is looking tight here}
+34.Nd5 {White plans to go Ne7-g6 followed by Nxf8 } 34...Kh8 {Black is staring at defeat here }
+35.Ne7 {Ng6 is inevitable here}
+35...g5 {Black is prolonging the inevitable}
+36.Ng6+ Kg7 {The Rook on h7 can look forward to have something active}
+37.Nxf8 Kxf8 {Black loses the exchange and it is game over}
+38.Bb4+ Kg8 {The King is put back as White tightens the screws}
+39.Rc7!! {The Rook is acting as a sacrificial goat to get to the Black King. }
+39...Qb5 {Looking for 40...Qe2# as 39...Qxc7?? 40.Re8+ Kg7 41.Bf8+ Kf6 42.Qe6#}
+40.Kf2 {Forced} Rg7 {What else?} 41.Rxd4 {Black Resigned. 12...Qxc2,in hindsight, seems a mistake now!}1-0
