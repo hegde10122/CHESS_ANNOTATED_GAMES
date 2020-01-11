@@ -388,7 +388,10 @@ and earlier the better}
 44.Nd3 {The Knight comes back and attacks the b2 pawn}
 44...Bd4 {Another waiting move from Black}
 45.c5 {Pushing the passed pawn further}
-45...Kg7* {The King will go down the board and attack White's pawns}
+45...Kg7 {The King will go down the board and attack White's pawns}
+46.c6 {White pushes the pawn again}
+46...Kf6 {Bringing the King towards the centre as White's passed pawn is toothless.}
+47.Kd2* {Adding another probable attacker to the pawn on b2 with 48.Kc2 on the cards}
 
 
 

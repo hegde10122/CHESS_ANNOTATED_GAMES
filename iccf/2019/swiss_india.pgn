@@ -42,11 +42,11 @@ where White does not gain anything significant. The move played deviates from th
 12...Ng6 {Black is solid here. 12...a5 is also a good choice}
 13.Ng5 {Attacking the h7 pawn for the third time}
 13...Nf8 {The Knight on g6 adds further protection to the pawn on h7}
-14.f4* {14.Nxe6 is playable but White's Bishop on c1 is a problematic piece and White's Bishop pair is pseudo influential at best.
+14.f4 {14.Nxe6 is playable but White's Bishop on c1 is a problematic piece and White's Bishop pair is pseudo influential at best.
 Instead White's plan is to play Qf2,Nf3 followed by Ne5 where the Knight on e5 will be a solid piece. The move played is planned to
 create a stronghold on the e5 square and Black must react accordingly.
 14.b3 is also a good plan where White intends to play Qa2 followed by Ba3 to exchange the bad Bishop with its counterpart on d6.}
-
+14...Rc8*
 
 
 
@@ -95,4 +95,7 @@ d-file allowing White to push e5 himself.}
 12...Nxc3 {12...Nb6 does not look a prudent choice.13.Bb3 Nc5 14.Be3 and has a tremendous lead in development with a clear edge. 12...g5 is also
 a poor choice as 13.Qh5 allows White to lord the light-squared weaknesses on the Kingside.The Black King will then remain precariously
 placed in the centre of the board for a while. 13...b5 14.Bb3 and White is nicely placed here.}
-13.bxc3 Qa5* {The Queen attacks the c3 pawn as a countermeasure as Black's pieces are still tied up}
+13.bxc3 Qa5 {The Queen attacks the c3 pawn as a countermeasure as Black's pieces are still tied up}
+14.Qe4 {For some strange reason,White centralises the Queen again.14.Bd2 or 14.Rb1 look better.Perhaps White was banking on 14...Qxc3?
+15.Bd1! Qa3 16.Nh4 O-O 17.Nxg6 and Black's position falls apart}
+14...Nc5* {Attacking the Queen with tempo. This move also vacates the e6 square for the Bishop on c8.}
