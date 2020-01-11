@@ -788,7 +788,17 @@ Kingside with 20.f4 g4 keeping the g-file closed yet again. 21.Qc2 Be6 or 21...e
 31...Qxf4 {Grabbing a pawn}
 32.Bf3 {The Bishop does a fair job here}
 32...c6 {32...Rab8 makes the Rook passive. Instead Black is more than happy to allow 33.Bxc6 and exchange pieces to reduce passive play}
-33.Rc4* {White wants to push d5 with a tempo on the Black Queen}
+33.Rc4 {White wants to push d5 with a tempo on the Black Queen}
+33...Bg7 {If d4 is pushed then the e5 pawn will lose support and Black hopes to negate White's attempt of pushing d5}
+34.Ka2 {A waiting move}
+34...Kh8 {The ball is back in White's court and it is time to make a decision as White is two pawns down}
+35.d5!? {Another pawn sacrifice on the offing but Black Queen is under attack.35.Rh1 is a weak attempt to win the h5 pawn.35...Qg5 protects it.
+36.Qe2 with another attacker to the h5 pawn. But then 36...Bh6 intending to play ...Qd2+ and exchanging Queens. 37.Rc2 allows Black to play 37...Qe7 and
+giving up the h5 pawn would do wonders for Black's defence}
+35...Qxe5 {The Queen has to grab the pawn and threaten ...Qxb2# on the next move. 35...Qg5? is suicidal after 36.dxc6 and White's Bishop pair
+will allow the safe escort of the passed pawn on c6. 36...Rc7 37.Bb6 Rac8 38.Bxa5 followed by Bxb4 and White have a new pair of passed pawns with a winning game}
+36.Bd4* {Forcing the Queen to g3 or c7 as the Bishop on g7 will need support after the Queen moves from e5}
+
 
 
 [Event "AA/C18/SF/A"]
@@ -896,7 +906,10 @@ The move played halts White from playing Rd2}
 30.Rf1 {White Rook is now back to the Kingside}
 30...Ne6 {Going back to the Kingside}
 31.Ne3 {Repositioning the Knight to go to the Kingside}
-31...Ned4 32.Qc3* {The Queen is safe here and the Knight on d4 is attacked twice now}
+31...Ned4 32.Qc3 {The Queen is safe here and the Knight on d4 is attacked twice now}
+32...Ne6 33.Kg1 Nf4 34.Qc2 Ra8 35.Rfe1 Qg6 36.Kh2 Kh8 37.Bg3 {Attacking the Knight}
+37...Ne6* {Retreats without any problem}
+
 
 
 [Event "AA/C18/SF/A"]
@@ -1078,8 +1091,13 @@ It is also possible that the Rook on a2 will go to b2 and then White will play R
 47.Kh2 {As slow as it can get!}
 47...a5 {Black decides to use the passed pawn to good effect. The plan is to use the light-squared Bishop, the Queen and smother
 White for space  on the a and the b-files}
-48.Be3 Bd7 49.Bc1 Qe6 50.Qf1 Bc6
-51.Ba3 Ka7*
+48.Be3 {Another move from the tall pawn!}
+48...Bd7 {Black's perennial problem piece in the French defence controls the a4 square}
+49.Bc1 {What else than have some fun with the spineless piece!}
+49...Qe6 {The Queen will now come to e8 or d7 in a bid to exert more influence over the a4 square}
+50.Qf1 Bc6 {The d5 pawn is protected}
+51.Ba3 Ka7 {The King is safe here and White has to make yet another decision}
+52.Bc1 Rg8* {Black plans to plant the Rook on a8 if required or else continue with ...Qg6 and create some chances on the Kingside}
 
 
 [Event "AA/C18/SF/A"]

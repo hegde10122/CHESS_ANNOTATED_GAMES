@@ -428,7 +428,7 @@ double the pawns on the c-file after ...Bxc3 giving WHite positional weaknesses.
 [Round "-"]
 [White "Wim Velker"]
 [Black "Ganesh Rama Hegde"]
-[Result "*"]
+[Result "0-1"]
 [WhiteElo "2270"]
 [BlackElo "2276"]
 [ECO "E45"]
@@ -581,17 +581,15 @@ from marching forward by occupying the e4 square subsequently.}
 68...Ke4 {Forcing the pawn to the fifth rank now}
 69.d5 {White will now push the c-pawn to the eight square but Black too is equally good as we shall see.}
 69...cxd5 70.c5! {White best chance to equalise as both pawns will now race to the Queening squares}
-70...d4 71.c6 d3 72.c7 d2 73.c8=Q d1=Q* {Both Queens are alive again but Black should win these as the Kingside pawns are weak and up for
+70...d4 71.c6 d3 72.c7 d2 73.c8=Q d1=Q {Both Queens are alive again but Black should win this endgame as the Kingside pawns are weak and up for
 grabs}
 74.Qe6+ Kf3 75.Qf5+ Ke3 76.Qf4+ {Another check where White hopes to grab the g4 pawn somehow}
-76...Kd3* {Only square where the g4 pawn is also protected. 76...Ke2?? 77.Qxg4+ and will win}
-
+76...Kd3 {Only square where the g4 pawn is also protected. 76...Ke2?? 77.Qxg4+ and will win}
+7.Qf5+ Kd2 78.Qd5+ Ke2 79.Qe4+ Kf2 80.Qc2+ Qe2 81.Qg6 Kg2 82.Qh7 Kxh2 83.Qc2 Qg2 84.Qc1 Qxg3+ 85.Kxa4 Qf2 {White resigned as the pawn on g4 will Queen}0-1
 
 [Event "3rd IZIT Pr K"]
 [Site "ICCF"]
-[Date "2018.06.16"] {Another check where White hopes to grab the g4 pawn somehow}
-76...Kd3 {Only square where the g4 pawn is also protected. 76...Ke2?? 77.Qxg4+ and will win}
-
+[Date "2018.06.16"]
 [Round "-"]
 [White "Mikhail Vasilievich Stukalov"]
 [Black "Ganesh Rama Hegde"]

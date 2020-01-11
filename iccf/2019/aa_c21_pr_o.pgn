@@ -509,7 +509,18 @@ and the Rook.}
 48.Kf2 {Waiting move again}
 48...Nf8 {Will go to the Kingside}
 49.Nf3 {Attacking the Rook again}
-49...Rde4*{The Rook is safe here}
+49...Rde4{The Rook is safe here}
+50.Ra2  {...Re2+ is prevented}
+50...Nd7 {Improving the position of the Knight}
+51.h4 {White expands on the Kingside and waits}
+51...h6 {52.Ng5 is halted}
+52.h5 {Further expansion on the Kingside}
+52...Nf8 {The Knight has an important role to play from the e6 square}
+53.Ra7 {Attacking the b7 pawn now}
+53...Rb8 {The attack is smothered as of now}
+54.Nh4 {White wants to supplant the Knight on the g6 square once the Black Knight moves}
+54...Ne6* {The Knight will go to b5 via d4}
+
 
 
 [Event "AA/C21/Pr/O"]
@@ -724,9 +735,34 @@ The move played takes away the g6 square from the Black Rook. But the move not o
 32.Rc1 {Looking to push c5 at some point}
 32...Nb7 {Improving the Knight's position}
 33.Kg2 {White consolidates his position further and waits for Black to make a move}
-33...Ra5* {Looking for ...Rc5 and pile up on the c4 pawn after ...Nd6.
+33...Ra5 {Looking for ...Rc5 and pile up on the c4 pawn after ...Nd6.
 33...Rd8 looks pale in comparison as 34.Nd5 blocks the Rook from infiltrating the position}
 34.Nd5 {Attacking the Queen and the Knight occupies a more influential square.}
 34...Bxd5 {Simplifying further, the good Knight is taken out}
 35.cxd5 {The weak pawn on c4 is now a d-pawn}
-35...Rc5* {Why don't you trade me as well - pleads the Black Rook}
+35...Rc5 {Why don't you trade me as well - pleads the Black Rook}
+36.Qd2 {White Queen supports the Rook instead}
+36...Rxc1 {Good for Black}
+37.Qxc1 Qc5 {Please trade me too!}
+38.Qxc5 Nxc5 {Capturing with the pawn is inferior as Black is saddled with doubled pawns}
+39.Kf1 {Can White survive with the poor Bishop ?}
+39...b5 {The modus operandi is simple as the Knight on c5 will remain unchallenged for sometime.
+Play ...b4,...a3 followed by the King to f8-e7-d6 and so on}
+40.Ke2 {Trying to shore up the Queenside. This is a classic case of bad Bishop versus a good Knight exacerbating White's woes}
+40...b4 {Black prevents White from pushing a3}
+41.Kd2 a3 {The b2 square is taken away from the White King as well and the Queen side has become an impenetrable fortress at the moment for White }
+42.Kc2 {The King tries his best and now it is Black who can dominate this endgame}
+42...Kf7 {The Black King now will come towards the centre and try to gobble up the hapless pawns}
+43.h4 {The White Bishop is hemmed in by his own pawns and this looks the best possible alternative for White}
+43...Ke7 {I am coming soon towards the centre, Mr.Bishop!}
+44.Bg2 {What else is good for White as the lame Bishop looks like a tall pawn}
+44...Kd6 {Marching slowly towards the Queenside}
+45.Bf3 {Defending the e4 pawn is the only sane job left for the Bishop}
+45...c6 {Clearing the path towards the Queenside}
+46.dxc6 Kxc6* {The King can more forward now}
+47.g4 {Another alternative at White's disposal is to keep pushing the g-pawn instead of moving the hapless Bishop. But this does not help matters}
+47...Kb6 {Black King aims to move to the b4 square}
+48.Bg2 {White is defenceless here}
+48...Ka5 {Slowly but steadily Black King is one step from his b4 destination}
+49.Bf3 {Poor Bishop has nothing else but guard the e4 pawn. White can start praying for Black to commit a grave error}
+49...b3+* {Vacating the b4 square for the King}

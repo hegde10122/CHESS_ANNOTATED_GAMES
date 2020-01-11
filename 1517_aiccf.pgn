@@ -373,7 +373,23 @@ Black can attack the pawn on b3 with ...Ra3}
 37...c4 {Black is removing the last pawn in his quest for a Queen on b1}
 38.bxc4 {Only good move}
 38...b3 {Passed pawn meant to be pushed}
-39.Rd1* {Patrolling the b1 square in the nick of time}
+39.Rd1 {Patrolling the b1 square in the nick of time}
+39...b2 {Forcing White to passivity}
+40.Rb1 {Forced as ...b1Q is threatened}
+40...Bh6 {...Bc1 is on the cards}
+41.Kf1 {The King rushes to thwart Black's chances. }
+41...Bf4 {The Bishop will go to e5 most probably and gobble up the f6 pawn that is acting as a wedge in Black's throat. Also the b2 pawn
+requires additional support or else the Rook on b8 will remain a bodyguard for some more time to come.}
+42.Nc5 {The Knight will go to d3 and attack the pawn twice. 42.Nf2 will also allow White to accomplish the same objective of Nf2-d3}
+42...Be5 {Black trains his Bishop on the f6 target}
+43.Ke2 {43.Ke1? is bad. 43...Rd8 cuts off the King from entering the d-file.44.Ke2 is the viable option now followed by Nd3. This variation tells us that tempi are important
+and earlier the better}
+43...Bxf6 {Gobbling up the free pawn }
+44.Nd3 {The Knight comes back and attacks the b2 pawn}
+44...Bd4 {Another waiting move from Black}
+45.c5 {Pushing the passed pawn further}
+45...Kg7* {The King will go down the board and attack White's pawns}
+
 
 
 [Event "1517"]
@@ -976,7 +992,10 @@ On the other hand, 31...exd3?! is also bad because White then piles on the e-fil
 33...d2 looks interesting. Asking the White Rook to evacuate the e-file and allow Black to capture ...exf3 and win a piece.
 34.Nxd2 Qxd2.But White can exploit the weak position of the Black King.35.Qh8+ Kf7 36.Qxh7+ Kf6 is forced. 37.g4 and White has a pair of
 connected passed pawns. Black has a tough defence to deal with in this scenario.}
-34.Kh2 Qxf5*
+34.Kh2 Qxf5
+35.Qh8+ Qf8 36.Qxf8+ Kxf8 37.Nd2 h5 38.Rb4 a5 39.Rc4 {White adds another attacker to the e4 pawn}
+39...Bd5 40.Rcc1 Bc6 41.Rc5 Bd5* {The h5 pawn needs to be protected or else Rxh5 will result in double passed pawns for White on the g-file -
+an unwanted headache for Black}
 
 
 [Event "1517"]
@@ -1010,7 +1029,7 @@ He also boasted once,"When I play White, I win because I have the first move. Wh
 5...Bxd2+ {5...Ba5 is not sound for Black as theory suggests}
 
 6.Qxd2 {6.Bxd2 was perhaps better as the Bishop would have been developed. But White wants to play b4 followed by Bb2 to fianchetto the dark-squared Bishop.
-But WHite senses that Black on account of the loss of the dark-squared Bishop will be weaker on dark squares and the Bishop on b2 controls the long diagonal
+But White senses that Black on account of the loss of the dark-squared Bishop will be weaker on dark squares and the Bishop on b2 controls the long diagonal
 giving White a positional edge}
 
 6...Bb7 {The Bishop comes out as planned}
@@ -1077,13 +1096,28 @@ idea to recapture the Knight with the Bishop}
 22...h6 {22...fxe4 23.fxe4 Rxf1 24.Rxf1 does not solve Black's d6 problem as }
 23.h3 Rac8 24.a6 {Passed pawn pushed further}
 24...c4 {Vacating the c5 square for the Knight and put pressure on the a6 pawn}
-25.a7!? {Interesting. 25.Ba5 looks even stronger for White. This move would have allowed White Bishop to infiltrate the dark squares around the
+25.a7!? {Interesting. 25.Ba5 looks even stronger for White. This move would have allowed the White Bishop to infiltrate the dark squares around the
 Queenside.}
 25...fxe4 {}
 26.a8Q Rxa8
 27.Bb4 {Attacking the backward d6 pawn}
 27...Nc5 {The Knight nicely blockades the Bishop and Black is hanging on}
-28.Bxc5 dxc5* {White had nothing better except for the Knight exchange.}
+28.Bxc5 dxc5 {White had nothing better except for the Knight exchange.}
+29.Qxe4 {White attacks the e5 pawn now}
+29...Qg5 {It is important that the e5 pawn does not fall}
+30.Bxc4 {White grabs another pawn and looks to trade Bishops}
+30...Bxc4 {30...Rae8 is passive defence.31.a5 Kh8 32.f4 is pretty good as White will grab another pawn during the process as the f4 pawn cannot be captured}
+31.Qxc4+ {Forced recapture to maintain equality}
+31...Kh7 {Safe here.31...Kh8 is also okay. Further Queen checks from White do not help}
+32.Rde1 {White wants to play Qxc5 followed by Rxe5}
+32...Rf4 {Forcing the White Queen to move and then Black will gobble up the passed pawn on a4}
+33.Qxc5 {Picking up yet another freebie}
+33...Raxa4 {The passed pawn is lost and Black can breathe easy}
+34.Rxe5 {Attacking the Queen. Although White wins another pawn, Black is okay here as it is three pawns versus two on the Kingside}
+34...Qg6 {Covering the b1-h7 diagonal and shielding the Black King}
+35.Re2 {Preventing Black Rooks from occupying the second rank}
+35...Rac4* {Attacking the Queen now}
+
 
 [Event "1517"]
 [Site "AICCF"]
@@ -1345,7 +1379,13 @@ as a web}
 56...g4+ {The King is pushed back and the pawns are fixed. As the Bishop can play on both sides of the board, Black can hope to win with his extra pawn}
 57.Kg2 Re2+ {The Rook checks again as Black wants to quickly seize the initiative again after the defensive maneuvering}
 58.Kf1 Re3 {The only square where the Bishop is also supported}
-59.Kg2* {White plays a waiting move}
+59.Kg2 {White plays a waiting move}
+59...h4 {Black wants to break up the White pawn chain now by attacking the g3 pawn twice}
+60.gxh4 {...hxg3 was on the cards.This is the only good solution }
+60...Kh6 {The Black Bishop can now play on both sides of the board}
+61.b4 {The pawn protects the Knight as ...Bxc5 was the threat}
+61...Bxh4* {It is time for the Bishop to gobble up the pawns one-by-one}
+
 
 
 [Event "1517"]
