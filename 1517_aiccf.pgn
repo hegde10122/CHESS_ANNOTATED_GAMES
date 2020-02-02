@@ -391,9 +391,13 @@ and earlier the better}
 45...Kg7 {The King will go down the board and attack White's pawns}
 46.c6 {White pushes the pawn again}
 46...Kf6 {Bringing the King towards the centre as White's passed pawn is toothless.}
-47.Kd2* {Adding another probable attacker to the pawn on b2 with 48.Kc2 on the cards}
-
-
+47.Kd2 {Adding another probable attacker to the pawn on b2 with 48.Kc2 on the cards}
+47...Kf5 {The King comes down hoping to gobble up White's pawns}
+48.c7 {Forcing the Rook to go off the b-file}
+48...Rc8 {Forced}
+49.Nxb2 {White can now untangle the pieces as the passed pawn has been chewed}
+49...Rxc7 {Black reciprocates and the position is dead equal}
+50.Nd3* {The f4 square is not available for the Black King}
 
 [Event "1517"]
 [Site "AICCF"]
@@ -999,6 +1003,8 @@ connected passed pawns. Black has a tough defence to deal with in this scenario.
 35.Qh8+ Qf8 36.Qxf8+ Kxf8 37.Nd2 h5 38.Rb4 a5 39.Rc4 {White adds another attacker to the e4 pawn}
 39...Bd5 40.Rcc1 Bc6 41.Rc5 Bd5* {The h5 pawn needs to be protected or else Rxh5 will result in double passed pawns for White on the g-file -
 an unwanted headache for Black}
+42.Rxa5 {Grabbing another pawn}
+42...Rd6* {The Rook can switch over to g6 if required.}
 
 
 [Event "1517"]
@@ -1119,7 +1125,9 @@ Queenside.}
 34.Rxe5 {Attacking the Queen. Although White wins another pawn, Black is okay here as it is three pawns versus two on the Kingside}
 34...Qg6 {Covering the b1-h7 diagonal and shielding the Black King}
 35.Re2 {Preventing Black Rooks from occupying the second rank}
-35...Rac4* {Attacking the Queen now}
+35...Rac4 {Attacking the Queen now}
+36.Qe5 {The Queen is safe here}
+36...Rf5* {Attacking the Queen again as White is forced to keep dancing around with the Queen}
 
 
 [Event "1517"]
@@ -1387,9 +1395,11 @@ as a web}
 60.gxh4 {...hxg3 was on the cards.This is the only good solution }
 60...Kh6 {The Black Bishop can now play on both sides of the board}
 61.b4 {The pawn protects the Knight as ...Bxc5 was the threat}
-61...Bxh4* {It is time for the Bishop to gobble up the pawns one-by-one}
-
-
+61...Bxh4 {It is time for the Bishop to gobble up the pawns one-by-one}
+62.Ra8 {White Rook is now looking to attack Black pawns from the eight rank.Rh8+ will also win the Bishop on h4}
+62...Kh7 {The h8 square is out of the Rook's reach now}
+63.Rf8 {The f5 pawn is under the pump}
+63...Re2+* {Pushing the King back}
 
 [Event "1517"]
 [Site "AICCF"]

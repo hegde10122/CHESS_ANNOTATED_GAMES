@@ -4,7 +4,7 @@
 [Round "-"]
 [White "Palmateer, Carl"]
 [Black "Hegde, Ganesh"]
-[Result "*"]
+[Result "1/2-1/2"]
 [WhiteElo "2233"]
 [BlackElo "2240"]
 [Board "7"]
@@ -137,7 +137,7 @@ allow White to double the Rooks on the d-file after Kc1,Rd3,Red1 etc. After 27..
 50.Ke5 {White King has advanced too far from his pawns now}
 50...gxh5 {The time for a draw is nearer now}
 51.Rc6 {Preventing the capture of the c2 pawn}
-51...Rf2* {Blocking the White King from entering the f-file}
+51...Rf2 {Blocking the White King from entering the f-file.Draw agreed}1/2-1/2
 
 
 [Event "IND - USA 2019"]
@@ -250,4 +250,5 @@ around the Black King. Black is also dared to play 19...Nxb4 having a fork of hi
 42.Qb2 {Pinning the Knight}
 42...Kg8 {This is why move 41 was wasteful as the King has to go back to g8}
 43.h4 {Wait and watch as the Knight on f6 is precariously placed}
-43...e5* {...e4 followed by ...e3 is the idea to damage White's pawn structure.The Black pawn is now acting as a gambit to free Black's defensive resources}
+43...e5 {...e4 followed by ...e3 is the idea to damage White's pawn structure.The Black pawn is now acting as a gambit to free Black's defensive resources}
+44.Qb3+ Kh8 45.Rf7 Rxf7 46.Qxf7 Ng8 47.h5 gxh5 48.Qxh5 Nf6 49.Qf7 Ng8 50.Qf5*

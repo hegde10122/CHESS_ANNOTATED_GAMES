@@ -519,7 +519,15 @@ and the Rook.}
 53.Ra7 {Attacking the b7 pawn now}
 53...Rb8 {The attack is smothered as of now}
 54.Nh4 {White wants to supplant the Knight on the g6 square once the Black Knight moves}
-54...Ne6* {The Knight will go to b5 via d4}
+54...Ne6 {The Knight will go to b5 via d4}
+55.Ng6 {As planned the Knight goes to g6}
+55...Nd4 {Black too follows the plan}
+56.Ngf4 {The Knight goes back to defend his brother on d3}
+56...Ree8 {A good waiting move as Black prepares to exchange a pair of Rooks}
+57.Ra1 {The Rook goes back sensing ...Ra8 on the next move}
+57...Nb5* {57...Ra8 seems futile.58.Rxa8 Rxa8. Now White Knights are impregnable and the pawn on d6 ensures that the Black King does not
+have too many liberties in hunting down White's pawns on its own. The e6 and d7 squares need constant vigil. vThe a7 square is now out of White Rook's reach}
+
 
 
 
@@ -638,7 +646,7 @@ plan}
 [Round "-"]
 [White "Jansen Malelak"]
 [Black "Hegde, Ganesh"]
-[Result "*"]
+[Result "0-1"]
 [WhiteElo "2067"]
 [BlackElo "2233"]
 [Annotator "Ganesh R Hegde"]
@@ -759,10 +767,26 @@ Play ...b4,...a3 followed by the King to f8-e7-d6 and so on}
 44...Kd6 {Marching slowly towards the Queenside}
 45.Bf3 {Defending the e4 pawn is the only sane job left for the Bishop}
 45...c6 {Clearing the path towards the Queenside}
-46.dxc6 Kxc6* {The King can more forward now}
+46.dxc6 Kxc6 {The King can more forward now}
 47.g4 {Another alternative at White's disposal is to keep pushing the g-pawn instead of moving the hapless Bishop. But this does not help matters}
 47...Kb6 {Black King aims to move to the b4 square}
 48.Bg2 {White is defenceless here}
 48...Ka5 {Slowly but steadily Black King is one step from his b4 destination}
 49.Bf3 {Poor Bishop has nothing else but guard the e4 pawn. White can start praying for Black to commit a grave error}
-49...b3+* {Vacating the b4 square for the King}
+49...b3+ {Vacating the b4 square for the King}
+50.axb3 {Forced recapture or else ...b2 wins on the spot}
+50...Kb4 {The point behind the earlier pawn sacrifice. The King cements his spot on b4 and White is hapless here}
+51.Bh1 {The spineless Bishop has nothing else to do}
+51...Nd3!! {The Knight looks to deflect the White King with this offer. The King cannot capture the Knight or else ...a2 follows}
+52.Kb1 {The Bishop cannot come to g2 or f3 because of ...Ne1+. Hence the King had to go back.}
+52...Kxb3 {The end is near for White}
+53.Bf3 {What else can be done now?}
+53...a2+ {Forcing the King on to the a1 square}
+54.Ka1 {Forced}
+54...Ne1 {The Knight will go to c2 and deliver the deadl check}
+55.Bd1+ {Forced and the White Bishop has done something concrete so far in this game}
+55...Nc2+ {Blocking the check with a check of his own and this pretty much forces matters}
+56.Bxc2 Kxc2 {Now the Black King will go towards the Kingside and gobble up all White pawns}
+57.Kxa2 Kd3 {The final nail in the White coffin will start soon as the Black King begins the pawn hunt}
+58.Kb3 {White does not have anything better. 58.h5 or 58.g5 are also possible but they only delay the inevitable}
+58...Kxe4 {White resigned as the writing is on the wall}0-1

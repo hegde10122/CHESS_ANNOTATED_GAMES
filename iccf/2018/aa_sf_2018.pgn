@@ -797,7 +797,15 @@ Kingside with 20.f4 g4 keeping the g-file closed yet again. 21.Qc2 Be6 or 21...e
 giving up the h5 pawn would do wonders for Black's defence}
 35...Qxe5 {The Queen has to grab the pawn and threaten ...Qxb2# on the next move. 35...Qg5? is suicidal after 36.dxc6 and White's Bishop pair
 will allow the safe escort of the passed pawn on c6. 36...Rc7 37.Bb6 Rac8 38.Bxa5 followed by Bxb4 and White have a new pair of passed pawns with a winning game}
-36.Bd4* {Forcing the Queen to g3 or c7 as the Bishop on g7 will need support after the Queen moves from e5}
+36.Bd4 {Forcing the Queen to g3 or c7 as the Bishop on g7 will need support after the Queen moves from e5}
+36...Qg3 {Protecting the Bishop on g7 from g3}
+37.dxc6 {37.dxe6 does not achieve anything for White.}
+37...e5 {Closing the dark diagonal by attacking the Bishop}
+38.c7!? {The pawn push opens up an attack on the Rook on a8 while the Rook on c8 will have to do babysitting for a while and
+create a blockade}
+38...Bf7 {The Bishop attacks the Rook on c4}
+39.Bxa8* {38.Bf2 is also good for White.38...e4 is forced or else 38...Qg6 39.Bxa8 is winning for White.
+39.Bxg3 Bxb2 40.Bxh5 Bxc1 41.Bxf7 and White's pieces are all over the board}
 
 
 
@@ -1097,7 +1105,9 @@ White for space  on the a and the b-files}
 49...Qe6 {The Queen will now come to e8 or d7 in a bid to exert more influence over the a4 square}
 50.Qf1 Bc6 {The d5 pawn is protected}
 51.Ba3 Ka7 {The King is safe here and White has to make yet another decision}
-52.Bc1 Rg8* {Black plans to plant the Rook on a8 if required or else continue with ...Qg6 and create some chances on the Kingside}
+52.Bc1 Rg8 {Black plans to plant the Rook on a8 if required or else continue with ...Qg6 and create some chances on the Kingside}
+53.Qf2 {Another waiting move!}
+53...Qg6* {Black wants to open up the game later with ...gxf4 depending on White's play}
 
 
 [Event "AA/C18/SF/A"]
@@ -1237,7 +1247,30 @@ But Black has a great defensive resource.34...Bxh3!! 35.gxh3 g2+ 36.Bxg2 Rxg2! 3
 35...Ra6 {Coming to the sixth rank as the game will open up after the pawns are exchanged.35...cxd5? 36.c6 is strong as the passed pawn will pose a serious headache for Black.
 36.exd5 preparing c6 on the next move is also annoying for Black. 35...dxc5 36.bxc5 allows White to plant two pawns on the fifth rank. It also
 vacates the b4 and a5 squares for the White Bishop to reactivate itself on an important square exacerbating Black's pain. }
-36.dxc6* {Opening up the d-file with an attack on the Bishop now}
+36.dxc6 {Opening up the d-file with an attack on the Bishop now}
+36...Qh4 {An important move in the context of the game. By threatening mate on h2, Black forces White to keep the pawn structure closed.
+This move tames chances of White's Bishop pair as we shall see in the game.}
+37.h3 {Forced}
+37...Bxc6 {Forced or else Black has lost material for nothing}
+38.cxd6 {Another pawn grabbed to open up lines}
+38...Bd7 {The Bishop was attacked}
+39.Bc3?! {A move that neutralises White's chances.White attacks the tail of the long pawn chain complex.}
+39...Nxc3 {The Knight is finally off the board and Black can breathe easy.It is more important to remove one of the key attackers of the
+dark squares. 39...Re6? looks good at the outset but if we delve deeper, then it is actually a terrible move.40.Ba1! keeps the tension alive and Black's
+Knight on a4 is virtually out of the game.}
+40.Qxc3 {The Queen joins the party now and attacks the e5 pawn.40.Rxc3 does not come with an attack on the e5 pawn. This allows 40...Rxd6 instantly and Black is okay}
+40...Qg5 {The pawn on e5 is safe for the moment. 40...Re6? is a terrible move. 41.Bxb5! wins for White. 41...Bxb5?? 42.Qc8+ with a double attack on the Rook on e6.
+42...Re8 is forced. 43. d7! Rd8 44.Qxd8 Qxd8 45.Rc8 pinning the Queen and White will bring another Queen on the d8 square soon.
+41...Raxd6 is a tad better but nevertheless lost for Black. 42.Bc4 Re8 43.b5 and White can safely escort the passed pawn as the heavy artillery on the c-file is enough.
+40...Qf6 is also a mistake as the Rook on g6 loses access to the pawn on d6. 41.Rd1! Rxd6 42.Rxd6 Qxd6 43.Rd2 Qe7 44.Qc7 Rg7 45.Rd5 Kh7 46.Rxe5
+and Black's pawn chain is wrecked.}
+41.Qc5 {Attacking the b5 pawn twice}
+41...Raxd6 {41...Rgxd6 also looks playable. 42.Bxb5 Bxb5 43.Qxb5 Ra8 44.Rc6 looks strong. Here White offers to trade Rooks
+44...Qe7 45.Rc5 with another attacker added on the e5 pawn.45...Rad8 threatening 46...Rd1+ with dire consequences.46.Rd5 solves White's
+problems and Black is again on the defensive.}
+42.Bxb5 Bxb5 43.Qxb5 {White is now a pawn up}
+43...Rg8* {This Rook will now switch to d8 and create threats on the d-file.White has back rank issue to be sorted out.}
+
 
 
 

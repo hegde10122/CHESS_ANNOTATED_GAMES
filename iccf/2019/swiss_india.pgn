@@ -46,7 +46,17 @@ where White does not gain anything significant. The move played deviates from th
 Instead White's plan is to play Qf2,Nf3 followed by Ne5 where the Knight on e5 will be a solid piece. The move played is planned to
 create a stronghold on the e5 square and Black must react accordingly.
 14.b3 is also a good plan where White intends to play Qa2 followed by Ba3 to exchange the bad Bishop with its counterpart on d6.}
-14...Rc8*
+14...Rc8 {Preparing ...c5 although 14...c5 was also playable}
+15.Qf2 {Transferring the Queen to the Kingside}
+15...Bb4 {The pawn structure looks fixed and Black wants to remove the Knight as the Bishop's prospects are not great}
+16.Bd2 {White's Bishop on d2 is also not looking great either}
+16...c5 {The thematic move in the Semi-Slav where Black gets his stake in the centre}
+17.Bc2 {In view of ...c4 on the next move that will allow Black to grab more space on the Queenside}
+17...Bd7 {The Bishop will }
+18.Nf3 {Preparing Ne5}
+18...cxd4* {Opening up the c-file and breaking White's pawn structure in the process. White will not be able to push e4 now}
+
+
 
 
 
@@ -98,4 +108,16 @@ placed in the centre of the board for a while. 13...b5 14.Bb3 and White is nicel
 13.bxc3 Qa5 {The Queen attacks the c3 pawn as a countermeasure as Black's pieces are still tied up}
 14.Qe4 {For some strange reason,White centralises the Queen again.14.Bd2 or 14.Rb1 look better.Perhaps White was banking on 14...Qxc3?
 15.Bd1! Qa3 16.Nh4 O-O 17.Nxg6 and Black's position falls apart}
-14...Nc5* {Attacking the Queen with tempo. This move also vacates the e6 square for the Bishop on c8.}
+14...Nc5 {Attacking the Queen with tempo. This move also vacates the e6 square for the Bishop on c8.}
+15.Qe3 {The Queen protects the pawn on c3 but another Queen move dilutes WHite's initiative}
+15...Be6 {Meanwhile,Black develops the Bishop and is asking for an exchange of the Bishops}
+16.Bf1 {The Bishop goes back as 16.Bxe6 Nxe6 throws the advantage out of the window}
+16...Nd7 {Another Knight move from Black. This moves prepares ...Nb6 in case White pushes for Rb1 at some stage.Also the move
+adds another attacker on the crucial e5 pawn. White's plausible plan is to play Nd4 followed by f4 which wills give him a firm grip on the centre.
+16...Na4 looking to grab the c3 pawn looks a greedy proposition. 17.c4! solves White's problem
+and the Knight on a4 looks a dumb piece}
+17.a4 {The Bishop is ready to come to a3 and White wants to exploit the fact that the Black King is still stuck on e8. The Bishop will
+pressurise the e7 pawn from a3.}
+17...c5* {Numbing the e7-a3 diagonal. 17...Nb6 is also possible. 18.Ba3 Nc4 19.Bxc4 Bxc4 20.h4 and White can look forward to a Kingside
+expansion.17...Nb6 is a classic example of playing another Knight move and two moves later that Knight is exchanged off. Black does have the Bishop pair but the
+downside is that the King is stuck on e8.}
