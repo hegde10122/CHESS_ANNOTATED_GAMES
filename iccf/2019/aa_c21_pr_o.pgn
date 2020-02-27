@@ -525,8 +525,9 @@ and the Rook.}
 56.Ngf4 {The Knight goes back to defend his brother on d3}
 56...Ree8 {A good waiting move as Black prepares to exchange a pair of Rooks}
 57.Ra1 {The Rook goes back sensing ...Ra8 on the next move}
-57...Nb5* {57...Ra8 seems futile.58.Rxa8 Rxa8. Now White Knights are impregnable and the pawn on d6 ensures that the Black King does not
+57...Nb5 {57...Ra8 seems futile.58.Rxa8 Rxa8. Now White Knights are impregnable and the pawn on d6 ensures that the Black King does not
 have too many liberties in hunting down White's pawns on its own. The e6 and d7 squares need constant vigil. vThe a7 square is now out of White Rook's reach}
+58.Ng6* {The Knight is back on g6 for lack of a better alternative}
 
 
 

@@ -275,7 +275,7 @@ positive result.}
 [White "Hegde, Ganesh"]
 [Black "R.K.Chauhan"]
 [EventDate "2019.03.19"]
-[Result "*"]
+[Result "1/2-1/2"]
 [ECO "E00"]
 [Annotator "Ganesh R Hegde"]
 
@@ -397,7 +397,14 @@ and earlier the better}
 48...Rc8 {Forced}
 49.Nxb2 {White can now untangle the pieces as the passed pawn has been chewed}
 49...Rxc7 {Black reciprocates and the position is dead equal}
-50.Nd3* {The f4 square is not available for the Black King}
+50.Nd3 {The f4 square is not available for the Black King}
+50...Ra7 {50...Ra3 followed by ...Rxf3 seems to be the objective}
+51.Rb5+ {Putting the King back}
+51...Kf6 52.Nf4 {The Knight is on a safe square and closer to the Black pawns}
+52...Ra3 {Threatening the pawn on f3}
+53.Nd5+ {Asking the Black King about his intentions}
+53...Ke6 54.Ke2 {Protecting the f3 pawn}
+54...h6 {Draw agreed after Black decides to call truce}1/2-1/2
 
 [Event "1517"]
 [Site "AICCF"]
@@ -1004,7 +1011,17 @@ connected passed pawns. Black has a tough defence to deal with in this scenario.
 39...Bd5 40.Rcc1 Bc6 41.Rc5 Bd5* {The h5 pawn needs to be protected or else Rxh5 will result in double passed pawns for White on the g-file -
 an unwanted headache for Black}
 42.Rxa5 {Grabbing another pawn}
-42...Rd6* {The Rook can switch over to g6 if required.}
+42...Rd6 {The Rook can switch over to g6 if required.}
+43.Ra4 {Adding another attacker to the e4 pawn which cannot be defended anymore adequately}
+43...Bc6 {Attacking the Rook again}
+44.Rc4 {The Rook is safe here}
+44...Kg7 {Improving the King's position}
+45.Kg1 {White does the same as the White King will come to the centre of the board.45.Nxe4 was possible. 45...Re6 46.Kg1 d2 47.Rd1 Bxe4 48.Rxd2 Bf5 is drawish}
+45...Nf5 {The only good option. 45...Re6 with the idea of defending the e4 pawn is passive. 46.Rd4! Kf6 47.Nxe4+ Bxe4 48.Rdxe4 and Black will be an exchange down}
+46.Rc5 {Attacking the Knight}
+46...Nxg3 {Capturing an important pawn. The Knight now guards the pawns on e4 and h5 simultaneously}
+47.Nc4 {Attacking the Rook now}
+47...Rg6* {Preventing 48.Rg5+}
 
 
 [Event "1517"]
@@ -1127,7 +1144,15 @@ Queenside.}
 35.Re2 {Preventing Black Rooks from occupying the second rank}
 35...Rac4 {Attacking the Queen now}
 36.Qe5 {The Queen is safe here}
-36...Rf5* {Attacking the Queen again as White is forced to keep dancing around with the Queen}
+36...Rf5 {Attacking the Queen again as White is forced to keep dancing around with the Queen}
+37.Qb8 {Safe here}
+37...Qc6 {The Queen forms a battery on the c-file}
+38.Qb1 {Pinning the Rook}
+38...Qc5+ {Not only defending the Rook but also checking the King}
+39.Kh1 {Safe King}
+39...Rb4 {Harassing the Queen again}
+40.Qe1 {The Queen is safe here}
+40...Rd5* {Another waiting move from Black}
 
 
 [Event "1517"]
@@ -1241,7 +1266,7 @@ White Knight on c2}
 [White "Rabi Roy"]
 [Black "Hegde, Ganesh"]
 [EventDate "2019.03.19"]
-[Result "*"]
+[Result "0-1"]
 [ECO "C01"]
 [Annotator "Ganesh R Hegde"]
 
@@ -1279,7 +1304,7 @@ White Knight on c2}
 
 9.Bxc4 {White gets the pawn back but the pawn on d4 is now isolated. Can Black exploit it?}
 
-9...Nc6 {Devel;oping a piece is the best option as 9...Bxf3 10.Qxf3 Qxd4 11.Qxb7 Qxc4 12.Qxa8 Bd6 13.Qxa7 Bxh2+ 14.Kxh2 Qxf1 is equal}
+9...Nc6 {Developing a piece is the best option as 9...Bxf3 10.Qxf3 Qxd4 11.Qxb7 Qxc4 12.Qxa8 Bd6 13.Qxa7 Bxh2+ 14.Kxh2 Qxf1 is equal}
 
 10.Be3 {Development and also providing added protection to the isolated pawn on d4}
 
@@ -1299,7 +1324,7 @@ This move keeps the pressure on the d4 pawn}
 
 13...a6 {Kicking the Knight back forcing White to lose a move}
 
-14.Ne5 {White wants to simplify th positionb by trading pieces. White not only attacks the Black Queen but also opens up a discovered attack on the Bishop on f5}
+14.Ne5 {White wants to simplify the position by trading pieces. White not only attacks the Black Queen but also opens up a discovered attack on the Bishop on f5}
 
 14...Nxe5 {The attacker is now traded off. Now White's Knight on b5 is hanging but he has two attackers on the Bishop on h5. What will he choose?}
 
@@ -1399,7 +1424,8 @@ as a web}
 62.Ra8 {White Rook is now looking to attack Black pawns from the eight rank.Rh8+ will also win the Bishop on h4}
 62...Kh7 {The h8 square is out of the Rook's reach now}
 63.Rf8 {The f5 pawn is under the pump}
-63...Re2+* {Pushing the King back}
+63...Re2+ {Pushing the King back}
+64.Kg1 Kg6 {The f5 pawn is protected.White resigned}0-1
 
 [Event "1517"]
 [Site "AICCF"]

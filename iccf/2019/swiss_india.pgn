@@ -54,8 +54,10 @@ create a stronghold on the e5 square and Black must react accordingly.
 17.Bc2 {In view of ...c4 on the next move that will allow Black to grab more space on the Queenside}
 17...Bd7 {The Bishop will }
 18.Nf3 {Preparing Ne5}
-18...cxd4* {Opening up the c-file and breaking White's pawn structure in the process. White will not be able to push e4 now}
-
+18...cxd4 {Opening up the c-file and breaking White's pawn structure in the process. White will not be able to push e4 now}
+19.exd4 {19.Nxd4 allows 19...Ne6 and any exchanges favour Black as White's Kingside initiative loses steam.}
+19...Bxc3 {Another trade and Black wants to eliminate the Knight which has an important role to play in the closed pawn setup.}
+20.Bxc3 Ne4 21.Bxe4*
 
 
 
