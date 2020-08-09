@@ -467,7 +467,7 @@ spoils the show for the Bishop on b7.Hence ...b6 is ruled out}
 27.Rf2 {A waiting move}
 27...Qb6 {Pinning the Rook and attacking the b3 pawn}
 28.Ne2 {White does not mind losing the b3 pawn and brings the Knight for Kingside activity}
-28...Qe3* {Looking to trade Queens.28...Qxb3 29.Nd4 Qxc4 30.Nxf5 and Black King has a wafer thin pawn cover. 30...Rxf5 is essential or else Nh6+ followed by Qg5 will allow White to
+28...Qe3 {Looking to trade Queens.28...Qxb3 29.Nd4 Qxc4 30.Nxf5 and Black King has a wafer thin pawn cover. 30...Rxf5 is essential or else Nh6+ followed by Qg5 will allow White to
 go for the kill}
 29.Nef4 {White neglects Black's Queen trade offer} 29...Qxd2 {Black wants simplification}
 30.Rxd2 c6 {Do you want to exchange on d5, Mr. White?}
@@ -526,9 +526,16 @@ and the Rook.}
 56...Ree8 {A good waiting move as Black prepares to exchange a pair of Rooks}
 57.Ra1 {The Rook goes back sensing ...Ra8 on the next move}
 57...Nb5 {57...Ra8 seems futile.58.Rxa8 Rxa8. Now White Knights are impregnable and the pawn on d6 ensures that the Black King does not
-have too many liberties in hunting down White's pawns on its own. The e6 and d7 squares need constant vigil. vThe a7 square is now out of White Rook's reach}
-58.Ng6* {The Knight is back on g6 for lack of a better alternative}
-
+have too many liberties in hunting down White's pawns on its own. The e6 and d7 squares need constant vigil. The a7 square is now out of White Rook's reach}
+58.Ng6 {The Knight is back on g6 for lack of a better alternative}
+58...Rbd8 59.Rf1 Re4 60.Re1 Rxe1 {Exchanging Rooks is good for Black}
+61.Nxe1 61...Nd4 {The Knight will now join the party and it still remains a good tussle for both players}
+62.Nd3 Ne6 63.Kf3 Re8 64.Kf2 Nd8 65.Ne7 Nf7 66.Ke3 Ra8 67.Kd2 Kg5 68.Ke3 Nd8 69.Ke2 Ra3 70.Ke3 Ra1 71.Kf2  Rh1 {Attacking the h5 pawn}
+72.Nf4 {Defending the pawn on h5}
+72...Nf7 {The d8 square is safely guarded and the Knight can jump around freely}
+73.Neg6 {White too wants the other Knight for defence on the Kingside}
+73...Rb1* {Attacking the b4 pawn now as Black tries to exploit the limitations of the Knight-pair who are stuck on the
+Kingside}
 
 
 

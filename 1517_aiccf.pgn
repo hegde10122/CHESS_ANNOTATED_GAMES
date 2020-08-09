@@ -1008,7 +1008,7 @@ On the other hand, 31...exd3?! is also bad because White then piles on the e-fil
 connected passed pawns. Black has a tough defence to deal with in this scenario.}
 34.Kh2 Qxf5
 35.Qh8+ Qf8 36.Qxf8+ Kxf8 37.Nd2 h5 38.Rb4 a5 39.Rc4 {White adds another attacker to the e4 pawn}
-39...Bd5 40.Rcc1 Bc6 41.Rc5 Bd5* {The h5 pawn needs to be protected or else Rxh5 will result in double passed pawns for White on the g-file -
+39...Bd5 40.Rcc1 Bc6 41.Rc5 Bd5 {The h5 pawn needs to be protected or else Rxh5 will result in double passed pawns for White on the g-file -
 an unwanted headache for Black}
 42.Rxa5 {Grabbing another pawn}
 42...Rd6 {The Rook can switch over to g6 if required.}
@@ -1021,7 +1021,19 @@ an unwanted headache for Black}
 46.Rc5 {Attacking the Knight}
 46...Nxg3 {Capturing an important pawn. The Knight now guards the pawns on e4 and h5 simultaneously}
 47.Nc4 {Attacking the Rook now}
-47...Rg6* {Preventing 48.Rg5+}
+47...Rg6 {Preventing 48.Rg5+}
+48.Ne3 {Creating a blockade}
+48...h4 {The pawn is safe here as Black plays for a truce}
+49.Rb1 {The Rook is activated as the Black pawn march has been halted for the moment.
+Looking for an infiltration on the seventh rank with Rb7+.Also another strong continuation for White is 50.Rb6 }
+49...Rf6 {The Rook cuts off the King's access to the f-file.Now 50.Rb6 is ineffective as 50...d2 forces 51.Rb1
+49...Kf7? is bad as 50.Rb6! is effective now forcing 50...Ne2+ 51.Kf2! 51...Nd4 is forced to protect the Bishop.Now the White King is
+effectively an active minor piece giving White a clear advantage. Hence the Black Rook needs to be on f6 to cut off the White King
+from making any productive advancement.}
+50.Kh2 {Waiting move}
+50...Ba4 {Controlling the d1 square and Black intends to push the passed pawn}
+51.Ra5 {Attacking the Bishop again and asking it to retreat back}
+51...Bc6* {Controlling the b7 square}
 
 
 [Event "1517"]
@@ -1029,7 +1041,7 @@ an unwanted headache for Black}
 [White "Arghyadip Das"]
 [Black "Hegde, Ganesh"]
 [EventDate "2019.03.19"]
-[Result "*"]
+[Result "1/2-1/2"]
 [ECO "D36"]
 [Annotator "Ganesh R Hegde"]
 
@@ -1152,8 +1164,9 @@ Queenside.}
 39.Kh1 {Safe King}
 39...Rb4 {Harassing the Queen again}
 40.Qe1 {The Queen is safe here}
-40...Rd5* {Another waiting move from Black}
-
+40...Rd5 {Another waiting move from Black}
+41.Re6 {Occupying the sixth rank.}
+41...Rd6 {Draw offered and agreed}1/2-1/2
 
 [Event "1517"]
 [Site "AICCF"]

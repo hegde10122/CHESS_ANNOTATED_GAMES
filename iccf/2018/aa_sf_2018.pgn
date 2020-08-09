@@ -654,7 +654,7 @@ the position of the Bishop on b7 and gaining space in the centre}
 [Round "-"]
 [White "Hegde, Ganesh"]
 [Black "Matthew Paul Santhosh"]
-[Result "*"]
+[Result "1-0"]
 [WhiteElo "2251"]
 [BlackElo "2282"]
 [ECO "D70"]
@@ -804,9 +804,16 @@ will allow the safe escort of the passed pawn on c6. 36...Rc7 37.Bb6 Rac8 38.Bxa
 38.c7!? {The pawn push opens up an attack on the Rook on a8 while the Rook on c8 will have to do babysitting for a while and
 create a blockade}
 38...Bf7 {The Bishop attacks the Rook on c4}
-39.Bxa8* {38.Bf2 is also good for White.38...e4 is forced or else 38...Qg6 39.Bxa8 is winning for White.
+39.Bxa8 {38.Bf2 is also good for White.38...e4 is forced or else 38...Qg6 39.Bxa8 is winning for White.
 39.Bxg3 Bxb2 40.Bxh5 Bxc1 41.Bxf7 and White's pieces are all over the board}
-
+39...Bxc4 40.Bf2 Bxb3+ 41.Qxb3 Qxf2+ 42.Kb1 Qb6 {Preventing 43.Bb7 with an intention of dislodging the Rook from the Queening square}
+43.Qd3 {The only winning move for White as White threatens Qd7 to attack the Rook on c8.How will the Black Queen neutralise
+her counterpart's threat?. 44.Qd7 or 44.Qxf5 allow White to threaten the Rook on c8.44...Rxc7?? 45.Qd8+ Bf8 46.Qxf8#}
+43...e4 {Black tries to prevent 44.Qxf5}
+44.Qd7 {White continues with his plan. Will the Rook vacate the c8 square?}
+44...Qa6 {The Queen supports the Rook}
+45.Qxc8+!! {The Queen sacrifice paves the way for White's material gains}
+45...Qxc8 46.Bb7 {Take me as well shouts the Bishop! Black resigned}
 
 
 [Event "AA/C18/SF/A"]
@@ -815,7 +822,7 @@ create a blockade}
 [Round "-"]
 [White "Gray, Garvin"]
 [Black "Hegde, Ganesh"]
-[Result "*"]
+[Result "1/2-1/2"]
 [WhiteElo "2303"]
 [BlackElo "2251"]
 [ECO "E33"]
@@ -916,9 +923,11 @@ The move played halts White from playing Rd2}
 31.Ne3 {Repositioning the Knight to go to the Kingside}
 31...Ned4 32.Qc3 {The Queen is safe here and the Knight on d4 is attacked twice now}
 32...Ne6 33.Kg1 Nf4 34.Qc2 Ra8 35.Rfe1 Qg6 36.Kh2 Kh8 37.Bg3 {Attacking the Knight}
-37...Ne6* {Retreats without any problem}
-
-
+37...Ne6 {Retreats without any problem}
+38.Nd5 Kg8 39.Bf2 Qf7 40.Kg1 Nec5 41.Kh2 Rac8
+42.Bg3 b6 43.Kg1 Ra8 44.Kh2 Rac8 {Both sides killing time and energy}
+45.Ne3 Rb8 46.Bf2 Kh8 47.Nd5 Kg8 {A boring directionless game}
+48.Re3 Kh8 49.Rc3 Rbd8 50.Re3 Rb8 51.Bg3 {Draw agreed}1/2-1/2
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
@@ -926,7 +935,7 @@ The move played halts White from playing Rd2}
 [Round "-"]
 [White "Mike C. Gross"]
 [Black "Hegde, Ganesh"]
-[Result "*"]
+[Result "1/2-1/2"]
 [WhiteElo "2268"]
 [BlackElo "2251"]
 [ECO "C18"]
@@ -1107,7 +1116,14 @@ White for space  on the a and the b-files}
 51.Ba3 Ka7 {The King is safe here and White has to make yet another decision}
 52.Bc1 Rg8 {Black plans to plant the Rook on a8 if required or else continue with ...Qg6 and create some chances on the Kingside}
 53.Qf2 {Another waiting move!}
-53...Qg6* {Black wants to open up the game later with ...gxf4 depending on White's play}
+53...Qg6 {Black wants to open up the game later with ...gxf4 depending on White's play}
+54.Be3 {White does not do anything significant and keeps up throwing the ball back into Black's court}
+54...Kb8 {Black is ready to swing the Rook on g8 to a8 but before that the King needs to be tucked to safety.}
+55.Bc1 {With an idea of Ba3-Bd6}
+55..Kc8 {The King wants to move away towards the Kingside and allow the remaining forces to create a Queenside passed pawn}
+56.Qc2 {White threatens 57.g4}
+56...Qe6 {The Queen creates a blockade on e6 and nullifies the threat of 57.g4}
+57.Rba1 Kd8 58.Qb1 Kc7{Draw agreed}1/2-1/2
 
 
 [Event "AA/C18/SF/A"]
@@ -1121,7 +1137,7 @@ White for space  on the a and the b-files}
 [BlackElo "2251"]
 [ECO "E11"]
 [Annotator "Ganesh R Hegde"]
-[WhiteTeam "Australia"]
+[WhiteTeam "South Africa"]
 [BlackTeam "India"]
 [WhiteTitle "IM"]
 [BlackTitle "*"]
@@ -1269,10 +1285,40 @@ and Black's pawn chain is wrecked.}
 44...Qe7 45.Rc5 with another attacker added on the e5 pawn.45...Rad8 threatening 46...Rd1+ with dire consequences.46.Rd5 solves White's
 problems and Black is again on the defensive.}
 42.Bxb5 Bxb5 43.Qxb5 {White is now a pawn up}
-43...Rg8* {This Rook will now switch to d8 and create threats on the d-file.White has back rank issue to be sorted out.}
-
-
-
+43...Rg8 {This Rook will now switch to d8 and create threats on the d-file.White has back rank issue to be sorted out.}
+44.Rc6 {Looking to trade Rooks and liquidate}
+44...Qe7 {The Queen comes back to support the Rook}
+45.R6c5 {The Rook goes back to attack the e5 pawn twice}
+45...Rgd8 {Threatening mate on d1 square}
+46.Rd5 {Blocking Black's intention}
+46...Kg7 {The King now comes down to add more protection to the pawn chain}
+47.Rcd1 {Adding more support to the Rook on d5}
+47...Rxd5 {Eliminating one of the Rooks}
+48.exd5 {48.Rxd5 leads to a draw 48...Qc7 and White needs to address his back rank issues}
+48...Kf6 49.Qc6+ Rd6 50.Qc5 Qd8 51.Kg1 Ke7 52.Kf1 h4 53.Rd2 {White plans to play Ke2 and then shield the King against checks on the
+second rank}
+53...Qb6 {Offers to exchange Queens as the Rook on d6 is currently pinned}
+54.Ke2 {No checks here}
+54...Kd7 {Waiting move}
+55.Kd1 {The King will now come to the c-file in all probability }
+55...Qa6 {With the idea of invading the light a6-f1 diagonal}
+56.b5 {Blocking the diagonal and the passed pawn moves forward}
+56...Qb6 {Queen exchanges will not help White}
+57.Qc4 {Waiting move}
+57...Kd8 {Black too awaits}
+58.Qb4 {Another waiting move}
+58...Qc7 {Blocking the King's entry onto the c-file}
+59.Rd3 {Rc3 seems to be the idea to attack the Queen followed by Kc2}
+59...Qb6 {59...Ke7 leads to a pinned Rook. With this Queen Black aims to harass the Black King with moves likes ...Qf2}
+60.Kc2 {As planned}
+60...Kd7 {Another waiting move as Black does not have too many choices}
+61.Kb3 {The King marches towards the centre}
+61...Qg1 {The Queen will harass the Black King from the first rank}
+62.Qe4 {The Queen gets out of the way and attacks the e5 pawn. The White King can npw come to c4 and take shelter of the pawn on b5
+and may be go to the sixth rank in the future}
+62...Qb1+ {The checking harassment begins}
+63.Kc4 {As planned the King moves closer to the centre}
+63...Qc2+ 64.Kb4 Qb2+ 65.Rb3 Qxg2 66.Qh7+ Kd8*
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
