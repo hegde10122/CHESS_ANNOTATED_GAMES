@@ -1314,11 +1314,13 @@ second rank}
 60...Kd7 {Another waiting move as Black does not have too many choices}
 61.Kb3 {The King marches towards the centre}
 61...Qg1 {The Queen will harass the Black King from the first rank}
-62.Qe4 {The Queen gets out of the way and attacks the e5 pawn. The White King can npw come to c4 and take shelter of the pawn on b5
+62.Qe4 {The Queen gets out of the way and attacks the e5 pawn. The White King can now come to c4 and take shelter of the pawn on b5
 and may be go to the sixth rank in the future}
 62...Qb1+ {The checking harassment begins}
 63.Kc4 {As planned the King moves closer to the centre}
-63...Qc2+ 64.Kb4 Qb2+ 65.Rb3 Qxg2 66.Qh7+ Kd8*
+63...Qc2+ 64.Kb4 Qb2+ 65.Rb3 Qxg2 66.Qh7+ Kd8 67.Qh4+ Ke8 68.Qh8+ {Attacking the e5 pawn}
+68...Kf7 69.Qh7+ 69...Kf6 70.Qh6+ Ke7* {Forced or the Rook will go}
+
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]

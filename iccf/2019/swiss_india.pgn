@@ -94,7 +94,7 @@ create a stronghold on the e5 square and Black must react accordingly.
 [Round "-"]
 [White "Djamel Zeghachov"]
 [Black "Hegde, Ganesh"]
-[Result "*"]
+[Result "1-0"]
 [WhiteElo "2301"]
 [BlackElo "2244"]
 [Board "17"]
@@ -188,4 +188,9 @@ advantage at the moment.}
 33.f5 {33.fxg4 }
 33...Qd7 {Adding second attacker to the d3 pawn}
 34.Nd5 {Blocking the Rook on d4 and cutting off the Queen}
-34...Rxd5 35.cxd5 Qxd5* {Black looks to fight with a pawn down}
+34...Rxd5 35.cxd5 Qxd5 {Black looks to fight with a pawn down}
+36.f6 {Expanding further and forcing pawn exchanges}
+36...exf6 {Forced}
+37.Qe4 {White wants to force Queen exchanges and enter a favourable endgame}
+37...Qxe4 {37...Qxe5 is not a good option.}
+38.dxe4 f5 39.Rxf5 Rc8 40.Kf2 c4 41.Ke3 {Black resigned as e6-e7 is inevitable}1-0
