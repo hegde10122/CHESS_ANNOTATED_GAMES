@@ -878,7 +878,7 @@ with a draw.Black resigned as the chances of saving the game are slim}1-0
 [White "Gautam De"]
 [Black "Hegde, Ganesh"]
 [EventDate "2019.03.19"]
-[Result "*"]
+[Result "1/2-1/2"]
 [ECO "C15"]
 [Annotator "Ganesh R Hegde"]
 
@@ -1033,8 +1033,8 @@ from making any productive advancement.}
 50.Kh2 {Waiting move}
 50...Ba4 {Controlling the d1 square and Black intends to push the passed pawn}
 51.Ra5 {Attacking the Bishop again and asking it to retreat back}
-51...Bc6* {Controlling the b7 square}
-
+51...Bc6 {Controlling the b7 square}
+52.Rc5 {Draw agreed}1/2-1/2
 
 [Event "1517"]
 [Site "AICCF"]

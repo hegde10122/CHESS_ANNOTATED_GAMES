@@ -534,9 +534,17 @@ have too many liberties in hunting down White's pawns on its own. The e6 and d7 
 72.Nf4 {Defending the pawn on h5}
 72...Nf7 {The d8 square is safely guarded and the Knight can jump around freely}
 73.Neg6 {White too wants the other Knight for defence on the Kingside}
-73...Rb1* {Attacking the b4 pawn now as Black tries to exploit the limitations of the Knight-pair who are stuck on the
+73...Rb1 {Attacking the b4 pawn now as Black tries to exploit the limitations of the Knight-pair who are stuck on the
 Kingside}
-
+74.Nd3 Kxh5 75.Nde5 Nd8 76.Nf4+ Kg5 77.Nfd3 {White seems to be losing steam here} 77...Ne6 {Waiting move}
+78.Nc4 {The idea is to attack the pawn on b7 with 78.Na5}
+78...Ra1 {With the idea of ...Ra8 folloed by ...Rg8. Black prepares to snatch the isolated g-pawn soon}
+79.Ke3 {The King comes closer to the centre}
+79...Ra8 {The Rook can go to g8 and attack the isolated pawn in the near future. White's passed pawn on d6 does not look ominous}
+80.Kf2 {The King anticipates Black's attack on g3 and offers frail defence to the g3 pawn}
+80...Rg8 {As planned}
+81.Nce5 {Controlling the d7 square but Black is not worried}
+81...h5* {A waiting pawn push}
 
 
 [Event "AA/C21/Pr/O"]

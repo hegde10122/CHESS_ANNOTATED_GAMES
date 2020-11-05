@@ -1319,8 +1319,11 @@ and may be go to the sixth rank in the future}
 62...Qb1+ {The checking harassment begins}
 63.Kc4 {As planned the King moves closer to the centre}
 63...Qc2+ 64.Kb4 Qb2+ 65.Rb3 Qxg2 66.Qh7+ Kd8 67.Qh4+ Ke8 68.Qh8+ {Attacking the e5 pawn}
-68...Kf7 69.Qh7+ 69...Kf6 70.Qh6+ Ke7* {Forced or the Rook will go}
-
+68...Kf7 69.Qh7+ 69...Kf6 70.Qh6+ Ke7 {Forced or the Rook will go}
+71.Qg7+ Kd8 72.Qxe5 Qd2+ 73.Kc5 Qf2+ 74.Kc4 Kd7 75.Qf5+ Kd8 76.Qf8+ Kd7 77.Qf7+ Kd8 78.Rc3 {Breaking the Queen-King sequence}
+78...Qd2 {Protecting the pawn on f4}
+79.Qf8+ {Another check as White plays on Black's patience}
+79...Kd7 80.Qf5+ Kc7 81.Rc2 Qd1 82.Kc5*
 
 [Event "AA/C18/SF/A"]
 [Site "ICCF"]
