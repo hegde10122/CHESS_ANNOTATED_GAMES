@@ -1,0 +1,104 @@
+[Event "3rd IZIT SF D"]
+[Site "ICCF"]
+[Date "2021.06.30"]
+[Round "-"]
+[White "Meiners, Edwin"]
+[Black "Hegde, Ganesh"]
+[Result "*"]
+[WhiteElo "2434"]
+[BlackElo "2297"]
+[Annotator "Ganesh R Hegde"]
+
+1.e4 {The King pawn opening. Arguably the most popular opening}
+1...g6 {Black wants to play the Modern defence}
+2.d4 {Grabbing the centre, White expands his pawn prowess}
+2...Bg7 {The Bishop will eye the long-dark diagonal}
+3.Nc3 {Adding more steel to the d5 square.}
+3...d6 {Preventing White from pushing e5. If White succeeds in pushing the e5 pawn then Black will run into serious problems}
+4.Be3 {Nice developing move that also adds more control over the c5 square. Black cannot play ...c5 easily.4.Bg5 looks an aggressive option but this
+does lose control over the e5 square. The Bishop looks better on e3.}
+4...a6!? {An interesting move. This moves prepares ...b5 followed by ...Bb7. Black intends to play ...b4 at some point to attack the
+defender of the e4 pawn}
+5.Qd2 {A principled move that prepares O-O-O. This moves also instills a confusion in Black's thinking...Should I play ...Nf6 or not?}
+5...b5 {Black goes ahead with the plan. ...Bb7 is on the cards.The only problem with Black is that only pawn moves seem to be on the menu}
+6.f3* {A prophylactic move to counter ...Bb7. White also takes advantage of the fact that Black is yet to develop the Kingside and prepares g4-h4 in the future}
+
+
+[Event "3rd IZIT SF D"]
+[Site "ICCF"]
+[Date "2021.06.30"]
+[Round "-"]
+[White "Hegde, Ganesh"]
+[Black "Peter Wolfelschneider"]
+[Result "*"]
+[WhiteElo "2297"]
+[BlackElo "2404"]
+[Annotator "Ganesh R Hegde"]
+
+1.d4 Nf6 2.c4 e6 3.g3 {White wants to avoid the Nimzo Indian after 3.Nc3 Bb4}
+3...d5 {The Catalan}
+4.Nf3 Bb4+ 5.Bd2 Be7 {Black wants to keep the Bishop pair. The White Bishop on d2 is misplaced}
+6.Bg2 Nbd7 {More development as Black refuses to grab the c4 pawn and give up the central d-pawn}
+7.O-O*
+
+[Event "3rd IZIT SF D"]
+[Site "ICCF"]
+[Date "2021.06.30"]
+[Round "-"]
+[White "Hegde, Ganesh"]
+[Black "Churkina, Natalya Mikhailovna"]
+[Result "*"]
+[WhiteElo "2297"]
+[BlackElo "2402"]
+[Annotator "Ganesh R Hegde"]
+
+1.d4 Nf6 2.c4 g6 {The KID}
+3.g3 Bg7 4.Bg2 O-O 5.Nc3*
+
+
+[Event "3rd IZIT SF D"]
+[Site "ICCF"]
+[Date "2021.06.30"]
+[Round "-"]
+[White "Pedro Vertíz Gutiérrez"]
+[Black "Hegde, Ganesh"]
+[Result "*"]
+[WhiteElo "2436"]
+[BlackElo "2297"]
+[Annotator "Ganesh R Hegde"]
+
+1.d4 {The Queen pawn opening. Arguably the second most popular opening after 1.e4}
+1...d5  {Black responds with an identical move.}
+2.c4 c6* {The Slav}
+
+
+[Event "3rd IZIT SF D"]
+[Site "ICCF"]
+[Date "2021.06.30"]
+[Round "-"]
+[White "Hegde, Ganesh"]
+[Black "Oleg Anatolievich Alifanov"]
+[Result "*"]
+[WhiteElo "2297"]
+[BlackElo "2314"]
+[Annotator "Ganesh R Hegde"]
+
+1.d4 Nf6 2.c4 e6 3.g3 {White wants to avoid the Nimzo Indian after 3.Nc3 Bb4.The Catalan is on the board }
+3...d5 {Grabbing the centre and controlling the e4 centre.}
+4.Nf3 Be7 5.Bg2*
+
+[Event "3rd IZIT SF D"]
+[Site "ICCF"]
+[Date "2021.06.30"]
+[Round "-"]
+[Black "Andrey Mikhailovich Razumikhin"]
+[White "Hegde, Ganesh"]
+[Result "*"]
+[BlackElo "2420"]
+[WhiteElo "2297"]
+[Annotator "Ganesh R Hegde"]
+
+1.d4
+1...d5 2.c4 c6 {The Slav}
+3.Nf3 Nf6 4.e3 {Be2 followed by O-O is White's idea}
+4...e6* {The Meran variation}
