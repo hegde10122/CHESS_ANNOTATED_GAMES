@@ -38,7 +38,16 @@ dark squares 14...Nd7 15.Bxf6 Nxf6 16.Ng5 and White can afford to play Bc4 soon 
 neutralised, Black's attack on the King on b1 is no more effective as the task of connecting the Rooks is arduous and White can regroup quickly
 denying Black any counterplay.}
 9.Bh6 {White wants to exchange Black's lively Bishop and weeaken the dark squares around the King. A good positional idea}
-9...Bxh6 10.Qxh6*
+9...Bxh6 10.Qxh6 {White creates a "hole" in the black square terrain of Black. Now White still has plans of g4,Nh3 or Ne2. Black's main problem
+however is the immediate threat of e5 to bust open the central files. The Black King cannot castle and now Black's hopes of gaining some parity
+is to castle on the Queenside. He must hurry now or White will organise the pieces for an onslaught}
+10...Bb7 {Controlling the d5 square and vacating the Queenside for a possible O-O-O. Now if 11.e5 then 11...Nd5 is possible.}
+11.Nh3 {White goes for the quieter option.Ng5 is a possibility now to attack Black's camp}
+11...e6 {11...Qd7? with 12...O-O-O on the cards looks to be an obvious choice. But then 12.Ng5! does not allow Black to go for long castling as the
+f7 pawn loses its support. The Queen on d7 actually loses control over the dark squares. The move played also unlocks the e7 square for the King as
+Qg7 allows ...Ke7 with the White Queen having to retreat back. The Black Queen cannot afford to lose control over the dark squares.}
+12.e5 {White wants to open up the centre and attack the Black King on e8.A good choice}
+12...dxe5 13.dxe5 Nfd7 14.Qg7*
 
 [Event "3rd IZIT SF D"]
 [Site "ICCF"]
@@ -62,7 +71,16 @@ more pressure on the c-file. The Bishop on f4 guards the c7 square and White hop
 development.}
 9...b6 {The idea is to play ...Ba6 or ...Bb7 followed by ...Rc8}
 10.cxd5 {White wants to dominate the c-file by playing Rc1 and Bc7 depending upon Black's responses}
-10...cxd5 11.Rc1 Bb7*
+10...cxd5 11.Rc1 Bb7 12.Bc7 {Black is cramped for space} 12...Qe8 13.Qb3 {...Rc8 will pin the Bishop on c7. The Queen goes to a safer square}
+13...Rc8 {Activating the Rook }
+14.Na3 {Nb5-Nd6 is the threat to choke Black's pieces.Also connects the Rooks }
+14...Ne4 {...Ndf6 is a possible move to free space for the Black pieces}
+15.Nb5 {According to the plan}
+15...Ndc5 {Offering to sacrifice the Knight and also attacking the Queen.}
+16.dxc5 bxc5 {The Bishop on c7 is cutoff from the Rook on c1}
+17.Bf4 c4 {Attacking the Queen and forcing White to make a decision}
+18.Qa4 {Forced or Black will win the Knight on b5}
+18...Bc5 19.Be3 {Protecting the f2 pawn} Bc6 {Pinning the hapless Knight and Black will equalise} 20.Nfd4*
 
 [Event "3rd IZIT SF D"]
 [Site "ICCF"]
@@ -82,7 +100,20 @@ Kingside fianchetto has blunted Black's original idea of Kingside aggression in 
 8...Rb8 {As per the plan. Black wants to strike with ...b5 and go for a Queenside expansion}
 9.a4 {White plays a prophylactic move to stop the ...b5 advance.
 9.Rc1 b5 10.Nd5 bxc4 11.Nxf6+ Bxf6 12.Rxc4 e5!? 13.Bh6 Nxd4 14.Nxd4 Kxf8 15.Nxd4 exd4 with unclear play.Black is okay in this position}
-9...Na5* {Attacking the pawn on c4}
+9...Na5 {Attacking the pawn on c4}
+10.b3 {Defending the pawn}
+10...Bf5 {Developing the Bishop}
+11.Rc1 e5  {Black plays in the centre as the ...b5 idea is not playable at the moment}
+12.Bd2 {White's dark squared Bishop is not the best piece at the moment hindering White's coordination on d2}
+12...Nc6 {The Knight was on the radar of the Bishop on d2.}
+13.d5 {White closes the centre and attacks the Knight}
+13...Nb4 {The Knight lands up on the hole with ...Nd3 a possibility}
+14.e4 {White attacks the Bishop and prevents ...Nd3 for the moment}
+14...Bd7 {14...Bg4 followed by ...Bxf3 is also a good idea}
+15.Qe2 {Controlling the d3 square}
+15...c5 {Black locks the pawn chain}
+16.Ne1 {White wants to play Nd3}
+16...Qe7*
 
 [Event "3rd IZIT SF D"]
 [Site "ICCF"]
@@ -106,7 +137,10 @@ dark-squared Bishop is now insipid}
 7...e5 {Black goes ahead with the move that frees up space. 7...O-O is also popular.Black's main threat is to play ...e4 and fork the Knight and the Bishop on d3}
 8.cxd5 {Most popular choice. 8.dxe5 is also acceptable}
 8...cxd5 {8...Nxd5 9.Bxh7!? Nb4 10.Qb1 exd4 11.exd4 Nf6 12.Bg5 and White has a good position}
-9.Nb5 Bb8 10.dxe5 Nxe5* {10...Bxe5?? 11.Nxe5 Nxe5 12.Nc7+ winning with a fork}
+9.Nb5 Bb8 10.dxe5 Nxe5 {10...Bxe5?? 11.Nxe5 Nxe5 12.Nc7+ winning with a fork}
+11.Nxe5 Bxe5 12.Bd2 {White develops the Bishop but Black has neutralised White's central pawn advantage}
+12...O-O {Black develops the Rook and the King is safe on g8}
+13.Bc3 Bxc3+*
 
 [Event "3rd IZIT SF D"]
 [Site "ICCF"]
@@ -122,10 +156,14 @@ dark-squared Bishop is now insipid}
 1.d4 Nf6 2.c4 e6 3.g3 {White wants to avoid the Nimzo Indian after 3.Nc3 Bb4.The Catalan is on the board }
 3...d5 {Grabbing the centre and controlling the e4 centre.}
 4.Nf3 Be7 5.Bg2 O-O 6.O-O dxc4 7.Qc2 a6 8.Qxc4 b5 9.Qc2 Bb7 10.Bd2 {}
-10...Be4 11.Qc1 Bb7 12.Qc2 Nbd7 13.Ba5* {Black wants to play ...c5 with a solid position. This move pins the pawn and smothers that idea.
+10...Be4 11.Qc1 Bb7 12.Qc2 Nbd7 13.Ba5 {Black wants to play ...c5 with a solid position. This move pins the pawn and smothers that idea.
 Also the d2 square is now available for the Knight and the Queen can continue its vigil on the c-file}
 13...Rc8 {Black develops the Rook on the c-file.Black might play ...Nb6 to unpin the c7 pawn. Then Black's plan is to push ...c5 and unlock the position}
-14.Nbd2* {White prepares to bring one of the Rooks to the c1 square in anticipation of ...c5 very soon}
+14.Nbd2 {White prepares to bring one of the Rooks to the c1 square in anticipation of ...c5 very soon}
+14...Qe8?! {Looks like a slight error on Black's part. 14...Nb6 was better in my opinion as the Knight would have made the life of the c7 pawn much easier}
+15.b4 {Adding more control over the c5 square.White wants to increase control over the Queenside as Black looks to untangle his pieces}
+15...Nd5 {Attacking the b4 pawn. 15...Nb8 followed by ...Nc6 to eliminate the Bishop on a5 was perhaps more accurate}
+16.a3 Bd8* {Vacating the e7 square for the Knight on d5 as Black anticipates e4 from White}
 
 
 [Event "3rd IZIT SF D"]
@@ -154,8 +192,19 @@ key squares in White's setup. Black can ...Ndf6 or...Qf6 followed by ...O-O and 
 modalities of a new strategy}
 9...O-O {Black too follows suit}
 10.a3 {White wants to start a Queenside pawn expansion}
-10...Bd6* {The e5 square has further control.Black's plausible idea includes ...g5,...Qh6,...g4 to create an attack on the King. Black's Knight on e4
-is a nemesis for White at the moment.} 
+10...Bd6 {The e5 square has further control.Black's plausible idea includes ...g5,...Qh6,...g4 to create an attack on the King. Black's Knight on e4
+is a nemesis for White at the moment.}
+11.b4 {As per the plan.}
+11...Qf6 {Black wants to play ...g5,...h5 and increase the influence on the Kingside}
+12.Rc1 {White continues developing the pieces to good squares. Will Black go for the jugular or tr tp stem White's expansion on the Queenside?}
+12...g5 {As per the plan,Black goes for the Kingside attack - a thematic feature of the Dutch defence and such a pawn structure}
+13.cxd5 {White opens up the c-file}
+13...cxd5 14.b5 {a4 is an idea to cement the pawn and expand on the Queenside}
+14...g4 {Black continues with the offensive idea}
+15.Bxe4 {15.Ne5 Nxd2 16.Qxd2 Nxe5 17.dxe5 Bxe5 18.Bxe5 Qxe5 leads to an equal position}
+15...fxe4 16.Ne5 {White breaks up Black's pawn structure and puts the Knight in a position where it is difficult for Black to continue the attack}
+16...h5 {Protecting the g4 pawn or else Black's pawn structure will collapse after Qxg4}
+17.Rxc8 Rfxc8 18.Nxd7 {Grabbing two pieces for the Rook} Qg7 19.Ne5*
 
 [Event "3rd IZIT SF D"]
 [Site "ICCF"]
@@ -167,7 +216,17 @@ is a nemesis for White at the moment.}
 [WhiteElo "2356"]
 [BlackElo "2297"]
 
-1.d4 d5 2.Nf3 Nf6*
+1.d4 d5 2.Nf3 Nf6 3.c4 c6 {Slav defence} 4.e3 Bf5 {The Bishop comes out early and Black can play ...Bxb1 if given an opportunity}
+5.Nc3 a6 {The idea is to play ...b5 if White plays Qb3} 6.Qb3 {5.Qb3 was better}6...b5 {Black is placed really well here}
+7.c5 {White closes the pawn chain as exchanging pawns does no good for White}
+7...Nbd7 {Prepares ...e5 to attack White's advanced pawns on the dark central squares.This idea is copied from the advanced variation of the
+French defence.Another idea for Black is to play 7...a5. Now if White plays 8.a4 to undermine's Black's pawn structure then 8...b4 allows Black to
+close the pawn chain. 7...a5 seems to be a waste of time as Black can look forward to develop pieces instead of dancing to White's music.}
+8.Nh4 {White wants the Bishop pair to be eliminated}
+8...Bg6 9.Nxg6 hxg6 {Black is okay here}
+10.f4 {Grabbing more space in the centre}
+10...e6 {...Be7 is the plan here}
+11.g3* {White plays a drab move.11.Be2 looks more sensible}
 
 [Event "3rd IZIT SF D"]
 [Site "ICCF"]
@@ -183,7 +242,12 @@ is a nemesis for White at the moment.}
 5.Nf3 O-O 6.Bd3 {A nice developing move where White aligns his pieces for a Kingside offensive} 6...Nc6 {Black's idea is to play ...e5 and ...Bg4 to
 pressurise White's centre}
 7.O-O {White is consistent with his development}
-7...e5* {Black attacks the centre in King's Indian style.}
+7...e5 {Black attacks the centre in King's Indian style.}
+8.d5 {An ambitious move to grab more space in the centre. White also attacks one of the defender's of the e5 pawn}
+8...Ne7 {Preventing 9.f5 that allows White to grab even more space and shut out the Bishop on c8}
+9.fxe5 dxe5 10.Qe1 {The Queen will come to h4.A good square to attack the Black King. This reamins a part of the main motto of the Austrain attack}
+10...c6 {Black wants to challenge White's pawn chain}
+11.dxc6 Nxc6 12.Be3 h6* {Controlling the g5 square. Blacks prepares ...Be6 and does not want the unpleasant Ng5 to attack the Bishop}
 
 
 [Event "3rd IZIT SF D"]
@@ -201,7 +265,23 @@ pressurise White's centre}
 some point to strike in the center followed by ...Bg4 to add pressure on White's central pawns}
 7.O-O {White goes for rapid development}
 7...e5 {A King's Indian kind of a thrust in the centre where Black questions White's central pawn domination}
-8.d5* {Attacking the Knight. White closes the centre}
+8.d5 {Attacking the Knight. White closes the centre  and removes one of the defenders of the e5 pawn}
+8...Ne7 {8...Nd4 also seems playable. But 9.f5!? allows White to grab even more space. The White Bishop is ready to go to g5 and put pressure on the
+Knight on f6. The point is that White is ready to bust open the position by playing fxg6. By playing f5 White also has
+taken out Black's chances of developing the light-squared Bishop on c8. The Rook on a8 will remain a spectator for the next move moves allowing
+White to increase his space advantage. 9...c6 challenging White's imposing central pawn structure.
+ 10.Bg5 h6 11.Bxf6 Bxf6 is playable for Black but White is much better. The move played in the game does not allow White to push f5 and close the position.
+ Black is willing to play ...c6 and challenge White's center - the original idea of the Pirc where Black's aim is to go for rapid development and then
+ strike in the centre creating possibilities of dynamic chess.}
+9.Kh1 {Planning Qe1,Qh4 and Bg5 most probably. The King gets out of the b6-g1 diagonal}
+9...exf4 {Busting White's imposing pawn setup}
+10.Bxf4 Bg4 {The Bishop pins the Knight and will exchange it on the next move}
+11.Qe1 {With an idea of Qh4 to increase chances of a King side attack}
+11...Bxf3 12.Rxf3 Ng4 {...Ne5 is an idea for Black}
+13.Qh4 Qd7 14.Raf1 {White goes for the Kingside offensive but Black has a good position}
+14...Bf6 {Attacking the Queen}
+15.Qe1 a6 {Controlling the b5 square}
+16.b3* {White too plays a preventive move and asks Black to take the initiative}
 
 [Event "3rd IZIT SF D"]
 [Site "ICCF"]
@@ -218,7 +298,10 @@ some point to strike in the center followed by ...Bg4 to add pressure on White's
 3.Nc3 Nc6 {The four knights variation of the English opening} 4.g3 g6 5.Bg2 Bg7 {Black has copied all five moves so far!}
 6.O-O O-O {Copycat Black!!}
 7.d4 cxd4 {Black deviates at last!}
-8.Nxd4 Nxd4 9.Qxd4 d6 10.Qd3 Re8* {10...a6 followed by ...Rb8 and ...b5 to attack the c4 pawn is another plan that Black can play}
+8.Nxd4 Nxd4 9.Qxd4 d6 10.Qd3 Re8 {10...a6 followed by ...Rb8 and ...b5 to attack the c4 pawn is another plan that Black can play}
+11.Bf4 Qa5 {Black wants to play ...Be6,...a6,...b5,....Rc8 with ideas of launching a Queenside counterplay.}
+12.b3 {A good choice to support the c4 pawn}
+12...Bf5* {Attacking the Queen}
 
 
 [Event "3rd IZIT SF D"]
@@ -232,7 +315,27 @@ some point to strike in the center followed by ...Bg4 to add pressure on White's
 [WhiteElo "2297"]
 [Annotator "Ganesh R Hegde"]
 
-1.d4 Nf6 2.c4 e6 3.g3*
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Bg2 Be7 5.Nf3 O-O 6.O-O dxc4 7.Ne5 {Wants to exchange immediately}
+7...Nc6 {Launching a double attack on the d4 pawn and also offering to exchange Knights.}
+8.Bxc6 {Eliminating the Knight.8.Nxc6 is also okay and White can hope to saddle Black with doubled c-pawns. 8...bxc6 9.Na3 Attacking the c4 pawn
+9...Bxa3 10.bxa3 White gets doubled pawns on the a-file.10...Ba6 11.Bxc6 Rb8. The position is equal but White has an apparent pawn weakness on the a-file.
+Black can always push ...c5 to eliminate his double pawn weakness on the c-file while White does not enjoy such liberty on the a-file.}
+8...bxc6 9.Nxc6 {9.Nxc4? is bad as 9...c5! attacking the d4 pawn as Black threatens 10...Qxd4 to gain a pawn.10.e3? Qd5! 11.b3 Bb7! 12.f3 is forced.12...cxd4 13.Qxd4 Qh5 14.Nbd2 Rd8 and
+Black gets tremendous activity}
+9...Qe8 10.Nxe7+ Qxe7 11.Qa4 {Attacking the c4 pawn}
+11...e5 12.dxe5 Qxe5 13.Qxc4 {White picks up another pawn and is materially ahead but Black has no distinct disadvantage}
+13...Be6 14.Qc2 Bf5* {Attacking the Queen again}
+[Event "AA/C21/SF/B"]
+[Site "ICCF"]
+[Date "2021.09.30"]
+[Round "-"]
+[White "Hegde, Ganesh"]
+[Black "Dlugolecki, Grzegorz"]
+[Result "*"]
+[WhiteElo "2297"]
+[BlackElo "2026"]
+
+1.d4 Nf6 2.c4 e6 3.g3 d5 4.Nf3 Bb4+ 5.Bd2*
 
 
 [Event "3rd IZIT SF D"]
@@ -259,4 +362,15 @@ positional control.White could have also gone straight for 9.e4 Bg4 10.Be3 Qc8 w
 9.e4 is also playable but 9...Bg4 10.Be3 Qc8 gives Black sufficient counterplay as ...Bh3 is unstoppable. Neutralising the light-squared Bishop means
 Black extra pawn advantage becomes more potent.}
 9...O-O 10.e4 {Now e4 makes more sense as the light square Bishop on c8 lacks space to develop on a good square. The f5 square is under White's firm grip}
-10...Na6* {Black wants to plant the Knight on b4 - a hole created by White's advanced pawns. ...Nd3 is also an idea to cement the Knight in White's throat}
+10...Na6 {Black wants to plant the Knight on b4 - a hole created by White's advanced pawns. ...Nd3 is also an idea to cement the Knight in White's throat}
+11.e5 {White wants to cash the positional advantage.}
+11...Ne8 12.Qe2 {White Queen wants to grab the pawn} 12...Nb4 {Black plants the Knight in the hole.}13.Qxc4 {No ...Nd3 ideas here}
+13...a5 {Cementing the Knight on b4}
+14.Qe2 {The Queen has nothing to do on c4 and comes back on e2. Black wants to play ...Bf5 followed by ...Nd3.
+White wants to play Rd1 followed by Be3 to obtain a good position.
+14.Be3 is also playable but 14...Nc2 15.Rd1 Nxe3 16.fxe3 gives White a bad pawn structure.
+The Queen on e2 does not allow ...Nc2 and White can play Be3 soon.}
+14...b6 {15...Ba6 is the idea}
+15.Re1 Nc7 {...Nd5 is an idea where Black looks more interested to exchange pieces}
+16.Be3 {17.Qd2 and White is ready to play Bh6 soon}
+16...Rb8*
