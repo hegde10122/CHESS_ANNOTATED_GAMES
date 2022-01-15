@@ -94,7 +94,7 @@ development.}
 18.Qa4 {Forced or Black will win the Knight on b5}
 18...Bc5 19.Be3 {Protecting the f2 pawn} Bc6 {Pinning the hapless Knight and Black will equalise} 20.Nfd4 Bxd4
 21.Bxd4 Bxb5 22.Qxa7 Ra8 23.Qc7 f6 24.Bxe4 dxe4 25.Bc3 {Preventing ...e5 with tempo}
-25...e5 26.Qb6 Qc6 27.Qe3 h5 28.Rd1 Ba4 29.Rd2 Rfd8 30.Rxd8+ Rxd8 31.Rc1 Qd5 32.a3 Bd7 33.Re1*
+25...e5 26.Qb6 Qc6 27.Qe3 h5 28.Rd1 Ba4 29.Rd2 Rfd8 30.Rxd8+ Rxd8 31.Rc1 Qd5 32.a3 Bd7 33.Re1 Kf7 34.Kg2 Bc6 35.h3*
 
 [Event "3rd IZIT SF D"]
 [Site "ICCF"]
@@ -130,7 +130,7 @@ Kingside fianchetto has blunted Black's original idea of Kingside aggression in 
 16...Qe7 17.Nd3 b6
 18.Kh1 {With ideas like Rg1,f3,g4,h4,h5 on the cards}
 18...Nxd3 19.Qxd3 Ng4 {Moves like ...Nh6 and ...f5 are on the cards - Black's pet theme in the KID}
-20.f3 Nh6 21.Rb1 f5 22.b4 Nf7 23.Rb2 a5 24.bxa5 bxa5 25.Rxb8 Rxb8 26.Rb1 Rxb1+ 27.Qxb1 Bh6*
+20.f3 Nh6 21.Rb1 f5 22.b4 Nf7 23.Rb2 a5 24.bxa5 bxa5 25.Rxb8 Rxb8 26.Rb1 Rxb1+ 27.Qxb1 Bh6 28.Be1 Qg5 29.exf5*
 
 [Event "3rd IZIT SF D"]
 [Site "ICCF"]
@@ -159,7 +159,7 @@ dark-squared Bishop is now insipid}
 12...O-O {Black develops the Rook and the King is safe on g8}
 13.Bc3 Bxc3+
 14.Qxc3 Bd7 15.Nd4 Ne4 16.Bxe4 dxe4 17.O-O Qg5 18.Kh1 Rfc8 19.Qd2 h6 20.Rac1 Qd5 {Attacking the a2 pawn}
-21.b3 Rxc1 22.Rxc1 Qd6 23.Qb2 b6 24.h3 a5*
+21.b3 Rxc1 22.Rxc1 Qd6 23.Qb2 b6 24.h3 a5 25.Ne2 Rc8*
 
 [Event "3rd IZIT SF D"]
 [Site "ICCF"]
@@ -227,7 +227,7 @@ is a nemesis for White at the moment.}
 15...fxe4 16.Ne5 {White breaks up Black's pawn structure and puts the Knight in a position where it is difficult for Black to continue the attack}
 16...h5 {Protecting the g4 pawn or else Black's pawn structure will collapse after Qxg4}
 17.Rxc8 Rfxc8 18.Nxd7 {Grabbing two pieces for the Rook} Qg7 19.Ne5 Qc7 20.Nxg4 hxg4 21.Qxg4+
-21...Kf8 22.f4 Ke7 23.Qg7+ Ke8 24.Qg8+ Ke7 25.Qg7+*
+21...Kf8 22.f4 Ke7 23.Qg7+ Ke8 24.Qg8+ Ke7 25.Qg7+ Ke8 26.Qg8+ Ke7 27.Qg7+*
 
 
 [Event "3rd IZIT SF D"]
@@ -253,7 +253,9 @@ close the pawn chain. 7...a5 seems to be a waste of time as Black can look forwa
 11.g3 {White plays a drab move.11.Be2 looks more sensible}
 11...a5 {Planning ...b4 followed by ...Ne4 to grab the e4 square}
 12.Bg2 Be7 13.Bd2 {Preparing O-O-O} 13...Ng8 {...f5 is the idea}
-14.e4 a4 {Attacking the Queen} 15.Qc2 dxe4 16.Nxe4 Rc8 17.Ng5 Ndf6 18.Nf3 Nh6*
+14.e4 a4 {Attacking the Queen} 15.Qc2 dxe4 16.Nxe4 Rc8 17.Ng5 Ndf6 18.Nf3 Nh6 19.O-O-O O-O* {Black can commit his King now as White's
+King is on the Queenside of the board}
+
 
 [Event "3rd IZIT SF D"]
 [Site "ICCF"]
@@ -281,7 +283,8 @@ pressurise White's centre}
 16.Qf2 {Qh4 is on the cards} 16...Nd7 {Controlling the h4 square}
 17.Nh4!? {A tricky move to control the f5 square.}
 17...Nd4 {Controlling the f5 square}
-18.Nf5!?
+18.Nf5!? gxf5 19.exf5 Nc5 20.fxe6+ Nxd3 21.cxd3 Nxe6 {21...fxe6 gives doubled pawns - a permanent weakness that White can exploit going
+forward}22.Qf5+ Kg8*
 
 [Event "3rd IZIT SF D"]
 [Site "ICCF"]
@@ -322,7 +325,7 @@ White to increase his space advantage. 9...c6 challenging White's imposing centr
 19.Qe1 Bg7 20.h3 Ne5 21.Bxe5 dxe5 22.Ng3 c6 23.dxc6 Nxc6 24.Bc4 {More pressure on the f7 pawn}
 24...Re7 {Another defender added to the defense of the f7 pawn}
 25.c3 {Bd5 followed by c4 is the idea}
-25...Nd8*
+25...Nd8 26.Bd5 Ne6*
 
 
 [Event "3rd IZIT SF D"]
@@ -348,7 +351,8 @@ White to increase his space advantage. 9...c6 challenging White's imposing centr
 14.Bd2 Qh5 {Black Queen wants to get offensive}
 15.Rae1 Bd7 16.h4 {Trying to choke the Queen with ...Bg5} Rab8
 17.Bf3 Qc5 {17...Bg4. Looking to exchange pieces is also a good alternative}
-18.Rc1 a6 19.Be3 Qa5 20.Bd2 Qc5*
+18.Rc1 a6 19.Be3 Qa5 20.Bd2 Qc5 21.Be3 Qa5 22.Rc2 Rbc8* {Intending to play ...b5 soon and open up the c-file}
+
 
 [Event "3rd IZIT SF D"]
 [Site "ICCF"]
@@ -374,7 +378,7 @@ Black gets tremendous activity}
 15.Qc4 Be6 16.Qc2 Nd5  {Black does not want a draw  }
 17.a3 {Controlling the b4 square}
 17...Rae8 {Improvising the position}
-18.Re1 f5 19.Nc3 f4 20.Qe4 Qh5 21.Qf3 Qxf3 22.exf3 Nxc3 23.bxc3 fxg3 24.hxg3 Rxf3 25.Be3*
+18.Re1 f5 19.Nc3 f4 20.Qe4 Qh5 21.Qf3 Qxf3 22.exf3 Nxc3 23.bxc3 fxg3 24.hxg3 Rxf3 25.Be3 a6 26.Bd4*
 
 
 [Event "3rd IZIT SF D"]
