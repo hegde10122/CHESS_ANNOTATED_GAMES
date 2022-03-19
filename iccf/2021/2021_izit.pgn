@@ -60,8 +60,10 @@ Qg7 allows ...Ke7 with the White Queen having to retreat back. The Black Queen c
 hasty}
 20...f6 {Taking away the g5 square. 20...Qe7 21.Qd4 f6 also looks okay for Black}
 21.Nxd5 exd5 22.f4 Nf7 {22...Ng4?! looks intimidating }
-23.Nf2 Qd6* {Shielding the King on the d-file}
-
+23.Nf2 Qd6 {Shielding the King on the d-file}
+24.Bc4 {Taking advantage of the pin}24...Rae8 {Controlling the e-file with an active move...Kc8,...Kb8 can now be played}
+25.Bb3 Kc8 26.Bxd5 Nd8 27.Bc4 Qxd2+ 28.Rxd2 Bxg2 29.Bxa6+ Kb8 30.Rh4 Re1+ 31.Nd1 Rh1
+32.Rxh1 Bxh1 33.Rh2 Be4 34.Nf2 Re8*
 
 [Event "3rd IZIT SF D"]
 [Site "ICCF"]
@@ -98,7 +100,7 @@ Kingside fianchetto has blunted Black's original idea of Kingside aggression in 
 18.Kh1 {With ideas like Rg1,f3,g4,h4,h5 on the cards}
 18...Nxd3 19.Qxd3 Ng4 {Moves like ...Nh6 and ...f5 are on the cards - Black's pet theme in the KID}
 20.f3 Nh6 21.Rb1 f5 22.b4 Nf7 23.Rb2 a5 24.bxa5 bxa5 25.Rxb8 Rxb8 26.Rb1 Rxb1+ 27.Qxb1 Bh6 28.Be1 Qg5 29.exf5
-29...Bxf5 30.Ne4 Bxe4 31.fxe4 Qe3 32.Bxa5*
+29...Bxf5 30.Ne4 Bxe4 31.fxe4 Qe3 32.Bxa5 Qe2 33.Bc7 Qxc4 34.a5 Kg7 35.Bf1*
 
 [Event "3rd IZIT SF D"]
 [Site "ICCF"]
@@ -128,7 +130,8 @@ dark-squared Bishop is now insipid}
 13.Bc3 Bxc3+
 14.Qxc3 Bd7 15.Nd4 Ne4 16.Bxe4 dxe4 17.O-O Qg5 18.Kh1 Rfc8 19.Qd2 h6 20.Rac1 Qd5 {Attacking the a2 pawn}
 21.b3 Rxc1 22.Rxc1 Qd6 23.Qb2 b6 24.h3 a5 25.Ne2 Rc8 26.Rxc8+ Bxc8 27.Ng3 Qd1+ 28.Kh2 Qd6 29.Qc2 Bb7 30.Kg1
-30...Qc6 31.Qd1 Qd5 32.Qg4 Kh7 33.Kh1*
+30...Qc6 31.Qd1 Qd5 32.Qg4 Kh7 33.Kh1 a4{Looking to exchange pawns.Offering draw as well}
+34.bxa4 Qxa2*
 
 [Event "3rd IZIT SF D"]
 [Site "ICCF"]
@@ -156,7 +159,7 @@ Also the d2 square is now available for the Knight and the Queen can continue it
 18...bxa4 19.Rxa4 Nc6 20.d5 {Opening up the central files as Black's pieces are choked}
 20...Nxa5 21.bxa5 exd5 22.exd5 Nf6 23.Re1 Be7 24.Nd4 Qd7 25.Nc6 {Attacking the Bishop twice as White gains more space}
 25...Rce8 {25...Bd6 is a solid alternative}
-26.Rb1*
+26.Rb1 Ba8 27.Nc4 Bxc6 28.dxc6 Qe6 29.Bf3*
 
 [Event "3rd IZIT SF D"]
 [Site "ICCF"]
@@ -184,7 +187,7 @@ close the pawn chain. 7...a5 seems to be a waste of time as Black can look forwa
 14.e4 a4 {Attacking the Queen} 15.Qc2 dxe4 16.Nxe4 Rc8 17.Ng5 Ndf6 18.Nf3 Nh6 19.O-O-O O-O {Black can commit his King now as White's
 King is on the Queenside of the board}
 20.Rhe1 Nf5 {Attacking the d4 pawn twice}
-21.Qc3 Nd5 22.Qd3 a3 23.b3 Bf6*
+21.Qc3 Nd5 22.Qd3 a3 23.b4 Bf6*
 
 [Event "3rd IZIT SF D"]
 [Site "ICCF"]
@@ -213,7 +216,9 @@ pressurise White's centre}
 17.Nh4!? {A tricky move to control the f5 square.}
 17...Nd4 {Controlling the f5 square}
 18.Nf5!? gxf5 19.exf5 Nc5 20.fxe6+ Nxd3 21.cxd3 Nxe6 {21...fxe6 gives doubled pawns - a permanent weakness that White can exploit going
-forward}22.Qf5+ Kg8 23.Rf2*
+forward}22.Qf5+ Kg8 23.Rf2 Nd4 24.Bxd4 Qxd4 25.Kh2 Rc6 26.Ne4 Qd5 27.b4 Qe6 28.g4 Qxf5 29.gxf5 Rd8*
+
+
 
 [Event "3rd IZIT SF D"]
 [Site "ICCF"]
@@ -254,8 +259,8 @@ White to increase his space advantage. 9...c6 challenging White's imposing centr
 19.Qe1 Bg7 20.h3 Ne5 21.Bxe5 dxe5 22.Ng3 c6 23.dxc6 Nxc6 24.Bc4 {More pressure on the f7 pawn}
 24...Re7 {Another defender added to the defense of the f7 pawn}
 25.c3 {Bd5 followed by c4 is the idea}
-25...Nd8 26.Bd5 Ne6*
-
+25...Nd8 26.Bd5 Ne6 27.Ne2 f5 28.c4 f4 {Black closes the position}29.Nc3 Kh8
+30.Bxe6 Qxe6 31.Rd3 Rd7 32.Nd5 Rdf7 33.Qf2 Rc8 34.c5 Rg8*
 
 [Event "3rd IZIT SF D"]
 [Site "ICCF"]
@@ -283,7 +288,8 @@ White to increase his space advantage. 9...c6 challenging White's imposing centr
 18.Rc1 a6 19.Be3 Qa5 20.Bd2 Qc5 21.Be3 Qa5 22.Rc2 Rbc8{Intending to play ...b5 soon and open up the c-file}
 23.Bg5 b5{Black wants to open up the Queenside as White will have to break this passive play at some point}
 24.cxb5 axb5 25.Rfc1 b4 {Forcing White to trade pieces}
-26.Bxf6*
+26.Bxf6 exf6 27.Nd5 Rxc2 28.Rxc2 f5 29.Nc7 Rd8 {The d6 pawn is hanging but Black is okay}
+30.Qd5 Qb6 31.exf5 Bxf5 32.Rc6 Qa7 33.Qd2 Qd4*
 
 [Event "3rd IZIT SF D"]
 [Site "ICCF"]
@@ -291,7 +297,7 @@ White to increase his space advantage. 9...c6 challenging White's imposing centr
 [Round "-"]
 [Black "IM Marius Jacques Fourie"]
 [White "Hegde, Ganesh"]
-[Result "*"]
+[Result "1/2-1/2"]
 [BlackElo "2387"]
 [WhiteElo "2297"]
 [Annotator "Ganesh R Hegde"]
@@ -310,7 +316,7 @@ Black gets tremendous activity}
 17.a3 {Controlling the b4 square}
 17...Rae8 {Improvising the position}
 18.Re1 f5 19.Nc3 f4 20.Qe4 Qh5 21.Qf3 Qxf3 22.exf3 Nxc3 23.bxc3 fxg3 24.hxg3 Rxf3 25.Be3 a6 26.Bd4 c5 27.Bxc5 Rxc3 28.Bb4 Rc2
-29.Rac1 Rxc1 30.Rxc1 Rc8 31.Rxc8+ Bxc8 32.Kg2 h5 33.Kf3{Draw offered}*
+29.Rac1 Rxc1 30.Rxc1 Rc8 31.Rxc8+ Bxc8 32.Kg2 h5 33.Kf3{Draw offered}1/2-1/2
 
 
 [Event "3rd IZIT SF D"]
