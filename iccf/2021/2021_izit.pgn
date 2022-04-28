@@ -101,7 +101,7 @@ Kingside fianchetto has blunted Black's original idea of Kingside aggression in 
 18.Kh1 {With ideas like Rg1,f3,g4,h4,h5 on the cards}
 18...Nxd3 19.Qxd3 Ng4 {Moves like ...Nh6 and ...f5 are on the cards - Black's pet theme in the KID}
 20.f3 Nh6 21.Rb1 f5 22.b4 Nf7 23.Rb2 a5 24.bxa5 bxa5 25.Rxb8 Rxb8 26.Rb1 Rxb1+ 27.Qxb1 Bh6 28.Be1 Qg5 29.exf5
-29...Bxf5 30.Ne4 Bxe4 31.fxe4 Qe3 32.Bxa5 Qe2 33.Bc7 Qxc4 34.a5 Kg7 35.Bf1*
+29...Bxf5 30.Ne4 Bxe4 31.fxe4 Qe3 32.Bxa5 Qe2 33.Bc7 Qxc4 34.a5 Kg7 35.Bf1 Qc3 36.Qd3 Qa1 37.a6 c4 38.Qxc4*
 
 [Event "3rd IZIT SF D"]
 [Site "ICCF"]
@@ -132,7 +132,8 @@ dark-squared Bishop is now insipid}
 14.Qxc3 Bd7 15.Nd4 Ne4 16.Bxe4 dxe4 17.O-O Qg5 18.Kh1 Rfc8 19.Qd2 h6 20.Rac1 Qd5 {Attacking the a2 pawn}
 21.b3 Rxc1 22.Rxc1 Qd6 23.Qb2 b6 24.h3 a5 25.Ne2 Rc8 26.Rxc8+ Bxc8 27.Ng3 Qd1+ 28.Kh2 Qd6 29.Qc2 Bb7 30.Kg1
 30...Qc6 31.Qd1 Qd5 32.Qg4 Kh7 33.Kh1 a4{Looking to exchange pawns.Offering draw as well}
-34.bxa4 Qxa2 35.Qf5+ g6 36.Qf6 Bd5*
+34.bxa4 Qxa2 35.Qf5+ g6 36.Qf6 Bd5 37.Qd4 Qb1+ 38.Kh2 Qa2 39.Qxb6 Qxa4 40.Qb2 Qa5 41.Qc2 Qb4 42.Qc7 Qb2 43.Qf4 Qa2
+44.Qe5 h5 45.Kg1 Qb1+ 46.Kh2 Qd3 47.Qf6 Be6*
 
 [Event "3rd IZIT SF D"]
 [Site "ICCF"]
@@ -161,7 +162,7 @@ Also the d2 square is now available for the Knight and the Queen can continue it
 20...Nxa5 21.bxa5 exd5 22.exd5 Nf6 23.Re1 Be7 24.Nd4 Qd7 25.Nc6 {Attacking the Bishop twice as White gains more space}
 25...Rce8 {25...Bd6 is a solid alternative}
 26.Rb1 Ba8 27.Nc4 Bxc6 28.dxc6 Qe6 29.Bf3 Rd8 30.Ne3 {White wants to play Qf5 and exchange Queens to exploit the space advantage}
-30...Qe5*
+30...Qe5 31.Qb2 Qg5 32.h4 Qg6 33.Qc1 Rfe8*
 
 [Event "3rd IZIT SF D"]
 [Site "ICCF"]
@@ -189,7 +190,11 @@ close the pawn chain. 7...a5 seems to be a waste of time as Black can look forwa
 14.e4 a4 {Attacking the Queen} 15.Qc2 dxe4 16.Nxe4 Rc8 17.Ng5 Ndf6 18.Nf3 Nh6 19.O-O-O O-O {Black can commit his King now as White's
 King is on the Queenside of the board}
 20.Rhe1 Nf5 {Attacking the d4 pawn twice}
-21.Qc3 Nd5 22.Qd3 a3 23.b4 Bf6 24.Bh1 Qc7* {Black is cramped for space here}
+21.Qc3 Nd5 22.Qd3 a3 23.b4 Bf6 24.Bh1 Qc7 {Black is cramped for space here}
+25.Kb1 {25.g4 looks more potent. 25...Nh4 26.Ne5 and the Knight on h4 looks like a poor piece}
+25...Rfd8 {26...Nxd4 is the idea}
+26.Re4 Nh6*
+
 
 [Event "3rd IZIT SF D"]
 [Site "ICCF"]
@@ -218,8 +223,8 @@ pressurise White's centre}
 17.Nh4!? {A tricky move to control the f5 square.}
 17...Nd4 {Controlling the f5 square}
 18.Nf5!? gxf5 19.exf5 Nc5 20.fxe6+ Nxd3 21.cxd3 Nxe6 {21...fxe6 gives doubled pawns - a permanent weakness that White can exploit going
-forward}22.Qf5+ Kg8 23.Rf2 Nd4 24.Bxd4 Qxd4 25.Kh2 Rc6 26.Ne4 Qd5 27.b4 Qe6 28.g4 Qxf5 29.gxf5 Rd8*
-
+forward}22.Qf5+ Kg8 23.Rf2 Nd4 24.Bxd4 Qxd4 25.Kh2 Rc6 26.Ne4 Qd5 27.b4 Qe6 28.g4 Qxf5 29.gxf5 Rd8 30.Kg3
+30...Ra6 31.Kg4 Ra3 32.Rfd2 Bf8 33.b5 Bb4 34.Rg2 Raxd3 35.Rxd3 Rxd3*
 
 [Event "3rd IZIT SF D"]
 [Site "ICCF"]
