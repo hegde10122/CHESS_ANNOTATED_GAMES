@@ -134,7 +134,7 @@ dark-squared Bishop is now insipid}
 30...Qc6 31.Qd1 Qd5 32.Qg4 Kh7 33.Kh1 a4{Looking to exchange pawns.Offering draw as well}
 34.bxa4 Qxa2 35.Qf5+ g6 36.Qf6 Bd5 37.Qd4 Qb1+ 38.Kh2 Qa2 39.Qxb6 Qxa4 40.Qb2 Qa5 41.Qc2 Qb4 42.Qc7 Qb2 43.Qf4 Qa2
 44.Qe5 h5 45.Kg1 Qb1+ 46.Kh2 Qd3 47.Qf6 Be6 48.Qe5 Bd5 49.Qf6 Be6 50.Qf4 Bd5 51.Nh1 Be6 52.g4 hxg4 53.hxg4 Qe2 54.g5 Qc2
-55.Ng3 Bd5*
+55.Ng3 Bd5 56.Qf6 Qd3 57.Qd4 Qxd4 58.exd4 Kg7 59.Kh3 f5*
 
 [Event "3rd IZIT SF D"]
 [Site "ICCF"]
@@ -142,7 +142,7 @@ dark-squared Bishop is now insipid}
 [Round "-"]
 [White "Hegde, Ganesh"]
 [Black "Oleg Anatolievich Alifanov"]
-[Result "*"]
+[Result "1/2-1/2"]
 [WhiteElo "2297"]
 [BlackElo "2314"]
 [Annotator "Ganesh R Hegde"]
@@ -164,7 +164,7 @@ Also the d2 square is now available for the Knight and the Queen can continue it
 25...Rce8 {25...Bd6 is a solid alternative}
 26.Rb1 Ba8 27.Nc4 Bxc6 28.dxc6 Qe6 29.Bf3 Rd8 30.Ne3 {White wants to play Qf5 and exchange Queens to exploit the space advantage}
 30...Qe5 31.Qb2 Qg5 32.h4 Qg6 33.Qc1 Rfe8 34.Kg2 Bd6 35.Rb3 h5 36.Rc4 Kh8 37.Qc2 Re5 38.Qxg6 fxg6
-39.Ra4 Bc5 40.Nc4 Rf5 41.Ra2 Rf8*
+39.Ra4 Bc5 40.Nc4 Rf5 41.Ra2 Rf8{Draw}
 
 [Event "3rd IZIT SF D"]
 [Site "ICCF"]
@@ -195,7 +195,7 @@ King is on the Queenside of the board}
 21.Qc3 Nd5 22.Qd3 a3 23.b4 Bf6 24.Bh1 Qc7 {Black is cramped for space here}
 25.Kb1 {25.g4 looks more potent. 25...Nh4 26.Ne5 and the Knight on h4 looks like a poor piece}
 25...Rfd8 {26...Nxd4 is the idea}
-26.Re4 Nh6 27.Qxa3 Ra8 28.Qb3 Ra4 29.a3 Rda8 30.Bc1 R8a6*
+26.Re4 Nh6 27.Qxa3 Ra8 28.Qb3 Ra4 29.a3 Rda8 30.Bc1 R8a6 31.Bb2 Qa7 32.Rd3*
 
 
 [Event "3rd IZIT SF D"]
