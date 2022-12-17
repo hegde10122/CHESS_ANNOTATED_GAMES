@@ -1,4 +1,4 @@
-[Event "-"]
+[Event "Correspondence game"]
 [Site "Lichess"]
 [Date "2022.12.17"]
 [Round "Practice rated game"]
@@ -14,7 +14,7 @@ controlled. Accelerated central squares are the c4,c5,d4,d5,e4,e5,f4 and f5 squa
 1...d5 {Black controls the e4 and c4 squares with an identical Queen pawn opening for himself}
 2.Bf4* {The London system where White is interested in developing the Bishop to an optimal square eyeing the e5-b8 diagonal.}
 
-[Event "-"]
+[Event "Correspondence game"]
 [Site "Lichess"]
 [Date "2022.12.17"]
 [Round "Practice rated game"]
@@ -70,8 +70,7 @@ after putting the pawns on c3 and d4 which would keep the pressure intact in the
 his strategy. This is not inferior at all. Black can now focus on developing his pieces and castle.}
 7...d6 {Black overprotects the e5 pawn and opens up the c8-g4 diagonal for the light-squared Bishop on c8.Black also opens up 
 the possibility of ...Na5 on the next move to capture the Bishop on b3 - a nuisance for Black. Black has thus opened up two good 
-possibilities for development and exchange of material to neutralize White's initiative. This move has led to the Chigorin variation of the 
-closed Sicilian.}
+possibilities for development and exchange of material to neutralize White's initiative.}
 
 
 
