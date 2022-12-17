@@ -1,0 +1,78 @@
+[Event "-"]
+[Site "Lichess"]
+[Date "2022.12.17"]
+[Round "Practice rated game"]
+[White "hegde10122"]
+[Black Safrad"]
+[Result "*"]
+[WhiteElo "2253"]
+[BlackElo "2257"]
+[Annotator "Ganesh R Hegde"]
+
+1.d4 {White begins with the Queen pawn opening and controls the e5 central square. The c5 square - a part of the accelerated centre is also 
+controlled. Accelerated central squares are the c4,c5,d4,d5,e4,e5,f4 and f5 squares.}
+1...d5 {Black controls the e4 and c4 squares with an identical Queen pawn opening for himself}
+2.Bf4* {The London system where White is interested in developing the Bishop to an optimal square eyeing the e5-b8 diagonal.}
+
+[Event "-"]
+[Site "Lichess"]
+[Date "2022.12.17"]
+[Round "Practice rated game"]
+[Black "hegde10122"]
+[White Safrad"]
+[Result "*"]
+[WhiteElo "2257"]
+[BlackElo "2253"]
+[Annotator "Ganesh R Hegde"]
+
+1.e4 {The most popular King pawn opening for White in classical chess.Here White opens up the f1-b5 diagonal for his 
+light-squared Bishop on f1 and plans to develop the Knight on g1 to f3 followed by O-O to complete rapid development.
+White also controls the d5 and f5 squares - a strategic idea in the opening.}
+1...e5 {Black copies White's idea and looks to have an equal say in the central squares by controlling the d4 and f4 squares. This move 
+also disallows White from playing 2.d4 that would allow White to put the two central pawns on ideal squares giving him a great 
+space advantage.}
+2.Nf3 {A solid move where White attacks the e5 pawn and wants Black to react to the immediate threat of 3.Nxe5 on the next move. 
+It also controls the d4 square - an important strategic goal in the opening for White.}
+2...Nc6 {Protecting the pawn and developing a piece. It is equally important for Black to follow the opening principles in chess - 
+rapid development of pieces on optimal squares, centre control by pawns or pieces and castling the King.}
+3.Bb5 {Another good move which leads to the Ruy Lopez opening or the Spanish opening. Here White has developed his Kingside pieces and 
+is ready to play O-O next. The main idea is to put pressure on Black's Knight that protects the e5 pawn. White is renewing the 
+threat of Nxe5 as well.The Ruy Lopez opening was created in the 16th century, and was named after Spanish priest Ruy Lopez de Segura.
+White and Black will now fight to control the central squares by placing two pawns here - the main goal of the Ruy lopez opening.}
+3...a6 {Black kicks the Bishop and asks him the obvious question - Do you want to exchange the Bishop for my Knight on c6 by playing
+4.Bxc6? This move if played, damages the Black pawn structure but is not considered to be a great option for White because not only does 
+he lose the Bishop pair but also wastes time by exchanging a good piece thereby losing a great protector of his own light squares.}
+4.Ba4 {White maintains the pressure on the Knight on c6 by retreating to a safer square.}
+4...Nf6 {Black counterattacks in the centre with the threat of 5...Nxe4. This is similar to White strategy of Nxe5.}
+5.O-O {White need not worry about the pawn on e4. If 5...Nxe4 then 6.d4 is good for White. 
+For example to continue further, 6...b5 7.Bb3 d5
+8.dxe5 which allows White to regain the pawn. Black is behind in development and losing the initiative.
+In this sequence if Black decides to retreat the Knight on e4 by playing 7...Nf6?? then White wins after 8.Nxe5 threatening the pawn on 
+f7.
+5.d3 is also playable but defeats the purpose of the main goal of this opening.
+5.Nc3 blocks the c-pawn and prevents the plan of occupying the centre with c3 and d4.
+5.Qe2 develops the queen and protects the pawn on e4. But this move would be against the general opening principles. A possible ...Nd4 
+in the future would harass the White Queen on e2.
+5.d4 would jeopardize White's play so far and would be in contradiction of his Bishop development on b5. This Bishop is now on a4 
+serving a strategic purpose and 5.d4 would allow 5...exd4 which has reduced Black's headache on controlling the pawn on e5.
+By castling the King White has attained another objective of the openings in chess - Protecting the King and also developing the Rook 
+to the central file where it can assist to control the central squares.
+}
+5...Be7 {The closed system of the Spanish opening begins after this move. 5...Nxe4 leads to the open Sicilian system. This Knight 
+capturing the pawn is also a good move but Black does not retain the advantage of the extra pawn without sacrificing development. 
+By developing the Bishop on e7 Black has closed the e-file and renews the threat of 6...Nxe4.}
+6.Re1 {Not only does White develop the Rook, but also protects the pawn on e4. White now has ideas of playing c3 and d4 which will allow
+him to carry out the main goal of the Ruy Lopez - putting two central pawns on optimal squares. All the possible ways of protecting 
+the e4 pawn on the earlier move are possible here but the Rook on e1 is considered best as White would retain a slight advantage 
+after putting the pawns on c3 and d4 which would keep the pressure intact in the centre. Black's counterattack is thus nullified.}
+6...b5 {Black eliminates the threat of 7.Bxc6 followed by 8.Nxe5 and expands on the Queenside.}
+7.Bb3 {The Bishop nows eyes the pawn on f7 but remember that White played the Bishop moves thrice in the opening to carry out 
+his strategy. This is not inferior at all. Black can now focus on developing his pieces and castle.}
+7...d6 {Black overprotects the e5 pawn and opens up the c8-g4 diagonal for the light-squared Bishop on c8.Black also opens up 
+the possibility of ...Na5 on the next move to capture the Bishop on b3 - a nuisance for Black. Black has thus opened up two good 
+possibilities for development and exchange of material to neutralize White's initiative. This move has led to the Chigorin variation of the 
+closed Sicilian.}
+
+
+
+
