@@ -3,7 +3,7 @@
 [Date "2022.12.17"]
 [Round "Practice rated game"]
 [White "hegde10122"]
-[Black Safrad"]
+[Black "David Šafránek (Safrad)"]
 [Result "*"]
 [WhiteElo "2253"]
 [BlackElo "2257"]
@@ -12,18 +12,38 @@
 1.d4 {White begins with the Queen pawn opening and controls the e5 central square. The c5 square - a part of the accelerated centre is also 
 controlled. Accelerated central squares are the c4,c5,d4,d5,e4,e5,f4 and f5 squares.}
 1...d5 {Black controls the e4 and c4 squares with an identical Queen pawn opening for himself}
-2.Bf4* {The London system where White is interested in developing the Bishop to an optimal square eyeing the e5-b8 diagonal.}
+2.Bf4 {The London system where White is interested in developing the Bishop to an optimal square eyeing the e5-b8 diagonal.}
+2...c5 {Black ar=ttacks the central pawn on d4 and expands further.}
+3.e3 {Reinforcing the protection of the d4 pawn. The c4-f1 diagonal is opened up for the development of the Bishop on f1.}
+3...cxd4 {Black simplifies in order to avoid theory}
+4.exd4 {White now has the semi-open e-file while Black has the semi-open c-file}
+4...Nc6 {Here Black develops the Queen Knight and does not commit anything on the Kingside}
+5.c3 {White takes away the b4 square from the Black Knight on c6 and prepares Nbd2 and Bd3,Nf3}
+5...Bf5 {Black develops another piece leaving the pawn on b7 vulnerable.}
+6.Nbd2 {6.Qb3 is not a great idea because 6...Qd7 nullifies White's attack on the b7 pawn.}
+6...e6 {Black opens up the possibility of ...Bd6 to blunt the White Bishop}
+7.Ngf3 {White develops the Kingside and opens up the possibility of O-O after Be2}
+7...Bd6 {Asking White to exchange the strong piece}
+8.Bg3 {8...Bxg3 9.hxg3 opens up the h-file for White}
+8...Nf6 {Black is ready to O-O}
+9.Be2* {White is also ready to O-O and this looks like an equal position}
+
 
 [Event "Correspondence game"]
 [Site "Lichess"]
 [Date "2022.12.17"]
 [Round "Practice rated game"]
-[Black "hegde10122"]
-[White Safrad"]
+[Black "Ganesh R Hegde (hegde10122)"]
+[White "David Šafránek (Safrad)"]
 [Result "*"]
 [WhiteElo "2257"]
 [BlackElo "2253"]
+[ECO "C97"]
+[WhiteTeam "Czechoslovakia"]
+[BlackTeam "India"]
 [Annotator "Ganesh R Hegde"]
+[Opening "Ruy Lopez Closed"]
+[Variation "Chigorin"]
 
 1.e4 {The most popular King pawn opening for White in classical chess.Here White opens up the f1-b5 diagonal for his 
 light-squared Bishop on f1 and plans to develop the Knight on g1 to f3 followed by O-O to complete rapid development.
@@ -71,7 +91,77 @@ his strategy. This is not inferior at all. Black can now focus on developing his
 7...d6 {Black overprotects the e5 pawn and opens up the c8-g4 diagonal for the light-squared Bishop on c8.Black also opens up 
 the possibility of ...Na5 on the next move to capture the Bishop on b3 - a nuisance for Black. Black has thus opened up two good 
 possibilities for development and exchange of material to neutralize White's initiative.}
+8.c3 {Black vacates the c2 square for the Bishop if Black plays 8...Na5. Also prepares for the d4 pawn push to complete the Spanish setup}
+8...O-O {Black completes development of the Kingside}
+9.h3 {White does not want Black to play 9...Bg4 which allows sufficient activity after the Knight on f3 is pinned.}
+9...Na5 {Black wants the Bishop on b3 to retreat and go back to c2 where its efficacy is blunted by its own pawn on e4 - a slight 
+strategical punch}
+10.Bc2 {White wants to keep the Bishop pair and both the Bishops want to participate in a Kingside offensive in the future.}
+10...c5 {To add more pressure on the d4 square}
+11.d4 {White finally attains his objective of putting two pawns in the centre}
+11...Qc7 {Black wants to keep his e5 pawn intact and adds another defender because the knight on c6 is now on a5}
+12.Nbd2 {White now wants to develop his Queenside and starts with the Knight. In the long term, White would love to take this Knight 
+on d2 to f5 via the d2-f1-g3-f5 route where he can press for a Kingside attack.}
+12...Bd7 {Connecting the Rooks as 12...Bd7 allows White the possibilities of pushing d5 and curtailing the light-squared Bishop's activity.
+Black's Knight on a5 is also a problem now as it needs to be brought back to action.}
+13.Nf1 {White wants to plant the Knight on d5 via the f1-e3-d5 route which will allow him a great position.}
+13...Nc4!?* {The Knight covers the e3 square and can now come back to b6. Black can also aim to expand further on the Queenside 
+in the future with ...a5 and ...a4. This Knight move has vacated the a5 square for the pawn on a7.}
 
 
+[Event "Correspondence game"]
+[Site "Lichess"]
+[Date "2022.12.21"]
+[Round "Practice rated game"]
+[White "Ganesh R Hegde (hegde10122)"]
+[Black "walking-broccoli"]
+[Result "*"]
+[ECO "D00"]
+[WhiteElo "2253"]
+[BlackElo "2254"]
+[ECO "A00"]
+[WhiteTeam "India"]
+[BlackTeam "USA"]
+[Annotator "Ganesh R Hegde"]
+[Opening "Queen Pawn"]
+[Variation "London System"]
+
+1.d4 Nf6 {Black controls the e4 square.}
+2.Bf4*
+
+[Event "Correspondence game"]
+[Site "Lichess"]
+[Date "2022.12.21"]
+[Round "Practice rated game"]
+[White "Ganesh R Hegde (hegde10122)"]
+[Black "Rogério Castro (vencedor32)"]
+[Result "*"]
+[ECO "D00"]
+[WhiteElo "2253"]
+[BlackElo "2269"]
+[WhiteTeam "India"]
+[BlackTeam "Brazil"]
+[Annotator "Ganesh R Hegde"]
+[Opening "Queen Pawn"]
+[Variation "London System"]
+
+1.d4*
 
 
+[Event "Correspondence game"]
+[Site "Lichess"]
+[Date "2022.12.21"]
+[Round "Practice rated game"]
+[Black "Ganesh R Hegde (hegde10122)"]
+[White "Fabio-Cordon"]
+[Result "*"]
+[ECO "A00"]
+[WhiteElo "2257"]
+[BlackElo "2253"]
+[WhiteTeam "India"]
+[BlackTeam "Brazil"]
+[Annotator "Ganesh R Hegde"]
+[Opening "English opening"]
+[Variation "Symmetrical variation"]
+
+1.c4 c5* {The English opening - symmetrical variation. Both sides open with the c-pawns and are controlling d5 and d4 squares,respectively}
