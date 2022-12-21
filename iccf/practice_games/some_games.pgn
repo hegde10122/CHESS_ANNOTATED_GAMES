@@ -13,7 +13,7 @@
 controlled. Accelerated central squares are the c4,c5,d4,d5,e4,e5,f4 and f5 squares.}
 1...d5 {Black controls the e4 and c4 squares with an identical Queen pawn opening for himself}
 2.Bf4 {The London system where White is interested in developing the Bishop to an optimal square eyeing the e5-b8 diagonal.}
-2...c5 {Black ar=ttacks the central pawn on d4 and expands further.}
+2...c5 {Black attacks the central pawn on d4 and expands further.}
 3.e3 {Reinforcing the protection of the d4 pawn. The c4-f1 diagonal is opened up for the development of the Bishop on f1.}
 3...cxd4 {Black simplifies in order to avoid theory}
 4.exd4 {White now has the semi-open e-file while Black has the semi-open c-file}
@@ -24,9 +24,10 @@ controlled. Accelerated central squares are the c4,c5,d4,d5,e4,e5,f4 and f5 squa
 6...e6 {Black opens up the possibility of ...Bd6 to blunt the White Bishop}
 7.Ngf3 {White develops the Kingside and opens up the possibility of O-O after Be2}
 7...Bd6 {Asking White to exchange the strong piece}
-8.Bg3 {8...Bxg3 9.hxg3 opens up the h-file for White}
+8.Bg3 {8...Bxg3 9.hxg3 opens up the h-file for White.8.Bxd6 Qxd6 is good for Black}
 8...Nf6 {Black is ready to O-O}
 9.Be2* {White is also ready to O-O and this looks like an equal position}
+
 
 
 [Event "Correspondence game"]
@@ -43,7 +44,7 @@ controlled. Accelerated central squares are the c4,c5,d4,d5,e4,e5,f4 and f5 squa
 [BlackTeam "India"]
 [Annotator "Ganesh R Hegde"]
 [Opening "Ruy Lopez Closed"]
-[Variation "Chigorin"]
+[Variation "Chigorin Defense"]
 
 1.e4 {The most popular King pawn opening for White in classical chess.Here White opens up the f1-b5 diagonal for his 
 light-squared Bishop on f1 and plans to develop the Knight on g1 to f3 followed by O-O to complete rapid development.
