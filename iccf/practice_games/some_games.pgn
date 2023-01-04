@@ -447,7 +447,10 @@ Bishop on c6 to a certain extent}
 [Annotator "Ganesh R Hegde"]
 [Opening "Vienna Game"]
 [Variation "Mieses Variation"]
+[WhiteTeam "India"]
+[BlackTeam "France"]
 
-1.d4 Nf6 2.Bf4 {The London system}
+1.d4 Nf6 
+2.Bf4 {The London system}
 2...d5 {Black grabs the centre instead of resorting to Indian defense systems by pushing the pawn to d5}
 3.e3*
