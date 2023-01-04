@@ -4,7 +4,7 @@
 [Round "-"]
 [White "Hegde, Ganesh"]
 [Black "Dlugolecki, Grzegorz"]
-[Result "*"]
+[Result "1-0"]
 [WhiteElo "2297"]
 [BlackElo "2026"]
 
@@ -21,7 +21,8 @@ the isolated pawn further down}
 40...Qd7 41.c5 Kg8 42.Ne4 Qb7 43.Nf6+ Kh8 44.Kh2 Rd8 45.Ne4 Rd4 46.c6 Qc7 47.Rb2 Rb4 48.Rxb4 axb4 49.Qc1 Be7
 50.Qc4 Kg8 51.Qb5 Kf8 52.Qb7 Bd8 53.Qxb4+ Be7 54.Qc3 Ke8 55.a4 Bd8 56.Kg2 g5 {Black offers a draw for the third time!!}
 57.Kf3 Qb6 {COntrolling the e3 square}
-58.a5 Qxa5 59.Nf6+ Kf8 60.Qxd3 Qa8 61.Qd7 Bxf6 62.exf6*
+58.a5 Qxa5 59.Nf6+ Kf8 60.Qxd3 Qa8 61.Qd7 Bxf6 62.exf6{White won}
+
 
 [Event "AA/C21/SF/B"]
 [Site "ICCF"]

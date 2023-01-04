@@ -334,8 +334,9 @@ pressurise the Knight on f6 are on the cards. White is quite smart with his move
 8.Bc4 {An excellent square for the Bishop that puts pressure on the f7 pawn}
 8...Rb8  {Black wants to expand on the Queenside with ...b5 anticipating O-O-O from White}
 9.O-O-O {9.Bb3 was better}
-9...b5* {As planned Black is the first one with the Queenside offensive and White now has to play some reactive chess instead of 
+9...b5 {As planned Black is the first one with the Queenside offensive and White now has to play some reactive chess instead of 
 being proactive}
+10.Bb3 b4*{Black presses further}
 
 
 [Event "Correspondence game"]
@@ -401,9 +402,12 @@ with wafer-thin resources for defense. Black cannot push 10...d6 as 11.exd6 atta
 9.Qe2 {White opts for active play as he is a pawn down after the gambit offer}
 9...Qe7 {Unpinning the Knight}
 10.Re1? {10.Qxc4 was correct. 10...Bf5 11.Re1 Qe6! 12.Nbd2 Qxc4 13.Nxc4 O-O-O and Black is fine}
-10...Nxc5!* {The Black Queen has support of the Knight on c6 and 11.Qxe7 checkmate is not possible.}
+10...Nxc5! {The Black Queen has support of the Knight on c6 and 11.Qxe7 checkmate is not possible.}
+11.Qxc4!{White pins the Queen and is threatening to play Rxe7 and win the game}
+11...Be6* {The only move that blocks the e-file}
 
-Event "Correspondence game"]
+
+[Event "Correspondence game"]
 [Site "Lichess"]
 [Date "2022.12.26"]
 [Round "Practice rated game"]
@@ -425,4 +429,25 @@ Bishop on c6 to a certain extent}
 8.O-O {White continues to develop without any aggression and wants to stifle Black in the long run}
 8...Bg4 {Pinning the Knight and forcing White to weaken the pawn structure with a possible h3 on the next move}
 9.d3 {Preventing ...e4}
-9...O-O*
+9...O-O
+10.h3 Bh5 {Black keeps up the pressure on the pinned Knight}
+11.Rb1 {Looking to grab the b7 pawn}
+11...Rb8* {Protecting the pawn}
+
+[Event "Correspondence game"]
+[Site "Lichess"]
+[Date "2023.01.04"]
+[Round "Practice rated game"]
+[White "Ganesh R Hegde (hegde10122)"]
+[Black "RonanBeghin"]
+[Result "*"]
+[WhiteElo "2309"]
+[BlackElo "2423"]
+[ECO "A00"]
+[Annotator "Ganesh R Hegde"]
+[Opening "Vienna Game"]
+[Variation "Mieses Variation"]
+
+1.d4 Nf6 2.Bf4 {The London system}
+2...d5 {Black grabs the centre instead of resorting to Indian defense systems by pushing the pawn to d5}
+3.e3*
