@@ -1,3 +1,113 @@
+
+[Event "Correspondence game"]
+[Site "Lichess"]
+[Date "2023.01.04"]
+[Round "Practice rated game"]
+[White "Ganesh R Hegde (hegde10122)"]
+[Black "TD02"]
+[Result "1-0"]
+[WhiteElo "2309"]
+[BlackElo "2477"]
+[ECO "A00"]
+[Annotator "Ganesh R Hegde"]
+[Opening "Queen's pawn opening"]
+[Variation "London system"]
+[WhiteTeam "India"]
+[BlackTeam "Netherlands"]
+
+1.d4 d5 
+2.Bf4 {The London system}
+2...e6 {Black solidifies the centre but locks in the Bishop on c8}
+3.e3 f5?! {In my opinion, this is not a good continuation as Black has weakened the Kingside.This is the Sarratt attack.Black is 
+probably trying to set up a Dutch stonewall by playing c6,Be7,Nf6 and O-O. Black has clamped down on the e4 square after 3...f5}
+4.c4 {Here White attacks the pawn chain and is ready to exchange cxd4 soon. White does not play Nf3 }
+4...Nf6 5.Nc3 c6 {As guessed - the Dutch stonewall is coming up where the e5 square is a possible "hole" for Black and White 
+needs to capitalise on that}
+6.Bd3 {White does not play 6.Nf3 and keeps an eye on the h5 square to avert 6...Nh5}
+6...Be7 {Black does not play ...Bd6 because it is only piece with authority to control the dark squares}
+7.h3 {Vacating the h2 square for the Bishop on f4. Also taking away the g4 square from the Knight. In this Dutch setup, 
+Black usually plays ...Qe8,followed by ...Qg6,...g5 and ...h5.So it is a preparatory move for the possible Black rampage on the Kingside }
+7...O-O 8.Nf3 {Both sides develop their pieces}
+8...Ne4 {The thematic Dutch move where Black occupies the e4 square with the Knight. Black's plan include...Nd7,Ndf6,g5,h5,Qe8,Qg6...
+attack,attack and attack!!}
+9.Rc1 {White wants to keeps things under wraps and does not castle.White can also play cxd5 soon and possibly exert some pressure along the 
+c-file. Another important thing --- Black can also play 9...Nxc3 to simplify the position. 10.Rxc3 is a favourable way to capture the 
+Knight back}
+9...Nd7 {This Knight might appear on f6 for a Kingside offensive.}
+10.Qc2 {Another move that adds more influence to the e4 square}
+10...a5 {Black plays on the Queenside flank}
+11.O-O {As Black does not seem committal towards a Kingside offensive, it is perhaps the right time to castle}
+11...Qe8 {Black was waiting for White to castle and now takes a baby step towards the King on g1}
+12.Nd2 {Since Black will now play on the Kingside, the Black Knight on e4 will play an important role. White wants to play f3 next and derail 
+Black's plan.}
+12...g5 {As expected,The Dutch attack has begun}
+13.Bh2 {The importance of move 7 is now visible}
+13...Qh5 {The Black Queen is out to checkmate the White King}
+14.Ndxe4 {The point of move 12. The Knight on e4 must go}
+14...fxe4 {Opening up the -file}
+15.Be2 {The Bishop hits back at the Queen}
+15...Qe8 16.f3! {The decisive pawn-break. White keeps asking questions and does not allow Black to coordinate his pieces}
+16...exf3 17.Rxf3 {Asking for a Rook trade as well}
+17...Rxf3 18.Bxf3 {Black's attack has been curbed decisively and he is left with undeveloped pieces}
+18...Nf6 19.Rf1 {Both parties bring pieces to the Kingside as Black try to revive his failed bid earlier}
+19...Bd7 {The 'pawn' Bishop is ready!!}
+20.Be5 {Bringing another piece to a central square}
+20...dxc4 {Black offers a draw here!!}
+21.Ne4 {Attacking the g5 pawn and forcing Black to make another trade decision as far as the Knight on f6 is concerned}
+21...Nxe4 22.Bxe4 {23.Bxh7# is on the cards}
+22...Qh5 {Protecting the h7 pawn}
+23.Bxh7+ {White goes for simplification and a superior end game. 23...Qxh7 24.Qxh7+ Kxh7 25.Rf7+ is on the cards. Black resigned}
+
+
+[Event "Let\\'s Play!"]
+[Site "Chess.com"]
+[Date "2023.01.08"]
+[Round "?"]
+[White "mihalygombi28"]
+[Black "hegde10122"]
+[Result "0-1"]
+[ECO "D11"]
+[WhiteElo "1550"]
+[BlackElo "1358"]
+[TimeControl "1/259200"]
+[EndDate "2023.01.15"]
+[Termination "hegde10122 won by checkmate"]
+
+1. d4 d5 2. Nf3 c6 3. c4 Nf6 4. e3 e6 5. a3 Be7 6. Nc3 O-O 7. c5 a5 8. Be2 b6 9.
+cxb6 Qxb6 10. O-O Ba6 11. Ne5 Bxe2 12. Qxe2 c5 13. dxc5 Qxc5 14. Nd3 Qc7 15. h3
+Nc6 16. Bd2 d4 17. Nb5 Qb6 18. a4 Ne4 19. Rfe1 Nxd2 20. Qxd2 Rfd8 21. Qe2 dxe3
+22. Qxe3 Qxe3 23. Rxe3 Bf6 24. Rc1 Nb4 25. Nxb4 axb4 26. b3 Bg5 27. Rc4 Bxe3 28.
+fxe3 Rac8 29. Rxb4 h5 30. Nd4 e5 31. Nf3 f6 32. a5 Rd1+ 33. Kh2 Ra1 34. Rb5 Rc2
+35. b4 Raa2 36. Kg3 Rxg2+ 37. Kh4 Rae2 38. a6 Rxe3 39. a7 Re4+ 40. Kxh5 Kh7 41.
+Rb7 Rg6 42. Rxg7+ Kxg7 43. a8=Q Rh6# 0-1
+
+[Event "Correspondence game"]
+[Site "Lichess"]
+[Date "2023.01.10"]
+[Round "Practice rated game"]
+[Black "Ganesh R Hegde (hegde10122)"]
+[White "ChessMasterSecrets"]
+[Result "0-1"]
+[WhiteElo "2387"]
+[BlackElo "2399"]
+[ECO "C69"]
+[Annotator "Ganesh R Hegde"]
+[Opening "Ruy Lopez"]
+[Variation "Alapin Gambit"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 {Ruy Lopez}
+3... a6 {Morphy defense}
+4.Bxc6 dxc6 5.O-O Bg4 6.h3 h5! 7.d3 Qf6 {The Queen needs to be on this diagonal or else hxg4 wins for White}
+8.Nbd2 g5 9.Nc4 Bxf3 10.Qxf3 Qxf3 11.gxf3 f6 12.h4 gxh4 13.Kg2 Kd7 14.f4 {Attacking the e5 pawn}
+14...b5 {Forcing one of the e5 attackers to retreat. Black will not give up the e5 pawn easily}
+15.Na5 {Perhaps 15.Ne3 was much better. It is hard to understand where the Knight will go from a5}
+15...Bh6 {The f4 pawn is attacked further}
+16.fxe5 fxe5 17.f4 {Another pawn trade offer} 17...Rf8 {Improving the position by developing a piece}
+18.f5 {White closes the f-file}
+18...Nf6 {Black improves his position and develops yet another piece}
+19.Bxh6 Rfg8+ 20.Kh3?? {White resigned}
+
+
 [Event "Correspondence game"]
 [Site "Lichess"]
 [Date "2022.12.21"]
@@ -31,6 +141,76 @@ a5 to expand on the Queenside.White needs to find out some other plan to win the
 pawn and renders 7.d4 with no great advantage for White.}
 7.Re1 {White develops the Rook because the Black King is still in the centre.}
 7...Bg4 {Pinning the Knight and preventing 8.d4. 7...O-O is also acceptable.1-0. Black loses on time}
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.01.04"]
+[Round "-"]
+[White "hegde10122"]
+[Black "LeValance"]
+[Result "1-0"]
+[ECO "A45"]
+[UTCDate "2023.01.04"]
+[WhiteElo "1600"]
+[BlackElo "1636"]
+[Termination "hegde10122 won on time"]
+
+1. d4 Nf6 2. Bf4 e6 3. e3 c5 4. c3 Qb6 5. Qb3 Qxb3 6. axb3 cxd4 7. exd4 d5 8.
+Bb5+ Bd7 9. Bxd7+ Nbxd7 10. Nf3 Be7 11. O-O O-O 12. h3 a6 13. Nbd2 Nb6 14. Ne5
+Nfd7 15. c4 Nxe5 16. Bxe5 Rac8 17. c5 Nd7 18. Bg3 Bf6 19. Nf3 Rc6 20. b4 Rfc8
+21. Bd6 h6 22. b5 axb5 23. Ra7 Nf8 24. Rxb7 Ng6 25. Rxb5 Be7 26. Bg3 f6 27. b4
+Kf7 28. Rb7 Ke8 29. Re1 Bf8 30. b5 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.01.04"]
+[Round "-"]
+[Black "hegde10122"]
+[White "TSharon94"]
+[Result "0-1"]
+[ECO "A45"]
+1.d4 d5 {The Queen's pawn opening where both sides plant their pawns on central d-file squares}
+2.c4 {The Queen's gambit}
+2...c6 {The Slav defense}
+3.Nc3 {More pressure on the d5 square}
+3...e6 {The semi-slav where Black wants to play ...dxc4 ideally.This is the triangular pawn formation}
+4.Nf3 Nf6 {The three Knights variation of the Queen's Gambit declined}
+5.Bf4?! {5.Bg5 was more accurate - the Moscow variation}
+5...dxc4 {Black grabs the pawn - the key motif in the semi-slav}
+6.a4 {Preventing Black from pushing ...b5 but this move creates a "hole" on the b4 square.}
+6...Bb4 {Occupying the hole and preventing White from pushing 7.e4}
+7.Qc2 {Protecting the Knight and also controlled the e4 square}
+7...Nd5? {Unnecessary preparation. 7...b5 was better as the Knight on c3 remains pinned}
+8.Bg5 {Attacking the Black Queen on d8}
+8...f6 {Forcing the Bishop to retreat again}
+9.Bd2 b5 {Protecting the pawn on c4}
+10.axb5 Bxc3 {10...cxb5 11.Nxb5 and White is better.The Knight is now unpinned and hence regains control over the b5 square. The 
+protector of the b5 square is eliminated}
+11.bxc3 cxb5 {Black keeps the extra pawn with better developed pieces}
+12.e4 {The dream centre for White but at the cost of an extra pawn}
+12...Nb6 {12...Ne7 is also okay. But this Knight on b6 bolsters the Queenside. The passed pawn on a7 has another reliable defender}
+13.e5 {Expanding in the centre. 13.Be2 was better. This move is more aggression based rather than sound logic}
+13...O-O 14.Rb1 {White first played in the centre and now changes the plan to attack the flank pawn. White seems to be in a hurry}
+14...a6 {The pawn chain for Black is menacing and the signs are ominous}
+15.Bxc4 ?? {White was hoping for 15...bxc4 16.Rxb6 to win the piece back}
+15...Nxc4 16.Bf4 Bb7 {Simple development for Black is good enough for the moment}
+17.Nd2 Nxd2 18.Qxd2  {Simplification is bad for White}
+18...Bxg2 {Grabbing another pawn as White is sinking}
+19.Rg1 Be4 {Black keeps the opponent busy with another attacking move}
+20.Rd1 Nc6 {Developing another piece }
+21.exf6 Qxf6 22.Bg5 Qf5 {The Black pieces are comfortable on light squares as White's lack of resources will make it difficult to dislodge
+them from light squares}
+23.Bh6 {White wants to generate counter play with 24.Rxg7+}
+23...Ra7 {Another developing move to neutralise White's attempt}
+24.Rg5 Qf6 25.Rg3 Raf7 {Creating an Alekhine gun on the semi-open f-file}
+26.Be3 Bd5 {Creating a blockade as the White pawns cannot move forward denying White any sort of counter play}
+27.f4 {White just makes a move out of frustration}
+27...Kh8 {The pin on g7 pawn is also removed}
+28.Kf2? {The pawn on f4 is now pinned by this suicidal move}
+28...g5 {29.Rxg5 Qxg5 will not be possible because of the pawn}
+29.Rxg5?? Qxg5 30.f5 Rxf5+{0-1 and Black won}
+
 
 [Event "Correspondence game"]
 [Site "Lichess"]
@@ -135,74 +315,9 @@ discord between its heavy pieces}
 24.Nf1 {Black was threatening to remove the defender of the e4 pawn}
 24...Qb6 {Not allowing 25.Ne3}
 25.Ra7 {Rook occupies the seventh rank}
+25...Bg5 {The Bishop just steps forward. A waiting move}
+26.Bd1 {White follows suit with a waiting move of his own}
 
-[Event "Live Chess"]
-[Site "Chess.com"]
-[Date "2023.01.04"]
-[Round "-"]
-[White "hegde10122"]
-[Black "LeValance"]
-[Result "1-0"]
-[ECO "A45"]
-[UTCDate "2023.01.04"]
-[WhiteElo "1600"]
-[BlackElo "1636"]
-[Termination "hegde10122 won on time"]
-
-1. d4 Nf6 2. Bf4 e6 3. e3 c5 4. c3 Qb6 5. Qb3 Qxb3 6. axb3 cxd4 7. exd4 d5 8.
-Bb5+ Bd7 9. Bxd7+ Nbxd7 10. Nf3 Be7 11. O-O O-O 12. h3 a6 13. Nbd2 Nb6 14. Ne5
-Nfd7 15. c4 Nxe5 16. Bxe5 Rac8 17. c5 Nd7 18. Bg3 Bf6 19. Nf3 Rc6 20. b4 Rfc8
-21. Bd6 h6 22. b5 axb5 23. Ra7 Nf8 24. Rxb7 Ng6 25. Rxb5 Be7 26. Bg3 f6 27. b4
-Kf7 28. Rb7 Ke8 29. Re1 Bf8 30. b5 1-0
-
-[Event "Live Chess"]
-[Site "Chess.com"]
-[Date "2023.01.04"]
-[Round "-"]
-[Black "hegde10122"]
-[White "TSharon94"]
-[Result "0-1"]
-[ECO "A45"]
-1.d4 d5 {The Queen's pawn opening where both sides plant their pawns on central d-file squares}
-2.c4 {The Queen's gambit}
-2...c6 {The Slav defense}
-3.Nc3 {More pressure on the d5 square}
-3...e6 {The semi-slav where Black wants to play ...dxc4 ideally.This is the triangular pawn formation}
-4.Nf3 Nf6 {The three Knights variation of the Queen's Gambit declined}
-5.Bf4?! {5.Bg5 was more accurate - the Moscow variation}
-5...dxc4 {Black grabs the pawn - the key motif in the semi-slav}
-6.a4 {Preventing Black from pushing ...b5 but this move creates a "hole" on the b4 square.}
-6...Bb4 {Occupying the hole and preventing White from pushing 7.e4}
-7.Qc2 {Protecting the Knight and also controlled the e4 square}
-7...Nd5? {Unnecessary preparation. 7...b5 was better as the Knight on c3 remains pinned}
-8.Bg5 {Attacking the Black Queen on d8}
-8...f6 {Forcing the Bishop to retreat again}
-9.Bd2 b5 {Protecting the pawn on c4}
-10.axb5 Bxc3 {10...cxb5 11.Nxb5 and White is better.The Knight is now unpinned and hence regains control over the b5 square. The 
-protector of the b5 square is eliminated}
-11.bxc3 cxb5 {Black keeps the extra pawn with better developed pieces}
-12.e4 {The dream centre for White but at the cost of an extra pawn}
-12...Nb6 {12...Ne7 is also okay. But this Knight on b6 bolsters the Queenside. The passed pawn on a7 has another reliable defender}
-13.e5 {Expanding in the centre. 13.Be2 was better. This move is more aggression based rather than sound logic}
-13...O-O 14.Rb1 {White first played in the centre and now changes the plan to attack the flank pawn. White seems to be in a hurry}
-14...a6 {The pawn chain for Black is menacing and the signs are ominous}
-15.Bxc4 ?? {White was hoping for 15...bxc4 16.Rxb6 to win the piece back}
-15...Nxc4 16.Bf4 Bb7 {Simple development for Black is good enough for the moment}
-17.Nd2 Nxd2 18.Qxd2  {Simplification is bad for White}
-18...Bxg2 {Grabbing another pawn as White is sinking}
-19.Rg1 Be4 {Black keeps the opponent busy with another attacking move}
-20.Rd1 Nc6 {Developing another piece }
-21.exf6 Qxf6 22.Bg5 Qf5 {The Black pieces are comfortable on light squares as White's lack of resources will make it difficult to dislodge
-them from light squares}
-23.Bh6 {White wants to generate counter play with 24.Rxg7+}
-23...Ra7 {Another developing move to neutralise White's attempt}
-24.Rg5 Qf6 25.Rg3 Raf7 {Creating an Alekhine gun on the semi-open f-file}
-26.Be3 Bd5 {Creating a blockade as the White pawns cannot move forward denying White any sort of counter play}
-27.f4 {White just makes a move out of frustration}
-27...Kh8 {The pin on g7 pawn is also removed}
-28.Kf2? {The pawn on f4 is now pinned by this suicidal move}
-28...g5 {29.Rxg5 Qxg5 will not be possible because of the pawn}
-29.Rxg5?? Qxg5 30.f5 Rxf5+{0-1 and Black won}
 
 [Event "Correspondence game"]
 [Site "Lichess"]
@@ -458,6 +573,8 @@ White is up a piece.}
 16.Bh6 {The ...Qe5 option is unavailable as Bxg7 exists}
 16...Bxh6 17.Qxh6 d5 {Supporting the e4 pawn. It is important to note that 17...exf3 is not good as 18.Nxf3 develops the piece for 
 White without working too hard. Black must keep White under wraps}
+18.Nh3 {Ng5 followed by Qxh7# is the idea}
+18...Bxh3 19.Qxh3 e3 {Passed pawn need to be pushed!!}
 
 [Event "Correspondence game"]
 [Site "Lichess"]
@@ -531,6 +648,8 @@ with wafer-thin resources for defense. Black cannot push 10...d6 as 11.exd6 atta
 12.Qe2 {The Queen retreats and Black can now castle}
 12...O-O-O {Black has wafer-thin resources on the Kingside. Both the Knights are on the Queenside. So castling long makes sense}
 13.Nc3 Rd7 {Wants to double Rooks on d-file}
+14.Be3 {Developing a piece}
+14...Rhd8 {Increasing the influence over the d-file as Black wants to seek advantage for his extra pawn}
 
 
 [Event "Correspondence game"]
@@ -583,7 +702,8 @@ White Queen. 19...Ng6 20.Bxg6 Bxg6 21.Nxg6 Qxg6 22.g4 blocks the g-file. Now 22.
 20.d4 {Challenging the centre is not a great idea as Rd8 is coming that will force the White Queen to react
 20.Rf1 looks better as White needs to beef up his defense on the f-file. fxg3 looms large}
 20...Rbd8 {Occupying the semi-open d-file as Black's latent piece is now active and ready to go}
-
+21.Qc2?? {A blunder that leads to immediate exchange of pawns and opening up the floodgates}
+21...exd4 22.dxe4 fxg3 {The Knight on h4 has no support now. So 23.d5 will not work as 23...Qxh4 is available}
 
 
 [Event "Correspondence game"]
@@ -620,111 +740,3 @@ Option 1: 8.Rc1 Qxa2 9.Bb5 pinning the Knight. 9...g6 10.Ne5 Rc8 and the game co
 Option 2: 8.Qc1 Qxc1+ 9.Rxc1 Qd7
 Option 3: 8.Be2 Qxc3 is not a good alternative to the move played.}
 
-
-[Event "Correspondence game"]
-[Site "Lichess"]
-[Date "2023.01.04"]
-[Round "Practice rated game"]
-[White "Ganesh R Hegde (hegde10122)"]
-[Black "TD02"]
-[Result "1-0"]
-[WhiteElo "2309"]
-[BlackElo "2477"]
-[ECO "A00"]
-[Annotator "Ganesh R Hegde"]
-[Opening "Queen's pawn opening"]
-[Variation "London system"]
-[WhiteTeam "India"]
-[BlackTeam "Netherlands"]
-
-1.d4 d5 
-2.Bf4 {The London system}
-2...e6 {Black solidifies the centre but locks in the Bishop on c8}
-3.e3 f5?! {In my opinion, this is not a good continuation as Black has weakened the Kingside.This is the Sarratt attack.Black is 
-probably trying to set up a Dutch stonewall by playing c6,Be7,Nf6 and O-O. Black has clamped down on the e4 square after 3...f5}
-4.c4 {Here White attacks the pawn chain and is ready to exchange cxd4 soon. White does not play Nf3 }
-4...Nf6 5.Nc3 c6 {As guessed - the Dutch stonewall is coming up where the e5 square is a possible "hole" for Black and White 
-needs to capitalise on that}
-6.Bd3 {White does not play 6.Nf3 and keeps an eye on the h5 square to avert 6...Nh5}
-6...Be7 {Black does not play ...Bd6 because it is only piece with authority to control the dark squares}
-7.h3 {Vacating the h2 square for the Bishop on f4. Also taking away the g4 square from the Knight. In this Dutch setup, 
-Black usually plays ...Qe8,followed by ...Qg6,...g5 and ...h5.So it is a preparatory move for the possible Black rampage on the Kingside }
-7...O-O 8.Nf3 {Both sides develop their pieces}
-8...Ne4 {The thematic Dutch move where Black occupies the e4 square with the Knight. Black's plan include...Nd7,Ndf6,g5,h5,Qe8,Qg6...
-attack,attack and attack!!}
-9.Rc1 {White wants to keeps things under wraps and does not castle.White can also play cxd5 soon and possibly exert some pressure along the 
-c-file. Another important thing --- Black can also play 9...Nxc3 to simplify the position. 10.Rxc3 is a favourable way to capture the 
-Knight back}
-9...Nd7 {This Knight might appear on f6 for a Kingside offensive.}
-10.Qc2 {Another move that adds more influence to the e4 square}
-10...a5 {Black plays on the Queenside flank}
-11.O-O {As Black does not seem committal towards a Kingside offensive, it is perhaps the right time to castle}
-11...Qe8 {Black was waiting for White to castle and now takes a baby step towards the King on g1}
-12.Nd2 {Since Black will now play on the Kingside, the Black Knight on e4 will play an important role. White wants to play f3 next and derail 
-Black's plan.}
-12...g5 {As expected,The Dutch attack has begun}
-13.Bh2 {The importance of move 7 is now visible}
-13...Qh5 {The Black Queen is out to checkmate the White King}
-14.Ndxe4 {The point of move 12. The Knight on e4 must go}
-14...fxe4 {Opening up the -file}
-15.Be2 {The Bishop hits back at the Queen}
-15...Qe8 16.f3! {The decisive pawn-break. White keeps asking questions and does not allow Black to coordinate his pieces}
-16...exf3 17.Rxf3 {Asking for a Rook trade as well}
-17...Rxf3 18.Bxf3 {Black's attack has been curbed decisively and he is left with undeveloped pieces}
-18...Nf6 19.Rf1 {Both parties bring pieces to the Kingside as Black try to revive his failed bid earlier}
-19...Bd7 {The 'pawn' Bishop is ready!!}
-20.Be5 {Bringing another piece to a central square}
-20...dxc4 {Black offers a draw here!!}
-21.Ne4 {Attacking the g5 pawn and forcing Black to make another trade decision as far as the Knight on f6 is concerned}
-21...Nxe4 22.Bxe4 {23.Bxh7# is on the cards}
-22...Qh5 {Protecting the h7 pawn}
-23.Bxh7+ {White goes for simplification and a superior end game. 23...Qxh7 24.Qxh7+ Kxh7 25.Rf7+ is on the cards. Black resigned}
-
-
-[Event "Let\\'s Play!"]
-[Site "Chess.com"]
-[Date "2023.01.08"]
-[Round "?"]
-[White "mihalygombi28"]
-[Black "hegde10122"]
-[Result "0-1"]
-[ECO "D11"]
-[WhiteElo "1550"]
-[BlackElo "1358"]
-[TimeControl "1/259200"]
-[EndDate "2023.01.15"]
-[Termination "hegde10122 won by checkmate"]
-
-1. d4 d5 2. Nf3 c6 3. c4 Nf6 4. e3 e6 5. a3 Be7 6. Nc3 O-O 7. c5 a5 8. Be2 b6 9.
-cxb6 Qxb6 10. O-O Ba6 11. Ne5 Bxe2 12. Qxe2 c5 13. dxc5 Qxc5 14. Nd3 Qc7 15. h3
-Nc6 16. Bd2 d4 17. Nb5 Qb6 18. a4 Ne4 19. Rfe1 Nxd2 20. Qxd2 Rfd8 21. Qe2 dxe3
-22. Qxe3 Qxe3 23. Rxe3 Bf6 24. Rc1 Nb4 25. Nxb4 axb4 26. b3 Bg5 27. Rc4 Bxe3 28.
-fxe3 Rac8 29. Rxb4 h5 30. Nd4 e5 31. Nf3 f6 32. a5 Rd1+ 33. Kh2 Ra1 34. Rb5 Rc2
-35. b4 Raa2 36. Kg3 Rxg2+ 37. Kh4 Rae2 38. a6 Rxe3 39. a7 Re4+ 40. Kxh5 Kh7 41.
-Rb7 Rg6 42. Rxg7+ Kxg7 43. a8=Q Rh6# 0-1
-
-[Event "Correspondence game"]
-[Site "Lichess"]
-[Date "2023.01.10"]
-[Round "Practice rated game"]
-[Black "Ganesh R Hegde (hegde10122)"]
-[White "ChessMasterSecrets"]
-[Result "*"]
-[WhiteElo "2387"]
-[BlackElo "2399"]
-[ECO "C69"]
-[Annotator "Ganesh R Hegde"]
-[Opening "Ruy Lopez"]
-[Variation "Alapin Gambit"]
-
-1.e4 e5 2.Nf3 Nc6 3.Bb5 {Ruy Lopez}
-3... a6 {Morphy defense}
-4.Bxc6 dxc6 5.O-O Bg4 6.h3 h5! 7.d3 Qf6 {The Queen needs to be on this diagonal or else hxg4 wins for White}
-8.Nbd2 g5 9.Nc4 Bxf3 10.Qxf3 Qxf3 11.gxf3 f6 12.h4 gxh4 13.Kg2 Kd7 14.f4 {Attacking the e5 pawn}
-14...b5 {Forcing one of the e5 attackers to retreat. Black will not give up the e5 pawn easily}
-15.Na5 {Perhaps 15.Ne3 was much better. It is hard to understand where the Knight will go from a5}
-15...Bh6 {The f4 pawn is attacked further}
-16.fxe5 fxe5 17.f4 {Another pawn trade offer} 17...Rf8 {Improving the position by developing a piece}
-18.f5 {White closes the f-file}
-18...Nf6 {Black improves his position and develops yet another piece}
-19.Bxh6 Rfg8+ 20.Kh3??
