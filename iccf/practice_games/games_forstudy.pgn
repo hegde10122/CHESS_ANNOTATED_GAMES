@@ -1,0 +1,58 @@
+[Event "Correspondence game"]
+[Site "Lichess"]
+[Date "2023.01.04"]
+[Round "Practice rated game"]
+[White "Ganesh R Hegde (hegde10122)"]
+[Black "TD02"]
+[Result "1-0"]
+[WhiteElo "2309"]
+[BlackElo "2477"]
+[ECO "A00"]
+[Annotator "Ganesh R Hegde"]
+[Opening "Queen's pawn opening"]
+[Variation "London system"]
+[WhiteTeam "India"]
+[BlackTeam "Netherlands"]
+
+1.d4 d5 
+2.Bf4 {The London system}
+2...e6 {Black solidifies the centre but locks in the Bishop on c8}
+3.e3 f5?! {In my opinion, this is not a good continuation as Black has weakened the Kingside.This is the Sarratt attack.Black is 
+probably trying to set up a Dutch stonewall by playing c6,Be7,Nf6 and O-O. Black has clamped down on the e4 square after 3...f5}
+4.c4 {Here White attacks the pawn chain and is ready to exchange cxd4 soon. White does not play Nf3 }
+4...Nf6 5.Nc3 c6 {As guessed - the Dutch stonewall is coming up where the e5 square is a possible "hole" for Black and White 
+needs to capitalise on that}
+6.Bd3 {White does not play 6.Nf3 and keeps an eye on the h5 square to avert 6...Nh5}
+6...Be7 {Black does not play ...Bd6 because it is only piece with authority to control the dark squares}
+7.h3 {Vacating the h2 square for the Bishop on f4. Also taking away the g4 square from the Knight. In this Dutch setup, 
+Black usually plays ...Qe8,followed by ...Qg6,...g5 and ...h5.So it is a preparatory move for the possible Black rampage on the Kingside }
+7...O-O 8.Nf3 {Both sides develop their pieces}
+8...Ne4 {The thematic Dutch move where Black occupies the e4 square with the Knight. Black's plan include...Nd7,Ndf6,g5,h5,Qe8,Qg6...
+attack,attack and attack!!}
+9.Rc1 {White wants to keeps things under wraps and does not castle.White can also play cxd5 soon and possibly exert some pressure along the 
+c-file. Another important thing --- Black can also play 9...Nxc3 to simplify the position. 10.Rxc3 is a favourable way to capture the 
+Knight back}
+9...Nd7 {This Knight might appear on f6 for a Kingside offensive.}
+10.Qc2 {Another move that adds more influence to the e4 square}
+10...a5 {Black plays on the Queenside flank}
+11.O-O {As Black does not seem committal towards a Kingside offensive, it is perhaps the right time to castle}
+11...Qe8 {Black was waiting for White to castle and now takes a baby step towards the King on g1}
+12.Nd2 {Since Black will now play on the Kingside, the Black Knight on e4 will play an important role. White wants to play f3 next and derail 
+Black's plan.}
+12...g5 {As expected,The Dutch attack has begun}
+13.Bh2 {The importance of move 7 is now visible}
+13...Qh5 {The Black Queen is out to checkmate the White King}
+14.Ndxe4 {The point of move 12. The Knight on e4 must go}
+14...fxe4 {Opening up the -file}
+15.Be2 {The Bishop hits back at the Queen}
+15...Qe8 16.f3! {The decisive pawn-break. White keeps asking questions and does not allow Black to coordinate his pieces}
+16...exf3 17.Rxf3 {Asking for a Rook trade as well}
+17...Rxf3 18.Bxf3 {Black's attack has been curbed decisively and he is left with undeveloped pieces}
+18...Nf6 19.Rf1 {Both parties bring pieces to the Kingside as Black try to revive his failed bid earlier}
+19...Bd7 {The 'pawn' Bishop is ready!!}
+20.Be5 {Bringing another piece to a central square}
+20...dxc4 {Black offers a draw here!!}
+21.Ne4 {Attacking the g5 pawn and forcing Black to make another trade decision as far as the Knight on f6 is concerned}
+21...Nxe4 22.Bxe4 {23.Bxh7# is on the cards}
+22...Qh5 {Protecting the h7 pawn}
+23.Bxh7+ {White goes for simplification and a superior end game. 23...Qxh7 24.Qxh7+ Kxh7 25.Rf7+ is on the cards. Black resigned}
