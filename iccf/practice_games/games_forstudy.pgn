@@ -1,5 +1,181 @@
 [Event "Correspondence game"]
 [Site "Lichess"]
+[Date "2022.12.26"]
+[Round "Practice rated game"]
+[Black "Ganesh R Hegde (hegde10122)"]
+[White "Amphiox-01"]
+[Result "0-1"]
+[WhiteElo "2396"]
+[BlackElo "2253"]
+[ECO "C26"]
+[Annotator "Ganesh R Hegde"]
+[Opening "Vienna Game"]
+[Variation "Mieses Variation"]
+1.e4 e5 2.Nc3 {The Vienna Game}
+2...Nf6 3.g3 {White wants to play solid chess and does not opt for the aggressive looking 3.Bc4}
+3...d5 {Here Black grabs the opportunity to grab the centre without too many complexities}
+4.exd5 Nxd5 5.Bg2 Nxc3 6.bxc3 Bd6 {Black is good to go as White has eased tensions}
+7.Nf3 Nc6 {7...Bg4 allows White to X-ray the pawn on b7. Rb1 would put additional pressure on Black. The Knight on c6 blunts the 
+Bishop on c6 to a certain extent}
+8.O-O {White continues to develop without any aggression and wants to stifle Black in the long run}
+8...Bg4 {Pinning the Knight and forcing White to weaken the pawn structure with a possible h3 on the next move}
+9.d3 {Preventing ...e4}
+9...O-O
+10.h3 Bh5 {Black keeps up the pressure on the pinned Knight}
+11.Rb1 {Looking to grab the b7 pawn}
+11...Rb8 {Protecting the pawn}
+12.c4 {Not sure why White pushed the pawn.A better alternative was to remove the pin. 12.g4 Bg6 13.Be3 or 13.Re1 
+with an equal position}
+12...f5 {Preventing 13.g4 and also adding more power to the e4 square.}
+13.Qd2 {Unpinning the Knight and looking to play Qg5. The Bishop on h5 needs to find a better place for a newer impact}
+13...h6 {Cutting out the Qg5 option for White}
+14.Bb2 {Adding another attacker to the e5 pawn. Now Rfe1 on the next move will begin the battle for the e5 pawn}
+14...Qf6 {Now why such a move that X-rays your own Queen against the Bishop on b2 - you might ask? 
+This move is actually quite harmless as 15.Rfe1 Rfe8 which begins the skirmish for the e5 pawn. 16.d4 e4! 17.d5! 
+and the Black Queen is attacked 17...Ne5! 18.Nxe5 Bxe5 19.Bxe5 Qxe5 and Black is quite okay here}
+15.Rfe1 {As expected}
+15...Bb4 {Black plays another move that is curtailing White's efforts at executing his plan for the e5 pawn. Attacking the Queen 
+and if the Queen moves then the Rook falls}
+16.c3? {Fixes the pawn structure and kills the activity of the Bishop on b2.16.Bc3 Bxc3 17.Qxc3 Bxf3 18.Qxf3 was the way to go}
+16...Bd6 {White's pawn structure is not only compromised but the attack on the e5 pawn has been smothered}
+17.Nh4 {Looking to cool off the steam after 18.Nxf5 Qxf5 19.g4 Bxg4 20.hxg4 Qxg4}
+17...f4! {The possibility of capturing the f5 pawn is stalled. Now Black is taking initiative on the Kingside. }
+18.Be4 {Looking to impose the Knight on f5}
+18...Ne7 {Again prophylaxis. The move  19.Nf5 is stalled}
+19.Kg2 {Adding more protection to the g3 pawn}
+19...b6 {White does not want to tie the Rook on b8 to watch the b7 pawn. The Rook can be activated on the nice semi-open d-file to X-ray the 
+White Queen. 19...Ng6 20.Bxg6 Bxg6 21.Nxg6 Qxg6 22.g4 blocks the g-file. Now 22...h5 23.f3 and Black has to work hard for the meal}
+20.d4 {Challenging the centre is not a great idea as Rd8 is coming that will force the White Queen to react
+20.Rf1 looks better as White needs to beef up his defense on the f-file. fxg3 looms large}
+20...Rbd8 {Occupying the semi-open d-file as Black's latent piece is now active and ready to go}
+21.Qc2?? {A blunder that leads to immediate exchange of pawns and opening up the floodgates}
+21...exd4 
+22.cxd4 fxg3 {The Knight on h4 has no support now. So 23.d5 will not work as 23...Qxh4 is available}
+23.fxg3 Bxg3 {Again eliminating the defender of the Knight. The White King is now on open ground}
+24.Kxg3 Qf4+ 25.Kg2 Qxh4 {Black is a pawn up with the White King exposed}
+26.Rf1 {Trying to blunt the f-file influence}
+26...Ng6 {The plan is to play Nf4 followed by Qxh3+.}
+27.Kh2 {Now 28.Bxg6 is the idea}
+27...Nf4 {Attacking the h3 pawn}
+28.Bg2? {28.Qb3 was perhaps the best alternative. This move leaves the g6-b1 diagonal bare open for the Bishop on h5 to attack the Queen}
+28...Bg6 {Attacking the Queen and the Rook on b1 will fall after the Queen moves}
+29.Qf2 Qxf2 30.Rxf2 Bxb1 {Winning the Rook and White is lost here. White resigned. 0-1}
+
+
+
+[Event "Correspondence game"]
+[Site "Lichess"]
+[Date "2022.12.21"]
+[Round "Practice rated game"]
+[White "Ganesh R Hegde (hegde10122)"]
+[Black "Odovacrius"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "2253"]
+[BlackElo "2216"]
+[Annotator "Ganesh R Hegde"]
+[Opening "Indian Defense"]
+[Variation "London System"]
+
+1.d4 Nf6 {The Indian defense where Black develops a piece instead of a pawn to control the central d5 and e4 squares}
+2.Bf4 {The London system}
+2...d5 {Black strengthens his hold over the e4 square}
+3.e3 c5 {Asking the question directly to the central pawn - ? Do you want an exchange?}
+4.c3 {Adding more resource to control the d4 square thereby creating a pyramid}
+4...Nc6 {Black will most likely play ...Qb6 and attack the b2 pawn}
+5.Nf3?! {5.Nd2 was better.}
+5...Qb6 {Black increases the pressure over the d4 pawn and also wants to gobble up the b2 pawn}
+6.Qb3 c4 {Expanding the Queenside and asking White to go for a Queen exchange that would allow Black to have the open a-file }
+7.Qc2 Bf5 {Offering a piece that will allow Black to win material after ...Qxb2 followed by ...Qxa1}
+8.Qc1 {The only good move that protects the b2 pawn}
+8...e6 {Black is doing really well as the last piece on f8 can now come out on e7}
+9.Nbd2 Be7 {Black is in complete control of the e4 square}
+10.b3 {White attacks the head of the pawn chain on c4. He wants to play bxc4 to win a pawn after ...dxc4 followed by Bxc4.
+White cannot afford to play a timid move like 10.Be2 followed by O-O. Black's light-squared pawn complex with the head on c4 is a 
+dangerous looking proposition.}
+10...Qa5 {Black wants to play 11...Ba3 12.Qd1 Qxc3 with a great position}
+11.a4 {...Ba3 is prevented as of now}
+11...cxb3 12.Nxb3 12...Qb6 {Attacking the Knight} 13.Qb2 {It is passive for White at the moment}
+13...Nh5 14.a5 {Looking to kick away the Queen and remove the bind for the Queen on b2}
+14...Qd8 15.Be5 f6 16.Bg3 Nxg3 17.hxg3 Qc7 {Another Queen move. 17...O-O much better}
+18.Be2 e5? {18...O-O was the way to go. This leaves the Bishop on f5 without any support}
+19.Nh4 {Taking advantage of the fact that the Bishop cannot go back to g6 as 19...Bg6?? 20.Nxg6 hxg6 21.Rxh8+ winning the Rook}
+19...Qd7 {The g6 square control cannot be given up because of 20.Ng6 taking advantage of the pinned pawn on h7.20...Rg8 21.Rxh7 wins a pawn
+after 19...Be6}
+20.Nxf5 Qxf5 21.Nc5 {Attacking the weak b7 pawn twice. The Bishop on e7 is a mute spectator and can simplify things if the 
+Knight is traded}
+21...Bxc5 22.Qxb7 Qc8 {The Queen comes back to guard all attacked pieces}
+22.Bh5+ g6 23.Bxg6+ hxg6 24.Rxh8+ Bf8 25.Qg7 {Black resigned}
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2023.01.08"]
+[Round "-"]
+[White "hegde10122"]
+[Black "ScoobyToes"]
+[Result "1-0"]
+[ECO "D00"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Accelerated-London-System"]
+[Termination "hegde10122 won by resignation"]
+[Link "https://www.chess.com/game/daily/461966003"]
+
+1. d4 d5 2. Bf4 e6 3. e3 Bd6 4. Bxd6 cxd6 5. c3 Nf6 6. Nf3 O-O 7. Bd3 Nc6 8. O-O
+e5 9. Nfd2 e4 10. Be2 h6 11. c4 Ne7 12. cxd5 Nexd5 13. Nc3 Nxc3 14. bxc3 d5 15.
+Qb3 b6 16. a4 Qd6 17. h3 Nh7 18. c4 Be6 19. Rfc1 Ng5 20. cxd5 Bxd5 21. Bc4 Bxc4
+22. Nxc4 Qg6 23. Kh2 Qf5 24. Rc2 Ne6 25. Rac1 g5 26. Nd6 Qg6 27. Qd5 f5 28. Rc7
+Rad8 29. Re7 Rf6 30. Rc8 Rxc8 31. Nxc8 Kh8 32. Rxa7 g4 33. Ne7 Qh5 34. Qe5 Qg5
+35. Ra8+ Kh7 36. Rg8 g3+ 1-0
+
+
+[Event "Correspondence game"]
+[Site "Lichess"]
+[Date "2023.01.04"]
+[Round "Practice rated game"]
+[White "Ganesh R Hegde (hegde10122)"]
+[Black "RonanBeghin"]
+[Result "1/2-1/2"]
+[WhiteElo "2309"]
+[BlackElo "2423"]
+[ECO "A45"]
+[Annotator "Ganesh R Hegde"]
+[Opening Indian defense"]
+[Variation "London system"]
+[WhiteTeam "India"]
+[BlackTeam "France"]
+
+1.d4 Nf6 
+2.Bf4 {The London system}
+2...d5 {Black grabs the centre instead of resorting to Indian defense systems by pushing the pawn to d5}
+3.e3 c5 {Black attacks the central pawn structure}
+4.c3 {The triangle formation in the London system}
+4...Nc6 {Black is planning ...Qb6 to attack the b2 pawn.}
+5.Nd2 {Anticipating 5...Qb6 The b1 and c1 squares are vacated for the Rook. This move is better than 5.Nf3 because 
+5...Qb6 6.Qb3 c4 7.Qc2 Bf5! 8.Qc1 rendering the White Queen to an ineffective place. Now the White pieces on the Queenside are 
+not in sync anymore due to Black's aggression. So 5.Nd2 is better to as 7...Bf5 is not good with the above continuation}
+5...Bf5 {Taking away the c2 square from the White Queen.}
+6.Ngf3 Qb6 {Attacking the weak b2 pawn}
+7.dxc5 {White gives up the central pawn here. This is a new try as compared to 7.Qb3 c4 8.Qxb6 axb6 9.Be2 e6 10.O-O}
+7...Qxb2 {Black grabs the b2 pawn and is now ready for Qxc3}
+8.Nd4 {Attacking the Bishop on f5. 
+Option 1: 8.Rc1 Qxa2 9.Bb5 pinning the Knight. 9...g6 10.Ne5 Rc8 and the game continues with Black a pawn up
+Option 2: 8.Qc1 Qxc1+ 9.Rxc1 Qd7
+Option 3: 8.Be2 Qxc3 is not a good alternative to the move played.}
+8...Bg4 {Attacking the Queen while keeping the ...Qxc3 option open}
+9.f3 {Option 1: 9. Be2 e5! 10.Bxg4 exf4 11.O-O Bxc5 with Qxc3 soon. Black is better
+Option 2: 9.Qc1 Qxc1+ 10.Rxc1 e5! 11.Nxc6 exf4 12.Ne5 fxe3 with advantage to Black
+Option 3: 9.Rb1?! Qxc3 10.Nb5 Qa5 and the White Queen is still attacked while Black has gobbled up the c3 pawn. This is again good for Black
+}
+9...e5  {Forking the minor pieces and again keeping the threat of ...Qxc3 alive on the next move.Black is also ready for ...Bxc5 }
+10.Nb5 {Black had created three threats - fork on e5, ...Bxc5 and ...Qxc3. The move played cuts out all the escape squares for the 
+Black Queen. This move amplifies the fact that the idea of dxc5 on move 7 was not a good one. White can at best hope to make a draw by playing Rb1 
+next and forcing the Black Queen to dance around without an escape}
+10...O-O-O
+11.Rb1 Qxa2 12.Ra1 Qb2 13.Rb1 Qa2 14.Ra1 Qb2 15.Rb1 Qa2 {Draw.Three fold repetition.White's 7th move was ineffective. 7.Qb3 was better}
+
+
+[Event "Correspondence game"]
+[Site "Lichess"]
 [Date "2023.01.04"]
 [Round "Practice rated game"]
 [White "Ganesh R Hegde (hegde10122)"]
